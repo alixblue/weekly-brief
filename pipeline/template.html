@@ -455,8 +455,9 @@ const sentences = t => t.match(/[^.!?]+[.!?]+["”']?|[^.!?]+$/g) || [t];
 function chunks(it, full){
   const out = [{it, p:-1, text: `${it.title}.`}];
   if (full){
-    out.push({it, p:-1, text: `${it.author && it.author !== "Airbus press release" ? "By " + it.author + ", " : "From "}${it.source}, ${fmtDate(it.date, true)}.`});
-    it.brief.forEach((p,n) => sentences(p.t).forEach(s => out.push({it, p:n, text:s.trim()})));  // section headings are visual only, not read aloud
+    out.push({it, p:-1, text: `${it.author && it.author !== "Airbus press release" ? "By " + it.author + ", " : "From "}${it.source}.`});
+    // section headings are read aloud again: with them skipped, some phones clipped the first words of the next sentence
+    it.brief.forEach((p,n) => { if (p.h) out.push({it, p:n, text:`${p.h}.`}); sentences(p.t).forEach(s => out.push({it, p:n, text:s.trim()})); });
   } else out.push({it, p:-1, text: it.summary});
   return out;
 }
