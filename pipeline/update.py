@@ -205,7 +205,8 @@ def select(scored, src_by_name):
     sd = lambda n: side(src_by_name[n]["lean"])
     def tally(x):
         c = x[2]["items"]; t = {"left": 0, "right": 0, "center": 0}
-        for n in {i["source"] for i in c[1:4]} - {c[0]["source"]}: t[sd(n)] += 1
+        for i in c[1:4]:  # same entries the page lists under "also covered by" (an outlet can appear twice)
+            if i["source"] != c[0]["source"]: t[sd(i["source"])] += 1
         t[sd(c[0]["source"])] += 1
         return t
     sides = lambda: {s: sum(tally(x)[s] for x in picked) for s in ("left", "right")}
