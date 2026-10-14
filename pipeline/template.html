@@ -250,7 +250,7 @@ const leanOf = s => (DATA.sources[s]||{}).lean || "center";
 const SECTIONS = [["what","What happened"],["who","Who's involved"],["context","Background"],["why","Why it happened"],["next","What's next"]];
 // brief is {what, who, context, why, next}; older data may have a list of paragraphs or nothing
 function normBrief(it){ const b = it.brief;
-  if (b && !Array.isArray(b)) return SECTIONS.filter(([k])=>b[k]).map(([k,h])=>({h, t:b[k]}));
+  if (b && !Array.isArray(b)) return SECTIONS.filter(([k])=>b[k] && !/(doesn.t|does not|didn.t|did not) (say|state|mention|specify)|not (stated|mentioned|specified)|no information/i.test(b[k])).map(([k,h])=>({h, t:b[k]}));
   return (Array.isArray(b) && b.length ? b : [it.summary]).map(t=>({h:"", t})); }
 // stable id per article (same story keeps its id across daily updates)
 const sid = u => { let h = 5381; for (const c of u) h = (h * 33 ^ c.charCodeAt(0)) >>> 0; return "a" + h.toString(36); };
