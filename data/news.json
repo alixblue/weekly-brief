@@ -278,6 +278,25 @@
     {
       "topic": "world",
       "importance": 2,
+      "title": "Trump Can’t Reinstate White House Ban on CNN, Politico and MS NOW, Judge Rules",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/law/trump-cant-reinstate-white-house-ban-on-cnn-politico-and-ms-now-judge-rules-de4882c0?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-14",
+      "author": "Alexandra Bruell",
+      "summary": "",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Erik Wemple",
+          "date": "2026-10-08",
+          "title": "Trump’s White House Ban on CNN, Politico and MS Now: What to Know",
+          "url": "https://www.nytimes.com/2026/10/08/business/media/trump-cnn-ms-now-politico-ban.html"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
       "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
@@ -296,7 +315,7 @@
     },
     {
       "topic": "business",
-      "importance": 2,
+      "importance": 1,
       "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
@@ -415,17 +434,6 @@
       "date": "2026-10-14",
       "author": null,
       "summary": "Commodity giant chief Gary Nagle says mining is appreciated and understood in the country",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-13",
-      "author": "Nat Ives",
-      "summary": "Plus, Sweetgreen is updating its menu to improve its reputation with consumers.",
       "also": []
     },
     {
