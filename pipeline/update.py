@@ -239,18 +239,27 @@ def ai_key():
     return None
 
 
+GEMINI_PREFER = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-3.1-flash-lite", "gemini-3-flash-preview",
+                 "gemini-3.5-flash-lite", "gemini-3.5-flash", "gemma-4-31b-it"]
+
+
 def gemini_model(token):
-    """Pick the newest stable Flash model that this key may use, from Google's model list."""
-    if "m" not in _gemini:
-        req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers={"x-goog-api-key": token})
-        names = [m["name"].split("/")[-1] for m in json.loads(urllib.request.urlopen(req, timeout=30).read()).get("models", [])
-                 if "generateContent" in m.get("supportedGenerationMethods", [])]
-        log("gemini models available:", ", ".join(names))
-        ok = [n for n in names if re.fullmatch(r"gemini-[\d.]+-flash", n)]
-        ok.sort(key=lambda n: [float(x) for x in re.findall(r"[\d.]+", n)[:1]], reverse=True)
-        _gemini["m"] = (ok or [n for n in names if "flash" in n and "image" not in n and "tts" not in n] or names)[0]
-        log("gemini model:", _gemini["m"])
-    return _gemini["m"]
+    """Find a model this key can really use on the free tier: try each candidate once with a tiny request and keep the first that answers."""
+    if "m" in _gemini: return _gemini["m"]
+    req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers={"x-goog-api-key": token})
+    names = [m["name"].split("/")[-1] for m in json.loads(urllib.request.urlopen(req, timeout=30).read()).get("models", [])
+             if "generateContent" in m.get("supportedGenerationMethods", [])]
+    for model in [m for m in GEMINI_PREFER if m in names] + [n for n in names if re.fullmatch(r"gemini-[\d.]+-flash(-lite)?", n) and n not in GEMINI_PREFER]:
+        try:
+            _post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                  {"contents": [{"parts": [{"text": 'Reply with {"ok": true}'}]}], "generationConfig": {"responseMimeType": "application/json", "maxOutputTokens": 50}},
+                  {"x-goog-api-key": token}, timeout=30)
+            _gemini["m"] = model; log("gemini model works:", model); return model
+        except urllib.error.HTTPError as e:
+            log("gemini model not usable:", model, e.code, e.read()[:160])
+        except Exception as e:
+            log("gemini model not usable:", model, e.__class__.__name__)
+    raise RuntimeError("no usable Gemini model on this key")
 
 
 def _post(url, body, headers, timeout=45):
