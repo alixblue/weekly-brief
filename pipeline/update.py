@@ -25,6 +25,7 @@ WINDOW_DAYS = 7
 TOPIC_BOOST = {"aerospace": 1.45, "business": 1.3, "markets": 1.25, "environment": 1.0, "science": 1.0, "world": 1.0, "culture": 0.7}
 TOPIC_CAP = {"aerospace": 9, "business": 7, "markets": 5, "environment": 5, "science": 4, "world": 4, "culture": 3}
 PER_SOURCE_CAP = 4
+TOPIC_MIN = {"environment": 2, "science": 2, "world": 2, "culture": 1}  # keep the page varied when big topics crowd in
 MODEL = "claude-haiku-5-5"
 
 # Keyword fallback when no API key is set. First match wins, in this order.
@@ -114,7 +115,8 @@ def fetch_all(sources):
     return items
 
 
-AD = re.compile(r"\bis (proud|pleased|excited) to\b|\bsponsored\b|partner content|advertorial|\bwebinar\b", re.I)
+AD = re.compile(r"\bis (proud|pleased|excited) to\b|\bsponsored\b|partner content|advertorial|\bwebinar\b"
+                r"|roundup|market talk|morning .{0,20}report|newsletter|^latest .{0,30}news and analysis|^live:|live updates", re.I)
 STOP = set("after over with from into more than that this their they says said will what when where which while about amid could would should have been just again".split())
 
 
@@ -184,6 +186,14 @@ def select(scored, src_by_name):
         if per_src.get(lead, 0) >= PER_SOURCE_CAP or per_topic.get(topic, 0) >= TOPIC_CAP[topic]: continue
         picked.append((score, topic, c)); per_src[lead] = per_src.get(lead, 0) + 1; per_topic[topic] = per_topic.get(topic, 0) + 1
         if len(picked) == MAX_ITEMS: break
+    # floors: make room for under-represented topics by dropping the weakest story of the most crowded topic
+    for t, need in TOPIC_MIN.items():
+        spare = [x for x in scored if x not in picked and x[1] == t and per_src.get(x[2]["items"][0]["source"], 0) < PER_SOURCE_CAP]
+        while spare and sum(1 for x in picked if x[1] == t) < need:
+            counts = {k: sum(1 for x in picked if x[1] == k) for k in TOPIC_CAP}
+            crowded = max(counts, key=lambda k: counts[k] - TOPIC_MIN.get(k, 0))
+            picked.remove(min((x for x in picked if x[1] == crowded), key=lambda x: x[0]))
+            picked.append(spare.pop(0))
     # balance: the weaker side of the spectrum must have at least 3/4 as many stories as the stronger side
     sides = lambda: {s: sum(1 for _, _, c in picked if side(src_by_name[c["items"][0]["source"]]["lean"]) == s) for s in ("left", "right")}
     for weak in ("left", "right"):
@@ -298,12 +308,20 @@ MARKETS = [("S&P 500", "SP500", "{:,.2f}"), ("Dow", "DJIA", "{:,.2f}"), ("Nasdaq
 
 def markets():
     """Latest close and change over about a week, from the St. Louis Fed's free FRED data (no key needed; a day behind)."""
-    out, asof = [], None
     start = (dt.date.today() - dt.timedelta(days=30)).isoformat()
-    for name, sym, fmt in MARKETS:
+    ids = ",".join(sym for _, sym, _ in MARKETS)
+    rows = None
+    for attempt in range(2):
         try:
-            rows = [r.split(",") for r in get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sym}&cosd={start}").decode().strip().splitlines()[1:]]
-            pts = [(d, float(v)) for d, v in rows if v not in (".", "")]
+            rows = [r.split(",") for r in get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={ids}&cosd={start}", timeout=90).decode().strip().splitlines()]
+            break
+        except Exception as e:
+            log("market data attempt failed:", e.__class__.__name__, e)
+    if not rows: return None
+    out, asof = [], None
+    for col, (name, sym, fmt) in enumerate(MARKETS, start=1):
+        try:
+            pts = [(r[0], float(r[col])) for r in rows[1:] if len(r) > col and r[col] not in (".", "")]
             (day, v), (_, v0) = pts[-1], pts[-6]
             ch = f"{v - v0:+.2f} pt" if sym == "DGS10" else f"{(v / v0 - 1) * 100:+.1f}%"
             out.append({"name": name, "value": fmt.format(v), "change": ch}); asof = max(asof or day, day)
