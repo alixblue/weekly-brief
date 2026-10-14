@@ -18,28 +18,28 @@
   "date": "2026-10-11"
  },
  {
-  "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-  "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC News",
-  "date": "2026-10-13"
- },
- {
   "title": "Delta postpones Saudi Arabia launch after deadly airport attacks",
   "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights",
   "source": "AeroTime",
   "date": "2026-10-12"
  },
  {
-  "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-  "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC News",
-  "date": "2026-10-13"
- },
- {
   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
   "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
   "source": "BBC News",
   "date": "2026-10-14"
+ },
+ {
+  "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+  "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC News",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+  "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC News",
+  "date": "2026-10-13"
  },
  {
   "title": "Domino’s Pizza Sales Growth Continued Slowing",
@@ -72,27 +72,33 @@
   "date": "2026-10-13"
  },
  {
-  "title": "Canada Aims for India Trade Deal by Year-End, Minister Says",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-14/canada-aims-for-india-trade-deal-by-year-end-minister-says",
+  "title": "Asia The Pain Point for AI Jitters: Market Analysis",
+  "url": "https://www.bloomberg.com/news/videos/2026-10-14/asia-the-pain-point-for-ai-jitters-3-minutes-mliv-video",
   "source": "Bloomberg",
   "date": "2026-10-14"
  },
  {
-  "title": "Dubai Aerospace Seeks $2.1 Billion Loan, Mainly From Asian Banks",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-14/dubai-aerospace-seeks-2-1-billion-loan-mainly-from-asian-banks",
-  "source": "Bloomberg",
-  "date": "2026-10-14"
- },
- {
-  "title": "Sidhu: Lot of Collaborative Opportunities In India",
-  "url": "https://www.bloomberg.com/news/videos/2026-10-14/sidhu-lot-of-collaborative-opportunities-in-india-video",
-  "source": "Bloomberg",
-  "date": "2026-10-14"
- },
- {
-  "title": "Lonza Sees Maturing Projects Driving Profitability Higher Over Medium Term",
-  "url": "https://www.wsj.com/business/earnings/lonza-sees-maturing-projects-driving-profitability-higher-over-medium-term-cc8571a0?mod=pls_whats_news_us_business_f",
+  "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
+  "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-traders-weigh-saudi-aramco-attack-report-hormuz-shipping-risks-0f09ed61?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Omoto: Can Tap Alternative LNG Amid Mideast Disruptions",
+  "url": "https://www.bloomberg.com/news/videos/2026-10-14/omoto-can-tap-alternative-lng-amid-mideast-disruptions-video",
+  "source": "Bloomberg",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "OpenAI worker charged after recording device found in company conference room",
+  "url": "https://www.washingtonexaminer.com/news/justice/4764960/openai-arrest-recording-device-conference-room/",
+  "source": "Washington Examiner",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Olympus shares suffer biggest drop since 2011 after FDA warning",
+  "url": "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
+  "source": "Financial Times",
   "date": "2026-10-14"
  },
  {
@@ -106,18 +112,6 @@
   "url": "https://www.bloomberg.com/news/articles/2026-10-14/l-g-is-hedging-its-bond-purchases-against-risk-of-selloff",
   "source": "Bloomberg",
   "date": "2026-10-14"
- },
- {
-  "title": "Olympus shares plunge 13% after FDA warning",
-  "url": "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
-  "source": "Financial Times",
-  "date": "2026-10-14"
- },
- {
-  "title": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
-  "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
-  "date": "2026-10-13"
  },
  {
   "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
@@ -138,12 +132,6 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
-  "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
-  "date": "2026-10-13"
- },
- {
   "title": "Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi",
   "url": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
   "source": "The New York Times",
@@ -162,10 +150,22 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Chip-Machine Supplier ASML Boosts Guidance for Third Time On Surging AI Demand",
+  "title": "FTSE 100 Live: Burberry leads modest open as Asian tech steadies after rout",
+  "url": "https://www.cityam.com/ftse-100-live-stocks-to-gain-oil-rises-as-saudi-arabia-and-houthis-trade-strikes/",
+  "source": "City AM",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Chip-Machine Supplier ASML Boosts Guidance for Third Time on Surging AI Demand",
   "url": "https://www.wsj.com/business/earnings/chip-machine-supplier-asml-boosts-guidance-for-third-time-on-surging-ai-demand-7ea173d9?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
   "date": "2026-10-14"
+ },
+ {
+  "title": "Number of ISA millionaires surges to record high with 25 people holding pots worth £12m",
+  "url": "https://www.cityam.com/number-of-isa-millionaires-surges-to-record-high-with-25-people-holding-pots-worth-12m/",
+  "source": "City AM",
+  "date": "2026-10-13"
  },
  {
   "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
@@ -174,9 +174,9 @@
   "date": "2026-10-13"
  },
  {
-  "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
-  "url": "https://www.nature.com/articles/d41586-026-03244-3",
-  "source": "Nature",
+  "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering",
+  "url": "https://reason.com/2026/10/13/trump-fired-kimberly-guilfoyle-for-influence-peddling-that-pales-next-to-his-presidential-profiteering/",
+  "source": "Reason",
   "date": "2026-10-13"
  }
 ]
