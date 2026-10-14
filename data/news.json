@@ -2,7 +2,43 @@
   "generated": "2026-10-14",
   "window": "2026-10-07 to 2026-10-14",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
-  "markets": null,
+  "markets": {
+    "asof": "2026-10-14",
+    "label": "Wed 14 Oct · change on the day",
+    "source": "CNBC",
+    "items": [
+      {
+        "name": "S&P 500",
+        "value": "7,805.45",
+        "change": "-0.02%"
+      },
+      {
+        "name": "Dow",
+        "value": "51,670.10",
+        "change": "-0.35%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "27,204.38",
+        "change": "-0.15%"
+      },
+      {
+        "name": "Brent oil",
+        "value": "$106.38",
+        "change": "+0.65%"
+      },
+      {
+        "name": "US 10-yr yield",
+        "value": "5.206%",
+        "change": "-0.01 pt"
+      },
+      {
+        "name": "EUR/USD",
+        "value": "1.1206",
+        "change": "+0.0714%"
+      }
+    ]
+  },
   "week": [
     {
       "text": "Federal regulators said the bank had waved through suspicious transactions without proper care.",
@@ -11,15 +47,15 @@
       ]
     },
     {
-      "text": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
-      "urls": [
-        "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html"
-      ]
-    },
-    {
       "text": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
       "urls": [
         "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
+      ]
+    },
+    {
+      "text": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
+      "urls": [
+        "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html"
       ]
     },
     {
@@ -71,6 +107,17 @@
       ]
     },
     {
+      "topic": "world",
+      "importance": 3,
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "date": "2026-10-14",
+      "author": "Robert Jimison",
+      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "also": []
+    },
+    {
       "topic": "business",
       "importance": 3,
       "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
@@ -102,17 +149,6 @@
           "url": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics"
         }
       ]
-    },
-    {
-      "topic": "world",
-      "importance": 3,
-      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-      "date": "2026-10-14",
-      "author": "Robert Jimison",
-      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
-      "also": []
     },
     {
       "topic": "aerospace",
@@ -276,46 +312,8 @@
       ]
     },
     {
-      "topic": "world",
-      "importance": 2,
-      "title": "Trump Can’t Reinstate White House Ban on CNN, Politico and MS NOW, Judge Rules",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/law/trump-cant-reinstate-white-house-ban-on-cnn-politico-and-ms-now-judge-rules-de4882c0?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-14",
-      "author": "Alexandra Bruell",
-      "summary": "",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Erik Wemple",
-          "date": "2026-10-08",
-          "title": "Trump’s White House Ban on CNN, Politico and MS Now: What to Know",
-          "url": "https://www.nytimes.com/2026/10/08/business/media/trump-cnn-ms-now-politico-ban.html"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-13",
-      "author": "Jack Morphet",
-      "summary": "The amusement park company said it was shutting down similar attractions across its parks after several people were injured.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-10-13",
-          "title": "Six Flags closes roller coasters at multiple parks after deadly incident in Georgia",
-          "url": "https://www.foxbusiness.com/lifestyle/six-flags-closes-roller-coasters-multiple-parks-after-deadly-incident-georgia"
-        }
-      ]
-    },
-    {
       "topic": "business",
-      "importance": 1,
+      "importance": 2,
       "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
@@ -334,7 +332,7 @@
     },
     {
       "topic": "science",
-      "importance": 1,
+      "importance": 2,
       "title": "AI is less regulated than milk, says Microsoft president",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
@@ -437,6 +435,17 @@
       "also": []
     },
     {
+      "topic": "business",
+      "importance": 1,
+      "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-13",
+      "author": "Nat Ives",
+      "summary": "Plus, Sweetgreen is updating its menu to improve its reputation with consumers.",
+      "also": []
+    },
+    {
       "topic": "markets",
       "importance": 1,
       "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
@@ -467,6 +476,17 @@
       "date": "2026-10-13",
       "author": null,
       "summary": "JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Publicis Account Wins Fuel Top-Line Growth",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/publicis-top-line-growth-picks-up-fueled-by-market-share-gains-3d5fcbbe?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-13",
+      "author": "Adrià Calatayud",
+      "summary": "The advertising group’s top-line growth picked up, with continued market-share gains after the merger of two rivals boosted its prospects for next year.",
       "also": []
     },
     {
