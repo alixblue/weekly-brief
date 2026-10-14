@@ -177,6 +177,13 @@ section{padding:26px 0 6px}
 .r-sec:first-child{border-left-color:var(--c)}
 .r-text .r-sec:first-child p::first-letter{float:left;font:800 64px/.8 "Playfair Display",serif;margin:8px 10px 0 0;color:var(--c)}
 .note{font-style:italic;color:var(--ink-3);font-size:14.5px;border-left:3px solid var(--line);padding-left:12px}
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin:4px 0 20px}
+.nums div{background:var(--paper);padding:10px 12px}
+.nums b{display:block;font:800 22px/1.1 "Playfair Display",serif;color:var(--c)}
+.nums span{font:500 12px/1.3 Inter,sans-serif;color:var(--ink-2)}
+.lock{font-size:.85em;margin-left:3px}
+.walled{border:1px dashed var(--rule);padding:10px 14px;margin:18px 0;font:500 13px/1.5 Inter,sans-serif}
+.walled a{color:inherit}
 .persp{border:1px solid var(--rule);padding:14px 16px;margin:22px 0;background:color-mix(in srgb,var(--hl) 14%,transparent)}
 .persp .sc{margin-bottom:8px;color:var(--ink)}
 .p-row{padding:10px 0;border-top:1px solid var(--line);font:500 13px Inter,sans-serif}
@@ -281,6 +288,8 @@ function highlight(text, used = new Set()){
   return html;
 }
 const KINDS = {opinion:["Opinion","The writer argues a point of view"], analysis:["Analysis","Reporting mixed with the writer's interpretation"]};
+const walled = s => !!(DATA.sources[s]||{}).paywall;
+const lock = s => walled(s) ? '<span class="lock" title="May need a subscription">🔒</span>' : "";
 const kindBadge = it => KINDS[it.kind] ? `<span class="badge kind" title="${KINDS[it.kind][1]}">${KINDS[it.kind][0]}</span>` : "";
 const leanDot = l => `<span class="dot" style="background:var(--${LEAN_SIDE(l)})" title="Outlet lean: ${esc(l)}"></span>`;
 
@@ -290,7 +299,7 @@ function card(it){
     <div class="meta-top"><span class="tag">${esc(TOPICS[it.topic].label.split(" ")[0])}</span>${it.importance===3?'<span class="badge">Top story</span>':""}${kindBadge(it)}${(it.earlier||[]).length?'<span class="badge upd">Update</span>':""}${newSet.has(it.id)?'<span class="badge new">New</span>':""}</div>
     <h3><a href="#${esc(it.id)}" class="open">${esc(it.title)}</a></h3>
     <p>${highlight(it.summary)}</p>${also}
-    <div class="foot"><span class="src">${leanDot(it.lean)}${esc(it.source)}</span>
+    <div class="foot"><span class="src">${leanDot(it.lean)}${esc(it.source)}${lock(it.source)}</span>
       <span>${it.author?esc(it.author):"Author not listed"}</span><span>${fmtDate(it.date)}</span>
       <span class="acts"><a class="btn small" href="#${esc(it.id)}">Read ›</a><button class="btn small speak" title="Listen to the full story">▶ Listen</button></span></div>
   </article>`;
@@ -378,19 +387,21 @@ function openStory(id){
   current = it;
   const used = new Set();
   const persp = (it.also||[]).length ? `<aside class="persp"><div class="sc">How other outlets covered it</div>${it.also.map(a=>`
-      <div class="p-row">${leanDot(leanOf(a.source))}<b>${esc(a.source)}</b> <span class="muted">(${esc(leanOf(a.source))})</span>${a.author?` · ${esc(a.author)}`:""}${a.date?` · ${fmtDate(a.date)}`:""}
+      <div class="p-row">${leanDot(leanOf(a.source))}<b>${esc(a.source)}</b>${lock(a.source)} <span class="muted">(${esc(leanOf(a.source))})</span>${a.author?` · ${esc(a.author)}`:""}${a.date?` · ${fmtDate(a.date)}`:""}
       <div class="p-head">“${esc(a.title)}”</div>${a.note?`<div class="p-note">${esc(a.note)}</div>`:""}
       <a href="${esc(a.url)}" target="_blank" rel="noopener" class="muted">Open at ${esc(a.source)} ↗</a></div>`).join("")}</aside>` : "";
   rbody.innerHTML = `
     <div class="meta-top" style="--c:var(--${it.topic})"><span class="tag">${esc(TOPICS[it.topic].label)}</span>${it.importance===3?'<span class="badge">Top story</span>':""}${kindBadge(it)}</div>
     <h2 id="r-title">${esc(it.title)}</h2>
     <p class="dek">${highlight(it.summary, used)}</p>
-    <div class="byline">${it.author ? "By " + esc(it.author) + " · " : ""}${leanDot(it.lean)}<b>${esc(it.source)}</b> <span class="muted">(${esc(it.lean)})</span> · ${fmtDate(it.date, true)}</div>
+    <div class="byline">${it.author ? "By " + esc(it.author) + " · " : ""}${leanDot(it.lean)}<b>${esc(it.source)}</b>${lock(it.source)} <span class="muted">(${esc(it.lean)})</span> · ${fmtDate(it.date, true)}</div>
     <div class="r-actions"><button class="btn" id="r-listen">▶ Listen to this story</button><button class="btn small rate" title="Reading speed">${rate}×</button><select class="vsel" title="Voice" aria-label="Voice">${voiceOptions()}</select><button class="btn small" id="r-read">${readSet.has(it.id)?"Read ✓":"Mark read"}</button></div>
+    ${(it.numbers||[]).length ? `<div class="sc" style="margin:14px 0 6px">By the numbers</div><div class="nums" style="--c:var(--${it.topic})">${it.numbers.map(n=>`<div><b>${esc(n.figure)}</b><span>${esc(n.what)}</span></div>`).join("")}</div>` : ""}
     <div class="r-text" style="--c:var(--${it.topic})">${it.brief.map((p,n)=>`<div class="r-sec" data-p="${n}">${p.h?`<h4>${p.h}</h4>`:""}<p>${highlight(p.t, used)}</p></div>`).join("")}</div>
     ${(it.earlier||[]).length ? `<aside class="earlier"><div class="sc">Earlier coverage</div>${it.earlier.map(e=>`<div class="p-row">${fmtDate(e.date)} · <b>${esc(e.source)}</b>: ${byUrl[e.url] ? `<a href="#${byUrl[e.url].id}">${esc(e.title)}</a>` : `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)} ↗</a>`}</div>`).join("")}</aside>` : ""}
     ${persp}
-    <p class="orig">Summary written from the public part of the original article. <a href="${esc(it.url)}" target="_blank" rel="noopener">Read the full piece at ${esc(it.source)} ↗</a></p>`;
+    ${walled(it.source) ? (() => { const free = (it.also||[]).filter(a=>!walled(a.source)); return `<div class="walled">🔒 <b>${esc(it.source)}</b> may ask for a subscription.${free.length ? ` Free to read: ${free.map(a=>`<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)} ↗</a>`).join(", ")}.` : ""} Many schools and libraries give students free access to newspapers like this, so check your library's online resources.</div>`; })() : ""}
+    <p class="orig">Summary written from the public part of the original article. <a href="${esc(it.url)}" target="_blank" rel="noopener">Read the full piece at ${esc(it.source)}${lock(it.source)} ↗</a></p>`;
   const pos = visible.findIndex(i=>i.id===it.id);
   document.getElementById("r-pos").textContent = pos >= 0 ? `Story ${pos+1} of ${visible.length}` : "";
   document.getElementById("r-prev").disabled = pos <= 0;

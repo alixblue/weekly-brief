@@ -161,8 +161,8 @@ def rank(clusters, src_by_name):
     now = dt.datetime.now(dt.timezone.utc)
     scored = []
     for c in clusters:
-        # lead with the most trusted outlet's version
-        c["items"].sort(key=lambda i: src_by_name[i["source"]].get("weight", 1), reverse=True)
+        # lead with the most trusted outlet's version, preferring one that is free to read (its full text also makes a better summary)
+        c["items"].sort(key=lambda i: src_by_name[i["source"]].get("weight", 1) - (0.35 if src_by_name[i["source"]].get("paywall") else 0), reverse=True)
         lead = c["items"][0]
         outlets = {i["source"] for i in c["items"]}
         age = (now - max(i["date"] for i in c["items"])).total_seconds() / 86400
@@ -309,6 +309,7 @@ BRIEF_PROMPT = """You write one story for a neutral daily news digest. The reade
 Using ONLY the article text below (no outside facts), return JSON:
 {{"topic": one of aerospace|business|markets|environment|science|world|culture (culture = arts, media, sport; markets = stocks, bonds, rates, central banks, currencies),
  "summary": one or two plain sentences for the story card,
+ "numbers": [up to 5 of the most important figures the article states, each {{"figure": the number with its unit, e.g. "$1.2 billion", "+0.6%", "81 aircraft", "what": 3-8 words saying what it measures}}; [] if the article gives none. Copy figures exactly, never calculate or estimate],
  "brief": {{"what": what happened, 1-2 sentences with the key numbers,
            "who": the main actors and their role in the story,
            "context": the background a reader needs,
@@ -345,6 +346,9 @@ def claude_polish(items, glossary):
         if r.get("kind") in ("opinion", "analysis"): it["kind"] = r["kind"]
         it["summary"] = r.get("summary") or it["summary"]
         if r.get("brief"): it["brief"] = r["brief"]
+        nums = [{"figure": str(n["figure"]).strip()[:24], "what": str(n.get("what", "")).strip()[:70]} for n in (r.get("numbers") or [])
+                if isinstance(n, dict) and n.get("figure") and re.search(r"\d", str(n["figure"]))][:5]
+        if nums: it["numbers"] = nums
         for a, note in zip(it.get("also", []), r.get("notes") or []):
             if note: a["note"] = note
         for t, d in (r.get("terms") or {}).items(): glossary.setdefault(t, d)
@@ -445,7 +449,7 @@ def do_fetch():
 def do_render():
     data = json.loads(NEWS.read_text())
     data["glossary"] = json.loads((PIPE / "glossary.json").read_text())
-    data["sources"] = {s["name"]: {"lean": s["lean"], "kind": s["kind"]} for s in json.loads((PIPE / "sources.json").read_text())["sources"]}
+    data["sources"] = {s["name"]: {"lean": s["lean"], "kind": s["kind"], "paywall": bool(s.get("paywall"))} for s in json.loads((PIPE / "sources.json").read_text())["sources"]}
     payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text((PIPE / "template.html").read_text().replace("/*__DATA__*/null", payload))

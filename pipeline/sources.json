@@ -10,7 +10,8 @@
         "world",
         "business"
       ],
-      "feeds": []
+      "feeds": [],
+      "paywall": false
     },
     {
       "name": "Associated Press",
@@ -21,7 +22,8 @@
         "world"
       ],
       "feeds": [],
-      "_todo": "AP has no official public RSS; add a feed you trust or leave empty"
+      "_todo": "AP has no official public RSS; add a feed you trust or leave empty",
+      "paywall": false
     },
     {
       "name": "BBC News",
@@ -38,7 +40,8 @@
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://feeds.bbci.co.uk/news/business/rss.xml",
         "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "The Economist",
@@ -52,7 +55,8 @@
       "feeds": [
         "https://www.economist.com/finance-and-economics/rss.xml",
         "https://www.economist.com/business/rss.xml"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "Financial Times",
@@ -64,7 +68,8 @@
       ],
       "feeds": [
         "https://www.ft.com/companies?format=rss"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "Wall Street Journal",
@@ -76,7 +81,8 @@
       ],
       "feeds": [
         "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "Washington Examiner",
@@ -89,7 +95,8 @@
       ],
       "feeds": [
         "https://www.washingtonexaminer.com/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "Fox Business",
@@ -102,7 +109,8 @@
       ],
       "feeds": [
         "https://moxie.foxbusiness.com/google-publisher/latest.xml"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "The Guardian",
@@ -116,7 +124,8 @@
       "feeds": [
         "https://www.theguardian.com/environment/rss",
         "https://www.theguardian.com/business/rss"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "NPR",
@@ -130,7 +139,8 @@
       "feeds": [
         "https://feeds.npr.org/1001/rss.xml",
         "https://feeds.npr.org/1167/rss.xml"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "Al Jazeera",
@@ -143,7 +153,8 @@
       ],
       "feeds": [
         "https://www.aljazeera.com/xml/rss/all.xml"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "Inside Climate News",
@@ -155,7 +166,8 @@
       ],
       "feeds": [
         "https://insideclimatenews.org/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "Carbon Brief",
@@ -167,7 +179,8 @@
       ],
       "feeds": [
         "https://www.carbonbrief.org/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "FlightGlobal",
@@ -179,7 +192,8 @@
       ],
       "feeds": [
         "https://www.flightglobal.com/rss/news"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "Aviation Week",
@@ -191,7 +205,8 @@
       ],
       "feeds": [
         "https://aviationweek.com/rss.xml"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "Simple Flying",
@@ -203,7 +218,8 @@
       ],
       "feeds": [
         "https://simpleflying.com/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "SpaceNews",
@@ -215,7 +231,8 @@
       ],
       "feeds": [
         "https://spacenews.com/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "Nature",
@@ -227,7 +244,8 @@
       ],
       "feeds": [
         "https://www.nature.com/nature.rss"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "Science (AAAS)",
@@ -239,7 +257,8 @@
       ],
       "feeds": [
         "https://www.science.org/rss/news_current.xml"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "The Conversation",
@@ -252,7 +271,8 @@
       ],
       "feeds": [
         "https://theconversation.com/global/articles.atom"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "The Dispatch",
@@ -265,7 +285,8 @@
       ],
       "feeds": [
         "https://thedispatch.com/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "Reason",
@@ -278,7 +299,8 @@
       ],
       "feeds": [
         "https://reason.com/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "City AM",
@@ -290,7 +312,8 @@
       ],
       "feeds": [
         "https://www.cityam.com/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "National Review",
@@ -302,7 +325,8 @@
       ],
       "feeds": [
         "https://www.nationalreview.com/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "The Telegraph",
@@ -316,7 +340,8 @@
       "feeds": [
         "https://www.telegraph.co.uk/business/rss.xml",
         "https://www.telegraph.co.uk/news/rss.xml"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "New York Post",
@@ -328,7 +353,8 @@
       ],
       "feeds": [
         "https://nypost.com/business/feed/"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "Airways Magazine",
@@ -338,7 +364,8 @@
       "topics": [
         "aerospace"
       ],
-      "feeds": []
+      "feeds": [],
+      "paywall": false
     },
     {
       "name": "Airbus",
@@ -348,7 +375,8 @@
       "topics": [
         "aerospace"
       ],
-      "feeds": []
+      "feeds": [],
+      "paywall": false
     },
     {
       "name": "The New York Times",
@@ -362,7 +390,8 @@
       "feeds": [
         "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
         "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "The Washington Post",
@@ -375,7 +404,8 @@
       ],
       "feeds": [
         "https://feeds.washingtonpost.com/rss/business"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "Bloomberg",
@@ -387,7 +417,8 @@
       ],
       "feeds": [
         "https://feeds.bloomberg.com/markets/news.rss"
-      ]
+      ],
+      "paywall": true
     },
     {
       "name": "AeroTime",
@@ -396,14 +427,16 @@
       "weight": 1.0,
       "feeds": [
         "https://www.aerotime.aero/feed"
-      ]
+      ],
+      "paywall": false
     },
     {
       "name": "AIN",
       "lean": "center",
       "kind": "trade",
       "weight": 1.1,
-      "feeds": []
+      "feeds": [],
+      "paywall": false
     }
   ]
 }
