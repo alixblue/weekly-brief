@@ -138,6 +138,12 @@
   "date": "2026-10-14"
  },
  {
+  "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
+  "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
+  "date": "2026-10-13"
+ },
+ {
   "title": "Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi",
   "url": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
   "source": "The New York Times",
@@ -150,16 +156,10 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Jamaica accepts first flight of third-country deportations from US",
-  "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
-  "source": "Al Jazeera",
+  "title": "China’s AI research is booming. Where is it headed?",
+  "url": "https://www.nature.com/articles/d41586-026-03223-8",
+  "source": "Nature",
   "date": "2026-10-14"
- },
- {
-  "title": "Report: Airlines will face shortage of new airplanes until at least 2030",
-  "url": "https://www.aerotime.aero/articles/airlines-new-airplane-shortage-2030",
-  "source": "AeroTime",
-  "date": "2026-10-13"
  },
  {
   "title": "Chip-Machine Supplier ASML Boosts Guidance for Third Time On Surging AI Demand",
@@ -174,9 +174,9 @@
   "date": "2026-10-13"
  },
  {
-  "title": "Character.ai Maker Files for Chapter 11 Bankruptcy",
-  "url": "https://www.wsj.com/tech/ai/character-ai-maker-files-for-chapter-11-bankruptcy-740e6fb1?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
+  "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
+  "url": "https://www.nature.com/articles/d41586-026-03244-3",
+  "source": "Nature",
   "date": "2026-10-13"
  }
 ]
