@@ -24,12 +24,12 @@
       },
       {
         "name": "Brent oil",
-        "value": "$106.24",
-        "change": "+0.52%"
+        "value": "$106.21",
+        "change": "+0.49%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "5.206%",
+        "value": "5.202%",
         "change": "-0.01 pt"
       },
       {
@@ -47,27 +47,27 @@
       ]
     },
     {
-      "text": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
-      "urls": [
-        "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
-      ]
-    },
-    {
       "text": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
       "urls": [
         "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html"
       ]
     },
     {
-      "text": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
+      "text": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
       "urls": [
-        "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html"
+        "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
       ]
     },
     {
-      "text": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+      "text": "AI lab discovered a recording device concealed behind a television in a conference room",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss"
+        "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"
+      ]
+    },
+    {
+      "text": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
+      "urls": [
+        "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html"
       ]
     }
   ],
@@ -84,18 +84,11 @@
       "summary": "Federal regulators said the bank had waved through suspicious transactions without proper care.",
       "also": [
         {
-          "source": "Bloomberg",
+          "source": "BBC News",
           "author": null,
-          "date": "2026-10-13",
-          "title": "Bank of America Fined More Than $1.2 Billion for Money-Laundering",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-13/bofa-fined-more-than-1-2-billion-for-money-laundering-video"
-        },
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-10-13",
-          "title": "Bank of America fined $1.2bn over money laundering failures",
-          "url": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1"
+          "date": "2026-10-14",
+          "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
@@ -103,19 +96,15 @@
           "date": "2026-10-14",
           "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
           "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss"
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures",
+          "url": "https://www.foxbusiness.com/economy/bank-america-hit-1-2b-penalties-money-laundering-compliance-failures"
         }
       ]
-    },
-    {
-      "topic": "world",
-      "importance": 3,
-      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-      "date": "2026-10-14",
-      "author": "Robert Jimison",
-      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
-      "also": []
     },
     {
       "topic": "business",
@@ -151,6 +140,50 @@
       ]
     },
     {
+      "topic": "world",
+      "importance": 3,
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "date": "2026-10-14",
+      "author": "Robert Jimison",
+      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "also": []
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+      "also": [
+        {
+          "source": "BBC News",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC News",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-14",
+          "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
+        }
+      ]
+    },
+    {
       "topic": "aerospace",
       "importance": 2,
       "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
@@ -173,6 +206,32 @@
           "date": "2026-10-12",
           "title": "Delta postpones Saudi Arabia launch after deadly airport attacks",
           "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea",
+      "also": [
+        {
+          "source": "BBC News",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-14",
+          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss"
         }
       ]
     },
@@ -243,45 +302,19 @@
     {
       "topic": "world",
       "importance": 2,
-      "title": "OpenAI engineer charged after listening device found in meeting room",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+      "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
       "date": "2026-10-13",
-      "author": null,
-      "summary": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
+      "author": "Jack Morphet",
+      "summary": "The amusement park company said it was shutting down similar attractions across its parks after several people were injured.",
       "also": [
-        {
-          "source": "Washington Examiner",
-          "author": "Claire Carter",
-          "date": "2026-10-13",
-          "title": "OpenAI worker charged after recording device found in company conference room",
-          "url": "https://www.washingtonexaminer.com/news/justice/4764960/openai-arrest-recording-device-conference-room/"
-        },
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-10-13",
-          "title": "Saudi national accused of planting recording device in OpenAI executive conference room",
-          "url": "https://www.foxbusiness.com/technology/saudi-national-accused-planting-recording-device-openai-executive-conference-room"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "also": [
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-14",
-          "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
+          "title": "Six Flags closes roller coasters at multiple parks after deadly incident in Georgia",
+          "url": "https://www.foxbusiness.com/lifestyle/six-flags-closes-roller-coasters-multiple-parks-after-deadly-incident-georgia"
         }
       ]
     },
@@ -325,7 +358,7 @@
     },
     {
       "topic": "world",
-      "importance": 2,
+      "importance": 1,
       "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=pls_whats_news_us_business_f",
@@ -354,91 +387,80 @@
       "also": []
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "What Dimon, Solomon Said in Bank Earnings Calls",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-14/what-dimon-solomon-said-in-bank-earnings-calls-video",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "Goldman CEO David Solomon said IPO and capital-markets activity remained healthy, while JPMorgan's Jamie Dimon said the bank is tightening some credit terms, as top Wall Street banks reported earnings that failed to impress investors. (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Speculation Over STT Cut Lifts Sentiment for Indian Stocks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/speculation-over-stt-cut-lifts-sentiment-for-indian-stocks",
-      "date": "2026-10-14",
-      "author": "Ashutosh Joshi and Pratigya Vajpayee",
-      "summary": "Nifty jumps as traders seize on a rather noncommittal remark by Sitharaman about the securities transaction tax.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Hong Kong Investigates IPO Rigging",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-14/hong-kong-investigates-ipo-rigging-video",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "The Securities and Futures Commission warned investment banks and other intermediaries against arrangements that may artificially inflate demand for initial public offerings. Minmin Low has more on \"The Asia Trade.\" (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
+      "title": "BA flight forced to turn back over cracked window",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
-      "author": "Anthony Harrup",
-      "summary": "Oil prices were mixed as traders weighed persistent Middle East supply risks against prospects for additional Russian diesel exports.",
+      "author": null,
+      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "BOT Deputy Governor Plans to Normalize Rates",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/bot-deputy-governor-plans-to-normalize-rates-video",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "Bank of Thailand Deputy Governor Piti Disyatat says the central bank will normalize rates at its own pace as the economy remains resilient. He spoke on the sidelines of the IMF-World Bank Annual Meetings in Bangkok. (Source: Bloomberg)",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Barclays India CEO on India as Opportunity",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/barclays-india-ceo-on-india-as-opportunity-video",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "Pramod Kumar, India CEO at Barclays Bank, discusses the potential of further engaging with India's IPO market. (Source: Bloomberg)",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "The battle over the AI-led future of banking has begun",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "An initiative is needed to bring banks, regulators and companies such as OpenAI and Anthropic to the table to develop the technology",
       "also": []
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Glencore shares make Australia debut to mine base of ‘smart investors’",
+      "title": "US Stocks Won the Last Decade. What About the Next One?",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/us-stocks-won-the-last-decade-what-about-the-next-one",
+      "date": "2026-10-14",
+      "author": "Merryn Somerset Webb and John Stepek",
+      "summary": "Passive investing has become the default. It’s not as neutral a choice as it seems.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/4c62b2e1-1c41-4340-9979-d378b879fe1f?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
       "date": "2026-10-14",
       "author": null,
-      "summary": "Commodity giant chief Gary Nagle says mining is appreciated and understood in the country",
+      "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
       "also": []
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Premier Inn owner urges investors to resist pressure from activist hedge fund",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/1cf8da1d-8abd-40a6-bcd2-055ee49c7fcb?syn-25a6b1a6=1",
-      "date": "2026-10-13",
-      "author": null,
-      "summary": "Whitbread asks shareholders to reject Corvex Management’s demand for a board seat",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-13",
-      "author": "Nat Ives",
-      "summary": "Plus, Sweetgreen is updating its menu to improve its reputation with consumers.",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
-      "date": "2026-10-13",
-      "author": null,
-      "summary": "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment",
+      "title": "Rupee’s Relentless Slide Draws Importers Into RBI Currency Fight",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/rupee-s-relentless-slide-draws-importers-into-rbi-currency-fight",
+      "date": "2026-10-14",
+      "author": "Subhadip Sircar and Bhaskar Dutta",
+      "summary": "India’s importers are now in the crosshairs of the central bank, as its latest efforts to shore up the rupee expand from financial markets to the economy.",
       "also": []
     },
     {
@@ -453,25 +475,14 @@
       "also": []
     },
     {
-      "topic": "markets",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Wall Street plays down investor fears of faltering trading boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bd1f3385-1985-4a8a-a781-22cbe1292d2d?syn-25a6b1a6=1",
-      "date": "2026-10-13",
+      "title": "Jamaica accepts first flight of third-country deportations from US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
+      "date": "2026-10-14",
       "author": null,
-      "summary": "JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Publicis Account Wins Fuel Top-Line Growth",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/publicis-top-line-growth-picks-up-fueled-by-market-share-gains-3d5fcbbe?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-13",
-      "author": "Adrià Calatayud",
-      "summary": "The advertising group’s top-line growth picked up, with continued market-share gains after the merger of two rivals boosted its prospects for next year.",
+      "summary": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
       "also": []
     },
     {
@@ -486,14 +497,25 @@
       "also": []
     },
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 1,
-      "title": "US lawmakers urge FAA to pause AI traffic tool at Washington-area airports",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/us-lawmakers-faa-pause-smart-ai-air-traffic-tool",
+      "title": "Givaudan Shares Climb After Sales Beat Expectations",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/givaudan-shares-climb-after-sales-beat-expectations-7553e125?mod=pls_whats_news_us_business_f",
       "date": "2026-10-13",
-      "author": "Stephen Pope",
-      "summary": "More than two dozen US lawmakers are urging the Federal Aviation Administration (FAA) to stop using a new… The post US lawmakers urge FAA to pause AI traffic tool at Washington-area airports appeared first on AeroTime .",
+      "author": "Adrià Calatayud",
+      "summary": "Shares were up more than 6% after the food ingredient and perfume supplier’s sales rose 11% compared with the year-earlier period.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Individual Investors Are Trading at Meme-Stock Levels",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-12",
+      "author": "Will Flannigan",
+      "summary": "Plus, Trump’s manufacturing plans face reality, and Meta’s launches a new AI model.",
       "also": []
     },
     {
