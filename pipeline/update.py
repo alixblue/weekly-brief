@@ -29,7 +29,7 @@ MODEL = "claude-haiku-5-5"
 
 # Keyword fallback when no API key is set. First match wins, in this order.
 TOPIC_WORDS = {
-    "aerospace": r"airbus|boeing|embraer|airline|aircraft|aviation|airport|jet\b|engine maker|faa|easa|spacex|satellite|rocket|nasa|evtol|air taxi|mro|flight",
+    "aerospace": r"airbus|boeing|embraer|comac|airline|aircraft|aviation|airport|airspace|runway|jet\b|jets\b|jetliner|engine maker|faa\b|easa\b|spacex|satellite|rocket|nasa\b|evtol|air taxi|mro\b|nonstop|delta air|delta\b|united airlines|american airlines|jetblue|ryanair|lufthansa|emirates|qantas|cathay|singapore airlines|air france|klm\b|british airways|easyjet|rolls-royce|pratt|safran|ge aerospace|flight",
     "environment": r"climate|emission|net.zero|carbon|renewable|solar|wind power|biodiversity|wildfire|drought|flood|pollution|cop\d",
     "markets": r"stocks?\b|shares|s&p|dow jones|nasdaq|ftse|bond|treasury|yield|interest rate|central bank|federal reserve|\bfed\b|inflation|currency|dollar|investor|ipo|earnings season",
     "business": r"econom|market|stock|shares|profit|earnings|inflation|interest rate|central bank|federal reserve|tariff|trade|merger|acquisition|ipo|bank|gdp|jobs",
@@ -69,6 +69,12 @@ def parse_date(s):
 def parse_feed(raw, source):
     root = ET.fromstring(raw)
     out = []
+    rss1 = list(root.iter("{http://purl.org/rss/1.0/}item"))
+    for it in rss1:  # RSS 1.0 / RDF (Nature, Science)
+        g = lambda tag, ns="http://purl.org/rss/1.0/": it.findtext("{%s}%s" % (ns, tag))
+        out.append(dict(title=clean(g("title")), url=(g("link") or "").strip(),
+                        summary=clean(g("description") or g("encoded", NS["content"])),
+                        author=clean(g("creator", NS["dc"])), date=parse_date(g("date", NS["dc"]))))
     for it in root.iter("item"):  # RSS 2.0
         out.append(dict(title=clean(it.findtext("title")), url=(it.findtext("link") or "").strip(),
                         summary=clean(it.findtext("description")),
@@ -96,6 +102,10 @@ def fetch_all(sources):
                          and not AD.search(i["title"] + " " + i["summary"][:200])]
                 items += fresh
                 counts[s["name"]] = counts.get(s["name"], 0) + len(fresh)
+                if got and not fresh:
+                    log(f"no recent items: {s['name']}: {len(got)} in feed, newest date {max((str(i['date']) for i in got), default='?')}, first {got[0]['title'][:60]!r}")
+                elif not got:
+                    log(f"empty or unreadable feed: {s['name']}: {f}")
             except Exception as e:
                 failed.append(f"{s['name']}: {f} ({e.__class__.__name__}{' ' + str(getattr(e, 'code', '')) if hasattr(e, 'code') else ''})")
     for f in failed: log("feed failed:", f)
@@ -135,10 +145,14 @@ def cluster(items):
     return clusters
 
 
-def guess_topic(text):
+def guess_topic(title, summary=""):
+    """Keyword fallback: headline matches count 3, summary matches 1; needs at least 2 points, else World."""
+    best, best_score = "world", 1
     for t, pat in TOPIC_WORDS.items():
-        if re.search(pat, text, re.I): return t
-    return "world"
+        rx = re.compile(r"\b(?:%s)" % pat, re.I)
+        score = 3 * len(rx.findall(title)) + len(rx.findall(summary[:400]))
+        if score > best_score: best, best_score = t, score
+    return best
 
 
 def rank(clusters, src_by_name):
@@ -150,7 +164,7 @@ def rank(clusters, src_by_name):
         lead = c["items"][0]
         outlets = {i["source"] for i in c["items"]}
         age = (now - max(i["date"] for i in c["items"])).total_seconds() / 86400
-        topic = guess_topic(lead["title"] + " " + lead["summary"])
+        topic = guess_topic(lead["title"], lead["summary"])
         if src_by_name[lead["source"]].get("kind") == "trade": topic = "aerospace"  # aviation and space trade press
         score = (src_by_name[lead["source"]].get("weight", 1)
                  * (1 + 0.6 * (len(outlets) - 1))
@@ -278,26 +292,26 @@ def save_archive(items):
     (ARCHIVE / f"{dt.date.today().isoformat()}.json").write_text(json.dumps(keep, indent=1, ensure_ascii=False))
 
 
-MARKETS = [("S&P 500", "^GSPC", "{:,.2f}"), ("Dow", "^DJI", "{:,.2f}"), ("Nasdaq", "^IXIC", "{:,.2f}"),
-           ("Brent oil", "BZ=F", "${:,.2f}"), ("US 10-yr yield", "^TNX", "{:.2f}%"), ("EUR/USD", "EURUSD=X", "{:.4f}")]
+MARKETS = [("S&P 500", "SP500", "{:,.2f}"), ("Dow", "DJIA", "{:,.2f}"), ("Nasdaq", "NASDAQCOM", "{:,.2f}"),
+           ("Brent oil", "DCOILBRENTEU", "${:,.2f}"), ("US 10-yr yield", "DGS10", "{:.2f}%"), ("EUR/USD", "DEXUSEU", "{:.4f}")]
 
 
 def markets():
-    """Latest close and change over the past week, from Yahoo Finance's public chart data (no key needed)."""
+    """Latest close and change over about a week, from the St. Louis Fed's free FRED data (no key needed; a day behind)."""
     out, asof = [], None
+    start = (dt.date.today() - dt.timedelta(days=30)).isoformat()
     for name, sym, fmt in MARKETS:
         try:
-            r = json.loads(get(f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(sym)}?range=1mo&interval=1d"))["chart"]["result"][0]
-            pts = [(t, c) for t, c in zip(r["timestamp"], r["indicators"]["quote"][0]["close"]) if c is not None]
-            (t, v), (_, v0) = pts[-1], pts[-6]
-            ch = f"{v - v0:+.2f} pt" if sym == "^TNX" else f"{(v / v0 - 1) * 100:+.1f}%"
-            day = dt.datetime.fromtimestamp(t, dt.timezone.utc).date().isoformat()
+            rows = [r.split(",") for r in get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sym}&cosd={start}").decode().strip().splitlines()[1:]]
+            pts = [(d, float(v)) for d, v in rows if v not in (".", "")]
+            (day, v), (_, v0) = pts[-1], pts[-6]
+            ch = f"{v - v0:+.2f} pt" if sym == "DGS10" else f"{(v / v0 - 1) * 100:+.1f}%"
             out.append({"name": name, "value": fmt.format(v), "change": ch}); asof = max(asof or day, day)
         except Exception as e:
             log("market data skipped:", name, e.__class__.__name__, e)
     if not out: return None
     label = dt.date.fromisoformat(asof).strftime("%a %d %b · change over 1 week")
-    return {"asof": asof, "label": label, "source": "Yahoo Finance", "items": out}
+    return {"asof": asof, "label": label, "source": "FRED, St. Louis Fed", "items": out}
 
 
 WEEK_PROMPT = """From these story summaries of the past week, return JSON:

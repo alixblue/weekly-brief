@@ -10,9 +10,7 @@
         "world",
         "business"
       ],
-      "feeds": [
-        "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best"
-      ]
+      "feeds": []
     },
     {
       "name": "Associated Press",
@@ -341,7 +339,7 @@
         "aerospace"
       ],
       "feeds": [
-        "https://airwaysmag.com/feed"
+        "https://www.airwaysmag.com/feed/"
       ]
     },
     {
@@ -391,6 +389,24 @@
       ],
       "feeds": [
         "https://feeds.bloomberg.com/markets/news.rss"
+      ]
+    },
+    {
+      "name": "AeroTime",
+      "lean": "center",
+      "kind": "trade",
+      "weight": 1.0,
+      "feeds": [
+        "https://www.aerotime.aero/feed"
+      ]
+    },
+    {
+      "name": "AIN",
+      "lean": "center",
+      "kind": "trade",
+      "weight": 1.1,
+      "feeds": [
+        "https://www.ainonline.com/rss.xml"
       ]
     }
   ]
