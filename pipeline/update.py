@@ -161,14 +161,20 @@ def rank(clusters, src_by_name):
     now = dt.datetime.now(dt.timezone.utc)
     scored = []
     for c in clusters:
-        # lead with the most trusted outlet's version, preferring one that is free to read (its full text also makes a better summary)
-        c["items"].sort(key=lambda i: src_by_name[i["source"]].get("weight", 1) - (0.35 if src_by_name[i["source"]].get("paywall") else 0), reverse=True)
+        # lead with the most trusted outlet's version; if that one is paywalled, a free outlet nearly as trusted leads instead
+        # (weight >= 1.0 and within 0.3 of the best), since its full text is free to read and gives a better summary
+        c["items"].sort(key=lambda i: src_by_name[i["source"]].get("weight", 1), reverse=True)
+        top_w = src_by_name[c["items"][0]["source"]].get("weight", 1)
+        if src_by_name[c["items"][0]["source"]].get("paywall"):
+            free = [i for i in c["items"] if not src_by_name[i["source"]].get("paywall")
+                    and src_by_name[i["source"]].get("weight", 1) >= max(1.0, top_w - 0.3)]
+            if free: c["items"].remove(free[0]); c["items"].insert(0, free[0])
         lead = c["items"][0]
         outlets = {i["source"] for i in c["items"]}
         age = (now - max(i["date"] for i in c["items"])).total_seconds() / 86400
         topic = guess_topic(lead["title"], lead["summary"])
         if src_by_name[lead["source"]].get("kind") == "trade": topic = "aerospace"  # aviation and space trade press
-        score = (src_by_name[lead["source"]].get("weight", 1)
+        score = (top_w
                  * (1 + 0.6 * (len(outlets) - 1))
                  * TOPIC_BOOST[topic]
                  * max(0.3, 1 - age / 10))
@@ -449,7 +455,7 @@ def do_fetch():
 def do_render():
     data = json.loads(NEWS.read_text())
     data["glossary"] = json.loads((PIPE / "glossary.json").read_text())
-    data["sources"] = {s["name"]: {"lean": s["lean"], "kind": s["kind"], "paywall": bool(s.get("paywall"))} for s in json.loads((PIPE / "sources.json").read_text())["sources"]}
+    data["sources"] = {s["name"]: {"lean": s["lean"], "kind": s["kind"], "paywall": bool(s.get("paywall")), "weight": s.get("weight", 1)} for s in json.loads((PIPE / "sources.json").read_text())["sources"]}
     payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text((PIPE / "template.html").read_text().replace("/*__DATA__*/null", payload))
