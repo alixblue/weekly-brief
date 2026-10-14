@@ -35,8 +35,6 @@ jobs:
           git add data/news.json data/archive pipeline/glossary.json site/index.html
           git commit -m "Daily update $(date -u +%F)" || echo "no changes"
           git push
-      - uses: actions/configure-pages@v5
-        with: { enablement: true }
       - uses: actions/upload-pages-artifact@v3
         with: { path: site }
       - id: deploy
