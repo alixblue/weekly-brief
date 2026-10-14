@@ -11,7 +11,7 @@ other outlets framed the story, and definitions for new jargon. Article text its
 never stored or published, only the brief written from it.
 """
 import json, os, re, sys, html, math, datetime as dt
-import urllib.request, urllib.parse, xml.etree.ElementTree as ET
+import urllib.request, urllib.parse, urllib.error, xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -226,11 +226,41 @@ def article_text(url, limit=9000):
     return "\n".join(p for p in paras if len(p) > 60)[:limit]
 
 
+FREE_MODEL = "openai/gpt-4.1-mini"  # GitHub Models free tier (about 150 requests/day, 15/minute)
+_last_call = [0.0]
+
+
+def ai_key():
+    """Claude if an Anthropic key is set, otherwise GitHub's free models inside GitHub Actions, otherwise none."""
+    if os.environ.get("ANTHROPIC_API_KEY"): return ("anthropic", os.environ["ANTHROPIC_API_KEY"])
+    if os.environ.get("GITHUB_MODELS_TOKEN"): return ("github", os.environ["GITHUB_MODELS_TOKEN"])
+    return None
+
+
 def ask_claude(key, prompt, max_tokens=1500):
-    body = json.dumps({"model": MODEL, "max_tokens": max_tokens, "messages": [{"role": "user", "content": prompt}]}).encode()
-    req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
-        "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
-    text = json.loads(urllib.request.urlopen(req, timeout=120).read())["content"][0]["text"]
+    provider, token = key
+    if provider == "anthropic":
+        body = json.dumps({"model": MODEL, "max_tokens": max_tokens, "messages": [{"role": "user", "content": prompt}]}).encode()
+        req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
+            "x-api-key": token, "anthropic-version": "2023-06-01", "content-type": "application/json"})
+        text = json.loads(urllib.request.urlopen(req, timeout=120).read())["content"][0]["text"]
+    else:
+        import time
+        wait = 4.5 - (time.time() - _last_call[0])  # stay under the free tier's 15 requests a minute
+        if wait > 0: time.sleep(wait)
+        body = json.dumps({"model": FREE_MODEL, "max_tokens": max_tokens, "temperature": 0.2,
+                           "response_format": {"type": "json_object"},
+                           "messages": [{"role": "user", "content": prompt}]}).encode()
+        req = urllib.request.Request("https://models.github.ai/inference/chat/completions", data=body, headers={
+            "Authorization": f"Bearer {token}", "Content-Type": "application/json", "Accept": "application/json"})
+        for attempt in range(3):
+            try:
+                _last_call[0] = time.time()
+                text = json.loads(urllib.request.urlopen(req, timeout=120).read())["choices"][0]["message"]["content"]
+                break
+            except urllib.error.HTTPError as e:
+                if e.code != 429 or attempt == 2: raise
+                time.sleep(int(e.headers.get("Retry-After") or 30))
     return json.loads(text[text.index("{"): text.rindex("}") + 1])
 
 
@@ -257,8 +287,9 @@ Article text (public part only):
 
 def claude_polish(items, glossary):
     """Optional: in-page briefs, card summaries, topic check, new glossary terms. Needs ANTHROPIC_API_KEY."""
-    key = os.environ.get("ANTHROPIC_API_KEY")
+    key = ai_key()
     if not key: return items, glossary
+    log("writing briefs with", key[0])
     for it in items:
         text = article_text(it["url"])
         if len(text) < 1500: text = (it["summary"] + "\n" + text).strip()  # paywalled: use only the public part
@@ -342,7 +373,7 @@ Only use facts in the summaries. Neutral tone. Today is {today}.
 
 
 def week_and_watch(items):
-    key = os.environ.get("ANTHROPIC_API_KEY")
+    key = ai_key()
     top = sorted(items, key=lambda i: -i["importance"])
     fallback = {"week": [{"text": i["summary"], "urls": [i["url"]]} for i in top[:5]], "watch": []}
     if not key: return fallback
