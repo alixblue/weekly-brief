@@ -11,7 +11,7 @@ other outlets framed the story, and definitions for new jargon. Article text its
 never stored or published, only the brief written from it.
 """
 import json, os, re, sys, html, math, datetime as dt
-import urllib.request, xml.etree.ElementTree as ET
+import urllib.request, urllib.parse, xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -24,7 +24,7 @@ MAX_ITEMS = 30
 WINDOW_DAYS = 7
 TOPIC_BOOST = {"aerospace": 1.45, "business": 1.3, "markets": 1.25, "environment": 1.0, "science": 1.0, "world": 1.0, "culture": 0.7}
 TOPIC_CAP = {"aerospace": 9, "business": 7, "markets": 5, "environment": 5, "science": 4, "world": 4, "culture": 3}
-PER_SOURCE_CAP = 6
+PER_SOURCE_CAP = 4
 MODEL = "claude-haiku-5-5"
 
 # Keyword fallback when no API key is set. First match wins, in this order.
@@ -45,7 +45,9 @@ def log(*a): print(*a, file=sys.stderr)
 
 
 def get(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": "WeeklyBrief/1.0 (personal news reader)"})
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36 WeeklyBrief/1.0",
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, text/html;q=0.9, */*;q=0.8"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
 
@@ -85,33 +87,51 @@ def parse_feed(raw, source):
 
 def fetch_all(sources):
     now = dt.datetime.now(dt.timezone.utc)
-    items, failed = [], []
+    items, failed, counts = [], [], {}
     for s in sources:
         for f in s.get("feeds", []):
             try:
                 got = parse_feed(get(f), s)
-                items += [i for i in got if i["title"] and i["url"] and i["date"] and (now - i["date"]).days < WINDOW_DAYS]
+                fresh = [i for i in got if i["title"] and i["url"] and i["date"] and (now - i["date"]).days < WINDOW_DAYS
+                         and not AD.search(i["title"] + " " + i["summary"][:200])]
+                items += fresh
+                counts[s["name"]] = counts.get(s["name"], 0) + len(fresh)
             except Exception as e:
-                failed.append(f"{s['name']}: {f} ({e.__class__.__name__})")
+                failed.append(f"{s['name']}: {f} ({e.__class__.__name__}{' ' + str(getattr(e, 'code', '')) if hasattr(e, 'code') else ''})")
     for f in failed: log("feed failed:", f)
+    log("stories this week per outlet:", ", ".join(f"{k} {v}" for k, v in sorted(counts.items(), key=lambda x: -x[1])))
     log(f"{len(items)} candidate items from {len(sources)} outlets, {len(failed)} feeds failed")
     return items
 
 
-def words(t): return {w for w in re.findall(r"[a-z0-9]+", t.lower()) if len(w) > 3}
+AD = re.compile(r"\bis (proud|pleased|excited) to\b|\bsponsored\b|partner content|advertorial|\bwebinar\b", re.I)
+STOP = set("after over with from into more than that this their they says said will what when where which while about amid could would should have been just again".split())
+
+
+def stem(w): return re.sub(r"(ing|ed|es|s)$", "", w) if len(w) > 5 else w
+
+
+def words(t): return {stem(w) for w in re.findall(r"[a-z0-9]+", t.lower()) if len(w) > 3 and w not in STOP}
 
 
 def cluster(items):
     """Group the same story told by different outlets. More outlets = more important."""
+    def same(a, b):
+        wa, wb = a["_w"], b["_w"]
+        if not wa or not wb: return False
+        j = len(wa & wb) / len(wa | wb)
+        if j >= 0.35: return True
+        if j < 0.15: return False
+        # headlines overlap a little: confirm with the summaries
+        fa, fb = a["_f"], b["_f"]
+        return len(fa & fb) / len(fa | fb) >= 0.2
     clusters = []
     for it in sorted(items, key=lambda i: i["date"], reverse=True):
-        w = words(it["title"])
-        for c in clusters:
-            cw = c["words"]
-            if w and len(w & cw) / len(w | cw) >= 0.35:
-                c["items"].append(it); c["words"] |= w; break
-        else:
-            clusters.append({"items": [it], "words": w})
+        it["_w"], it["_f"] = words(it["title"]), words(it["title"] + " " + it["summary"][:400])
+        # compare with every headline already in the cluster (not their union, which dilutes the overlap)
+        home = next((c for c in clusters if any(same(it, o) for o in c["items"])), None)
+        if home: home["items"].append(it)
+        else: clusters.append({"items": [it]})
     return clusters
 
 
@@ -131,6 +151,7 @@ def rank(clusters, src_by_name):
         outlets = {i["source"] for i in c["items"]}
         age = (now - max(i["date"] for i in c["items"])).total_seconds() / 86400
         topic = guess_topic(lead["title"] + " " + lead["summary"])
+        if src_by_name[lead["source"]].get("kind") == "trade": topic = "aerospace"  # aviation and space trade press
         score = (src_by_name[lead["source"]].get("weight", 1)
                  * (1 + 0.6 * (len(outlets) - 1))
                  * TOPIC_BOOST[topic]
@@ -257,25 +278,26 @@ def save_archive(items):
     (ARCHIVE / f"{dt.date.today().isoformat()}.json").write_text(json.dumps(keep, indent=1, ensure_ascii=False))
 
 
-MARKETS = [("S&P 500", "^spx", "{:,.2f}"), ("Dow", "^dji", "{:,.2f}"), ("Nasdaq", "^ndq", "{:,.2f}"),
-           ("Brent oil", "cb.f", "${:,.2f}"), ("US 10-yr yield", "10usy.b", "{:.2f}%"), ("EUR/USD", "eurusd", "{:.4f}")]
+MARKETS = [("S&P 500", "^GSPC", "{:,.2f}"), ("Dow", "^DJI", "{:,.2f}"), ("Nasdaq", "^IXIC", "{:,.2f}"),
+           ("Brent oil", "BZ=F", "${:,.2f}"), ("US 10-yr yield", "^TNX", "{:.2f}%"), ("EUR/USD", "EURUSD=X", "{:.4f}")]
 
 
 def markets():
-    """Latest close and change over the past week, from Stooq's free daily CSV (no key needed)."""
+    """Latest close and change over the past week, from Yahoo Finance's public chart data (no key needed)."""
     out, asof = [], None
     for name, sym, fmt in MARKETS:
         try:
-            rows = [r.split(",") for r in get(f"https://stooq.com/q/d/l/?s={sym}&i=d").decode().strip().splitlines()[1:]]
-            last, week_ago = rows[-1], rows[-6]
-            v, v0 = float(last[4]), float(week_ago[4])
-            ch = f"{v - v0:+.2f} pt" if sym.endswith("y.b") else f"{(v / v0 - 1) * 100:+.1f}%"
-            out.append({"name": name, "value": fmt.format(v), "change": ch}); asof = max(asof or last[0], last[0])
+            r = json.loads(get(f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(sym)}?range=1mo&interval=1d"))["chart"]["result"][0]
+            pts = [(t, c) for t, c in zip(r["timestamp"], r["indicators"]["quote"][0]["close"]) if c is not None]
+            (t, v), (_, v0) = pts[-1], pts[-6]
+            ch = f"{v - v0:+.2f} pt" if sym == "^TNX" else f"{(v / v0 - 1) * 100:+.1f}%"
+            day = dt.datetime.fromtimestamp(t, dt.timezone.utc).date().isoformat()
+            out.append({"name": name, "value": fmt.format(v), "change": ch}); asof = max(asof or day, day)
         except Exception as e:
-            log("market data skipped:", name, e.__class__.__name__)
+            log("market data skipped:", name, e.__class__.__name__, e)
     if not out: return None
-    label = dt.date.fromisoformat(asof).strftime("%a %d %b close · change over 1 week")
-    return {"asof": asof, "label": label, "source": "Stooq", "items": out}
+    label = dt.date.fromisoformat(asof).strftime("%a %d %b · change over 1 week")
+    return {"asof": asof, "label": label, "source": "Yahoo Finance", "items": out}
 
 
 WEEK_PROMPT = """From these story summaries of the past week, return JSON:
