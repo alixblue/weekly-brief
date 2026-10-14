@@ -1,5 +1,11 @@
 [
  {
+  "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+  "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+  "source": "The New York Times",
+  "date": "2026-10-14"
+ },
+ {
   "title": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight",
   "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
   "source": "The New York Times",
@@ -10,12 +16,6 @@
   "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
   "source": "The New York Times",
   "date": "2026-10-12"
- },
- {
-  "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-  "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-  "source": "The New York Times",
-  "date": "2026-10-14"
  },
  {
   "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
@@ -51,12 +51,6 @@
   "title": "Delta aircraft isolated at Ben Gurion Airport over bomb threat: reports",
   "url": "https://www.aerotime.aero/articles/delta-aircraft-ben-gurion-airport-bomb-threat-reports",
   "source": "AeroTime",
-  "date": "2026-10-13"
- },
- {
-  "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
-  "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
   "date": "2026-10-13"
  },
  {
@@ -108,6 +102,12 @@
   "date": "2026-10-14"
  },
  {
+  "title": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
+  "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
+  "date": "2026-10-13"
+ },
+ {
   "title": "US Stocks Won the Last Decade. What About the Next One?",
   "url": "https://www.bloomberg.com/news/articles/2026-10-14/us-stocks-won-the-last-decade-what-about-the-next-one",
   "source": "Bloomberg",
@@ -124,6 +124,12 @@
   "url": "https://www.bloomberg.com/news/articles/2026-10-14/rupee-s-relentless-slide-draws-importers-into-rbi-currency-fight",
   "source": "Bloomberg",
   "date": "2026-10-14"
+ },
+ {
+  "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
+  "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
+  "date": "2026-10-13"
  },
  {
   "title": "Abandoning third runway would be bad for UK, Istanbul airport boss warns",
@@ -148,12 +154,6 @@
   "url": "https://www.wsj.com/business/givaudan-shares-climb-after-sales-beat-expectations-7553e125?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
   "date": "2026-10-13"
- },
- {
-  "title": "Individual Investors Are Trading at Meme-Stock Levels",
-  "url": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
-  "date": "2026-10-12"
  },
  {
   "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
