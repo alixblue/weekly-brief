@@ -7,10 +7,11 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - name: One test request to GitHub Models
+      - name: Test requests to GitHub Models
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -sS -i https://models.github.ai/inference/chat/completions \
-            -H "Authorization: Bearer $GITHUB_TOKEN" -H "Content-Type: application/json" -H "Accept: application/json" \
-            -d '{"model":"openai/gpt-4.1-mini","messages":[{"role":"user","content":"Reply with the JSON {\"ok\": true}"}],"response_format":{"type":"json_object"}}' | head -c 1500
+          body='{"model":"openai/gpt-4.1-mini","messages":[{"role":"user","content":"Reply with the JSON {\"ok\": true}"}]}'
+          echo "== catalog"; curl -sS -i https://models.github.ai/catalog/models -H "Authorization: Bearer $GITHUB_TOKEN" -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28" | head -c 800; echo
+          echo "== inference with api version"; curl -sS -i https://models.github.ai/inference/chat/completions -H "Authorization: Bearer $GITHUB_TOKEN" -H "Content-Type: application/json" -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28" -d "$body" | head -c 1200; echo
+          echo "== org-less azure endpoint"; curl -sS -i https://models.inference.ai.azure.com/chat/completions -H "Authorization: Bearer $GITHUB_TOKEN" -H "Content-Type: application/json" -d '{"model":"gpt-4.1-mini","messages":[{"role":"user","content":"Say ok"}]}' | head -c 1200; echo
