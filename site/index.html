@@ -1,0 +1,528 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Weekly Brief</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#fcf9f1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1b1915" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Weekly Brief">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,600;0,800;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#d8ccb4; --paper:#fcf9f1; --ink:#100e0b; --ink-2:#28241e; --ink-3:#5c5446; --line:#d3c7af; --rule:#100e0b;
+  --hl:#f6dc7c; --hl-ink:#2e2200;
+  --aerospace:#1f5fa8; --business:#a35b00; --markets:#0f766e; --environment:#2c7a45; --science:#6b45b3; --world:#b23a2e; --culture:#a23b72;
+  --left:#2f66c6; --center:#8a816f; --right:#c23d33;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0b0a08; --paper:#1b1915; --ink:#f8f2e4; --ink-2:#e4dccb; --ink-3:#a99f8b; --line:#3a352c; --rule:#f8f2e4;
+    --hl:#6a5410; --hl-ink:#ffe7a0;
+    --aerospace:#6fa6ef; --business:#e9a341; --markets:#3cc2b0; --environment:#62c483; --science:#ab8ff0; --world:#f0806f; --culture:#e27bb1;
+    --left:#6f9cf0; --center:#9c937f; --right:#f0806f;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0b0a08; --paper:#1b1915; --ink:#f8f2e4; --ink-2:#e4dccb; --ink-3:#a99f8b; --line:#3a352c; --rule:#f8f2e4;
+  --hl:#6a5410; --hl-ink:#ffe7a0;
+  --aerospace:#6fa6ef; --business:#e9a341; --markets:#3cc2b0; --environment:#62c483; --science:#ab8ff0; --world:#f0806f; --culture:#e27bb1;
+  --left:#6f9cf0; --center:#9c937f; --right:#f0806f;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:16.5px/1.6 "Source Serif 4",Georgia,serif;-webkit-font-smoothing:antialiased;padding:18px 0 40px}
+.sheet{max-width:1240px;margin:0 auto;background:var(--paper);box-shadow:0 1px 2px rgba(0,0,0,.18),0 12px 40px rgba(40,28,10,.22);
+  background-image:radial-gradient(rgba(90,70,30,.05) 1px,transparent 1px);background-size:3px 3px}
+body.reading{overflow:hidden}
+.muted{color:var(--ink-3)}
+.no-tts .speak,.no-tts #r-listen,.no-tts .rate,.no-tts .vsel{display:none}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+.sc{font:600 11px/1.2 Inter,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+
+/* masthead */
+header{padding:22px 0 0;text-align:center}
+.ears{display:flex;justify-content:space-between;gap:12px;align-items:center;padding-bottom:8px}
+.ears .sc:last-child{text-align:right}
+h1{font-family:UnifrakturMaguntia,"Playfair Display",serif;font-weight:400;font-size:clamp(46px,9vw,96px);line-height:1;margin:6px 0 4px;letter-spacing:.01em}
+.motto{font-style:italic;color:var(--ink-2);margin:0 0 12px}
+.dateline{border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:7px 0;display:flex;flex-wrap:wrap;justify-content:center;gap:6px 22px;align-items:center}
+.dateline .sc{color:var(--ink)}
+.dateline .sep{color:var(--ink-3)}
+.panel{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:0;border-bottom:3px double var(--rule);text-align:left}
+.panel>div{padding:12px 16px;border-right:1px solid var(--line)}
+.panel>div:last-child{border-right:0}
+.stat b{display:block;font:800 26px/1.1 "Playfair Display",serif}
+.stat span{font-size:13px;color:var(--ink-2);font-style:italic}
+.barline{display:flex;height:7px;overflow:hidden;background:var(--line);margin:8px 0 5px;border:1px solid var(--rule)}
+.barline i{display:block;height:100%}
+.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12.5px;color:var(--ink-2)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:1px}
+#p-bar{background:var(--ink);width:0;transition:width .3s}
+.listen-all{margin-top:7px;display:flex;gap:6px;flex-wrap:wrap}
+.vsel{font:500 12px Inter,sans-serif;max-width:170px;border:1px solid var(--line);background:var(--paper);color:var(--ink);padding:3px 4px;border-radius:2px}
+
+/* buttons */
+.btn{border:1px solid var(--rule);background:transparent;color:var(--ink);padding:5px 11px;font:600 12px Inter,system-ui,sans-serif;letter-spacing:.04em;cursor:pointer;border-radius:2px}
+.btn[aria-pressed="true"],.btn.on{background:var(--ink);color:var(--paper)}
+.btn.small{padding:3px 8px;font-size:11px;border-color:var(--line);color:var(--ink-3)}
+
+/* toolbar */
+.toolbar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 95%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule)}
+.toolbar .bar-in{position:relative;max-width:1180px;margin:0 auto}
+.toolbar .wrap{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding-top:9px;padding-bottom:9px}
+.tb-arrow{display:none}
+@media (max-width:760px){
+  .toolbar .wrap{flex-wrap:nowrap;overflow-x:auto;scroll-behavior:smooth;scrollbar-width:none;padding-left:40px;padding-right:40px}
+  .toolbar .wrap::-webkit-scrollbar{display:none}
+  .tb-arrow{display:flex;align-items:center;justify-content:center;position:absolute;top:0;bottom:0;width:38px;border:0;z-index:2;font:700 18px Inter,sans-serif;color:var(--ink);cursor:pointer}
+  .tb-arrow.l{left:0;background:linear-gradient(90deg,var(--paper) 60%,transparent)}
+  .tb-arrow.r{right:0;background:linear-gradient(270deg,var(--paper) 60%,transparent)}
+  .tb-arrow[disabled]{opacity:0;pointer-events:none}
+}
+.chip{border:1px solid var(--line);background:var(--paper);color:var(--ink-2);border-radius:2px;padding:5px 11px;font:600 12px Inter,sans-serif;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chip .n{opacity:.6;margin-left:4px}
+.spacer{flex:1}
+.seg{display:flex;flex-shrink:0}
+.seg .chip+.chip{border-left:0}
+
+/* sections + grid */
+section{padding:26px 0 6px}
+.sec-h{display:flex;align-items:center;gap:14px;margin:0 0 6px}
+.sec-h .rule{flex:1;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);height:4px}
+.sec-h h2{font:800 clamp(20px,3vw,27px)/1.1 "Playfair Display",serif;margin:0;text-transform:uppercase;letter-spacing:.06em;color:var(--c);white-space:nowrap}
+.sec-h .count{font-style:italic;color:var(--ink-3);font-size:13px;white-space:nowrap}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-flow:dense;column-gap:28px}
+.card{--c:var(--ink-3);position:relative;padding:16px 0 14px;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:7px;transition:opacity .2s,background .2s}
+.card::before{content:"";position:absolute;left:-14px;top:16px;bottom:14px;border-left:1px solid var(--line)}
+.card.imp-3{grid-column:span 2}
+.card.imp-2{grid-column:span 2}
+.card.read{opacity:.5}
+.speaking{background:color-mix(in srgb,var(--hl) 35%,transparent);box-shadow:0 0 0 10px color-mix(in srgb,var(--hl) 35%,transparent)}
+.meta-top{display:flex;gap:8px;align-items:center}
+.tag{font:700 10.5px Inter,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--c);display:flex;align-items:center;gap:6px}
+.tag::before{content:"";width:9px;height:9px;background:var(--c)}
+.badge{font:700 10.5px Inter,sans-serif;letter-spacing:.12em;text-transform:uppercase;border:1px solid var(--ink);padding:1px 6px}
+.card h3{font:600 19px/1.22 "Playfair Display",serif;margin:0}
+.card.imp-3 h3{font-weight:800;font-size:clamp(28px,3.6vw,40px);line-height:1.08;letter-spacing:-.01em}
+.card.imp-2 h3{font-size:23px}
+.card h3 a{text-decoration:none;cursor:pointer}
+.card{cursor:pointer}
+.card h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.card p{margin:0;color:var(--ink-2);hyphens:auto}
+.card.imp-3 p{font-size:17.5px;text-align:justify}
+@media (max-width:600px){.card.imp-3 p{text-align:left}}
+.card.imp-3 p::first-letter{float:left;font:800 58px/.8 "Playfair Display",serif;margin:6px 8px 0 0;color:var(--c)}
+.also{font-size:13.5px;color:var(--ink-2);font-style:italic;border-left:3px double var(--line);padding-left:10px}
+.also a{text-decoration:underline;text-underline-offset:2px}
+.foot{margin-top:auto;padding-top:7px;display:flex;flex-wrap:wrap;gap:3px 12px;font:500 12px Inter,sans-serif;color:var(--ink-3);align-items:center}
+.foot .src{color:var(--ink);font-weight:600}
+.foot .acts{margin-left:auto;display:flex;gap:5px}
+.foot .acts a.btn{text-decoration:none}
+.card.read .readbtn{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+
+/* glossary terms */
+.term{all:unset;cursor:help;background:linear-gradient(transparent 55%,var(--hl) 55%);color:inherit;font-weight:600;padding:0 1px;box-decoration-break:clone;-webkit-box-decoration-break:clone;border-bottom:1px dotted var(--ink-3)}
+.term:focus-visible{outline:2px solid var(--ink);outline-offset:1px}
+#pop{position:fixed;z-index:60;max-width:300px;background:var(--paper);color:var(--ink);padding:12px 14px;border:1px solid var(--rule);box-shadow:4px 4px 0 var(--rule);font-size:14.5px;line-height:1.45;display:none}
+#pop b{display:block;font:800 16px "Playfair Display",serif;margin-bottom:3px}
+
+/* front matter */
+.ticker{display:flex;flex-wrap:wrap;gap:4px 18px;align-items:center;justify-content:center;padding:7px 0;border-bottom:1px solid var(--rule);font:500 13px Inter,sans-serif}
+.ticker .tk b{font-weight:600}
+.ticker .up{color:#1d7a3e}.ticker .dn{color:#b3261e}
+.ticker .src-n{font-size:10px;color:var(--ink-3)}
+.front{display:grid;grid-template-columns:3fr 2fr;gap:28px;padding:22px 0 4px}
+.box{border:1px solid var(--rule);padding:14px 18px;position:relative}
+.box-h{font:800 20px "Playfair Display",serif;margin:0 0 8px;padding-bottom:6px;border-bottom:3px double var(--rule)}
+.week ol{margin:0;padding-left:20px}.week li{margin:0 0 8px;color:var(--ink)}
+.refs .more,.watch .more{font:600 11.5px Inter,sans-serif;color:var(--ink-3);text-decoration:none;border-bottom:1px solid var(--line);margin-right:6px}
+.watch ul{list-style:none;margin:0;padding:0}.watch li{display:flex;gap:12px;padding:6px 0;border-bottom:1px solid var(--line)}
+.watch .wd{font:700 12px Inter,sans-serif;min-width:48px;color:var(--ink);text-transform:uppercase;letter-spacing:.06em;padding-top:3px}
+.watch .legend{margin-top:8px}
+.badge.new{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.badge.upd{border-style:dashed}
+.badge.kind{border-color:var(--ink-2);color:var(--ink);background:color-mix(in srgb,var(--hl) 45%,transparent);font-style:italic}
+.newchip{border-color:var(--ink);color:var(--ink)}
+.earlier{border-left:3px double var(--rule);padding:4px 0 4px 14px;margin:18px 0}
+@media (max-width:860px){.front{grid-template-columns:1fr;gap:16px}}
+:root[data-theme="dark"] .ticker .up{color:#6fd18f}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .ticker .up{color:#6fd18f}:root:not([data-theme="light"]) .ticker .dn{color:#ff8a80}}
+
+/* reader */
+#reader{position:fixed;inset:0;z-index:40}
+#reader[hidden]{display:none}
+.scrim{position:absolute;inset:0;background:rgba(20,15,8,.55);backdrop-filter:blur(2px)}
+.sheet-r{position:relative;max-width:760px;height:100%;margin:0 auto;overflow-y:auto;background:var(--paper);padding:0 44px 40px;outline:none;
+  box-shadow:0 0 60px rgba(0,0,0,.35);background-image:radial-gradient(rgba(90,70,30,.05) 1px,transparent 1px);background-size:3px 3px}
+.r-bar{position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;padding:12px 0;background:var(--paper);border-bottom:3px double var(--rule);margin-bottom:22px}
+#r-title{font:800 clamp(28px,4.4vw,42px)/1.1 "Playfair Display",serif;margin:10px 0 12px;letter-spacing:-.01em}
+.dek{font-size:19px;font-style:italic;color:var(--ink-2);margin:0 0 14px}
+.byline{font:500 13px Inter,sans-serif;color:var(--ink-2);padding:10px 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--line)}
+.r-actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:14px 0 6px}
+.r-text p{font-size:18.5px;line-height:1.7;margin:0 0 16px;color:var(--ink);transition:background .2s}
+.r-sec{padding:2px 0 2px 14px;border-left:3px solid var(--line);margin-bottom:14px;transition:background .2s}
+.r-sec h4{font:700 11.5px Inter,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--c);margin:0 0 4px}
+.r-sec p{margin:0 !important}
+.r-sec:first-child{border-left-color:var(--c)}
+.r-text .r-sec:first-child p::first-letter{float:left;font:800 64px/.8 "Playfair Display",serif;margin:8px 10px 0 0;color:var(--c)}
+.note{font-style:italic;color:var(--ink-3);font-size:14.5px;border-left:3px solid var(--line);padding-left:12px}
+.persp{border:1px solid var(--rule);padding:14px 16px;margin:22px 0;background:color-mix(in srgb,var(--hl) 14%,transparent)}
+.persp .sc{margin-bottom:8px;color:var(--ink)}
+.p-row{padding:10px 0;border-top:1px solid var(--line);font:500 13px Inter,sans-serif}
+.p-row:first-of-type{border-top:0}
+.p-head{font:600 17px/1.3 "Playfair Display",serif;margin:5px 0 3px}
+.p-note{font:italic 15px/1.45 "Source Serif 4",serif;color:var(--ink-2);margin-bottom:4px}
+.orig{font-size:14.5px;color:var(--ink-2);border-top:1px solid var(--line);padding-top:12px}
+.orig a{font-weight:600}
+.r-nav{display:flex;justify-content:space-between;gap:10px;padding-top:18px;border-top:3px double var(--rule);margin-top:18px}
+.r-nav .btn:disabled{opacity:.3;cursor:default}
+@media (max-width:600px){.sheet-r{padding:0 18px 30px}.r-text p{font-size:17.5px}body{padding:0}.sheet{box-shadow:none}}
+
+footer{padding:26px 0 50px;color:var(--ink-3);font-size:13px;font-style:italic;border-top:3px double var(--rule);margin-top:30px}
+footer p{max-width:760px}
+footer .install{font-style:normal;color:var(--ink-2);border:1px dashed var(--line);padding:10px 12px}
+@media (display-mode: standalone){body{padding-top:env(safe-area-inset-top)}}
+.empty{color:var(--ink-3);padding:30px 0}
+
+@media (max-width:960px){.grid{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:600px){.grid{grid-template-columns:1fr}.card.imp-3,.card.imp-2{grid-column:span 1}.card::before{display:none}.ears .sc.hide-sm{display:none}.panel>div{border-right:0;border-bottom:1px solid var(--line)}}
+</style>
+</head>
+<body>
+<div class="sheet">
+<header>
+  <div class="wrap">
+    <div class="ears"><span class="sc hide-sm">Personal edition</span><span class="sc" id="vol"></span><span class="sc hide-sm">~30 stories · daily</span></div>
+    <h1>The Weekly Brief</h1>
+    <p class="motto">All the news worth your ten minutes. Tap a headline to read it here; tap an underlined word for its meaning.</p>
+    <div class="dateline"><span class="sc" id="range"></span></div>
+    <div class="ticker" id="ticker"></div>
+    <div class="panel">
+      <div class="stat"><b id="s-count"></b><span>stories from <b id="s-src" style="display:inline;font:inherit;font-weight:600"></b> outlets</span></div>
+      <div class="stat"><span class="sc">Listen</span>
+        <div class="listen-all" id="listen-all"><button class="btn" id="play-heads">▶ Headlines <span id="m-heads"></span></button><button class="btn" id="play-full">▶ Full stories <span id="m-full"></span></button><button class="btn small rate" title="Reading speed">1×</button><select class="vsel" title="Voice" aria-label="Voice"></select></div></div>
+      <div><span class="sc">Source balance</span><div class="barline" id="bal"></div><div class="legend" id="bal-l"></div></div>
+      <div><span class="sc" id="p-label">Read 0</span><div class="barline"><i id="p-bar"></i></div><div class="legend" id="newline">Stories you open are ticked off</div></div>
+    </div>
+  </div>
+</header>
+<div class="toolbar"><div class="bar-in"><button class="tb-arrow l" aria-label="Scroll topics left">‹</button><div class="wrap" id="chips"></div><button class="tb-arrow r" aria-label="Scroll topics right">›</button></div></div>
+<div class="wrap" id="front"></div>
+<main class="wrap" id="main"></main>
+<footer><div class="wrap">
+  <p class="install" id="install"><b>Use it like an app:</b> on iPhone, open the page in Safari → Share → <i>Add to Home Screen</i>. On Android, open it in Chrome → menu ⋮ → <i>Install app</i>. It then opens full screen and keeps the last edition for offline reading. <button class="btn small" id="install-btn" hidden>Install now</button></p>
+  <p id="method"></p>
+  <p>Political lean labels are approximate (AllSides and Ad Fontes Media where rated; trade, wire and scientific press shown as center). They describe the outlet, not the story.</p>
+</div></footer>
+</div>
+
+<div id="reader" hidden>
+  <div class="scrim" data-close></div>
+  <article class="sheet-r" role="dialog" aria-modal="true" aria-labelledby="r-title" tabindex="-1">
+    <div class="r-bar"><button class="btn small" data-close>← Back to the paper</button><span class="sc" id="r-pos"></span></div>
+    <div id="r-body"></div>
+    <nav class="r-nav"><button class="btn" id="r-prev">← Previous</button><button class="btn" id="r-next">Next story →</button></nav>
+  </article>
+</div>
+<div id="pop" role="tooltip"></div>
+
+<script>
+const DATA = {"generated": "2026-10-14", "window": "2026-10-07 to 2026-10-14", "method": "Collected by hand for the prototype on 14 Oct 2026 from the publicly available part of each article. Every story uses the same format: what happened, who's involved, background, why it happened, what's next.", "items": [{"topic": "aerospace", "importance": 3, "title": "Airbus net orders pass 1,100 at nine-month mark", "source": "FlightGlobal", "author": "David Kaminski-Morrow", "date": "2026-10-08", "url": "https://www.flightglobal.com/aerospace/2026/10/airbus-net-orders-pass-1100-at-nine-month-mark/", "summary": "Airbus's net orders for 2026 passed 1,100 aircraft by the end of September, even though the month itself was quiet, with just two new deals for A320neo-family jets.", "brief": {"what": "Airbus's net orders for 2026 passed 1,100 aircraft by the end of September. September itself was quiet, with only two new orders.", "who": "Airbus; Air Cairo (15 A320neos); FlyOne Armenia (two A321neos); an unnamed customer that cancelled three A220-300s.", "context": "Net orders are new orders minus cancellations, so they show real demand building in the backlog. Airbus is targeting 870 deliveries this year.", "why": "Steady demand for the A320neo family carried the year-to-date total, even in a slow month.", "next": "The full-year order and delivery tallies come in January; deliveries against the 870 target are the number to watch."}}, {"topic": "aerospace", "importance": 2, "title": "Inside Chromalloy's push to disrupt engine OEMs' aftermarket stranglehold", "source": "FlightGlobal", "author": "Jon Hemmerdinger", "date": "2026-10-12", "url": "https://www.flightglobal.com/engines/2026/10/inside-chromalloys-push-to-disrupt-engine-oems-aftermarket-stranglehold/", "summary": "Turbofan parts maker Chromalloy is expanding to challenge engine OEMs in the lucrative aftermarket, while also selling into demand from AI data centres.", "brief": {"what": "Chromalloy, a maker of turbofan engine parts, is expanding to compete with engine manufacturers for aftermarket repair and parts work, and to supply AI data centres.", "who": "Chromalloy; the big engine makers (OEMs) that dominate the aftermarket.", "context": "Engine makers earn much of their profit from parts and repairs after the sale. Chromalloy's new site in Oldsmar, Florida runs a $30 million ceramic-coating machine and could double output to 100,000 parts a year.", "why": "Demand is growing in both markets at once; FlightGlobal frames it as a push to loosen engine makers' grip on aftermarket work.", "next": "The public report doesn't say."}}, {"topic": "aerospace", "importance": 2, "title": "Joby faces $116.9m in damages for trade-secret misappropriation and NDA breach", "source": "FlightGlobal", "author": "Brooke Ingemi", "date": "2026-10-08", "url": "https://www.flightglobal.com/aerospace/2026/10/joby-faces-116-9m-in-damages-for-trade-secret-misappropriation-and-nda-breach/", "summary": "A Florida federal jury found the air taxi developer breached an NDA with supplier Aerosonic and misused its trade secrets. Joby denies wrongdoing.", "brief": {"what": "A federal jury in Florida found air taxi developer Joby Aero breached a nondisclosure agreement and misused a supplier's trade secrets, awarding $116.9 million in damages.", "who": "Joby Aero (eVTOL developer, defendant); Aerosonic (sensor supplier, plaintiff).", "context": "Aerosonic supplied Joby with 10 air-data probes for its eVTOL aircraft under a mutual NDA.", "why": "The jury found Joby used Aerosonic's confidential information improperly. Joby denies all wrongdoing.", "next": "Joby says it will \"vigorously pursue\" post-trial remedies, so the case isn't over."}}, {"topic": "aerospace", "importance": 2, "title": "ZeroAvia targets early 2027 to close critical Series D funding", "source": "FlightGlobal", "author": "Dominic Perry", "date": "2026-10-12", "url": "https://www.flightglobal.com/engines/2026/10/zeroavia-targets-early-2027-to-close-critical-series-d-funding/", "summary": "The hydrogen-electric engine start-up needs new money by mid-2027 or faces more cutbacks, with UK losses above £110 million.", "brief": {"what": "Hydrogen-electric engine start-up ZeroAvia needs new funding by the second quarter of 2027 or faces more cutbacks, and aims to close a Series D round in early 2027.", "who": "ZeroAvia and its UK operation; future investors in the Series D round.", "context": "Cumulative losses at the UK unit are above £110 million. ZeroAvia has flight-tested its ZA600 system on a modified Dornier 228.", "why": "Its UK accounts show losses building up (over £110 million) while the technology is still in development, so it depends on new investment.", "next": "Whether the Series D closes on time. The round's size and investors haven't been disclosed."}}, {"topic": "aerospace", "importance": 2, "title": "Biman Bangladesh orders its first Airbus jets: four A350s and six A321neos", "source": "Airbus", "author": "Airbus press release", "date": "2026-10-07", "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-biman-bangladesh-airlines-places-firm-order-for-a350-900-and-a321neo-airbus-aircraft", "summary": "The all-Boeing flag carrier placed a firm order for 10 Airbus aircraft to support planned routes to North America, Europe and the Middle East.", "brief": {"what": "Biman Bangladesh Airlines placed a firm order for 10 Airbus jets: four A350-900 widebodies and six A321neo narrowbodies.", "who": "Biman Bangladesh (the national airline, previously all-Boeing); Airbus; Biman chairman Rumee A. Hossain.", "context": "It is Biman's first Airbus order. Airbus claims the A350 burns about 25% less fuel than previous-generation rivals and the A321neo at least 20% less (manufacturer figures).", "why": "Biman wants to expand internationally, including new routes to North America, Europe and the Middle East. Hossain cited Bangladesh's growing population, large diaspora and trade.", "next": "Delivery dates weren't given in the announcement."}, "also": [{"source": "Aviation Week", "title": "Boeing operator Biman Bangladesh opts to order Airbus jets", "url": "https://aviationweek.com/aviation-daily/2026-10-08", "date": "2026-10-07"}]}, {"topic": "aerospace", "importance": 2, "title": "FAA approves JetBlue's $58.5m purchase of Spirit's LaGuardia slots", "source": "Airways Magazine", "author": "Helwing Villamizar", "date": "2026-10-07", "url": "https://airwaysmag.com/new-post/jetblue-spirit-laguardia-slots-faa-approval", "summary": "JetBlue gets 22 former Spirit slots at slot-constrained LaGuardia after outbidding Frontier by $1 million at the bankruptcy auction.", "brief": {"what": "The FAA gave final approval for JetBlue to buy 22 former Spirit Airlines slots at New York's LaGuardia airport for $58.5 million.", "who": "JetBlue (buyer); Spirit Airlines (bankrupt seller); Frontier (losing bidder at $57.5m); the FAA; the Port Authority of New York and New Jersey.", "context": "Spirit stopped flying on 2 May 2026. LaGuardia is slot-controlled, so the right to take off and land there is scarce and valuable.", "why": "The FAA said keeping the slots with a low-fare airline helps passengers and competition; JetBlue will hold under 5% of LaGuardia's slots.", "next": "JetBlue can't sell or lease the slots before April 2028 and is evaluating up to 12 more daily LaGuardia round trips in 2027."}, "also": [{"source": "Aviation Week", "title": "JetBlue's Purchase Of Spirit's LaGuardia Slots Gets FAA Approval", "url": "https://aviationweek.com/air-transport/airports-networks/jetblues-purchase-spirits-laguardia-slots-gets-faa-approval", "date": "2026-10-07"}]}, {"topic": "aerospace", "importance": 2, "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war", "source": "Al Jazeera", "author": "Ahmed Diab", "date": "2026-10-08", "url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war", "summary": "A CBO report puts US military aircraft losses in the Iran campaign at $1.9bn to $3.3bn, most of them MQ-9 Reaper drones.", "brief": {"what": "The Congressional Budget Office says at least 81 US military aircraft have been lost or damaged in the war with Iran, at a cost of $1.9 billion to $3.3 billion.", "who": "The CBO; the Pentagon; 45 Senate Democrats and one independent who asked for a cost breakdown; Defense Secretary Pete Hegseth.", "context": "The losses include 12 F-15Es, one F-35A, seven KC-135 tankers and 45 MQ-9 Reaper drones. The CBO estimates the whole war has cost about $38 billion, rising roughly $2 billion a month.", "why": "The campaign, which began on 28 February, has no lasting ceasefire. Analyst Harlan Ullman notes that cheap drones can inflict heavy damage on large militaries.", "next": "Senators want a detailed breakdown; the Pentagon says it has \"nothing further to provide\"."}}, {"topic": "aerospace", "importance": 1, "title": "Brazil's regulator clears American Airlines' 8% stake in Azul, with conditions", "source": "Airways Magazine", "author": "John Huston", "date": "2026-10-08", "url": "https://airwaysmag.com/new-post/american-airlines-azul-investment-brazil-approval", "summary": "CADE approved American's $100 million investment in Azul, provided the airlines sign an enforceable agreement limiting information sharing.", "brief": {"what": "Brazil's competition regulator CADE conditionally approved American Airlines' $100 million investment for about 8% of Azul.", "who": "American Airlines; Azul; CADE; United (which already raised its Azul stake to about 8%); Abra Group, owner of rival GOL.", "context": "Azul emerged from Chapter 11 bankruptcy in February 2026, with US carriers taking minority stakes.", "why": "CADE was concerned about information sharing and coordination on Brazil-US routes, so it required an enforceable Merger Control Agreement.", "next": "Abra Group has appealed an earlier approval, according to Reuters; the outcome is open."}}, {"topic": "business", "importance": 3, "title": "Economics Nobel goes to Robert Hall and Michael Woodford for work on stabilising economies", "source": "Nature", "author": "Philip Ball", "date": "2026-10-12", "url": "https://www.nature.com/articles/d41586-026-03251-4", "summary": "The prize honours research that reshaped how central banks and governments respond to booms, busts and shocks. Outlets framed it differently.", "brief": {"what": "Robert Hall (Stanford) and Michael Woodford (Columbia) won the 2026 Nobel memorial prize in economics for research on stabilising economies.", "who": "The two laureates; the Royal Swedish Academy of Sciences. Economists Olivier Blanchard and John Cochrane commented.", "context": "Their work underpins how central banks use interest rates and expectations to smooth booms and busts. Woodford's New Keynesian framework is the standard model in central banking.", "why": "The committee said their work \"generated a paradigm shift in stabilisation policy\". Coverage differed: Nature stressed its influence on crisis policy, the Washington Examiner that their models have challenged recent Fed policy.", "next": "They share about $1.2 million; the prize is presented in December."}, "also": [{"source": "Washington Examiner", "author": "Molly Parks", "date": "2026-10-12", "title": "Two Americans win Nobel for economic model challenging government response to 2020s economic shocks", "url": "https://www.washingtonexaminer.com/policy/economy/4762733/american-win-nobel-economic-prize/", "note": "Frames the work as challenging recent Federal Reserve policy."}]}, {"topic": "business", "importance": 3, "title": "Trump announces Russian diesel deal amid soaring US fuel prices", "source": "Al Jazeera", "author": "Al Jazeera Staff, AFP and Reuters", "date": "2026-10-09", "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices", "summary": "After a call with Putin, Trump said Russia will supply diesel to US and world markets, with prices up about 70% since the Iran war began. Coverage split sharply.", "brief": {"what": "President Trump said Russia agreed to supply diesel to the US and world markets after a call with Vladimir Putin.", "who": "Trump; Putin; Kremlin envoy Kirill Dmitriev; Senate Republicans including Thom Tillis, who oppose the deal.", "context": "US diesel prices are near record highs (about $6.27 a gallon), up roughly 70% since the Iran war began. The G7 had just agreed to release 100 million barrels of oil and diesel.", "why": "The administration wants lower fuel prices before the 3 November midterms. Trump's stated volumes (300,000 tons now, then more) don't add up to the total he gave.", "next": "Critics question whether buying Russian fuel is legal under sanctions. Fox Business led with Trump's account; The Dispatch asked if the deal is legal."}, "also": [{"source": "Fox Business", "author": "Brie Stimson", "date": "2026-10-09", "title": "Trump says Russia has agreed to deliver millions in diesel fuel after 'highly successful discussion'", "url": "https://www.foxbusiness.com/politics/trump-says-russia-agreed-deliver-millions-diesel-fuel-highly-successful-discussion", "note": "Leads with Trump's account and the benefit to farmers and truckers."}, {"source": "The Dispatch", "author": "Surya Gowda, Evan Spear, James P. Sutton, Ross Anderson", "date": "2026-10-13", "title": "Is Trump's Diesel Deal Legal?", "url": "https://thedispatch.com/newsletter/morning/is-trumps-diesel-deal-legal/", "note": "Questions the deal's legality."}]}, {"topic": "business", "importance": 2, "title": "Rising fuel costs slash Delta's profit outlook despite strong demand", "source": "Al Jazeera", "author": "Al Jazeera Staff and Reuters", "date": "2026-10-09", "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand", "summary": "Delta cut its 2026 earnings guidance as its fuel bill heads $6bn higher, even with fares up about 20% and premium revenue rising.", "brief": {"what": "Delta Air Lines cut its 2026 profit forecast because fuel costs will rise by about $6 billion this year, even though demand is strong.", "who": "Delta and CEO Ed Bastian; analysts surveyed by LSEG; United Airlines, which reports next.", "context": "US airlines spent nearly $43 billion on fuel in the first eight months, $13.2 billion more than a year earlier. Delta owns a refinery, which softens the blow.", "why": "Jet fuel prices rose with the Iran war. Delta raised fares about 20% but not enough to offset fuel.", "next": "Guidance is now $5.10-$5.60 a share (was $6.50-$7.50). United reports on 20 October."}}, {"topic": "markets", "importance": 2, "title": "White House sets up panel to review Fed Governor Lisa Cook's removal", "source": "Al Jazeera", "author": "Al Jazeera Staff and Reuters", "date": "2026-10-09", "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook", "summary": "A three-member committee will decide whether there is cause to fire Cook over mortgage-document allegations, with a hearing on 5 November.", "brief": {"what": "The White House set up a three-member panel to decide whether Fed Governor Lisa Cook can be fired over alleged false statements on mortgage documents.", "who": "Lisa Cook; President Trump; FHFA director Bill Pulte, who made the allegations; the Supreme Court.", "context": "Trump first tried to fire Cook in August 2025; a judge blocked it, and the Supreme Court ruled a governor can only be removed for cause through a clear process.", "why": "The case tests whether the president can pressure the Fed, which just raised interest rates for the first time in three years.", "next": "Cook must attend a hearing on 5 November. Her term runs to 2038."}}, {"topic": "business", "importance": 2, "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims", "source": "Al Jazeera", "author": "Al Jazeera Staff, AP and Reuters", "date": "2026-10-08", "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims", "summary": "The government suspended several tech firms from a skilled-worker green card route, citing $22bn in alleged visa fraud.", "brief": {"what": "The US suspended Microsoft, Adobe, Infosys and Tata Consultancy Services from a programme that gives skilled foreign workers a path to permanent residency, citing fraud.", "who": "The White House and VP JD Vance; Labor Secretary Keith Sonderling; Microsoft, Adobe, Infosys, TCS; nine universities including Harvard and Stanford.", "context": "The H-1B visa system is mostly used by tech firms, and nearly three-quarters of approvals go to Indian workers.", "why": "The administration says employers are replacing Americans; it cites $22 billion in alleged visa fraud. Microsoft says 80% of its visas were for existing staff.", "next": "A separate probe targets universities over J-1 visas."}}, {"topic": "business", "importance": 2, "title": "US proposes $100,000 charge for international students to work after graduating", "source": "Nature", "author": "Dan Garisto", "date": "2026-10-08", "url": "https://www.nature.com/articles/d41586-026-02921-7", "summary": "A proposed rule would put a $100,000 price on OPT, the main route for foreign graduates to work in the US. Economists warn of a big drop in enrolment.", "brief": {"what": "The Department of Homeland Security proposed a $100,000 charge for international students to work in the US after graduation through OPT.", "who": "DHS; universities; international students; economists Michael Clemens and Ina Ganguli.", "context": "About a third of the US's 1.2 million international students used OPT in 2025-26. A $100,000 H-1B fee introduced in 2025 cut applications by a reported 90%.", "why": "DHS says the rule would \"combat fraud\" and \"protect US workers\".", "next": "It's a proposal; no final date. DHS projects enrolment could fall up to 44%, and Clemens estimates colleges could lose $2.5-4.2 billion a year."}}, {"topic": "business", "importance": 1, "title": "Trucking firms file for bankruptcy as diesel costs keep surging", "source": "Fox Business", "author": "Sophia Compton", "date": "2026-10-09", "url": "https://www.foxbusiness.com/lifestyle/trucking-industry-hit-string-bankruptcy-filings-diesel-costs-surge", "summary": "At least eight transport companies filed for Chapter 11 in September as fuel and insurance costs rose.", "brief": {"what": "At least eight US transport companies filed for Chapter 11 bankruptcy in September.", "who": "Truckload LLC, Globemaster, Pacer Transport, Mill Creek Logistics and others; the White House.", "context": "Diesel recently sold for about $6.26 a gallon at a Texas truck stop.", "why": "Higher fuel and insurance costs; one owner said insurance was the bigger pressure.", "next": "The administration temporarily allowed cheaper off-road diesel on highways, which could save 50 cents to $1 a gallon. Freight costs feed into prices across the economy."}}, {"topic": "markets", "importance": 1, "title": "IMF: UK to have second-highest inflation in the G7", "source": "City AM", "author": "Maurício Alencar", "date": "2026-10-13", "url": "https://www.cityam.com/uk-economy-to-suffer-second-highest-inflation-in-g7/", "summary": "The IMF expects UK inflation to average 3.3% this year, above target for a seventh year, with only the US higher.", "brief": {"what": "The IMF expects the UK to have the second-highest inflation in the G7 over the next two years.", "who": "The IMF; Chancellor John Healey; Bank of England Governor Andrew Bailey.", "context": "Forecast: 3.3% inflation in 2026 and 2.8% in 2027, above the 2% target for a seventh year. Growth: 1.3% this year, 1.2% next.", "why": "The IMF links price pressure to AI-driven investment and to wars squeezing oil and gas supply.", "next": "Its forecasts assume Hormuz shipping resumes in March 2027. UK monetary policy is expected to stay tighter than elsewhere."}}, {"topic": "environment", "importance": 2, "title": "BP braces for up to $4.5bn hit as it pivots away from green energy", "source": "City AM", "author": "Samuel Norman", "date": "2026-10-13", "url": "https://www.cityam.com/bp-braces-for-hit-of-up-to-4-5bn-in-pivot-from-green-energy/", "summary": "BP will book a $3bn-$4.5bn impairment, mostly on its low-carbon businesses, after cutting transition spending.", "brief": {"what": "BP will book a $3 billion to $4.5 billion write-down in its third-quarter results, mostly on its low-carbon businesses.", "who": "BP and new CEO Meg O'Neill; activist investor Elliott Management (over 5% of shares).", "context": "BP has cut planned green spending by more than $5 billion a year, to a $2 billion ceiling, and sold most of its clean-energy venture portfolio.", "why": "BP is pivoting back toward oil and gas under investor pressure, so green assets are now valued lower.", "next": "O'Neill presents her first strategy update in New York in December. Net debt is expected to fall to $13.5-14.5 billion."}}, {"topic": "environment", "importance": 2, "title": "Tracking the negotiating texts at the COP17 biodiversity summit", "source": "Carbon Brief", "author": "Giuliana Viglione, Ho Woo Nam", "date": "2026-10-12", "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit", "summary": "196 parties meet in Yerevan from 19 to 30 October; countries are off track on 22 of 23 global nature targets, and finance is the main fight.", "brief": {"what": "Carbon Brief launched a tracker of the draft texts governments will negotiate at COP17, the UN biodiversity summit.", "who": "196 parties to the Convention on Biological Diversity; global south and global north country blocs.", "context": "COP17 is halfway to the 2030 Kunming-Montreal targets, and countries are \"not on track\" for 22 of the 23 targets, according to the convention.", "why": "Money is the main dispute: poorer countries want a new fund under the convention, richer ones prefer the existing Global Environment Facility. The same fight suspended COP16 in 2024.", "next": "The summit runs in Yerevan, Armenia, from 19 to 30 October."}}, {"topic": "environment", "importance": 2, "title": "The race for lithium is becoming a race for water", "source": "Inside Climate News", "author": "Johanna Hansel, Carla Samon Ros, Wyatt Myskow", "date": "2026-10-11", "url": "https://insideclimatenews.org/news/11102026/lithium-race-becomes-race-for-water-in-arid-west/", "summary": "Lithium projects near California's Salton Sea could need up to 100,000 acre-feet of water a year in a region facing Colorado River cuts.", "brief": {"what": "A lithium boom near California's Salton Sea is creating a fight over scarce water.", "who": "Lithium developers including Hell's Kitchen (CEO Rod Colwell); Imperial County officials; the Imperial Irrigation District; local residents.", "context": "Companies want to extract lithium for batteries from underground brine. The county projects up to 100,000 acre-feet of water a year for full buildout.", "why": "EV battery demand drives the boom, but the region must also cut water use by 250,000 acre-feet from 2027 under Colorado River limits.", "next": "An appeals court ruled against Hell's Kitchen's approval over water supply; the legal fight continues."}}, {"topic": "environment", "importance": 1, "title": "How a bid to beat drought drove Corpus Christi to the brink", "source": "Inside Climate News", "author": "Dylan Baddour, Neena Satija", "date": "2026-10-12", "url": "https://insideclimatenews.org/news/12102026/corpus-christi-desalination-plant-financial-political-quagmire/", "summary": "Corpus Christi spent at least $50m on a desalination plant that was never built, as costs rose from $140m to $1.2bn.", "brief": {"what": "Corpus Christi, Texas, has spent at least $50 million on a seawater desalination plant that was never built.", "who": "City leaders; industrial water users OxyChem, Valero and Citgo; community organiser Isabel Araiza; Governor Greg Abbott.", "context": "The plan, approved in 2018, exempted big industrial users from drought surcharges in return for funding.", "why": "Costs rose from $140 million to $1.2 billion, and the city fired its contractor. Reservoirs nearly ran dry this spring.", "next": "Voters decide on the industry exemption in November. Abandoning the plant could mean repaying $235 million in state loans plus interest."}}, {"topic": "science", "importance": 2, "title": "Ex-OpenAI researchers say they were fired for raising safety concerns", "source": "Al Jazeera", "author": "John Power", "date": "2026-10-09", "url": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns", "summary": "Three researchers say they were dismissed over safety work; OpenAI says it was misconduct involving company information.", "brief": {"what": "Three former OpenAI safety researchers say they were fired for their safety work.", "who": "Researchers Mikita Balesni, Tomek Korbak and Jasmine Wang; OpenAI.", "context": "The AI industry is debating how to control powerful models. Last month six companies signed a voluntary safety accord that critics called nonbinding.", "why": "OpenAI says they were dismissed for mishandling company information; the researchers deny that and say they were doing their jobs.", "next": "Their open letter warns of a \"chilling\" effect on staff who raise concerns."}}, {"topic": "science", "importance": 2, "title": "Plague scare: what scientists know, and what Russia won't say", "source": "Nature", "author": "Max Kozlov", "date": "2026-10-08", "url": "https://www.nature.com/articles/d41586-026-03215-8", "summary": "A researcher died at a Siberian plague lab, possibly of pneumonic plague. Experts say the outbreak risk is low but surveillance gaps are real.", "brief": {"what": "A 28-year-old researcher died at a plague research lab in Irkutsk, Siberia, possibly of pneumonic plague.", "who": "Russia's health regulator; the WHO and the US government; biosecurity expert Gregory Koblentz.", "context": "About 200 people may have been exposed and quarantined. Russia says tests found no dangerous pathogens.", "why": "The cause hasn't been confirmed; Russia called it pneumonia of \"unknown\" origin.", "next": "The WHO and US want epidemiological data. Experts say a wider outbreak is unlikely because plague is treatable."}}, {"topic": "science", "importance": 2, "title": "IMF warns AI is a 'slow-moving tsunami' that could hit 60% of jobs in rich economies", "source": "City AM", "author": "Saskia Koopman", "date": "2026-10-12", "url": "https://www.cityam.com/slow-moving-tsunami-imf-warns-ai-could-hit-60-per-cent-of-jobs-in-advanced-economies/", "summary": "IMF chief Kristalina Georgieva says AI could affect 40% of jobs worldwide, with young workers most exposed.", "brief": {"what": "IMF chief Kristalina Georgieva warned that AI could affect 40% of jobs worldwide and 60% in advanced economies.", "who": "The IMF; Georgieva; UK AI minister Kanishka Narayan.", "context": "An IMF study found 10% of US jobs now need advanced AI skills. An OECD report says nearly four in five London jobs are highly exposed to generative AI.", "why": "AI is automating routine entry-level work that used to start professional careers.", "next": "Georgieva urged investment in lifelong learning and asked how governments will tax income that shifts from workers to capital."}}, {"topic": "world", "importance": 2, "title": "Supreme Court case tests how much judges must defer to federal agencies", "source": "Reason", "author": "Damon Root", "date": "2026-10-13", "url": "https://reason.com/2026/10/13/a-new-supreme-court-case-tests-the-limits-of-judicial-deference-to-federal-agencies/", "summary": "Beaird v. United States asks whether courts must follow the Sentencing Commission's commentary, reviving a wider debate about the administrative state.", "brief": {"what": "The Supreme Court will hear Beaird v. United States on how much judges must defer to the Sentencing Commission's commentary.", "who": "Kendrick Beaird (defendant); the US government; the Sentencing Commission; Justices Kagan and Gorsuch, whose past opinions frame the debate.", "context": "Beaird's sentence was raised because his magazine held 17 rounds; the commission's commentary, not the guideline itself, defines \"large-capacity\" as over 15.", "why": "Reason's Damon Root argues it revives a wider fight over courts deferring to federal agencies (\"the administrative state\"). That's the author's view.", "next": "Oral arguments come first; a decision is expected later in the term."}, "kind": "analysis"}, {"topic": "world", "importance": 1, "title": "Federal agents search Rep. Ilhan Omar's home in immigration fraud probe", "source": "Reason", "author": "Tosin Akintola", "date": "2026-10-12", "url": "https://reason.com/2026/10/12/dhs-searched-ilhan-omars-home-as-part-of-immigration-fraud-investigation/", "summary": "A court-authorised search tied to Omar's immigration paperwork; she calls it an abuse of power, the administration says it's not political.", "brief": {"what": "Federal investigators searched Rep. Ilhan Omar's Washington home under a court-authorised warrant.", "who": "Rep. Omar; Homeland Security Investigations; DHS Secretary Markwayne Mullin; VP JD Vance.", "context": "CBS reports the probe centres on Omar's immigration paperwork; the NYT reports possible false-statement and document-fraud offences.", "why": "Officials say it's a criminal investigation and \"not political\"; Omar calls it an \"outrageous abuse of power\". Reason's author argues it is likely politically driven.", "next": "No charges have been filed."}, "kind": "analysis"}, {"topic": "markets", "importance": 2, "title": "Wall Street finishes a record-setting week with gains", "source": "Associated Press", "author": "Stan Choe", "date": "2026-10-09", "url": "https://www.ajc.com/news/2026/10/wall-street-finishes-its-record-setting-week-with-gains/", "summary": "The S&P 500 closed at 7,811 after a week of records, even as the 10-year Treasury yield sits near its highest since 2002 and Brent oil above $100.", "brief": {"what": "US stocks ended a week of record highs with gains: the S&P 500 rose 0.6% to 7,811.54, the Dow 0.8% to 51,654.95 and the Nasdaq 0.6%.", "who": "Investors; telecom stocks (T-Mobile -13%, AT&T -10%, Verizon -9%); tower owners (Crown Castle +16%, American Tower +9%); SpaceX; Humana (+12%).", "context": "The 10-year Treasury yield is 5.24%, near its highest since 2002, and Brent crude is $104.72. Michigan consumers now expect 4.7% inflation, up from 3.4% before the Iran war.", "why": "Strong profit expectations are lifting stocks. SpaceX's purchase of mobile spectrum sank wireless carriers and lifted tower stocks; yields rose on inflation and US debt worries.", "next": "Big banks (Citigroup, JPMorgan, Wells Fargo) report earnings next, starting earnings season."}}, {"topic": "markets", "importance": 2, "title": "Stocks slip as the 30-year Treasury yield hits a 24-year high", "source": "Reuters", "author": "Stephen Culp", "date": "2026-10-07", "url": "https://virginiabusiness.com/wall-street-closes-lower-treasury-yields-inflation/", "summary": "Brent briefly topped $100 and long-term borrowing costs jumped, reviving worries that the Fed will keep raising rates.", "brief": {"what": "US stocks closed slightly lower (S&P 500 -0.2%, Dow -0.7%) as Brent crude briefly rose above $100 and the 30-year Treasury yield hit its highest in 24 years.", "who": "Investors; the Federal Reserve; the International Energy Agency; portfolio manager Thomas Martin of GLOBALT.", "context": "In September the Fed raised rates for the first time since July 2023. Markets now see under a 20% chance of another hike in October, down from 37.6% a week earlier.", "why": "Iran-war oil supply fears revived inflation worries, and heavy government and corporate debt drove a global bond sell-off. Martin said investors were taking profits after a correction \"didn't happen\".", "next": "Stocks pared losses after the IEA agreed to speed up oil stock releases. Earnings season starts next week; analysts expect 30.6% S&P 500 profit growth."}}, {"topic": "culture", "importance": 1, "title": "MLB's salary cap fight is about labour costs, not competitive balance, argues Reason", "source": "Reason", "author": "Jason Russell", "date": "2026-10-13", "url": "https://reason.com/2026/10/13/mlbs-salary-cap-fight-isnt-about-competitive-balance-its-about-limiting-labor-costs/", "summary": "An opinion column argues baseball owners want a salary cap to hold down player pay, and expects a lockout.", "brief": {"what": "Reason's managing editor argues Major League Baseball owners want a salary cap mainly to limit what they pay players, not to make the league more balanced.", "who": "MLB team owners (pushing for a cap); the players' union (resisting); President Trump (backing the owners); the National Labor Relations Board.", "context": "Small-market teams such as Milwaukee (19th in payroll), Tampa Bay (28th) and Cleveland (30th) already compete, which the author says weakens the balance argument. Caps in other sports have had scandals.", "why": "In the author's view, owners are \"almost certainly focused on keeping down their labor costs\". He cites studies suggesting caps don't create balance. This is an opinion piece.", "next": "The author expects a lockout. Owners plan to offer a salary floor, which the union is unlikely to accept."}, "kind": "opinion"}, {"topic": "culture", "importance": 1, "title": "The Rugby League World Cup starts this week behind a paywall, and that's a problem, says City AM", "source": "City AM", "author": "Simon Dent", "date": "2026-10-13", "url": "https://www.cityam.com/a-rugby-league-world-cup-starts-this-week-and-you-didnt-know-thats-a-huge-problem/", "summary": "Every match is exclusive to Premier Sports in the UK and Ireland, after the BBC showed them all in 2022. The author says that limits new fans.", "brief": {"what": "The 2026 Rugby League World Cup starts this week, with every match shown only on pay-TV channel Premier Sports in Britain and Ireland.", "who": "Premier Sports (exclusive broadcaster); the BBC (which showed every match in 2022); author Simon Dent, an entrepreneur; teams including Australia, New Zealand, Samoa, Tonga and England.", "context": "The 2022 tournament on free TV drew many first-time viewers. Australia remain the team to beat, and Samoa reached the last final.", "why": "The author argues a paywall cuts the chance of new people discovering the sport, though he accepts the deal may make commercial sense. This is an opinion piece.", "next": "He calls for podcasts, documentaries and creator collaborations to market the sport beyond existing fans."}, "kind": "opinion"}, {"topic": "culture", "importance": 1, "title": "Award-winning microscopy video disqualified over AI use", "source": "Nature", "author": "Rachel Fieldhouse", "date": "2026-10-12", "url": "https://www.nature.com/articles/d41586-026-03240-7", "summary": "Nikon stripped the winner of its Small World in Motion contest after scientists questioned whether AI had been used to make the video.", "brief": {"what": "Nikon disqualified the first-place entry in its Small World in Motion microscopy video competition because it broke rules banning AI-generated videos.", "who": "Ning Xu, an optical engineer now at the National University of Singapore (entrant); Nikon Instruments (organiser); scientists on LinkedIn who flagged the video.", "context": "The video of moving lung cilia won on 15 September. Xu said an AI model was used in post-processing to enhance parts of the image.", "why": "Scientists said some features looked biologically implausible. Nikon said the decision rested \"solely\" on eligibility and is not a judgment of Xu's reputation or intent.", "next": "No further steps were reported. Xu did not respond to Nature's request for comment."}}], "week": [{"text": "The fuel shock is spreading. US diesel is up about 70% since the Iran war began; Trump announced a contested Russian diesel deal, Delta cut its profit forecast, and small trucking firms are going bankrupt.", "urls": ["https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices", "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand", "https://www.foxbusiness.com/lifestyle/trucking-industry-hit-string-bankruptcy-filings-diesel-costs-surge"]}, {"text": "Stocks hit records even as borrowing costs climb: the S&P 500 closed at 7,811 while the 10-year Treasury yield sits near its highest since 2002 and Brent oil is above $100.", "urls": ["https://www.ajc.com/news/2026/10/wall-street-finishes-its-record-setting-week-with-gains/", "https://virginiabusiness.com/wall-street-closes-lower-treasury-yields-inflation/"]}, {"text": "Aerospace: Airbus passed 1,100 net orders for the year, Biman Bangladesh placed its first Airbus order, JetBlue won Spirit's LaGuardia slots, and Joby lost a $116.9m trade-secret verdict.", "urls": ["https://www.flightglobal.com/aerospace/2026/10/airbus-net-orders-pass-1100-at-nine-month-mark/", "https://www.airbus.com/en/newsroom/press-releases/2026-10-biman-bangladesh-airlines-places-firm-order-for-a350-900-and-a321neo-airbus-aircraft", "https://airwaysmag.com/new-post/jetblue-spirit-laguardia-slots-faa-approval", "https://www.flightglobal.com/aerospace/2026/10/joby-faces-116-9m-in-damages-for-trade-secret-misappropriation-and-nda-breach/"]}, {"text": "Central bank independence is being tested: a White House panel will decide whether Fed Governor Lisa Cook can be removed, with a hearing on 5 November.", "urls": ["https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook"]}, {"text": "The US is tightening skilled-worker routes: Microsoft, Adobe and others were suspended from a green card programme, and a $100,000 fee was proposed for foreign graduates' work permits.", "urls": ["https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims", "https://www.nature.com/articles/d41586-026-02921-7"]}], "watch": [{"date": "2026-10-19", "label": "COP17 biodiversity summit opens in Yerevan (to 30 Oct)", "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit"}, {"date": "2026-10-20", "label": "United Airlines reports Q3 results, after Delta's fuel warning", "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand"}, {"date": "2026-10-31", "label": "BP Q3 results, with a $3-4.5bn write-down", "url": "https://www.cityam.com/bp-braces-for-hit-of-up-to-4-5bn-in-pivot-from-green-energy/", "when": "Late Oct"}, {"date": "2026-11-03", "label": "US midterm elections", "url": null}, {"date": "2026-11-05", "label": "Hearing on removing Fed Governor Lisa Cook", "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook"}, {"date": "2026-12-01", "label": "BP's first strategy update under CEO Meg O'Neill", "url": "https://www.cityam.com/bp-braces-for-hit-of-up-to-4-5bn-in-pivot-from-green-energy/", "when": "Dec"}], "markets": {"asof": "2026-10-09", "label": "Fri 9 Oct close", "source": "Associated Press", "items": [{"name": "S&P 500", "value": "7,811.54", "change": "+0.6%"}, {"name": "Dow", "value": "51,654.95", "change": "+0.8%"}, {"name": "Nasdaq", "value": "27,366.17", "change": "+0.6%"}, {"name": "Brent oil", "value": "$104.72", "change": "+0.4%"}, {"name": "US 10-yr yield", "value": "5.24%", "change": "+0.02 pt"}]}, "glossary": {"net orders": "Orders received minus cancellations over a period. The cleanest measure of real demand for an aircraft maker.", "A320neo": "Airbus's best-selling single-aisle jet family. 'neo' = new engine option, roughly 15-20% less fuel burn than the original A320.", "narrowbody": "A single-aisle airliner (e.g. A320, 737) used mostly on short and medium routes.", "widebody": "A twin-aisle airliner (e.g. A350, 787) used mostly on long-haul routes.", "MRO": "Maintenance, Repair and Overhaul: the business of keeping aircraft and engines airworthy. A large, steady aftermarket revenue pool.", "aftermarket": "Revenue earned after a product is sold: spare parts, repairs and services. For engine makers it is often more profitable than selling the engine.", "OEM": "Original Equipment Manufacturer: the company that designs and builds the product (Airbus, Boeing, GE, Rolls-Royce), as opposed to third-party suppliers.", "turbofan": "The jet engine type on almost every airliner: a large front fan pushes most air around the core, which makes it quieter and more fuel efficient.", "certification": "Regulator approval (FAA, EASA, Rosaviatsia...) proving an aircraft type is safe. Requires hundreds of test flights; delays here delay deliveries.", "air taxi": "A small, usually electric aircraft (eVTOL) meant to carry a few passengers across a city, taking off and landing vertically.", "eVTOL": "electric Vertical Take-Off and Landing aircraft, the technology behind most planned air taxis.", "trade secret": "Confidential business information (designs, processes) protected by law. Misusing a rival's trade secrets can lead to large damages.", "Series D": "A fourth major round of venture funding. By this stage investors expect a clear path to revenue; failing to close one can threaten the company.", "hydrogen-electric": "A powertrain where hydrogen feeds a fuel cell that makes electricity for electric motors, emitting only water.", "slots": "Permission to take off or land at a congested airport at a specific time. At airports like LaGuardia they are scarce and very valuable.", "antitrust": "Competition law. Regulators review deals to make sure they do not give one company too much market power.", "lessor": "A company that owns aircraft and rents them to airlines. Lessors own around half of the world's airliner fleet.", "damp-lease": "Leasing an aircraft with part of the crew (usually pilots) included; between a dry lease (aircraft only) and a wet lease (aircraft, crew, maintenance, insurance).", "profit outlook": "Also called guidance: the earnings range a company tells investors to expect. Cutting it usually moves the share price.", "jet fuel": "Kerosene-based fuel. Typically 25-30% of an airline's costs, so oil price shocks hit airline profits quickly.", "Federal Reserve": "The US central bank. It sets interest rates to manage inflation and employment; its independence from the president is a long-standing norm.", "net zero": "Cutting greenhouse-gas emissions as far as possible and balancing the rest with removals, so the total added to the atmosphere is zero.", "COP17": "The 17th Conference of the Parties to the UN Convention on Biological Diversity, where governments negotiate nature-protection targets.", "desalination": "Removing salt from seawater or brackish water to make drinking water. Reliable but energy-hungry and expensive to build.", "lithium": "The key metal in rechargeable batteries for EVs and electronics. Extracting it often uses large amounts of water.", "CBO": "Congressional Budget Office: a non-partisan US agency that estimates the costs of policies for Congress.", "deepfake": "AI-generated video, image or audio that convincingly imitates a real person.", "peer review": "Checking of a scientific paper by independent experts before publication; the main quality filter in science.", "robotaxi": "A driverless taxi service (e.g. Waymo, Tesla), operating without a human safety driver.", "green card": "US lawful permanent residency, allowing someone to live and work in the US indefinitely.", "visa programme": "Here, a US work-visa scheme that lets employers hire foreign skilled workers.", "Starlink": "SpaceX's satellite internet network, now also sold to airlines for in-flight wi-fi.", "spectrum": "Radio frequencies governments license to telecom and satellite operators.", "impairment": "A write-down: the company admits an asset is worth less than it paid, and books the difference as a loss.", "OPT": "Optional Practical Training: lets international students work in the US for one to three years after graduating.", "H-1B": "The main US visa for skilled foreign workers, mostly used by tech companies.", "CADE": "Brazil's competition regulator, which reviews mergers and stakes for antitrust risk.", "Chapter 11": "US bankruptcy process that lets a company keep operating while it restructures its debts.", "earnings per share": "Profit divided by the number of shares. The headline number investors use to judge a company's results.", "New Keynesian": "The mainstream economic model behind modern central banking: prices adjust slowly, so interest rates and expectations can steady the economy.", "monetary policy": "What a central bank does with interest rates and money supply to control inflation and support jobs.", "G7": "Group of Seven large advanced economies: US, Japan, Germany, UK, France, Italy, Canada.", "IMF": "International Monetary Fund: lends to countries in trouble and publishes widely watched economic forecasts.", "MQ-9 Reaper": "A large US military drone used for surveillance and strikes.", "Kunming-Montreal": "The 2022 global biodiversity agreement with 23 targets for 2030, including protecting 30% of land and sea.", "acre-feet": "A US water unit: enough to cover one acre one foot deep, about 1.23 million litres.", "pneumonic plague": "The lung form of plague. It can spread person to person, but is treatable with antibiotics if caught early.", "preprint": "A research paper shared publicly before peer review.", "NHTSA": "The US road safety regulator, which collects crash data on self-driving cars.", "Sentencing Commission": "A US agency that writes the guidelines federal judges use to set prison sentences.", "deference": "When courts accept a government agency's interpretation of an unclear rule instead of deciding it themselves.", "Strait of Hormuz": "The narrow sea lane out of the Persian Gulf; about a fifth of the world's oil normally passes through it.", "transition businesses": "An energy company's low-carbon divisions: renewables, hydrogen, EV charging and similar.", "Treasury yield": "The interest rate the US government pays to borrow. When it rises, mortgages and company loans get more expensive too.", "Brent": "The main global benchmark price for crude oil.", "earnings season": "The few weeks each quarter when most big companies report their results.", "correction": "A fall of 10% or more in a stock index from its recent peak."}, "sources": {"Reuters": {"lean": "center", "kind": "wire"}, "Associated Press": {"lean": "center", "kind": "wire"}, "BBC News": {"lean": "center", "kind": "newspaper"}, "The Economist": {"lean": "center", "kind": "magazine"}, "Financial Times": {"lean": "center", "kind": "newspaper"}, "Wall Street Journal": {"lean": "center-right", "kind": "newspaper"}, "Washington Examiner": {"lean": "right", "kind": "newspaper"}, "Fox Business": {"lean": "right", "kind": "broadcaster"}, "The Guardian": {"lean": "left", "kind": "newspaper"}, "NPR": {"lean": "center-left", "kind": "broadcaster"}, "Al Jazeera": {"lean": "center-left", "kind": "broadcaster"}, "Inside Climate News": {"lean": "center-left", "kind": "nonprofit"}, "Carbon Brief": {"lean": "center", "kind": "specialist"}, "FlightGlobal": {"lean": "center", "kind": "trade"}, "Aviation Week": {"lean": "center", "kind": "trade"}, "Simple Flying": {"lean": "center", "kind": "trade"}, "SpaceNews": {"lean": "center", "kind": "trade"}, "Nature": {"lean": "center", "kind": "peer-reviewed"}, "Science (AAAS)": {"lean": "center", "kind": "peer-reviewed"}, "The Conversation": {"lean": "center-left", "kind": "academic"}, "The Dispatch": {"lean": "center-right", "kind": "magazine"}, "Reason": {"lean": "center-right", "kind": "magazine"}, "City AM": {"lean": "center-right", "kind": "newspaper"}, "National Review": {"lean": "right", "kind": "magazine"}, "The Telegraph": {"lean": "center-right", "kind": "newspaper"}, "New York Post": {"lean": "right", "kind": "newspaper"}, "Airways Magazine": {"lean": "center", "kind": "trade"}, "Airbus": {"lean": "center", "kind": "press release"}, "The New York Times": {"lean": "center-left", "kind": "newspaper"}, "The Washington Post": {"lean": "center-left", "kind": "newspaper"}, "Bloomberg": {"lean": "center-left", "kind": "newspaper"}}};
+const TOPICS = {
+  aerospace:{label:"Aerospace & Aviation"}, business:{label:"Economy & Industry"},
+  markets:{label:"Markets & Finance"}, environment:{label:"Environment & Energy"}, science:{label:"Science & Tech"}, world:{label:"World & Politics"}, culture:{label:"Culture & Sports"}
+};
+const LEAN_SIDE = l => l.includes("left") ? "left" : l.includes("right") ? "right" : "center";
+const store = {get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const leanOf = s => (DATA.sources[s]||{}).lean || "center";
+
+const SECTIONS = [["what","What happened"],["who","Who's involved"],["context","Background"],["why","Why it happened"],["next","What's next"]];
+// brief is {what, who, context, why, next}; older data may have a list of paragraphs or nothing
+function normBrief(it){ const b = it.brief;
+  if (b && !Array.isArray(b)) return SECTIONS.filter(([k])=>b[k]).map(([k,h])=>({h, t:b[k]}));
+  return (Array.isArray(b) && b.length ? b : [it.summary]).map(t=>({h:"", t})); }
+// stable id per article (same story keeps its id across daily updates)
+const sid = u => { let h = 5381; for (const c of u) h = (h * 33 ^ c.charCodeAt(0)) >>> 0; return "a" + h.toString(36); };
+const items = DATA.items.map((it,i)=>({...it, idx:i, id: it.id || sid(it.url), lean: leanOf(it.source), brief: normBrief(it)}));
+const byUrl = Object.fromEntries(items.map(i=>[i.url, i]));
+const order = Object.keys(TOPICS);
+let state = {topic: "all", view: store.get("wb-view") || "topic"};
+let readSet = new Set(store.get("wb-read") || []);
+// "new since your last visit": anything not shown on a previous visit
+const seenBefore = store.get("wb-seen");
+const newSet = new Set(seenBefore ? items.filter(i=>!seenBefore.includes(i.id)).map(i=>i.id) : []);
+store.set("wb-seen", [...new Set([...(seenBefore||[]), ...items.map(i=>i.id)])].slice(-400));
+let visible = [];   // stories in on-screen order, for previous/next
+
+const fmtDate = (d,long) => d ? new Date(d + "T12:00:00").toLocaleDateString(undefined, long ? {weekday:"short",day:"numeric",month:"long"} : {day:"numeric",month:"short"}) : "Date not listed";
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const words = s => s.split(/\s+/).length;
+
+// glossary: longest terms first so "jet fuel" wins over "fuel"; each term highlighted once per story
+const terms = Object.keys(DATA.glossary).sort((a,b)=>b.length-a.length);
+function highlight(text, used = new Set()){
+  let html = esc(text);
+  for (const t of terms){
+    if (used.has(t)) continue;
+    const re = new RegExp("(^|[^\\w>=\"-])(" + t.replace(/[.*+?^${}()|[\]\\]/g,"\\$&") + ")(?![\\w-])", "i");
+    html = html.replace(re, (m,pre,word) => { used.add(t); return pre + `<button class="term" data-t="${esc(t)}">${word}</button>`; });
+  }
+  return html;
+}
+const KINDS = {opinion:["Opinion","The writer argues a point of view"], analysis:["Analysis","Reporting mixed with the writer's interpretation"]};
+const kindBadge = it => KINDS[it.kind] ? `<span class="badge kind" title="${KINDS[it.kind][1]}">${KINDS[it.kind][0]}</span>` : "";
+const leanDot = l => `<span class="dot" style="background:var(--${LEAN_SIDE(l)})" title="Outlet lean: ${esc(l)}"></span>`;
+
+function card(it){
+  const also = (it.also||[]).length ? `<div class="also">Also covered by ${it.also.map(a=>`${leanDot(leanOf(a.source))}<b>${esc(a.source)}</b>`).join(", ")}</div>` : "";
+  return `<article class="card imp-${it.importance} ${readSet.has(it.id)?"read":""}" style="--c:var(--${it.topic})" data-id="${esc(it.id)}">
+    <div class="meta-top"><span class="tag">${esc(TOPICS[it.topic].label.split(" ")[0])}</span>${it.importance===3?'<span class="badge">Top story</span>':""}${kindBadge(it)}${(it.earlier||[]).length?'<span class="badge upd">Update</span>':""}${newSet.has(it.id)?'<span class="badge new">New</span>':""}</div>
+    <h3><a href="#${esc(it.id)}" class="open">${esc(it.title)}</a></h3>
+    <p>${highlight(it.summary)}</p>${also}
+    <div class="foot"><span class="src">${leanDot(it.lean)}${esc(it.source)}</span>
+      <span>${it.author?esc(it.author):"Author not listed"}</span><span>${fmtDate(it.date)}</span>
+      <span class="acts"><a class="btn small" href="#${esc(it.id)}">Read ›</a><button class="btn small speak" title="Listen to the full story">▶ Listen</button></span></div>
+  </article>`;
+}
+
+function render(){
+  const main = document.getElementById("main");
+  const pool = items.filter(it => state.topic==="all" || (state.topic==="new" ? newSet.has(it.id) : it.topic===state.topic));
+  const byImp = (a,b) => b.importance-a.importance || (b.date||"").localeCompare(a.date||"");
+  if (!pool.length){ main.innerHTML = '<p class="empty">Nothing here this week.</p>'; visible = []; return; }
+  if (state.view === "top"){
+    visible = pool.slice().sort(byImp);
+    main.innerHTML = `<section><div class="grid">${visible.map(card).join("")}</div></section>`;
+  } else {
+    const groups = order.filter(t => pool.some(i=>i.topic===t)).map(t => [t, pool.filter(i=>i.topic===t).sort(byImp)]);
+    visible = groups.flatMap(([,l]) => l);
+    main.innerHTML = groups.map(([t,list]) =>
+      `<section style="--c:var(--${t})"><div class="sec-h"><h2>${TOPICS[t].label}</h2><span class="rule"></span><span class="count">${list.length} stories</span></div><div class="grid">${list.map(card).join("")}</div></section>`).join("");
+  }
+}
+
+function chips(){
+  const counts = order.map(t => [t, items.filter(i=>i.topic===t).length]).filter(([,n])=>n);
+  document.getElementById("chips").innerHTML =
+    `<button class="chip" data-topic="all" aria-pressed="${state.topic==="all"}">All<span class="n">${items.length}</span></button>` +
+    (newSet.size ? `<button class="chip newchip" data-topic="new" aria-pressed="${state.topic==="new"}">New since last visit<span class="n">${newSet.size}</span></button>` : "") +
+    counts.map(([t,n]) => `<button class="chip" data-topic="${t}" aria-pressed="${state.topic===t}"><span class="dot" style="background:var(--${t})"></span>${TOPICS[t].label}<span class="n">${n}</span></button>`).join("") +
+    `<span class="spacer"></span><div class="seg"><button class="chip" data-view="topic" aria-pressed="${state.view==="topic"}">By topic</button><button class="chip" data-view="top" aria-pressed="${state.view==="top"}">Most important</button></div>`;
+}
+
+function front(){
+  const f = document.getElementById("front"); let html = "";
+  const link = u => byUrl[u] ? `<a class="more" href="#${byUrl[u].id}">${esc(byUrl[u].source)} ›</a>` : "";
+  if ((DATA.week||[]).length) html += `<section class="box week"><h2 class="box-h">The week in 60 seconds</h2><ol>${DATA.week.map(w=>`<li>${highlight(w.text)} <span class="refs">${(w.urls||[]).map(link).join(" ")}</span></li>`).join("")}</ol></section>`;
+  const today = DATA.generated;
+  const watch = (DATA.watch||[]).filter(w => w.date >= today);
+  if (watch.length) html += `<section class="box watch"><h2 class="box-h">Dates to watch</h2><ul>${watch.map(w=>`<li><span class="wd">${w.when ? esc(w.when) : new Date(w.date+"T12:00:00").toLocaleDateString(undefined,{day:"numeric",month:"short"})}</span><span>${esc(w.label)}${w.url && byUrl[w.url] ? ` <a class="more" href="#${byUrl[w.url].id}">Story ›</a>` : ""}</span></li>`).join("")}</ul><p class="legend">Stories that continue are marked <b>Update</b> and link back to earlier coverage.</p></section>`;
+  f.innerHTML = html ? `<div class="front">${html}</div>` : "";
+  const m = DATA.markets;
+  if (m && (m.items||[]).length) document.getElementById("ticker").innerHTML =
+    `<span class="sc">Markets · ${esc(m.label||"")}</span>` + m.items.map(x=>{ const up = /^\+/.test(x.change), dn = /^[-−]/.test(x.change);
+      return `<span class="tk"><b>${esc(x.name)}</b> ${esc(x.value)} <span class="${up?"up":dn?"dn":""}">${up?"▲":dn?"▼":""}${esc(x.change.replace(/^[+\-−]/,""))}</span></span>`; }).join("") +
+    (m.source ? `<span class="sc src-n">Source: ${esc(m.source)}</span>` : "");
+}
+
+function stats(){
+  const [a,b] = DATA.window.split(" to ");
+  const g = new Date(DATA.generated + "T12:00:00");
+  document.getElementById("range").textContent = `${g.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"})}  ·  Covering ${fmtDate(a)} – ${fmtDate(b)}`;
+  document.getElementById("vol").textContent = `Vol. ${g.getFullYear()-2025} · No. ${Math.floor((g - new Date(g.getFullYear(),0,1))/864e5)+1}`;
+  document.getElementById("s-count").textContent = items.length;
+  document.getElementById("s-src").textContent = new Set(items.flatMap(i=>[i.source,...(i.also||[]).map(a=>a.source)])).size;
+  const sides = {left:0,center:0,right:0};
+  items.forEach(i => { sides[LEAN_SIDE(i.lean)]++; (i.also||[]).forEach(a => sides[LEAN_SIDE(leanOf(a.source))]++); });
+  const tot = sides.left+sides.center+sides.right;
+  document.getElementById("bal").innerHTML = ["left","center","right"].map(s=>`<i style="width:${sides[s]/tot*100}%;background:var(--${s})"></i>`).join("");
+  document.getElementById("bal-l").innerHTML = ["left","center","right"].map(s=>`<span><span class="dot" style="background:var(--${s})"></span>${s[0].toUpperCase()+s.slice(1)} ${sides[s]}</span>`).join("");
+  document.getElementById("method").textContent = DATA.method || "";
+  minutes(); progress();
+  if (newSet.size) document.getElementById("newline").textContent = `${newSet.size} new since your last visit`;
+}
+function minutes(){
+  const m = n => "~" + Math.max(1, Math.round(n / (155 * rate))) + " min";
+  document.getElementById("m-heads").textContent = m(items.reduce((n,i)=>n+words(i.title)+words(i.summary),0));
+  document.getElementById("m-full").textContent = m(items.reduce((n,i)=>n+words(i.title)+i.brief.reduce((k,p)=>k+words(p.t),0),0));
+}
+function setRead(id, on){
+  on ? readSet.add(id) : readSet.delete(id);
+  store.set("wb-read", [...readSet].slice(-400));
+  document.querySelectorAll(`.card[data-id="${CSS.escape(id)}"]`).forEach(c=>c.classList.toggle("read", on));
+  progress();
+}
+function progress(){
+  const n = items.filter(i=>readSet.has(i.id)).length;
+  document.getElementById("p-label").textContent = n===items.length ? "All caught up 🎉" : `Read ${n} of ${items.length}`;
+  document.getElementById("p-bar").style.width = (n/items.length*100) + "%";
+}
+
+/* ---- in-page reader ---- */
+const reader = document.getElementById("reader"), rbody = document.getElementById("r-body");
+let current = null, lastScroll = 0;
+function openStory(id){
+  const it = items.find(i=>i.id===id); if (!it) return closeReader(false);
+  if (reader.hidden) lastScroll = scrollY;
+  current = it;
+  const used = new Set();
+  const persp = (it.also||[]).length ? `<aside class="persp"><div class="sc">How other outlets covered it</div>${it.also.map(a=>`
+      <div class="p-row">${leanDot(leanOf(a.source))}<b>${esc(a.source)}</b> <span class="muted">(${esc(leanOf(a.source))})</span>${a.author?` · ${esc(a.author)}`:""}${a.date?` · ${fmtDate(a.date)}`:""}
+      <div class="p-head">“${esc(a.title)}”</div>${a.note?`<div class="p-note">${esc(a.note)}</div>`:""}
+      <a href="${esc(a.url)}" target="_blank" rel="noopener" class="muted">Open at ${esc(a.source)} ↗</a></div>`).join("")}</aside>` : "";
+  rbody.innerHTML = `
+    <div class="meta-top" style="--c:var(--${it.topic})"><span class="tag">${esc(TOPICS[it.topic].label)}</span>${it.importance===3?'<span class="badge">Top story</span>':""}${kindBadge(it)}</div>
+    <h2 id="r-title">${esc(it.title)}</h2>
+    <p class="dek">${highlight(it.summary, used)}</p>
+    <div class="byline">${it.author ? "By " + esc(it.author) + " · " : ""}${leanDot(it.lean)}<b>${esc(it.source)}</b> <span class="muted">(${esc(it.lean)})</span> · ${fmtDate(it.date, true)}</div>
+    <div class="r-actions"><button class="btn" id="r-listen">▶ Listen to this story</button><button class="btn small rate" title="Reading speed">${rate}×</button><select class="vsel" title="Voice" aria-label="Voice">${voiceOptions()}</select><button class="btn small" id="r-read">${readSet.has(it.id)?"Read ✓":"Mark read"}</button></div>
+    <div class="r-text" style="--c:var(--${it.topic})">${it.brief.map((p,n)=>`<div class="r-sec" data-p="${n}">${p.h?`<h4>${p.h}</h4>`:""}<p>${highlight(p.t, used)}</p></div>`).join("")}</div>
+    ${(it.earlier||[]).length ? `<aside class="earlier"><div class="sc">Earlier coverage</div>${it.earlier.map(e=>`<div class="p-row">${fmtDate(e.date)} · <b>${esc(e.source)}</b>: ${byUrl[e.url] ? `<a href="#${byUrl[e.url].id}">${esc(e.title)}</a>` : `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)} ↗</a>`}</div>`).join("")}</aside>` : ""}
+    ${persp}
+    <p class="orig">Summary written from the public part of the original article. <a href="${esc(it.url)}" target="_blank" rel="noopener">Read the full piece at ${esc(it.source)} ↗</a></p>`;
+  const pos = visible.findIndex(i=>i.id===it.id);
+  document.getElementById("r-pos").textContent = pos >= 0 ? `Story ${pos+1} of ${visible.length}` : "";
+  document.getElementById("r-prev").disabled = pos <= 0;
+  document.getElementById("r-next").disabled = pos < 0 || pos >= visible.length - 1;
+  reader.hidden = false; document.body.classList.add("reading");
+  const sheet = reader.querySelector(".sheet-r"); sheet.scrollTop = 0; sheet.focus({preventScroll:true});
+  if (!readSet.has(it.id)) setRead(it.id, true);
+  document.getElementById("r-read").textContent = "Read ✓";
+}
+function closeReader(updateHash = true){
+  if (reader.hidden) return;
+  reader.hidden = true; document.body.classList.remove("reading"); current = null; pop.style.display = "none";
+  if (updateHash && location.hash) history.replaceState(null, "", location.pathname + location.search);
+  scrollTo(0, lastScroll);
+}
+function route(){ const id = decodeURIComponent(location.hash.slice(1)); if (id) openStory(id); else { pushed = false; closeReader(false); } }
+addEventListener("hashchange", route);
+const step = d => { const pos = visible.findIndex(i=>i.id===current.id); const n = visible[pos + d]; if (n) location.replace("#" + n.id); };
+let pushed = false;  // true when the reader was opened from the page, so Back/close returns to it
+const openHash = id => { pushed = true; location.hash = id; };
+document.getElementById("r-prev").onclick = () => step(-1);
+document.getElementById("r-next").onclick = () => step(1);
+
+const pop = document.getElementById("pop");
+document.addEventListener("click", e => {
+  const term = e.target.closest(".term");
+  if (term){
+    e.preventDefault();
+    const t = term.dataset.t; pop.innerHTML = `<b>${esc(t)}</b>${esc(DATA.glossary[t])}`; pop.style.display="block";
+    const r = term.getBoundingClientRect(), w = Math.min(300, innerWidth-32);
+    pop.style.left = Math.max(16, Math.min(r.left, innerWidth - w - 16)) + "px";
+    pop.style.top = (r.bottom + 8) + "px"; e.stopPropagation(); return;
+  }
+  pop.style.display = "none";
+  if (e.target.closest("[data-close]")) { if (pushed) { pushed = false; history.back(); } else closeReader(); return; }
+  const op = e.target.closest("a.open, a.more, .earlier a[href^='#'], a.btn[href^='#']"); if (op) { e.preventDefault(); openHash(op.getAttribute("href").slice(1)); return; }
+  if (e.target.id === "r-read" && current){ const on = !readSet.has(current.id); setRead(current.id, on); e.target.textContent = on ? "Read ✓" : "Mark read"; return; }
+  const chip = e.target.closest("[data-topic]"); if (chip){ state.topic = chip.dataset.topic; const x = bar.scrollLeft; chips(); bar.scrollLeft = x; render(); arrows(); return; }
+  const v = e.target.closest("[data-view]"); if (v){ state.view = v.dataset.view; store.set("wb-view", state.view); chips(); render(); return; }
+  // tapping anywhere on a card's summary opens it too
+  const c = e.target.closest(".card"); if (c && !e.target.closest("button,a")) { openHash(c.dataset.id); }
+});
+addEventListener("scroll", () => { pop.style.display = "none"; }, {passive:true});
+reader.querySelector(".sheet-r").addEventListener("scroll", () => { pop.style.display = "none"; }, {passive:true});
+
+/* ---- audio reader (browser text-to-speech, no account needed) ---- */
+const tts = window.speechSynthesis;
+const RATES = [1, 1.25, 1.5, 0.85];
+let rate = store.get("wb-rate") || 1, queue = [], playing = null;
+// most natural-sounding voices first: Edge "Online (Natural)", Apple "Premium/Enhanced", Google
+const vScore = v => (/natural|neural/i.test(v.name)?40:0) + (/premium/i.test(v.name)?35:0) + (/enhanced/i.test(v.name)?30:0) + (/online/i.test(v.name)?20:0) + (/google/i.test(v.name)?15:0) + (/en-(GB|US)/.test(v.lang)?3:0) - (/compact|espeak/i.test(v.name)?30:0);
+const englishVoices = () => !tts ? [] : tts.getVoices().filter(v=>v.lang.startsWith("en")).sort((a,b)=>vScore(b)-vScore(a));
+function voice(){ const list = englishVoices(), want = store.get("wb-voice"); return list.find(v=>v.name===want) || list[0]; }
+function voiceOptions(){
+  const list = englishVoices(), cur = voice();
+  if (!list.length) return `<option value="">Voice: device default</option>`;
+  return list.map(v=>`<option value="${esc(v.name)}"${cur && v.name===cur.name?" selected":""}>Voice: ${esc(v.name.replace(/^Microsoft |^Google /,""))}${vScore(v)>=15?" ★":""}</option>`).join("");
+}
+function fillVoices(){ const html = voiceOptions(); document.querySelectorAll(".vsel").forEach(sel => { sel.innerHTML = html; }); }
+// one utterance per sentence: long utterances get cut off in some browsers
+const sentences = t => t.match(/[^.!?]+[.!?]+["”']?|[^.!?]+$/g) || [t];
+function chunks(it, full){
+  const out = [{it, p:-1, text: `${it.title}.`}];
+  if (full){
+    out.push({it, p:-1, text: `${it.author && it.author !== "Airbus press release" ? "By " + it.author + ", " : "From "}${it.source}, ${fmtDate(it.date, true)}.`});
+    it.brief.forEach((p,n) => sentences(p.t).forEach(s => out.push({it, p:n, text:s.trim()})));  // section headings are visual only, not read aloud
+  } else out.push({it, p:-1, text: it.summary});
+  return out;
+}
+function mark(ch){
+  document.querySelectorAll(".speaking").forEach(x=>x.classList.remove("speaking"));
+  if (!ch) return;
+  const card = document.querySelector(`.card[data-id="${CSS.escape(ch.it.id)}"]`);
+  if (card && reader.hidden){ card.classList.add("speaking"); if (ch.p === -1 && ch.text === `${ch.it.title}.`) card.scrollIntoView({behavior:"smooth", block:"center"}); }
+  if (current && current.id === ch.it.id && ch.p >= 0){ const para = rbody.querySelector(`[data-p="${ch.p}"]`); if (para) para.classList.add("speaking"); }
+}
+function labels(){
+  document.getElementById("play-heads").classList.toggle("on", playing==="heads");
+  document.getElementById("play-full").classList.toggle("on", playing==="full");
+  document.getElementById("play-heads").firstChild.textContent = playing==="heads" ? "■ Stop " : "▶ Headlines ";
+  document.getElementById("play-full").firstChild.textContent = playing==="full" ? "■ Stop " : "▶ Full stories ";
+  const rl = document.getElementById("r-listen"); if (rl) rl.textContent = playing==="story" ? "■ Stop" : "▶ Listen to this story";
+}
+function stopAudio(){ queue = []; playing = null; tts.cancel(); mark(null); labels(); }
+function next(){
+  const ch = queue.shift(); if (!ch){ stopAudio(); return; }
+  mark(ch);
+  const u = new SpeechSynthesisUtterance(ch.text); u.rate = rate; const v = voice(); if (v) u.voice = v;
+  u.onend = () => { if (playing) next(); }; tts.speak(u); if (!englishVoices().length) setTimeout(fillVoices, 300);
+}
+function play(mode, list, full){ tts.cancel(); queue = list.flatMap(it => chunks(it, full)); playing = mode; labels(); next(); }
+if (!tts){ document.getElementById("listen-all").innerHTML = '<span class="legend">Audio isn\'t supported in this browser.</span>'; document.documentElement.classList.add("no-tts"); }
+else {
+  document.querySelectorAll(".rate").forEach(b => b.textContent = rate + "×");
+  // some browsers (Safari, in-app views) load voices late: listen for the event and also retry for a few seconds
+  fillVoices(); tts.addEventListener ? tts.addEventListener("voiceschanged", fillVoices) : (tts.onvoiceschanged = fillVoices);
+  let tries = 0; const t = setInterval(() => { fillVoices(); if (englishVoices().length || ++tries > 20) clearInterval(t); }, 500);
+  document.addEventListener("change", e => { if (!e.target.classList.contains("vsel") || !e.target.value) return;
+    store.set("wb-voice", e.target.value); fillVoices();
+    if (!playing) { const u = new SpeechSynthesisUtterance("This is how I sound."); const v = voice(); if (v) u.voice = v; u.rate = rate; tts.cancel(); tts.speak(u); } });
+  const unread = () => visible.filter(i=>!readSet.has(i.id));
+  document.getElementById("play-heads").onclick = () => playing==="heads" ? stopAudio() : play("heads", unread().length ? unread() : visible, false);
+  document.getElementById("play-full").onclick = () => playing==="full" ? stopAudio() : play("full", unread().length ? unread() : visible, true);
+  document.addEventListener("click", e => { if (!e.target.classList.contains("rate")) return;
+    rate = RATES[(RATES.indexOf(rate)+1)%RATES.length]; store.set("wb-rate", rate); document.querySelectorAll(".rate").forEach(b => b.textContent = rate + "×"); minutes(); });
+  document.addEventListener("click", e => {
+    const b = e.target.closest(".speak"); if (b){ const it = items.find(i=>i.id===b.closest(".card").dataset.id); play("story", [it], true); return; }
+    if (e.target.id === "r-listen" && current){ playing==="story" ? stopAudio() : play("story", [current], true); }
+  });
+}
+
+document.addEventListener("keydown", e => {
+  if (e.key==="Escape"){ if (pop.style.display==="block") pop.style.display="none"; else if (!reader.hidden) document.querySelector("[data-close]").click(); }
+  if (!reader.hidden && e.key==="ArrowRight") step(1);
+  if (!reader.hidden && e.key==="ArrowLeft") step(-1);
+});
+
+/* topic bar: arrows + mouse wheel scroll it sideways on narrow screens */
+const bar = document.getElementById("chips"), arL = document.querySelector(".tb-arrow.l"), arR = document.querySelector(".tb-arrow.r");
+const arrows = () => { arL.disabled = bar.scrollLeft < 4; arR.disabled = bar.scrollLeft + bar.clientWidth >= bar.scrollWidth - 4; };
+arL.onclick = () => bar.scrollBy({left: -bar.clientWidth * .7}); arR.onclick = () => bar.scrollBy({left: bar.clientWidth * .7});
+bar.addEventListener("scroll", arrows, {passive:true}); addEventListener("resize", arrows);
+bar.addEventListener("wheel", e => { if (bar.scrollWidth > bar.clientWidth && Math.abs(e.deltaY) > Math.abs(e.deltaX)) { bar.scrollLeft += e.deltaY; e.preventDefault(); } }, {passive:false});
+
+/* installable app: offline cache + install button where the browser supports it */
+if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost") && self === top) navigator.serviceWorker.register("sw.js").catch(()=>{});
+let installEvt = null;
+addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvt = e; document.getElementById("install-btn").hidden = false; });
+document.getElementById("install-btn").onclick = () => { if (installEvt) { installEvt.prompt(); installEvt = null; document.getElementById("install-btn").hidden = true; } };
+if (matchMedia("(display-mode: standalone)").matches || navigator.standalone) document.getElementById("install").hidden = true;
+
+stats(); front(); chips(); render(); route(); arrows();
+</script>
+</body>
+</html>

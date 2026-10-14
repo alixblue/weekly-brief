@@ -1,0 +1,397 @@
+{
+  "_note": "Whitelist of outlets. 'lean' is approximate (AllSides / Ad Fontes Media where rated; trade, wire and science press marked center). Target: roughly equal numbers of left-leaning and right-leaning outlets in every topic. Edit freely.",
+  "sources": [
+    {
+      "name": "Reuters",
+      "lean": "center",
+      "kind": "wire",
+      "weight": 1.3,
+      "topics": [
+        "world",
+        "business"
+      ],
+      "feeds": [
+        "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best"
+      ]
+    },
+    {
+      "name": "Associated Press",
+      "lean": "center",
+      "kind": "wire",
+      "weight": 1.3,
+      "topics": [
+        "world"
+      ],
+      "feeds": [],
+      "_todo": "AP has no official public RSS; add a feed you trust or leave empty"
+    },
+    {
+      "name": "BBC News",
+      "lean": "center",
+      "kind": "newspaper",
+      "weight": 1.2,
+      "topics": [
+        "world",
+        "business",
+        "environment",
+        "science"
+      ],
+      "feeds": [
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+      ]
+    },
+    {
+      "name": "The Economist",
+      "lean": "center",
+      "kind": "magazine",
+      "weight": 1.2,
+      "topics": [
+        "business",
+        "world"
+      ],
+      "feeds": [
+        "https://www.economist.com/finance-and-economics/rss.xml",
+        "https://www.economist.com/business/rss.xml"
+      ]
+    },
+    {
+      "name": "Financial Times",
+      "lean": "center",
+      "kind": "newspaper",
+      "weight": 1.2,
+      "topics": [
+        "business"
+      ],
+      "feeds": [
+        "https://www.ft.com/companies?format=rss"
+      ]
+    },
+    {
+      "name": "Wall Street Journal",
+      "lean": "center-right",
+      "kind": "newspaper",
+      "weight": 1.2,
+      "topics": [
+        "business"
+      ],
+      "feeds": [
+        "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
+      ]
+    },
+    {
+      "name": "Washington Examiner",
+      "lean": "right",
+      "kind": "newspaper",
+      "weight": 1.0,
+      "topics": [
+        "business",
+        "politics"
+      ],
+      "feeds": [
+        "https://www.washingtonexaminer.com/feed/"
+      ]
+    },
+    {
+      "name": "Fox Business",
+      "lean": "right",
+      "kind": "broadcaster",
+      "weight": 0.9,
+      "topics": [
+        "business",
+        "tech"
+      ],
+      "feeds": [
+        "https://moxie.foxbusiness.com/google-publisher/latest.xml"
+      ]
+    },
+    {
+      "name": "The Guardian",
+      "lean": "left",
+      "kind": "newspaper",
+      "weight": 1.1,
+      "topics": [
+        "environment",
+        "world"
+      ],
+      "feeds": [
+        "https://www.theguardian.com/environment/rss",
+        "https://www.theguardian.com/business/rss"
+      ]
+    },
+    {
+      "name": "NPR",
+      "lean": "center-left",
+      "kind": "broadcaster",
+      "weight": 1.1,
+      "topics": [
+        "world",
+        "environment"
+      ],
+      "feeds": [
+        "https://feeds.npr.org/1001/rss.xml",
+        "https://feeds.npr.org/1167/rss.xml"
+      ]
+    },
+    {
+      "name": "Al Jazeera",
+      "lean": "center-left",
+      "kind": "broadcaster",
+      "weight": 1.0,
+      "topics": [
+        "world",
+        "business"
+      ],
+      "feeds": [
+        "https://www.aljazeera.com/xml/rss/all.xml"
+      ]
+    },
+    {
+      "name": "Inside Climate News",
+      "lean": "center-left",
+      "kind": "nonprofit",
+      "weight": 1.0,
+      "topics": [
+        "environment"
+      ],
+      "feeds": [
+        "https://insideclimatenews.org/feed/"
+      ]
+    },
+    {
+      "name": "Carbon Brief",
+      "lean": "center",
+      "kind": "specialist",
+      "weight": 1.1,
+      "topics": [
+        "environment"
+      ],
+      "feeds": [
+        "https://www.carbonbrief.org/feed/"
+      ]
+    },
+    {
+      "name": "FlightGlobal",
+      "lean": "center",
+      "kind": "trade",
+      "weight": 1.3,
+      "topics": [
+        "aerospace"
+      ],
+      "feeds": [
+        "https://www.flightglobal.com/rss/news"
+      ]
+    },
+    {
+      "name": "Aviation Week",
+      "lean": "center",
+      "kind": "trade",
+      "weight": 1.3,
+      "topics": [
+        "aerospace"
+      ],
+      "feeds": [
+        "https://aviationweek.com/rss.xml"
+      ]
+    },
+    {
+      "name": "Simple Flying",
+      "lean": "center",
+      "kind": "trade",
+      "weight": 0.8,
+      "topics": [
+        "aerospace"
+      ],
+      "feeds": [
+        "https://simpleflying.com/feed/"
+      ]
+    },
+    {
+      "name": "SpaceNews",
+      "lean": "center",
+      "kind": "trade",
+      "weight": 1.1,
+      "topics": [
+        "aerospace"
+      ],
+      "feeds": [
+        "https://spacenews.com/feed/"
+      ]
+    },
+    {
+      "name": "Nature",
+      "lean": "center",
+      "kind": "peer-reviewed",
+      "weight": 1.3,
+      "topics": [
+        "science"
+      ],
+      "feeds": [
+        "https://www.nature.com/nature.rss"
+      ]
+    },
+    {
+      "name": "Science (AAAS)",
+      "lean": "center",
+      "kind": "peer-reviewed",
+      "weight": 1.3,
+      "topics": [
+        "science"
+      ],
+      "feeds": [
+        "https://www.science.org/rss/news_current.xml"
+      ]
+    },
+    {
+      "name": "The Conversation",
+      "lean": "center-left",
+      "kind": "academic",
+      "weight": 1.0,
+      "topics": [
+        "science",
+        "business"
+      ],
+      "feeds": [
+        "https://theconversation.com/global/articles.atom"
+      ]
+    },
+    {
+      "name": "The Dispatch",
+      "lean": "center-right",
+      "kind": "magazine",
+      "weight": 1.0,
+      "topics": [
+        "politics",
+        "world"
+      ],
+      "feeds": [
+        "https://thedispatch.com/feed/"
+      ]
+    },
+    {
+      "name": "Reason",
+      "lean": "center-right",
+      "kind": "magazine",
+      "weight": 0.9,
+      "topics": [
+        "politics",
+        "business"
+      ],
+      "feeds": [
+        "https://reason.com/feed/"
+      ]
+    },
+    {
+      "name": "City AM",
+      "lean": "center-right",
+      "kind": "newspaper",
+      "weight": 1.0,
+      "topics": [
+        "business"
+      ],
+      "feeds": [
+        "https://www.cityam.com/feed/"
+      ]
+    },
+    {
+      "name": "National Review",
+      "lean": "right",
+      "kind": "magazine",
+      "weight": 0.9,
+      "topics": [
+        "politics"
+      ],
+      "feeds": [
+        "https://www.nationalreview.com/feed/"
+      ]
+    },
+    {
+      "name": "The Telegraph",
+      "lean": "center-right",
+      "kind": "newspaper",
+      "weight": 1.1,
+      "topics": [
+        "world",
+        "business"
+      ],
+      "feeds": [
+        "https://www.telegraph.co.uk/business/rss.xml",
+        "https://www.telegraph.co.uk/news/rss.xml"
+      ]
+    },
+    {
+      "name": "New York Post",
+      "lean": "right",
+      "kind": "newspaper",
+      "weight": 0.8,
+      "topics": [
+        "business"
+      ],
+      "feeds": [
+        "https://nypost.com/business/feed/"
+      ]
+    },
+    {
+      "name": "Airways Magazine",
+      "lean": "center",
+      "kind": "trade",
+      "weight": 1.0,
+      "topics": [
+        "aerospace"
+      ],
+      "feeds": [
+        "https://airwaysmag.com/feed"
+      ]
+    },
+    {
+      "name": "Airbus",
+      "lean": "center",
+      "kind": "press release",
+      "weight": 0.8,
+      "topics": [
+        "aerospace"
+      ],
+      "feeds": []
+    },
+    {
+      "name": "The New York Times",
+      "lean": "center-left",
+      "kind": "newspaper",
+      "weight": 1.2,
+      "topics": [
+        "world",
+        "business"
+      ],
+      "feeds": [
+        "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+      ]
+    },
+    {
+      "name": "The Washington Post",
+      "lean": "center-left",
+      "kind": "newspaper",
+      "weight": 1.1,
+      "topics": [
+        "world",
+        "politics"
+      ],
+      "feeds": [
+        "https://feeds.washingtonpost.com/rss/business"
+      ]
+    },
+    {
+      "name": "Bloomberg",
+      "lean": "center-left",
+      "kind": "newspaper",
+      "weight": 1.2,
+      "topics": [
+        "business"
+      ],
+      "feeds": [
+        "https://feeds.bloomberg.com/markets/news.rss"
+      ]
+    }
+  ]
+}

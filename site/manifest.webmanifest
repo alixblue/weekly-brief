@@ -1,0 +1,16 @@
+{
+  "name": "The Weekly Brief",
+  "short_name": "Weekly Brief",
+  "description": "About 30 of the week's most important stories, updated daily.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fcf9f1",
+  "theme_color": "#fcf9f1",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
