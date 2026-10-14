@@ -1,27 +1,33 @@
 [
  {
-  "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-  "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC News",
-  "date": "2026-10-14"
- },
- {
-  "title": "What an economics Nobel Prize winner knows about pricing",
-  "url": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
-  "source": "NPR",
-  "date": "2026-10-13"
- },
- {
   "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
   "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
   "source": "The Guardian",
   "date": "2026-10-11"
  },
  {
+  "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+  "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC News",
+  "date": "2026-10-14"
+ },
+ {
   "title": "Delta postpones Saudi Arabia launch after deadly airport attacks",
   "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights",
   "source": "AeroTime",
   "date": "2026-10-12"
+ },
+ {
+  "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+  "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+  "source": "The Guardian",
+  "date": "2026-10-12"
+ },
+ {
+  "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+  "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC News",
+  "date": "2026-10-14"
  },
  {
   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
@@ -32,12 +38,6 @@
  {
   "title": "Saudi employee charged with planting recording device in OpenAI office",
   "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC News",
-  "date": "2026-10-13"
- },
- {
-  "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-  "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
   "source": "BBC News",
   "date": "2026-10-13"
  },
@@ -66,33 +66,33 @@
   "date": "2026-10-13"
  },
  {
-  "title": "L’Oréal’s Strategy for a New Era of Beauty",
-  "url": "https://www.bloomberg.com/news/videos/2026-10-14/l-oreal-s-strategy-for-a-new-era-of-beauty-video",
+  "title": "The Former Theater Director Who Keeps Beating Wall Street",
+  "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/the-former-theater-director-who-keeps-beating-wall-street",
   "source": "Bloomberg",
   "date": "2026-10-14"
  },
  {
-  "title": "Botswana Tapped as Southern African Hub for Dangote Refinery IPO",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-14/botswana-tapped-as-southern-african-hub-for-dangote-refinery-ipo",
+  "title": "EU Accepts Sanofi’s Concessions to End Antitrust Probe Over Vaccine Marketing",
+  "url": "https://www.wsj.com/business/eu-accepts-sanofis-concessions-to-settle-antitrust-probe-over-vaccine-marketing-a07a2a95?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Public, Private Sector Leaders on Economic Resilience",
+  "url": "https://www.bloomberg.com/news/videos/2026-10-14/public-private-sector-leaders-on-economic-resilience-video",
   "source": "Bloomberg",
   "date": "2026-10-14"
  },
  {
-  "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
-  "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-traders-weigh-saudi-aramco-attack-report-hormuz-shipping-risks-0f09ed61?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
+  "title": "Turkey Lets Lira Fall Quicker to Avoid Future Devaluation Risk",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-14/turkey-lets-lira-fall-quicker-to-avoid-future-devaluation-risk",
+  "source": "Bloomberg",
   "date": "2026-10-14"
  },
  {
-  "title": "OpenAI worker charged after recording device found in company conference room",
-  "url": "https://www.washingtonexaminer.com/news/justice/4764960/openai-arrest-recording-device-conference-room/",
-  "source": "Washington Examiner",
-  "date": "2026-10-13"
- },
- {
-  "title": "Lonza Sees Maturing Projects Driving Profitability Higher Over Medium Term",
-  "url": "https://www.wsj.com/business/earnings/lonza-sees-maturing-projects-driving-profitability-higher-over-medium-term-cc8571a0?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
+  "title": "Trump’s Latest Effort to Fire a Fed Official Underscores Political Motives",
+  "url": "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html",
+  "source": "The New York Times",
   "date": "2026-10-14"
  },
  {
@@ -108,15 +108,9 @@
   "date": "2026-10-14"
  },
  {
-  "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
-  "url": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
-  "source": "Financial Times",
-  "date": "2026-10-14"
- },
- {
-  "title": "Glencore shares make Australia debut to mine base of ‘smart investors’",
-  "url": "https://www.ft.com/content/4c62b2e1-1c41-4340-9979-d378b879fe1f?syn-25a6b1a6=1",
-  "source": "Financial Times",
+  "title": "Bombardier Global 7500 gains EASA-certified anti-missile defense",
+  "url": "https://www.aerotime.aero/articles/bombardier-global-7500-easa-missile-protection-bird",
+  "source": "AeroTime",
   "date": "2026-10-14"
  },
  {
@@ -150,10 +144,16 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Number of ISA millionaires surges to record high with 25 people holding pots worth £12m",
-  "url": "https://www.cityam.com/number-of-isa-millionaires-surges-to-record-high-with-25-people-holding-pots-worth-12m/",
-  "source": "City AM",
-  "date": "2026-10-13"
+  "title": "AI demand to exceed supply for 2 more years, says ASML",
+  "url": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Power failure — what went wrong with the UK’s energy system?",
+  "url": "https://www.ft.com/content/2d99bcbe-b2d3-4fb4-b181-cca567f516f9?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "date": "2026-10-14"
  },
  {
   "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
@@ -174,9 +174,9 @@
   "date": "2026-10-13"
  },
  {
-  "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
-  "url": "https://www.nature.com/articles/d41586-026-03255-0",
-  "source": "Nature",
-  "date": "2026-10-12"
+  "title": "NFL tickets discounted to fill Wembley Stadium",
+  "url": "https://www.cityam.com/nfl-tickets-discounted-to-fill-wembley-stadium/",
+  "source": "City AM",
+  "date": "2026-10-14"
  }
 ]
