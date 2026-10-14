@@ -24,6 +24,12 @@
   "date": "2026-10-13"
  },
  {
+  "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+  "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC News",
+  "date": "2026-10-13"
+ },
+ {
   "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
   "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC News",
@@ -54,20 +60,8 @@
   "date": "2026-10-13"
  },
  {
-  "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-  "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC News",
-  "date": "2026-10-14"
- },
- {
   "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
   "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
-  "date": "2026-10-13"
- },
- {
-  "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
-  "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
   "date": "2026-10-13"
  },
@@ -81,6 +75,12 @@
   "title": "AI is less regulated than milk, says Microsoft president",
   "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
   "source": "BBC News",
+  "date": "2026-10-12"
+ },
+ {
+  "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
+  "url": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
   "date": "2026-10-12"
  },
  {
@@ -108,8 +108,8 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Auto & Transport Roundup: Market Talk",
-  "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8a9773ef?mod=pls_whats_news_us_business_f",
+  "title": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
+  "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
   "date": "2026-10-13"
  },
@@ -118,6 +118,12 @@
   "url": "https://www.ft.com/content/4c62b2e1-1c41-4340-9979-d378b879fe1f?syn-25a6b1a6=1",
   "source": "Financial Times",
   "date": "2026-10-14"
+ },
+ {
+  "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
+  "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
+  "date": "2026-10-13"
  },
  {
   "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
@@ -150,18 +156,6 @@
   "date": "2026-10-13"
  },
  {
-  "title": "Boeing on pace to increase aircraft deliveries in 2026 as 737 handovers rise",
-  "url": "https://www.aerotime.aero/articles/boeing-2026-deliveries-orders-airbus-september",
-  "source": "AeroTime",
-  "date": "2026-10-13"
- },
- {
-  "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-  "url": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
-  "date": "2026-10-11"
- },
- {
   "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
   "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
   "source": "Science (AAAS)",
@@ -178,5 +172,11 @@
   "url": "https://www.nature.com/articles/d41586-026-03245-2",
   "source": "Nature",
   "date": "2026-10-13"
+ },
+ {
+  "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
+  "url": "https://www.nature.com/articles/d41586-026-03255-0",
+  "source": "Nature",
+  "date": "2026-10-12"
  }
 ]

@@ -29,9 +29,9 @@
       ]
     },
     {
-      "text": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+      "text": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
@@ -137,6 +137,32 @@
           "date": "2026-10-12",
           "title": "Delta postpones Saudi Arabia launch after deadly airport attacks",
           "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "author": null,
+      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "also": [
+        {
+          "source": "Bloomberg",
+          "author": "Anthony Di Paola and Annmarie Hordern",
+          "date": "2026-10-13",
+          "title": "Aramco Headquarters Hit as Houthi Missiles Strike Saudi Arabia",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-14",
+          "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
         }
       ]
     },
@@ -252,25 +278,6 @@
     {
       "topic": "world",
       "importance": 2,
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "also": [
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-14",
-          "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
       "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
@@ -288,27 +295,8 @@
       ]
     },
     {
-      "topic": "world",
-      "importance": 2,
-      "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-13",
-      "author": "Max Fillion",
-      "summary": "Plus: U.K. floats payments for fraud whistleblowers and Delta delays Saudi Arabia plans.",
-      "also": [
-        {
-          "source": "BBC News",
-          "author": null,
-          "date": "2026-10-11",
-          "title": "Trump faces growing backlash over plans to import diesel from Russia",
-          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "topic": "business",
-      "importance": 1,
+      "importance": 2,
       "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
@@ -341,6 +329,25 @@
           "date": "2026-10-12",
           "title": "Microsoft president says AI faces fewer safety rules than milk in call for global regulation",
           "url": "https://www.foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-12",
+      "author": "Ryan Dezember",
+      "summary": "Lawmakers on both sides of the aisle are questioning the agreement’s legality.",
+      "also": [
+        {
+          "source": "BBC News",
+          "author": null,
+          "date": "2026-10-11",
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -391,12 +398,12 @@
     {
       "topic": "business",
       "importance": 1,
-      "title": "Auto & Transport Roundup: Market Talk",
+      "title": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8a9773ef?mod=pls_whats_news_us_business_f",
+      "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
       "date": "2026-10-13",
-      "author": null,
-      "summary": "Find insight on U.S. new vehicle prices, Canadian travel to the U.S., Volkswagen and more in the latest Market Talks covering the auto and transport sector.",
+      "author": "Anthony Harrup",
+      "summary": "Oil prices were mixed as traders weighed persistent Middle East supply risks against prospects for additional Russian diesel exports.",
       "also": []
     },
     {
@@ -408,6 +415,17 @@
       "date": "2026-10-14",
       "author": null,
       "summary": "Commodity giant chief Gary Nagle says mining is appreciated and understood in the country",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-13",
+      "author": "Nat Ives",
+      "summary": "Plus, Sweetgreen is updating its menu to improve its reputation with consumers.",
       "also": []
     },
     {
@@ -466,28 +484,6 @@
       "also": []
     },
     {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Boeing on pace to increase aircraft deliveries in 2026 as 737 handovers rise",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/boeing-2026-deliveries-orders-airbus-september",
-      "date": "2026-10-13",
-      "author": "Stephen Pope",
-      "summary": "Boeing delivered 475 commercial aircraft in the first nine months of 2026, up 8% from a year earlier,… The post Boeing on pace to increase aircraft deliveries in 2026 as 737 handovers rise appeared first on AeroTime .",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-11",
-      "author": "Benjamin Katz",
-      "summary": "Commercial air travel has been dragged into escalating conflicts, with airports, planes and airspace becoming the deliberate target of missile and drone attacks.",
-      "also": []
-    },
-    {
       "topic": "science",
       "importance": 1,
       "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
@@ -518,6 +514,17 @@
       "date": "2026-10-13",
       "author": "Deepak Kushawaha",
       "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2 Decentralized AI needs more evidence on energy use",
+      "also": []
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03255-0",
+      "date": "2026-10-12",
+      "author": "Flora Graham",
+      "summary": "Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03255-0 Step into the rainforest with climatologist David Lapola. Plus, watch an ‘invisible’ tattoo be revealed by ultraviolet light and explore PhD remuneration across Europe.",
       "also": []
     }
   ]
