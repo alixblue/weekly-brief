@@ -333,32 +333,29 @@ def save_archive(items):
     (ARCHIVE / f"{dt.date.today().isoformat()}.json").write_text(json.dumps(keep, indent=1, ensure_ascii=False))
 
 
-MARKETS = [("S&P 500", "SP500", "{:,.2f}"), ("Dow", "DJIA", "{:,.2f}"), ("Nasdaq", "NASDAQCOM", "{:,.2f}"),
-           ("Brent oil", "DCOILBRENTEU", "${:,.2f}"), ("US 10-yr yield", "DGS10", "{:.2f}%"), ("EUR/USD", "DEXUSEU", "{:.4f}")]
+MARKETS = [("S&P 500", ".SPX", "{}"), ("Dow", ".DJI", "{}"), ("Nasdaq", ".IXIC", "{}"),
+           ("Brent oil", "@LCO.1", "${}"), ("US 10-yr yield", "US10Y", "{}"), ("EUR/USD", "EUR=", "{}")]
 
 
 def markets():
-    """Latest close and change over about a week, from the St. Louis Fed's free FRED data (no key needed; a day behind)."""
-    start = (dt.date.today() - dt.timedelta(days=30)).isoformat()
-    ids = ",".join(sym for _, sym, _ in MARKETS)
-    rows = None
+    """Latest level and change on the day, from CNBC's public quote feed (no key needed; works from GitHub's servers)."""
+    syms = "%7C".join(urllib.parse.quote(m[1], safe=".@") for m in MARKETS)
     try:
-        rows = [r.split(",") for r in get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={ids}&cosd={start}", timeout=30).decode().strip().splitlines()]
+        raw = get("https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=" + syms +
+                  "&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=1&output=json", timeout=30)
+        quotes = {q["symbol"]: q for q in json.loads(raw)["FormattedQuoteResult"]["FormattedQuote"] if q.get("last")}
     except Exception as e:
-        log("market data skipped:", e.__class__.__name__, e)
-    if not rows: return None
+        log("market data skipped:", e.__class__.__name__, e); return None
     out, asof = [], None
-    for col, (name, sym, fmt) in enumerate(MARKETS, start=1):
-        try:
-            pts = [(r[0], float(r[col])) for r in rows[1:] if len(r) > col and r[col] not in (".", "")]
-            (day, v), (_, v0) = pts[-1], pts[-6]
-            ch = f"{v - v0:+.2f} pt" if sym == "DGS10" else f"{(v / v0 - 1) * 100:+.1f}%"
-            out.append({"name": name, "value": fmt.format(v), "change": ch}); asof = max(asof or day, day)
-        except Exception as e:
-            log("market data skipped:", name, e.__class__.__name__, e)
+    for name, sym, fmt in MARKETS:
+        q = quotes.get(sym)
+        if not q: log("market data skipped:", name); continue
+        change = q["change_pct"] if sym != "US10Y" else f'{float(q["change"]):+.2f} pt'
+        out.append({"name": name, "value": fmt.format(q["last"]), "change": change})
+        asof = max(asof or q["last_time"][:10], q["last_time"][:10])
     if not out: return None
-    label = dt.date.fromisoformat(asof).strftime("%a %d %b · change over 1 week")
-    return {"asof": asof, "label": label, "source": "FRED, St. Louis Fed", "items": out}
+    label = dt.date.fromisoformat(asof).strftime("%a %d %b · change on the day")
+    return {"asof": asof, "label": label, "source": "CNBC", "items": out}
 
 
 WEEK_PROMPT = """From these story summaries of the past week, return JSON:
