@@ -226,7 +226,7 @@ def article_text(url, limit=9000):
     return "\n".join(p for p in paras if len(p) > 60)[:limit]
 
 
-GEMINI_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash"]  # Google AI Studio free tier (about 10 requests/minute, 250/day)
+_gemini = {}  # model name, found once per run from Google's own list (names change from time to time)
 GROQ_MODEL = "llama-3.3-70b-versatile"                      # Groq free tier
 _last_call = [0.0]
 
@@ -236,6 +236,20 @@ def ai_key():
     for provider, var in (("anthropic", "ANTHROPIC_API_KEY"), ("gemini", "GEMINI_API_KEY"), ("groq", "GROQ_API_KEY")):
         if os.environ.get(var, "").strip(): return (provider, os.environ[var].strip())
     return None
+
+
+def gemini_model(token):
+    """Pick the newest stable Flash model that this key may use, from Google's model list."""
+    if "m" not in _gemini:
+        req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers={"x-goog-api-key": token})
+        names = [m["name"].split("/")[-1] for m in json.loads(urllib.request.urlopen(req, timeout=30).read()).get("models", [])
+                 if "generateContent" in m.get("supportedGenerationMethods", [])]
+        log("gemini models available:", ", ".join(names))
+        ok = [n for n in names if re.fullmatch(r"gemini-[\d.]+-flash", n)]
+        ok.sort(key=lambda n: [float(x) for x in re.findall(r"[\d.]+", n)[:1]], reverse=True)
+        _gemini["m"] = (ok or [n for n in names if "flash" in n and "image" not in n and "tts" not in n] or names)[0]
+        log("gemini model:", _gemini["m"])
+    return _gemini["m"]
 
 
 def _post(url, body, headers, timeout=120):
@@ -258,15 +272,10 @@ def ask_claude(key, prompt, max_tokens=1500):
             try:
                 _last_call[0] = time.time()
                 if provider == "gemini":
-                    for model in GEMINI_MODELS:
-                        try:
-                            r = _post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                                      {"contents": [{"parts": [{"text": prompt}]}],
-                                       "generationConfig": {"responseMimeType": "application/json", "maxOutputTokens": max(max_tokens, 2500), "temperature": 0.2}},
-                                      {"x-goog-api-key": token})
-                            break
-                        except urllib.error.HTTPError as e:
-                            if e.code != 404: raise
+                    r = _post(f"https://generativelanguage.googleapis.com/v1beta/models/{gemini_model(token)}:generateContent",
+                              {"contents": [{"parts": [{"text": prompt}]}],
+                               "generationConfig": {"responseMimeType": "application/json", "maxOutputTokens": max(max_tokens, 2500), "temperature": 0.2}},
+                              {"x-goog-api-key": token})
                     text = r["candidates"][0]["content"]["parts"][0]["text"]
                 else:
                     r = _post("https://api.groq.com/openai/v1/chat/completions",
@@ -275,7 +284,9 @@ def ask_claude(key, prompt, max_tokens=1500):
                     text = r["choices"][0]["message"]["content"]
                 break
             except urllib.error.HTTPError as e:
-                if e.code not in (429, 500, 503) or attempt == 2: raise
+                if e.code not in (429, 500, 503) or attempt == 2:
+                    log("AI request refused:", e.code, e.read()[:300])
+                    raise
                 time.sleep(int(e.headers.get("Retry-After") or 20))
     return json.loads(text[text.index("{"): text.rindex("}") + 1])
 
