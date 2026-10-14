@@ -30,7 +30,7 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+  "title": "Saudi employee charged with planting recording device in OpenAI office",
   "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
   "source": "BBC News",
   "date": "2026-10-13"
@@ -44,12 +44,6 @@
  {
   "title": "Domino’s Pizza Sales Growth Continued Slowing",
   "url": "https://www.wsj.com/business/earnings/dominos-pizza-sales-growth-continued-slowing-916f184c?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
-  "date": "2026-10-13"
- },
- {
-  "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
-  "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
   "date": "2026-10-13"
  },
@@ -84,12 +78,6 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Hong Kong IPO Red Flags Include Sudden Loans, Secret Handshakes",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-14/hong-kong-ipo-red-flags-include-sudden-loans-secret-handshakes",
-  "source": "Bloomberg",
-  "date": "2026-10-14"
- },
- {
   "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
   "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-traders-weigh-saudi-aramco-attack-report-hormuz-shipping-risks-0f09ed61?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
@@ -100,6 +88,12 @@
   "url": "https://www.washingtonexaminer.com/news/justice/4764960/openai-arrest-recording-device-conference-room/",
   "source": "Washington Examiner",
   "date": "2026-10-13"
+ },
+ {
+  "title": "Lonza Sees Maturing Projects Driving Profitability Higher Over Medium Term",
+  "url": "https://www.wsj.com/business/earnings/lonza-sees-maturing-projects-driving-profitability-higher-over-medium-term-cc8571a0?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
+  "date": "2026-10-14"
  },
  {
   "title": "Olympus shares suffer biggest drop since 2011 after FDA warning",
@@ -123,12 +117,6 @@
   "title": "Glencore shares make Australia debut to mine base of ‘smart investors’",
   "url": "https://www.ft.com/content/4c62b2e1-1c41-4340-9979-d378b879fe1f?syn-25a6b1a6=1",
   "source": "Financial Times",
-  "date": "2026-10-14"
- },
- {
-  "title": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
-  "url": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
-  "source": "The New York Times",
   "date": "2026-10-14"
  },
  {
@@ -171,6 +159,18 @@
   "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
   "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
   "source": "Science (AAAS)",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering",
+  "url": "https://reason.com/2026/10/13/trump-fired-kimberly-guilfoyle-for-influence-peddling-that-pales-next-to-his-presidential-profiteering/",
+  "source": "Reason",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "No, Giving Immigrants Research Jobs Is Not Fraud​",
+  "url": "https://reason.com/2026/10/13/no-giving-immigrants-research-jobs-is-not-fraud/",
+  "source": "Reason",
   "date": "2026-10-13"
  },
  {
