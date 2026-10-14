@@ -24,17 +24,17 @@
       },
       {
         "name": "CAC 40",
-        "value": "7,879.37",
-        "change": "+0.66%"
+        "value": "7,881.26",
+        "change": "+0.69%"
       },
       {
         "name": "Brent oil",
-        "value": "$105.89",
-        "change": "+0.19%"
+        "value": "$105.94",
+        "change": "+0.24%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "5.194%",
+        "value": "5.196%",
         "change": "-0.02 pt"
       },
       {
@@ -247,13 +247,6 @@
           "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
         },
         {
-          "source": "The New York Times",
-          "author": "Elisabetta Povoledo",
-          "date": "2026-10-11",
-          "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
-          "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html"
-        },
-        {
           "source": "NPR",
           "author": "Scott Detrow",
           "date": "2026-10-14",
@@ -263,47 +256,28 @@
       ]
     },
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 2,
       "title": "Saudi employee charged with planting recording device in OpenAI office",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "author": null,
-      "summary": "Federal prosecutors have charged a former OpenAI engineer with planting an encrypted recording device in an executive conference room. OpenAI confirmed that its source code, model weights, and customer data remained uncompromised.",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "also": [
         {
           "source": "Financial Times",
           "author": null,
           "date": "2026-10-14",
           "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-          "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-          "note": "The Financial Times highlights the arrest by US authorities and refers colloquially to the incident as 'bugging' the offices."
+          "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"
         },
         {
           "source": "Al Jazeera",
           "author": null,
           "date": "2026-10-14",
           "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-          "note": "Al Jazeera frames the suspect as 'Saudi-born' and describes the hardware as a 'listening bug'."
-        }
-      ],
-      "brief": {
-        "what": "Federal prosecutors charged former OpenAI engineer Abdulrahman Alfozan with attempting to intercept oral communications after a hidden recorder was discovered in an executive conference room. If convicted, he faces a fine of up to $250,000 (£187,000) and up to five years in prison.",
-        "who": "The primary actors are defendant Abdulrahman Alfozan, artificial intelligence developer OpenAI, federal prosecutors, and FBI Director Kash Patel.",
-        "context": "OpenAI discovered the encrypted recording device plugged into a television USB port, subsequently using its own artificial intelligence models to trace the device to an employee. OpenAI reported that no source code, model weights, or customer data were compromised, and stated that the employee has been terminated.",
-        "why": "According to FBI Director Kash Patel, the alleged objective was to covertly capture sensitive communications regarding OpenAI's artificial intelligence product. Prosecutors allege the suspect used chatbots and productivity software to research covert audio recording, Wi-Fi connectivity, and device obfuscation.",
-        "next": "Alfozan appeared in court on Tuesday, though the article notes it is currently unclear whether he has secured legal representation."
-      },
-      "numbers": [
-        {
-          "figure": "$250,000",
-          "what": "maximum fine if found guilty"
-        },
-        {
-          "figure": "£187,000",
-          "what": "reported fine equivalent in pounds"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
         }
       ]
     },
@@ -315,40 +289,14 @@
       "url": "https://www.wsj.com/business/earnings/dominos-pizza-sales-growth-continued-slowing-916f184c?mod=pls_whats_news_us_business_f",
       "date": "2026-10-13",
       "author": "Elias Schisgall",
-      "summary": "Domino's Pizza reported a profit of $152.2 million, or $4.60 a share, for the recent period. This marks an increase from the $139.3 million, or $4.08 a share, recorded a year earlier.",
+      "summary": "The pizza chain reported a profit of $152.2 million, or $4.60 a share, compared with a profit of $139.3 million, or $4.08 a share, a year earlier.",
       "also": [
         {
           "source": "New York Post",
           "author": "Lisa Fickenscher",
           "date": "2026-10-13",
           "title": "Domino’s growth slows amid broader slump in pizza sales",
-          "url": "https://nypost.com/2026/10/13/business/dominos-growth-slows-amid-broader-slump-in-pizza-sales/",
-          "note": "The New York Post headline attributes the company's decelerating growth to a wider slump across the pizza category, while the Wall Street Journal reports only on Domino's directly."
-        }
-      ],
-      "brief": {
-        "what": "Domino's Pizza reported a profit of $152.2 million, or $4.60 a share. These reported financial results mark an increase compared with a profit of $139.3 million, or $4.08 a share, that the restaurant chain achieved a year earlier.",
-        "who": "The central actor in this update is the pizza chain Domino's Pizza, which disclosed these latest earnings figures detailing both its total dollar profit and per-share profitability.",
-        "context": "According to the headline reporting, Domino's Pizza sales growth continued slowing, setting the background for these comparative corporate numbers. The chain's previous comparative period established a benchmark profit level of $139.3 million, which translates precisely to $4.08 a share.",
-        "why": "The excerpted article does not state the underlying drivers or reasons why profits grew from $139.3 million to $152.2 million, nor does it detail why sales growth continued to experience a slowing trend.",
-        "next": "The article doesn't say what future financial performance Domino's Pizza anticipates or what steps management plans to take next."
-      },
-      "numbers": [
-        {
-          "figure": "$152.2 million",
-          "what": "reported profit for the period"
-        },
-        {
-          "figure": "$4.60 a share",
-          "what": "reported earnings per share"
-        },
-        {
-          "figure": "$139.3 million",
-          "what": "profit recorded a year earlier"
-        },
-        {
-          "figure": "$4.08 a share",
-          "what": "earnings per share a year earlier"
+          "url": "https://nypost.com/2026/10/13/business/dominos-growth-slows-amid-broader-slump-in-pizza-sales/"
         }
       ]
     },
@@ -360,15 +308,8 @@
       "url": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
       "date": "2026-10-14",
       "author": "Alex Travelli",
-      "summary": "Starlink is seeking permission to operate in India while Elon Musk blames a tycoon for stalling the rollout of satellite internet access. Meanwhile, a recent protest in New Delhi highlighted how rapidly authorities can cut off mobile internet connections.",
-      "also": [],
-      "brief": {
-        "what": "Starlink is pursuing regulatory permission to operate its satellite internet service in India. At the same time, a recent public protest in New Delhi highlighted how rapidly local authorities are capable of cutting off mobile internet access.",
-        "who": "The key figures include Starlink, its leader Elon Musk, an unnamed tycoon, and Indian authorities. Elon Musk has blamed this tycoon for stalling the launch of satellite internet access, while authorities in New Delhi demonstrated the ability to shut down mobile internet networks.",
-        "context": "This development comes as Starlink actively attempts to gain authorization to provide its satellite-based connectivity in the Indian market. The operational backdrop is marked by government authorities demonstrating the capacity to quickly suspend mobile internet services during civil demonstrations in New Delhi.",
-        "why": "According to Elon Musk, the rollout of satellite internet access in India has been actively stalled by a tycoon. The article also points out that authorities in New Delhi recently cut off mobile internet access rapidly in response to a protest.",
-        "next": "The article doesn't say."
-      }
+      "summary": "As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.",
+      "also": []
     },
     {
       "topic": "business",
@@ -403,6 +344,17 @@
     {
       "topic": "business",
       "importance": 2,
+      "title": "Crypto exchange Kraken owner to buy European bank",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "San Francisco-based Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
       "title": "The Former Theater Director Who Keeps Beating Wall Street",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/the-former-theater-director-who-keeps-beating-wall-street",
@@ -420,17 +372,6 @@
       "date": "2026-10-14",
       "author": "Adrià Calatayud",
       "summary": "Sanofi’s offer to rectify the potential effects of its past messages on a rival flu shot awould address concerns, the bloc’s executive arm said.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Public, Private Sector Leaders on Economic Resilience",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-14/public-private-sector-leaders-on-economic-resilience-video",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "H.E. Sheikh Faisal bin Thani bin Faisal Al Thani, Minister of Commerce & Industry, State of Qatar and Vice Chairman & Managing Director, Doha Investment and Sunil Mittal, Founder & Chairman, Bharti Enterprises discuss how governments and businesses can create conditions for private sector growth with Bloomberg’s…",
       "also": []
     },
     {
@@ -555,17 +496,6 @@
       "also": []
     },
     {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Power failure — what went wrong with the UK’s energy system?",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2d99bcbe-b2d3-4fb4-b181-cca567f516f9?syn-25a6b1a6=1",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "As Britain faces rising bills alongside the need to decarbonise, one industry expert blames botched privatisations — but another plays down climate change and the value of renewables",
-      "also": []
-    },
-    {
       "topic": "science",
       "importance": 1,
       "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
@@ -596,6 +526,17 @@
       "date": "2026-10-13",
       "author": "Josh Pauzé",
       "summary": "J.D. Vance says he's probing universities for visa fraud, but the investigation is really about protectionism.",
+      "also": []
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03255-0",
+      "date": "2026-10-12",
+      "author": "Flora Graham",
+      "summary": "Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03255-0 Step into the rainforest with climatologist David Lapola. Plus, watch an ‘invisible’ tattoo be revealed by ultraviolet light and explore PhD remuneration across Europe.",
       "also": []
     },
     {
