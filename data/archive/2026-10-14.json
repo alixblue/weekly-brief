@@ -72,14 +72,20 @@
   "date": "2026-10-13"
  },
  {
-  "title": "BofA Says China’s Economic Data May Open Door to More Stimulus",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-says-china-s-economic-data-may-open-door-to-more-stimulus",
+  "title": "L’Oréal’s Strategy for a New Era of Beauty",
+  "url": "https://www.bloomberg.com/news/videos/2026-10-14/l-oreal-s-strategy-for-a-new-era-of-beauty-video",
   "source": "Bloomberg",
   "date": "2026-10-14"
  },
  {
-  "title": "Asia The Pain Point for AI Jitters: Market Analysis",
-  "url": "https://www.bloomberg.com/news/videos/2026-10-14/asia-the-pain-point-for-ai-jitters-3-minutes-mliv-video",
+  "title": "Botswana Tapped as Southern African Hub for Dangote Refinery IPO",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-14/botswana-tapped-as-southern-african-hub-for-dangote-refinery-ipo",
+  "source": "Bloomberg",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Hong Kong IPO Red Flags Include Sudden Loans, Secret Handshakes",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-14/hong-kong-ipo-red-flags-include-sudden-loans-secret-handshakes",
   "source": "Bloomberg",
   "date": "2026-10-14"
  },
@@ -108,12 +114,6 @@
   "date": "2026-10-14"
  },
  {
-  "title": "L&G Is Hedging Its Bond Purchases Against Risk of Selloff",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-14/l-g-is-hedging-its-bond-purchases-against-risk-of-selloff",
-  "source": "Bloomberg",
-  "date": "2026-10-14"
- },
- {
   "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
   "url": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
   "source": "Financial Times",
@@ -126,27 +126,21 @@
   "date": "2026-10-14"
  },
  {
+  "title": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
+  "url": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
+  "source": "The New York Times",
+  "date": "2026-10-14"
+ },
+ {
   "title": "TCab Tech and SIDEC sign MOU to advance E20 eVTOL commercialization in Malaysia",
   "url": "https://www.aerotime.aero/articles/tcab-tech-malaysia-sidec-e20-evtol-commercialization",
   "source": "AeroTime",
   "date": "2026-10-14"
  },
  {
-  "title": "Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi",
-  "url": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
-  "source": "The New York Times",
-  "date": "2026-10-12"
- },
- {
   "title": "Abandoning third runway would be bad for UK, Istanbul airport boss warns",
   "url": "https://www.cityam.com/abandoning-third-runway-would-be-mistake-istanbul/",
   "source": "City AM",
-  "date": "2026-10-14"
- },
- {
-  "title": "Jamaica accepts first flight of third-country deportations from US",
-  "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
-  "source": "Al Jazeera",
   "date": "2026-10-14"
  },
  {
@@ -178,5 +172,11 @@
   "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
   "source": "Science (AAAS)",
   "date": "2026-10-13"
+ },
+ {
+  "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
+  "url": "https://www.nature.com/articles/d41586-026-03255-0",
+  "source": "Nature",
+  "date": "2026-10-12"
  }
 ]
