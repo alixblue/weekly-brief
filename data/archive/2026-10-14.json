@@ -18,27 +18,15 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Pope Leo Has Lung Cancer, Vatican Says",
-  "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+  "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
+  "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
   "source": "The New York Times",
-  "date": "2026-10-14"
- },
- {
-  "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-  "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC News",
   "date": "2026-10-13"
  },
  {
   "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
   "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC News",
-  "date": "2026-10-13"
- },
- {
-  "title": "Cyber attack on French supermarket fridges raises alarm over food security",
-  "url": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
-  "source": "Financial Times",
   "date": "2026-10-13"
  },
  {
@@ -54,15 +42,21 @@
   "date": "2026-10-13"
  },
  {
-  "title": "FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban",
-  "url": "https://www.ft.com/content/fd733de5-8047-4809-9cbe-695eb5dd6f5e?syn-25a6b1a6=1",
-  "source": "Financial Times",
+  "title": "Delta aircraft isolated at Ben Gurion Airport over bomb threat: reports",
+  "url": "https://www.aerotime.aero/articles/delta-aircraft-ben-gurion-airport-bomb-threat-reports",
+  "source": "AeroTime",
   "date": "2026-10-13"
  },
  {
-  "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-  "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-  "source": "Financial Times",
+  "title": "OpenAI engineer charged after listening device found in meeting room",
+  "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+  "source": "Al Jazeera",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+  "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC News",
   "date": "2026-10-14"
  },
  {
@@ -70,6 +64,18 @@
   "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
   "date": "2026-10-13"
+ },
+ {
+  "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+  "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=pls_whats_news_us_business_f",
+  "source": "Wall Street Journal",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
+  "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
+  "source": "Fox Business",
+  "date": "2026-10-12"
  },
  {
   "title": "AI is less regulated than milk, says Microsoft president",
@@ -84,46 +90,40 @@
   "date": "2026-10-13"
  },
  {
-  "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
-  "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
-  "source": "Fox Business",
-  "date": "2026-10-12"
- },
- {
-  "title": "US, China in 'Stability Mode': Kevin Rudd",
-  "url": "https://www.bloomberg.com/news/videos/2026-10-14/us-china-in-stability-mode-kevin-rudd-video",
-  "source": "Bloomberg",
-  "date": "2026-10-14"
- },
- {
-  "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
-  "url": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
-  "source": "Wall Street Journal",
-  "date": "2026-10-14"
- },
- {
-  "title": "Latest Oil Market News and Analysis for Oct. 14",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14",
-  "source": "Bloomberg",
-  "date": "2026-10-13"
- },
- {
-  "title": "Saudi Aramco’s New China Refinery Venture Gets First Crude Cargo",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-14/saudi-aramco-s-new-china-refinery-venture-gets-first-crude-cargo",
-  "source": "Bloomberg",
-  "date": "2026-10-14"
- },
- {
   "title": "What Dimon, Solomon Said in Bank Earnings Calls",
   "url": "https://www.bloomberg.com/news/videos/2026-10-14/what-dimon-solomon-said-in-bank-earnings-calls-video",
   "source": "Bloomberg",
   "date": "2026-10-14"
  },
  {
-  "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
-  "url": "https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446?mod=pls_whats_news_us_business_f",
+  "title": "Speculation Over STT Cut Lifts Sentiment for Indian Stocks",
+  "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/speculation-over-stt-cut-lifts-sentiment-for-indian-stocks",
+  "source": "Bloomberg",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Hong Kong Investigates IPO Rigging",
+  "url": "https://www.bloomberg.com/news/videos/2026-10-14/hong-kong-investigates-ipo-rigging-video",
+  "source": "Bloomberg",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Auto & Transport Roundup: Market Talk",
+  "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8a9773ef?mod=pls_whats_news_us_business_f",
   "source": "Wall Street Journal",
-  "date": "2026-10-12"
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Glencore shares make Australia debut to mine base of ‘smart investors’",
+  "url": "https://www.ft.com/content/4c62b2e1-1c41-4340-9979-d378b879fe1f?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "date": "2026-10-14"
+ },
+ {
+  "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
+  "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "date": "2026-10-13"
  },
  {
   "title": "Abandoning third runway would be bad for UK, Istanbul airport boss warns",
@@ -132,10 +132,28 @@
   "date": "2026-10-14"
  },
  {
-  "title": "Jamaica accepts first flight of third-country deportations from US",
-  "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
-  "source": "Al Jazeera",
-  "date": "2026-10-14"
+  "title": "Wall Street plays down investor fears of faltering trading boom",
+  "url": "https://www.ft.com/content/bd1f3385-1985-4a8a-a781-22cbe1292d2d?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Report: Airlines will face shortage of new airplanes until at least 2030",
+  "url": "https://www.aerotime.aero/articles/airlines-new-airplane-shortage-2030",
+  "source": "AeroTime",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "US lawmakers urge FAA to pause AI traffic tool at Washington-area airports",
+  "url": "https://www.aerotime.aero/articles/us-lawmakers-faa-pause-smart-ai-air-traffic-tool",
+  "source": "AeroTime",
+  "date": "2026-10-13"
+ },
+ {
+  "title": "Boeing on pace to increase aircraft deliveries in 2026 as 737 handovers rise",
+  "url": "https://www.aerotime.aero/articles/boeing-2026-deliveries-orders-airbus-september",
+  "source": "AeroTime",
+  "date": "2026-10-13"
  },
  {
   "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
@@ -144,39 +162,21 @@
   "date": "2026-10-11"
  },
  {
-  "title": "Fractured Realities",
-  "url": "https://thedispatch.com/article/cornell-talarico-left-right-alternate-realities/",
-  "source": "The Dispatch",
+  "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+  "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+  "source": "Science (AAAS)",
   "date": "2026-10-13"
  },
  {
-  "title": "No Immunity for Judge Who Locked Children in Holding Cells in Custody Case",
-  "url": "https://reason.com/volokh/2026/10/13/no-immunity-for-judge-who-locked-children-in-holding-cells-in-custody-case/",
-  "source": "Reason",
+  "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
+  "url": "https://www.nature.com/articles/d41586-026-03244-3",
+  "source": "Nature",
   "date": "2026-10-13"
  },
  {
-  "title": "The New Mega-Hub Airport Being Purpose-Built Around Just 15 Jets",
-  "url": "https://simpleflying.com/new-mega-hub-airport-being-purpose-built-around-just-15-jets/",
-  "source": "Simple Flying",
-  "date": "2026-10-14"
- },
- {
-  "title": "Air Tahiti All First Class ATR-72 Begins Epic 6-Day, 9-Airport Journey From France To Tahiti",
-  "url": "https://simpleflying.com/air-tahiti-first-class-atr-72-epic-6-day-9-airport-france-tahiti/",
-  "source": "Simple Flying",
-  "date": "2026-10-13"
- },
- {
-  "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-  "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-  "source": "The Guardian",
-  "date": "2026-10-13"
- },
- {
-  "title": "Trill seekers: can scientists use AI and tutors to help birds remember lost songs?",
-  "url": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
-  "source": "The Guardian",
+  "title": "Decentralized AI needs more evidence on energy use",
+  "url": "https://www.nature.com/articles/d41586-026-03245-2",
+  "source": "Nature",
   "date": "2026-10-13"
  }
 ]

@@ -1,7 +1,7 @@
 {
   "generated": "2026-10-14",
   "window": "2026-10-07 to 2026-10-14",
-  "method": "Pulled automatically from 31 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
+  "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": null,
   "week": [
     {
@@ -23,15 +23,15 @@
       ]
     },
     {
-      "text": "The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.",
+      "text": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
       "urls": [
-        "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
+        "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html"
       ]
     },
     {
-      "text": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "text": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
@@ -115,54 +115,28 @@
       "also": []
     },
     {
-      "topic": "world",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "Pope Leo Has Lung Cancer, Vatican Says",
+      "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-      "date": "2026-10-14",
-      "author": "Elisabetta Povoledo",
-      "summary": "The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.",
-      "also": [
-        {
-          "source": "BBC News",
-          "author": null,
-          "date": "2026-10-14",
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR",
-          "author": "Daniel Burke",
-          "date": "2026-10-13",
-          "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
-          "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
       "date": "2026-10-13",
-      "author": null,
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "author": "Erika Solomon",
+      "summary": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
       "also": [
         {
-          "source": "Bloomberg",
-          "author": "Anthony Di Paola and Annmarie Hordern",
-          "date": "2026-10-13",
-          "title": "Aramco Headquarters Hit as Houthi Missiles Strike Saudi Arabia",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia"
+          "source": "Wall Street Journal",
+          "author": "Kelly Cloonan",
+          "date": "2026-10-12",
+          "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
+          "url": "https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446?mod=pls_whats_news_us_business_f"
         },
         {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-14",
-          "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
+          "source": "AeroTime",
+          "author": "Stephen Pope",
+          "date": "2026-10-12",
+          "title": "Delta postpones Saudi Arabia launch after deadly airport attacks",
+          "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights"
         }
       ]
     },
@@ -189,25 +163,6 @@
           "date": "2026-10-14",
           "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "Cyber attack on French supermarket fridges raises alarm over food security",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
-      "date": "2026-10-13",
-      "author": null,
-      "summary": "Some stores reported fridge temperatures as high as 80C, melting equipment and destroying food",
-      "also": [
-        {
-          "source": "BBC News",
-          "author": null,
-          "date": "2026-10-12",
-          "title": "Fridges in French supermarkets hit by cyber attack",
-          "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -250,47 +205,66 @@
       ]
     },
     {
-      "topic": "markets",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fd733de5-8047-4809-9cbe-695eb5dd6f5e?syn-25a6b1a6=1",
+      "title": "Delta aircraft isolated at Ben Gurion Airport over bomb threat: reports",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/delta-aircraft-ben-gurion-airport-bomb-threat-reports",
       "date": "2026-10-13",
-      "author": null,
-      "summary": "US regulators accuse convicted felon of trading in dozens of pharmaceutical stocks and sharing opinions on social media",
+      "author": "Ian Molyneaux",
+      "summary": "A Delta Air Lines aircraft was isolated at Tel Aviv’s Ben Gurion Airport (TLV) due to a bomb… The post Delta aircraft isolated at Ben Gurion Airport over bomb threat: reports appeared first on AeroTime .",
       "also": [
         {
-          "source": "New York Post",
-          "author": "Peter Senzamici, Ariel Zilber",
+          "source": "Simple Flying",
+          "author": "Victoria Agronsky",
           "date": "2026-10-13",
-          "title": "‘Pharma Bro’ Martin Shkreli broke lifetime ban on drug industry trades, feds say",
-          "url": "https://nypost.com/2026/10/13/business/pharma-bro-martin-shkreli-broke-lifetime-ban-on-drug-industry-trades-fed-say/"
+          "title": "Bomb Threat Forces Isolation Of Delta A330 At Tel Aviv Airport",
+          "url": "https://simpleflying.com/bomb-threat-delta-a330-isolation-tel-aviv-airport/"
         }
       ]
     },
     {
-      "topic": "science",
+      "topic": "world",
       "importance": 2,
-      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-      "date": "2026-10-14",
+      "title": "OpenAI engineer charged after listening device found in meeting room",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+      "date": "2026-10-13",
       "author": null,
-      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+      "summary": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
       "also": [
         {
-          "source": "BBC News",
-          "author": null,
+          "source": "Washington Examiner",
+          "author": "Claire Carter",
           "date": "2026-10-13",
-          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+          "title": "OpenAI worker charged after recording device found in company conference room",
+          "url": "https://www.washingtonexaminer.com/news/justice/4764960/openai-arrest-recording-device-conference-room/"
         },
         {
-          "source": "BBC News",
+          "source": "Fox Business",
           "author": null,
           "date": "2026-10-13",
-          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+          "title": "Saudi national accused of planting recording device in OpenAI executive conference room",
+          "url": "https://www.foxbusiness.com/technology/saudi-national-accused-planting-recording-device-openai-executive-conference-room"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-14",
+          "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
         }
       ]
     },
@@ -310,6 +284,44 @@
           "date": "2026-10-13",
           "title": "Six Flags closes roller coasters at multiple parks after deadly incident in Georgia",
           "url": "https://www.foxbusiness.com/lifestyle/six-flags-closes-roller-coasters-multiple-parks-after-deadly-incident-georgia"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-13",
+      "author": "Max Fillion",
+      "summary": "Plus: U.K. floats payments for fraud whistleblowers and Delta delays Saudi Arabia plans.",
+      "also": [
+        {
+          "source": "BBC News",
+          "author": null,
+          "date": "2026-10-11",
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
+      "date": "2026-10-12",
+      "author": null,
+      "summary": "The Picklr's Chapter 11 filing stems from costly lease guarantees on about 40 franchise locations as an investor group commits millions for restructuring.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-10-13",
+          "title": "Pickleball company files for bankruptcy as founder acknowledges business mistake: ‘I own it’",
+          "url": "https://nypost.com/2026/10/13/business/pickleball-company-files-for-bankruptcy-as-founder-acknowledges-business-mistake-i-own-it/"
         }
       ]
     },
@@ -344,70 +356,7 @@
       "also": []
     },
     {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
-      "date": "2026-10-12",
-      "author": null,
-      "summary": "The Picklr's Chapter 11 filing stems from costly lease guarantees on about 40 franchise locations as an investor group commits millions for restructuring.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Fox Business",
-          "date": "2026-10-13",
-          "title": "Pickleball company files for bankruptcy as founder acknowledges business mistake: ‘I own it’",
-          "url": "https://nypost.com/2026/10/13/business/pickleball-company-files-for-bankruptcy-as-founder-acknowledges-business-mistake-i-own-it/"
-        }
-      ]
-    },
-    {
       "topic": "business",
-      "importance": 1,
-      "title": "US, China in 'Stability Mode': Kevin Rudd",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-14/us-china-in-stability-mode-kevin-rudd-video",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "Former Australian Prime Minister and Asia Society Global President & CEO says the US and China are in a \"stability mode\" where they have different national interests but no incentive to immediately ramp up political and trade tensions. (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-14",
-      "author": "Allison Pohle",
-      "summary": "It is a make-or-break moment for the amusement-park operator, which has struggled since a July 2024 merger.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Latest Oil Market News and Analysis for Oct. 14",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14",
-      "date": "2026-10-13",
-      "author": "Kanoko Matsuyama",
-      "summary": "Oil climbed as a flare-up in attacks in the Middle East increased uncertainty over a recovery in Persian Gulf energy flows.",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Saudi Aramco’s New China Refinery Venture Gets First Crude Cargo",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/saudi-aramco-s-new-china-refinery-venture-gets-first-crude-cargo",
-      "date": "2026-10-14",
-      "author": "Bloomberg News",
-      "summary": "Saudi Aramco and its local partners have received the first crude cargo for their new refining complex in China, bringing the billion-dollar mega plant a step closer to production.",
-      "also": []
-    },
-    {
-      "topic": "markets",
       "importance": 1,
       "title": "What Dimon, Solomon Said in Bank Earnings Calls",
       "source": "Bloomberg",
@@ -418,14 +367,58 @@
       "also": []
     },
     {
-      "topic": "aerospace",
+      "topic": "business",
       "importance": 1,
-      "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
+      "title": "Speculation Over STT Cut Lifts Sentiment for Indian Stocks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/speculation-over-stt-cut-lifts-sentiment-for-indian-stocks",
+      "date": "2026-10-14",
+      "author": "Ashutosh Joshi and Pratigya Vajpayee",
+      "summary": "Nifty jumps as traders seize on a rather noncommittal remark by Sitharaman about the securities transaction tax.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Hong Kong Investigates IPO Rigging",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/hong-kong-investigates-ipo-rigging-video",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "The Securities and Futures Commission warned investment banks and other intermediaries against arrangements that may artificially inflate demand for initial public offerings. Minmin Low has more on \"The Asia Trade.\" (Source: Bloomberg)",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Auto & Transport Roundup: Market Talk",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-12",
-      "author": "Kelly Cloonan",
-      "summary": "The carrier said it now expects to debut the flight in March, pushing back previous plans for an Oct. 23 rollout, after several fatal strikes at Riyadh’s international airport.",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8a9773ef?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-13",
+      "author": null,
+      "summary": "Find insight on U.S. new vehicle prices, Canadian travel to the U.S., Volkswagen and more in the latest Market Talks covering the auto and transport sector.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Glencore shares make Australia debut to mine base of ‘smart investors’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4c62b2e1-1c41-4340-9979-d378b879fe1f?syn-25a6b1a6=1",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "Commodity giant chief Gary Nagle says mining is appreciated and understood in the country",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "date": "2026-10-13",
+      "author": null,
+      "summary": "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment",
       "also": []
     },
     {
@@ -440,14 +433,47 @@
       "also": []
     },
     {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Wall Street plays down investor fears of faltering trading boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/bd1f3385-1985-4a8a-a781-22cbe1292d2d?syn-25a6b1a6=1",
+      "date": "2026-10-13",
+      "author": null,
+      "summary": "JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter",
+      "also": []
+    },
+    {
       "topic": "aerospace",
       "importance": 1,
-      "title": "Jamaica accepts first flight of third-country deportations from US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
+      "title": "Report: Airlines will face shortage of new airplanes until at least 2030",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/airlines-new-airplane-shortage-2030",
+      "date": "2026-10-13",
+      "author": "Stephen Pope",
+      "summary": "Airlines waiting for new airplanes face several more years of delivery shortages, with engine availability, supplier bottlenecks and… The post Report: Airlines will face shortage of new airplanes until at least 2030 appeared first on AeroTime .",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "US lawmakers urge FAA to pause AI traffic tool at Washington-area airports",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/us-lawmakers-faa-pause-smart-ai-air-traffic-tool",
+      "date": "2026-10-13",
+      "author": "Stephen Pope",
+      "summary": "More than two dozen US lawmakers are urging the Federal Aviation Administration (FAA) to stop using a new… The post US lawmakers urge FAA to pause AI traffic tool at Washington-area airports appeared first on AeroTime .",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Boeing on pace to increase aircraft deliveries in 2026 as 737 handovers rise",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/boeing-2026-deliveries-orders-airbus-september",
+      "date": "2026-10-13",
+      "author": "Stephen Pope",
+      "summary": "Boeing delivered 475 commercial aircraft in the first nine months of 2026, up 8% from a year earlier,… The post Boeing on pace to increase aircraft deliveries in 2026 as 737 handovers rise appeared first on AeroTime .",
       "also": []
     },
     {
@@ -462,69 +488,36 @@
       "also": []
     },
     {
-      "topic": "aerospace",
+      "topic": "science",
       "importance": 1,
-      "title": "Fractured Realities",
-      "source": "The Dispatch",
-      "url": "https://thedispatch.com/article/cornell-talarico-left-right-alternate-realities/",
+      "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "source": "Science (AAAS)",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
       "date": "2026-10-13",
-      "author": "Jesse Singal",
-      "summary": "The age of micro-balkanization is going to become increasingly unpleasant.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "No Immunity for Judge Who Locked Children in Holding Cells in Custody Case",
-      "source": "Reason",
-      "url": "https://reason.com/volokh/2026/10/13/no-immunity-for-judge-who-locked-children-in-holding-cells-in-custody-case/",
-      "date": "2026-10-13",
-      "author": "Eugene Volokh",
-      "summary": "From Rockett v. Eighmy, decided today by Eighth Circuit Judge David Stras, joined by Judges Bobby Shepherd and Jane Kelly:… The post No Immunity for Judge Who Locked Children in Holding Cells in Custody Case appeared first on Reason Magazine.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "The New Mega-Hub Airport Being Purpose-Built Around Just 15 Jets",
-      "source": "Simple Flying",
-      "url": "https://simpleflying.com/new-mega-hub-airport-being-purpose-built-around-just-15-jets/",
-      "date": "2026-10-14",
-      "author": "Josh Lamb",
-      "summary": "Qantas has been involved since before ground was first broken at Western Sydney International Airport.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Air Tahiti All First Class ATR-72 Begins Epic 6-Day, 9-Airport Journey From France To Tahiti",
-      "source": "Simple Flying",
-      "url": "https://simpleflying.com/air-tahiti-first-class-atr-72-epic-6-day-9-airport-france-tahiti/",
-      "date": "2026-10-13",
-      "author": "Paul Hartley",
-      "summary": "Air Tahiti's luxurious 26-seat ATR 72-600 is embarking on an extraordinary six-day delivery journey spanning nine airports.",
-      "also": []
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-      "date": "2026-10-13",
-      "author": "Jonathan Watts",
-      "summary": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official has said, as the country battles devastating blazes…",
+      "author": "Zack Savitsky",
+      "summary": "Huge OpenAI release contains “exciting” progress on a puzzle about prime numbers",
       "also": []
     },
     {
       "topic": "science",
       "importance": 1,
-      "title": "Trill seekers: can scientists use AI and tutors to help birds remember lost songs?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
+      "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03244-3",
       "date": "2026-10-13",
-      "author": "Rebecca Ratcliffe",
-      "summary": "When populations fall, fledglings can struggle to learn the right notes to attract mates. But research on how birds communicate offers hope for species’ survival Listening to birdsong is one of life’s great joys, but when researchers heard a particular tune emerging from a tree in a Buenos Aires park, they were…",
+      "author": "Qingde Shi",
+      "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03244-3 Preserve research data for tomorrow’s AI-enabled integrity checks",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Decentralized AI needs more evidence on energy use",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03245-2",
+      "date": "2026-10-13",
+      "author": "Deepak Kushawaha",
+      "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2 Decentralized AI needs more evidence on energy use",
       "also": []
     }
   ]
