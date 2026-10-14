@@ -404,7 +404,7 @@ def save_archive(items):
     (ARCHIVE / f"{dt.date.today().isoformat()}.json").write_text(json.dumps(keep, indent=1, ensure_ascii=False))
 
 
-MARKETS = [("S&P 500", ".SPX", "{}"), ("Dow", ".DJI", "{}"), ("Nasdaq", ".IXIC", "{}"),
+MARKETS = [("S&P 500", ".SPX", "{}"), ("Dow", ".DJI", "{}"), ("Nasdaq", ".IXIC", "{}"), ("CAC 40", ".FCHI", "{}"),
            ("Brent oil", "@LCO.1", "${}"), ("US 10-yr yield", "US10Y", "{}"), ("EUR/USD", "EUR=", "{}")]
 
 
