@@ -5,7 +5,7 @@
   python update.py render   # data/news.json + glossary -> site/index.html
   python update.py all      # both (what the daily GitHub Action runs)
 
-Standard library only. If ANTHROPIC_API_KEY is set, Claude reads each original article
+Standard library only. If GEMINI_API_KEY (free), GROQ_API_KEY (free) or ANTHROPIC_API_KEY is set, the model reads each original article
 and writes the in-page brief (3 short paragraphs), a neutral card summary, notes on how
 other outlets framed the story, and definitions for new jargon. Article text itself is
 never stored or published, only the brief written from it.
@@ -226,41 +226,57 @@ def article_text(url, limit=9000):
     return "\n".join(p for p in paras if len(p) > 60)[:limit]
 
 
-FREE_MODEL = "openai/gpt-4.1-mini"  # GitHub Models free tier (about 150 requests/day, 15/minute)
+GEMINI_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash"]  # Google AI Studio free tier (about 10 requests/minute, 250/day)
+GROQ_MODEL = "llama-3.3-70b-versatile"                      # Groq free tier
 _last_call = [0.0]
 
 
 def ai_key():
-    """Claude if an Anthropic key is set, otherwise GitHub's free models inside GitHub Actions, otherwise none."""
-    if os.environ.get("ANTHROPIC_API_KEY"): return ("anthropic", os.environ["ANTHROPIC_API_KEY"])
-    if os.environ.get("GITHUB_MODELS_TOKEN"): return ("github", os.environ["GITHUB_MODELS_TOKEN"])
+    """First AI provider with a key: Claude (paid), Gemini (free), Groq (free). None = no AI summaries."""
+    for provider, var in (("anthropic", "ANTHROPIC_API_KEY"), ("gemini", "GEMINI_API_KEY"), ("groq", "GROQ_API_KEY")):
+        if os.environ.get(var, "").strip(): return (provider, os.environ[var].strip())
     return None
 
 
+def _post(url, body, headers, timeout=120):
+    req = urllib.request.Request(url, data=json.dumps(body).encode(), headers={"content-type": "application/json", **headers})
+    return json.loads(urllib.request.urlopen(req, timeout=timeout).read())
+
+
 def ask_claude(key, prompt, max_tokens=1500):
+    """Send one prompt to whichever provider has a key; always returns the JSON object in the reply."""
+    import time
     provider, token = key
     if provider == "anthropic":
-        body = json.dumps({"model": MODEL, "max_tokens": max_tokens, "messages": [{"role": "user", "content": prompt}]}).encode()
-        req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
-            "x-api-key": token, "anthropic-version": "2023-06-01", "content-type": "application/json"})
-        text = json.loads(urllib.request.urlopen(req, timeout=120).read())["content"][0]["text"]
+        r = _post("https://api.anthropic.com/v1/messages", {"model": MODEL, "max_tokens": max_tokens, "messages": [{"role": "user", "content": prompt}]},
+                  {"x-api-key": token, "anthropic-version": "2023-06-01"})
+        text = r["content"][0]["text"]
     else:
-        import time
-        wait = 4.5 - (time.time() - _last_call[0])  # stay under the free tier's 15 requests a minute
+        wait = 7 - (time.time() - _last_call[0])  # stay under the free tiers' requests-per-minute limits
         if wait > 0: time.sleep(wait)
-        body = json.dumps({"model": FREE_MODEL, "max_tokens": max_tokens, "temperature": 0.2,
-                           "response_format": {"type": "json_object"},
-                           "messages": [{"role": "user", "content": prompt}]}).encode()
-        req = urllib.request.Request("https://models.github.ai/inference/chat/completions", data=body, headers={
-            "Authorization": f"Bearer {token}", "Content-Type": "application/json", "Accept": "application/json"})
         for attempt in range(3):
             try:
                 _last_call[0] = time.time()
-                text = json.loads(urllib.request.urlopen(req, timeout=120).read())["choices"][0]["message"]["content"]
+                if provider == "gemini":
+                    for model in GEMINI_MODELS:
+                        try:
+                            r = _post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                                      {"contents": [{"parts": [{"text": prompt}]}],
+                                       "generationConfig": {"responseMimeType": "application/json", "maxOutputTokens": max(max_tokens, 2500), "temperature": 0.2}},
+                                      {"x-goog-api-key": token})
+                            break
+                        except urllib.error.HTTPError as e:
+                            if e.code != 404: raise
+                    text = r["candidates"][0]["content"]["parts"][0]["text"]
+                else:
+                    r = _post("https://api.groq.com/openai/v1/chat/completions",
+                              {"model": GROQ_MODEL, "max_tokens": max_tokens, "temperature": 0.2, "response_format": {"type": "json_object"},
+                               "messages": [{"role": "user", "content": prompt}]}, {"Authorization": f"Bearer {token}"})
+                    text = r["choices"][0]["message"]["content"]
                 break
             except urllib.error.HTTPError as e:
-                if e.code != 429 or attempt == 2: raise
-                time.sleep(int(e.headers.get("Retry-After") or 30))
+                if e.code not in (429, 500, 503) or attempt == 2: raise
+                time.sleep(int(e.headers.get("Retry-After") or 20))
     return json.loads(text[text.index("{"): text.rindex("}") + 1])
 
 
@@ -286,7 +302,7 @@ Article text (public part only):
 
 
 def claude_polish(items, glossary):
-    """Optional: in-page briefs, card summaries, topic check, new glossary terms. Needs ANTHROPIC_API_KEY."""
+    """Optional: in-page briefs, card summaries, topic check, new glossary terms. Needs one AI key."""
     key = ai_key()
     if not key: return items, glossary
     log("writing briefs with", key[0])

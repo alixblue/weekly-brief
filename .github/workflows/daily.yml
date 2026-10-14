@@ -25,7 +25,9 @@ jobs:
       - name: Fetch, rank, summarise, render
         if: github.event_name != 'push'
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional: Claude writes the summaries
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # free: Google Gemini writes the summaries
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}             # free alternative: Groq
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # paid alternative: Claude
         run: python pipeline/update.py all
       - name: Save this week's data
         if: github.event_name != 'push'
