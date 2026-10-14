@@ -213,14 +213,16 @@ def select(scored, src_by_name):
         tot = sides()
         weak, strong = ("left", "right") if tot["left"] < tot["right"] else ("right", "left")
         if tot[weak] * 4 >= tot[strong] * 3: break
-        spare = [x for x in scored if x not in picked and tally(x)[weak] > tally(x)[strong]
-                 and per_src.get(x[2]["items"][0]["source"], 0) < PER_SOURCE_CAP]
-        if not spare: break
-        drop = min((x for x in picked if tally(x)[strong] > tally(x)[weak]), key=lambda x: x[0], default=None)
-        if not drop: break
-        picked.remove(drop); picked.append(spare[0])
+        net = lambda x: tally(x)[weak] - tally(x)[strong]
+        spare = sorted((x for x in scored if x not in picked and net(x) > 0
+                        and per_src.get(x[2]["items"][0]["source"], 0) < PER_SOURCE_CAP), key=lambda x: (-net(x), -x[0]))
+        drops = sorted((x for x in picked if net(x) < 0), key=lambda x: (x[0] * (1 + 0.15 * net(x)) ))
+        swap = next(((d, sp) for sp in spare[:1] for d in drops), None)
+        if not swap: break
+        drop, add = swap
+        picked.remove(drop); picked.append(add)
         per_src[drop[2]["items"][0]["source"]] -= 1
-        per_src[spare[0][2]["items"][0]["source"]] = per_src.get(spare[0][2]["items"][0]["source"], 0) + 1
+        per_src[add[2]["items"][0]["source"]] = per_src.get(add[2]["items"][0]["source"], 0) + 1
     picked.sort(key=lambda x: x[0], reverse=True)
     out = []
     for n, (score, topic, c) in enumerate(picked):
