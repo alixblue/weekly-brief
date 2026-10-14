@@ -315,7 +315,7 @@ BRIEF_PROMPT = """You write one story for a neutral daily news digest. The reade
 Using ONLY the article text below (no outside facts), return JSON:
 {{"topic": one of aerospace|business|markets|environment|science|world|culture (culture = arts, media, sport; markets = stocks, bonds, rates, central banks, currencies),
  "summary": one or two plain sentences for the story card,
- "numbers": [up to 5 of the most important figures the article states, each {{"figure": the number with its unit, e.g. "$1.2 billion", "+0.6%", "81 aircraft", "what": 3-8 words saying what it measures}}; [] if the article gives none. Copy figures exactly, never calculate or estimate],
+ "numbers": [up to 5 of the most important figures the article states, each {{"figure": the number with its unit, e.g. "$1.2 billion", "+0.6%", "81 aircraft", "what": 3-8 words saying what it measures}}. Only figures that measure the story itself (money, quantities, percentages, counts, prices, rates, capacities); never dates, clock times, time zones, ages, or the number of people quoted. Order by importance. [] if the article gives none. Copy figures exactly, never calculate or estimate, never convert currencies],
  "brief": {{"what": what happened, 1-2 sentences with the key numbers,
            "who": the main actors and their role in the story,
            "context": the background a reader needs,
