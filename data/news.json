@@ -24,8 +24,8 @@
       },
       {
         "name": "Brent oil",
-        "value": "$106.38",
-        "change": "+0.65%"
+        "value": "$106.24",
+        "change": "+0.52%"
       },
       {
         "name": "US 10-yr yield",
@@ -34,8 +34,8 @@
       },
       {
         "name": "EUR/USD",
-        "value": "1.1206",
-        "change": "+0.0714%"
+        "value": "1.1209",
+        "change": "+0.0982%"
       }
     ]
   },
@@ -65,9 +65,9 @@
       ]
     },
     {
-      "text": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "text": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
@@ -179,32 +179,6 @@
     {
       "topic": "world",
       "importance": 2,
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "author": null,
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "also": [
-        {
-          "source": "Bloomberg",
-          "author": "Anthony Di Paola and Annmarie Hordern",
-          "date": "2026-10-13",
-          "title": "Aramco Headquarters Hit as Houthi Missiles Strike Saudi Arabia",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia"
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-14",
-          "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
       "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
@@ -244,25 +218,6 @@
           "date": "2026-10-13",
           "title": "Domino’s growth slows amid broader slump in pizza sales",
           "url": "https://nypost.com/2026/10/13/business/dominos-growth-slows-amid-broader-slump-in-pizza-sales/"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Premier Inn owner urges investors to resist pressure from activist hedge fund",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/1cf8da1d-8abd-40a6-bcd2-055ee49c7fcb?syn-25a6b1a6=1",
-      "date": "2026-10-13",
-      "author": null,
-      "summary": "Whitbread asks shareholders to reject Corvex Management’s demand for a board seat",
-      "also": [
-        {
-          "source": "City AM",
-          "author": "Felix Armstrong",
-          "date": "2026-10-13",
-          "title": "Premier Inn owner Whitbread hits out at ‘destructive’ activist investor",
-          "url": "https://www.cityam.com/premier-inn-owner-whitbread-hits-out-at-destructive-investor-pressure/"
         }
       ]
     },
@@ -312,6 +267,25 @@
       ]
     },
     {
+      "topic": "world",
+      "importance": 2,
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-14",
+          "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
+        }
+      ]
+    },
+    {
       "topic": "business",
       "importance": 2,
       "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it'",
@@ -351,7 +325,7 @@
     },
     {
       "topic": "world",
-      "importance": 1,
+      "importance": 2,
       "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=pls_whats_news_us_business_f",
@@ -432,6 +406,17 @@
       "date": "2026-10-14",
       "author": null,
       "summary": "Commodity giant chief Gary Nagle says mining is appreciated and understood in the country",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Premier Inn owner urges investors to resist pressure from activist hedge fund",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1cf8da1d-8abd-40a6-bcd2-055ee49c7fcb?syn-25a6b1a6=1",
+      "date": "2026-10-13",
+      "author": null,
+      "summary": "Whitbread asks shareholders to reject Corvex Management’s demand for a board seat",
       "also": []
     },
     {
