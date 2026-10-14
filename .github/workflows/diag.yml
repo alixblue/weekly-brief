@@ -9,21 +9,17 @@ jobs:
       - name: Try sources
         run: |
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36"
-          t() { echo "== $1"; curl -sS -m 25 -A "$UA" -o /tmp/o -w "HTTP %{http_code} %{size_download}B\n" "$2" 2>&1 | tail -2; head -c 300 /tmp/o | tr '\n' ' '; echo; }
-          t "stooq csv" "https://stooq.com/q/d/l/?s=%5Espx&i=d"
-          t "yahoo chart query2" "https://query2.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1mo&interval=1d"
-          t "yahoo chart query1" "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1mo&interval=1d"
-          t "fred single" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=SP500&cosd=2026-09-10"
-          t "treasury yields xml" "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value_month=202610"
-          t "treasury csv" "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&page&_format=csv"
-          t "ecb eurusd" "https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A?lastNObservations=8&format=csvdata"
-          t "frankfurter fx" "https://api.frankfurter.dev/v1/latest?base=EUR&symbols=USD"
-          t "cnbc quote" "https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=.SPX,.DJI,.IXIC,%40LCO.1,US10Y&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=0&output=json"
-          t "cboe vix delayed" "https://cdn.cboe.com/api/global/delayed_quotes/quotes/_SPX.json"
-          t "nasdaq api" "https://api.nasdaq.com/api/quote/COMP/info?assetclass=index"
-          t "marketwatch" "https://www.marketwatch.com/investing/index/spx"
-          t "investing rss" "https://www.investing.com/rss/market_overview.rss"
-          t "wsj markets rss" "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
-          t "google finance" "https://www.google.com/finance/quote/.INX:INDEXSP"
-          t "eia brent" "https://www.eia.gov/dnav/pet/hist_xls/RBRTEd.xls"
-          t "stooq quote" "https://stooq.com/q/l/?s=%5Espx,%5Edji,%5Endq,cb.f,eurusd&f=sd2t2ohlcv&h&e=csv"
+          t() { echo "== $1"; curl -sS -m 25 -A "$UA" -H "Accept: application/json, text/plain, */*" -o /tmp/o -w "HTTP %{http_code} %{size_download}B\n" "$2" 2>&1 | tail -2; head -c ${3:-400} /tmp/o | tr '\n' ' '; echo; }
+          t "stooq csv" "https://stooq.com/q/d/l/?s=%5Espx&i=d" 200
+          t "nasdaq hist COMP" "https://api.nasdaq.com/api/quote/COMP/historical?assetclass=index&fromdate=2026-09-28&limit=12&todate=2026-10-14" 700
+          t "nasdaq info SPX" "https://api.nasdaq.com/api/quote/SPX/info?assetclass=index" 500
+          t "nasdaq hist SPX" "https://api.nasdaq.com/api/quote/SPX/historical?assetclass=index&fromdate=2026-09-28&limit=12&todate=2026-10-14" 500
+          t "nasdaq hist DJIA" "https://api.nasdaq.com/api/quote/DJIA/historical?assetclass=index&fromdate=2026-09-28&limit=12&todate=2026-10-14" 500
+          t "nasdaq hist INDU" "https://api.nasdaq.com/api/quote/INDU/historical?assetclass=index&fromdate=2026-09-28&limit=12&todate=2026-10-14" 300
+          t "nasdaq brent" "https://api.nasdaq.com/api/quote/BZ%3ANMX/info?assetclass=commodities" 500
+          t "nasdaq hist brent" "https://api.nasdaq.com/api/quote/BZ%3ANMX/historical?assetclass=commodities&fromdate=2026-09-28&limit=12&todate=2026-10-14" 500
+          t "cnbc pipe" "https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=.SPX%7C.DJI%7C.IXIC%7CUS10Y%7C%40LCO.1&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=1&output=json" 900
+          t "fred http1.1" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU&cosd=2026-09-20" 300
+          t "fred api-less txt" "https://fred.stlouisfed.org/data/DCOILBRENTEU.txt" 200
+          t "eia brent json page" "https://www.eia.gov/dnav/pet/hist/RBRTED.htm" 300
+          t "treasury csv 10y" "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&page&_format=csv" 250
