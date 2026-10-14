@@ -9,7 +9,6 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  models: read            # free GitHub Models for the summaries
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -27,7 +26,6 @@ jobs:
         if: github.event_name != 'push'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional: Claude writes the summaries
-          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}       # otherwise GitHub's free models do
         run: python pipeline/update.py all
       - name: Save this week's data
         if: github.event_name != 'push'

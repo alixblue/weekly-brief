@@ -342,12 +342,10 @@ def markets():
     start = (dt.date.today() - dt.timedelta(days=30)).isoformat()
     ids = ",".join(sym for _, sym, _ in MARKETS)
     rows = None
-    for attempt in range(2):
-        try:
-            rows = [r.split(",") for r in get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={ids}&cosd={start}", timeout=90).decode().strip().splitlines()]
-            break
-        except Exception as e:
-            log("market data attempt failed:", e.__class__.__name__, e)
+    try:
+        rows = [r.split(",") for r in get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={ids}&cosd={start}", timeout=30).decode().strip().splitlines()]
+    except Exception as e:
+        log("market data skipped:", e.__class__.__name__, e)
     if not rows: return None
     out, asof = [], None
     for col, (name, sym, fmt) in enumerate(MARKETS, start=1):
