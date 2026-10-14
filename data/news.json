@@ -24,13 +24,18 @@
       },
       {
         "name": "CAC 40",
-        "value": "7,881.26",
-        "change": "+0.69%"
+        "value": "7,880.30",
+        "change": "+0.67%"
+      },
+      {
+        "name": "DAX",
+        "value": "25,406.20",
+        "change": "+0.58%"
       },
       {
         "name": "Brent oil",
-        "value": "$105.94",
-        "change": "+0.24%"
+        "value": "$105.95",
+        "change": "+0.25%"
       },
       {
         "name": "US 10-yr yield",
@@ -39,61 +44,87 @@
       },
       {
         "name": "EUR/USD",
-        "value": "1.1192",
-        "change": "-0.0536%"
+        "value": "1.1191",
+        "change": "-0.0625%"
       }
     ]
   },
   "week": [
     {
-      "text": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’ Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of…",
+      "text": "President Trump's efforts to influence the Federal Reserve and his administration's personnel decisions have drawn scrutiny, including the firing of Ambassador Kimberly Guilfoyle over influence peddling allegations. Meanwhile, experts suggest his deal to import Russian diesel will have minimal impact on US fuel prices.",
       "urls": [
-        "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices"
+        "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+        "https://reason.com/2026/10/13/trump-fired-kimberly-guilfoyle-for-influence-peddling-that-pales-next-to-his-presidential-profiteering/",
+        "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
       ]
     },
     {
-      "text": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "text": "Security concerns in Saudi Arabia have led to the postponement of Delta Air Lines' new route to Riyadh until 2027, while an OpenAI employee was charged with planting a recording device at the company's San Francisco office.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
+        "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights",
+        "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo"
       ]
     },
     {
-      "text": "Delta Air Lines has postponed the launch of its Atlanta–Riyadh flights until March 2027 following deadly attacks on… The post Delta postpones Saudi Arabia launch after deadly airport attacks appeared first on AeroTime .",
+      "text": "ASML has raised its financial guidance for the third time due to surging demand for AI chips, with the company projecting that demand for semiconductor manufacturing equipment will outpace supply for the next two years.",
       "urls": [
-        "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights"
+        "https://www.wsj.com/business/earnings/chip-machine-supplier-asml-boosts-guidance-for-third-time-on-surging-ai-demand-7ea173d9",
+        "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01"
       ]
     },
     {
-      "text": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding…",
+      "text": "Germany is currently handling legal proceedings related to the 2022 Nord Stream pipeline sabotage, while also managing a brief false alarm of a hijacking at Nuremberg Airport.",
       "urls": [
-        "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+        "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo",
+        "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html"
       ]
     },
     {
-      "text": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "text": "Bank of America faces a $1.2 billion fine for money laundering failings, and the European Union has accepted concessions from Sanofi to settle an antitrust investigation regarding vaccine marketing.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o",
+        "https://www.wsj.com/business/eu-accepts-sanofis-concessions-to-settle-antitrust-probe-over-vaccine-marketing-a07a2a95"
       ]
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "date": "2026-10-20",
+      "when": "",
+      "label": "Pope Leo XIV's medical recovery period ends",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o"
+    },
+    {
+      "date": "2026-12-01",
+      "when": "December",
+      "label": "NOTA Inc. targets Tokyo IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/hillhouse-backed-nota-is-said-to-target-tokyo-ipo-in-december"
+    },
+    {
+      "date": "2027-03-01",
+      "when": "March 2027",
+      "label": "Delta Air Lines plans to launch Atlanta-to-Riyadh route",
+      "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights"
+    }
+  ],
   "items": [
     {
-      "topic": "world",
+      "topic": "markets",
       "importance": 3,
       "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
       "date": "2026-10-11",
       "author": "Simon Goodley",
-      "summary": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’ Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of…",
+      "summary": "Analysts predict that President Trump's deal to import Russian diesel will have minimal impact on US fuel prices due to insufficient quantities and logistical delays. Experts also note that damage to Russian refineries makes the full delivery of the promised fuel unlikely.",
       "also": [
         {
           "source": "The New York Times",
           "author": "Paul Sonne",
           "date": "2026-10-14",
           "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+          "note": "The New York Times frames the story through the lens of geopolitical betrayal and the resulting diplomatic crisis with European allies."
         },
         {
           "source": "The New York Times",
@@ -109,31 +140,63 @@
           "title": "After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine",
           "url": "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html"
         }
+      ],
+      "kind": "analysis",
+      "brief": {
+        "what": "President Trump announced a deal to lift sanctions on Russian diesel imports, involving the immediate release of 300,000 tonnes followed by larger shipments. However, analysts argue the quantities are too small and the delivery timeline too slow to meaningfully lower US fuel prices, which have surged nearly 70% since the war with Iran began.",
+        "who": "President Donald Trump, Russian President Vladimir Putin, Ukrainian President Volodymyr Zelenskyy, and energy analyst Ashley Kelty.",
+        "context": "Diesel prices have risen significantly following US military action against Iran. The deal involves suspending sanctions on Russian diesel exports until April 7, a move that has drawn criticism from Ukraine and raised concerns about global supply chain compliance.",
+        "why": "Trump claims the deal is essential to reduce fuel costs for Americans. Conversely, analysts like Maximilian Hess suggest the deal is unlikely to be fulfilled due to Ukrainian drone strikes damaging Russian refining capacity, potentially serving as a political tool to create friction between the US and Ukraine.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "300,000 tonnes",
+          "what": "amount of diesel released immediately to the marketplace"
+        },
+        {
+          "figure": "almost 70%",
+          "what": "increase in US diesel prices since the start of the Iran war"
+        },
+        {
+          "figure": "$6.30 a gallon",
+          "what": "current average US diesel price"
+        },
+        {
+          "figure": "1m tonnes",
+          "what": "amount of diesel scheduled for delivery after November"
+        },
+        {
+          "figure": "500,000 tonnes",
+          "what": "amount of diesel scheduled for delivery in November"
+        }
       ]
     },
     {
-      "topic": "business",
+      "topic": "markets",
       "importance": 3,
       "title": "Bank of America hit with $1.2bn fine for money laundering failings",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-14",
       "author": null,
-      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "summary": "Bank of America has been fined $1.2 billion by the US Treasury for failing to detect and report suspicious financial activity. The penalty is the third-largest ever imposed by the department.",
       "also": [
         {
           "source": "The New York Times",
           "author": "Rob Copeland",
           "date": "2026-10-14",
           "title": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight",
-          "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html"
+          "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
+          "note": "The New York Times emphasizes the bank's lack of oversight, while Fox Business highlights the compliance failures."
         },
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-10-13",
           "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures",
-          "url": "https://www.foxbusiness.com/economy/bank-america-hit-1-2b-penalties-money-laundering-compliance-failures"
+          "url": "https://www.foxbusiness.com/economy/bank-america-hit-1-2b-penalties-money-laundering-compliance-failures",
+          "note": "The New York Post explicitly mentions sanctions violations in its headline, whereas other outlets focus more broadly on money laundering."
         },
         {
           "source": "New York Post",
@@ -141,6 +204,35 @@
           "date": "2026-10-13",
           "title": "Bank of America hit with $1.2B fine for money laundering, sanctions violations",
           "url": "https://nypost.com/2026/10/13/business/bank-of-america-hit-with-1-2b-fine-for-money-laundering-sanctions-violations/"
+        }
+      ],
+      "brief": {
+        "what": "The US Treasury Department fined Bank of America $1.2 billion for failing to maintain adequate anti-money laundering controls and for neglecting to report over $5 billion in suspicious transactions. The bank admitted to willfully violating the Bank Secrecy Act by outsourcing detection obligations to third parties.",
+        "who": "Bank of America is the penalized institution, while the US Treasury Department, the Office of the Comptroller of the Currency, and the Office of Foreign Assets Control acted as the regulators.",
+        "context": "The fine is the third-largest in Treasury history and follows findings that the bank relied on external inquiries rather than internal controls to identify illicit finance risks, including those related to Russia, Iran, and narcotics trafficking.",
+        "why": "Regulators stated the bank failed to meet anti-money laundering and sanctions obligations, which exposed the US financial system to illicit risks. Bank of America stated it is committed to addressing these regulatory issues and has already dedicated resources to remediation.",
+        "next": "The bank will include the $1.2 billion non-tax-deductible charge in its upcoming third-quarter earnings report."
+      },
+      "numbers": [
+        {
+          "figure": "$1.2 billion",
+          "what": "total fine imposed on Bank of America"
+        },
+        {
+          "figure": "$5 billion",
+          "what": "amount of suspicious activity not reported"
+        },
+        {
+          "figure": "$750 million",
+          "what": "penalty amount levied by the OCC"
+        },
+        {
+          "figure": "475",
+          "what": "number of apparent sanctions violations"
+        },
+        {
+          "figure": "17 cents",
+          "what": "impact on net income per share"
         }
       ]
     },
@@ -152,21 +244,23 @@
       "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights",
       "date": "2026-10-12",
       "author": "Stephen Pope",
-      "summary": "Delta Air Lines has postponed the launch of its Atlanta–Riyadh flights until March 2027 following deadly attacks on… The post Delta postpones Saudi Arabia launch after deadly airport attacks appeared first on AeroTime .",
+      "summary": "Delta Air Lines has delayed the launch of its new Atlanta-to-Riyadh route until March 2027 due to security concerns following deadly attacks on Saudi Arabia's main airport.",
       "also": [
         {
           "source": "The New York Times",
           "author": "Vivian Nereim",
           "date": "2026-10-14",
           "title": "A Pilgrim and a Retiree: Victims of the Houthi Airport Attack in Saudi Arabia",
-          "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html"
+          "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+          "note": "The New York Times focuses on the human toll of the attacks, whereas the Wall Street Journal emphasizes the business impact of the route delay."
         },
         {
           "source": "The New York Times",
           "author": "Erika Solomon",
           "date": "2026-10-13",
           "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
-          "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html"
+          "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
+          "note": "The New York Times frames the story around the broader regional instability and the specific victims of the strikes."
         },
         {
           "source": "Wall Street Journal",
@@ -175,24 +269,42 @@
           "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
           "url": "https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446?mod=pls_whats_news_us_business_f"
         }
+      ],
+      "brief": {
+        "what": "Delta Air Lines postponed its inaugural Atlanta-Riyadh service until March 2027 after recent Houthi attacks on King Khalid International Airport. The decision follows an FAA warning regarding military activity and satellite navigation interference in Saudi airspace.",
+        "who": "Delta Air Lines, the Federal Aviation Administration (FAA), and the European Union Aviation Safety Agency (EASA) are the primary entities managing the response to the security threats.",
+        "context": "The region is experiencing increased Houthi missile and drone strikes targeting aviation infrastructure, prompting international aviation authorities to issue warnings for operators flying in or over Saudi Arabia.",
+        "why": "Delta cited the need to monitor developments in coordination with government and aviation partners, while the FAA and EASA noted risks from falling debris, air-defense activity, and potential misidentification of civilian aircraft.",
+        "next": "Delta plans to launch the route in March 2027, while other airlines have canceled services amid ongoing airport closures and safety warnings."
+      },
+      "numbers": [
+        {
+          "figure": "13 people",
+          "what": "number of people killed in an October 10 airport strike"
+        },
+        {
+          "figure": "more than 300",
+          "what": "number of people injured in an October 10 airport strike"
+        }
       ]
     },
     {
-      "topic": "business",
+      "topic": "markets",
       "importance": 2,
       "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
       "date": "2026-10-12",
       "author": "Graeme Wearden",
-      "summary": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding…",
+      "summary": "US economists Robert E. Hall and Michael Woodford have been awarded the 2026 Nobel economics prize for developing models that help central bankers stabilize economies. Their research provides a theoretical framework for managing business cycles and inflation through tools like forward guidance.",
       "also": [
         {
           "source": "The New York Times",
           "author": "Eshe Nelson",
           "date": "2026-10-12",
           "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
-          "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html"
+          "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
+          "note": "The New York Times focuses on the individual recipients, while Reason highlights the institutional affiliation of Robert E. Hall."
         },
         {
           "source": "Reason",
@@ -201,31 +313,22 @@
           "title": "Congratulations to the Hoover Institution's Robert E. Hall, on His Economics Nobel Prize",
           "url": "https://reason.com/volokh/2026/10/12/congratulations-to-the-hoover-institutions-robert-e-hall-on-his-economics-nobel-prize/"
         }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "also": [
+      ],
+      "brief": {
+        "what": "Robert E. Hall and Michael Woodford were awarded the 2026 Nobel economics prize for creating the 'microeconomic foundations of macroeconomic stabilisation.' Their work, which includes the New Keynesian model, provides policymakers with tools to manage economic peaks and troughs, helping to avoid runaway inflation and deep recessions.",
+        "who": "Robert E. Hall of Stanford University and Michael Woodford of Columbia University are the laureates, recognized by the Royal Swedish Academy of Sciences for their contributions to economic policy.",
+        "context": "The laureates' models improved upon traditional Keynesian theories that struggled during the 1970s oil shocks. Their framework has been widely adopted by central banks and finance ministries to navigate crises, including the 2008 financial crisis and the Covid pandemic.",
+        "why": "The Royal Swedish Academy of Sciences stated the pair generated a 'paradigm shift in stabilisation policy' by explaining how individual household and business behaviors collectively influence the broader economy. John Hassler, chair of the economics prize committee, noted their work provides a stable theoretical foundation for modern economic management.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
         {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-10-14",
-          "title": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
-          "url": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1"
+          "figure": "$1.2m",
+          "what": "combined value of the Nobel economics prize"
         },
         {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-14",
-          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss"
+          "figure": "£900,000",
+          "what": "combined value of the Nobel economics prize"
         }
       ]
     },
@@ -237,14 +340,15 @@
       "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-14",
       "author": null,
-      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "summary": "Pope Leo XIV underwent successful surgery to remove a lower lobe of his right lung after being diagnosed with pulmonary adenocarcinoma. The pontiff is expected to remain in the hospital for about a week to recover.",
       "also": [
         {
           "source": "The New York Times",
           "author": "Elisabetta Povoledo",
           "date": "2026-10-14",
           "title": "Pope Leo Has Lung Cancer, Vatican Says",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+          "note": "The New York Times and NPR headlines focus specifically on the diagnosis, whereas the BBC headline emphasizes the successful outcome of the surgery."
         },
         {
           "source": "NPR",
@@ -253,31 +357,63 @@
           "title": "Pope Leo has lung cancer, the Vatican says",
           "url": "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says"
         }
+      ],
+      "brief": {
+        "what": "Pope Leo XIV successfully underwent surgery to remove a lower lobe of his right lung following a diagnosis of pulmonary adenocarcinoma. The procedure lasted 90 minutes, and the Vatican reports no complications.",
+        "who": "Pope Leo XIV is the primary subject, with the Vatican providing official medical bulletins and the Gemelli Hospital thoracic surgery team performing the procedure.",
+        "context": "The diagnosis was discovered during routine checks, and the surgery was scheduled promptly to ensure the Pope could maintain his planned travel schedule to Latin America in November, including a significant visit to Peru.",
+        "why": "The Vatican stated the surgery was performed to remove the growth and ensure the procedure was radical, while the Pope himself noted the nodule was found at an early stage.",
+        "next": "The Pope is expected to remain in the hospital for about a week, with his schedule cleared until 20 October to facilitate his recovery."
+      },
+      "numbers": [
+        {
+          "figure": "1.5 million",
+          "what": "people expected to travel to Chiclayo for the Pope's visit"
+        },
+        {
+          "figure": "90 minute",
+          "what": "duration of the surgery performed on the Pope"
+        }
       ]
     },
     {
-      "topic": "world",
+      "topic": "business",
       "importance": 2,
       "title": "Saudi employee charged with planting recording device in OpenAI office",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "author": null,
-      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "summary": "A Saudi national employed as an engineer at OpenAI has been charged with planting a sophisticated recording device in the company's San Francisco office. Federal prosecutors allege the employee sought to capture sensitive communications regarding the firm's AI products.",
       "also": [
         {
           "source": "Financial Times",
           "author": null,
           "date": "2026-10-14",
           "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-          "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+          "note": "Financial Times frames the story by emphasizing the arrest and the act of bugging offices."
         },
         {
           "source": "Al Jazeera",
           "author": null,
           "date": "2026-10-14",
           "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+          "note": "Al Jazeera highlights the suspect's background as a Saudi-born engineer and the specific nature of the device."
+        }
+      ],
+      "brief": {
+        "what": "Abdulrahman Alfozan, an engineer at OpenAI, was charged with intercepting oral communications after allegedly planting a recording device in an executive conference room. OpenAI discovered the device using its own AI models and subsequently fired the employee, confirming that no source code or customer data was compromised.",
+        "who": "Abdulrahman Alfozan, the accused OpenAI engineer; OpenAI, the AI firm that discovered the breach; and the FBI, which is leading the federal investigation.",
+        "context": "OpenAI is the developer of the widely used chatbot ChatGPT. The incident involved the use of a USB-connected recording device hidden behind a television, which the suspect allegedly researched using chatbot prompts.",
+        "why": "According to FBI Director Kash Patel, the alleged goal of the operation was to capture sensitive information regarding the company's AI product development.",
+        "next": "Alfozan has appeared in court, though it remains unclear if he has secured legal representation."
+      },
+      "numbers": [
+        {
+          "figure": "$250,000",
+          "what": "maximum fine for the alleged crime"
         }
       ]
     },
@@ -289,16 +425,69 @@
       "url": "https://www.wsj.com/business/earnings/dominos-pizza-sales-growth-continued-slowing-916f184c?mod=pls_whats_news_us_business_f",
       "date": "2026-10-13",
       "author": "Elias Schisgall",
-      "summary": "The pizza chain reported a profit of $152.2 million, or $4.60 a share, compared with a profit of $139.3 million, or $4.08 a share, a year earlier.",
+      "summary": "Domino’s Pizza reported a profit of $152.2 million for the recent period, reflecting growth compared to the previous year despite a slowing sales trend.",
       "also": [
         {
           "source": "New York Post",
           "author": "Lisa Fickenscher",
           "date": "2026-10-13",
           "title": "Domino’s growth slows amid broader slump in pizza sales",
-          "url": "https://nypost.com/2026/10/13/business/dominos-growth-slows-amid-broader-slump-in-pizza-sales/"
+          "url": "https://nypost.com/2026/10/13/business/dominos-growth-slows-amid-broader-slump-in-pizza-sales/",
+          "note": "The New York Post frames the story by explicitly linking the slowing growth to a broader industry slump in pizza sales."
+        }
+      ],
+      "brief": {
+        "what": "Domino’s Pizza announced a profit of $152.2 million, or $4.60 per share, marking an increase from the $139.3 million, or $4.08 per share, recorded in the same period last year. However, the company noted that its sales growth has continued to slow.",
+        "who": "Domino’s Pizza is the primary actor reporting these financial results.",
+        "context": "The company is navigating a period where its sales growth rate is decelerating.",
+        "why": "The article does not provide specific reasons for the slowing sales growth or the profit increase.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$152.2 million",
+          "what": "profit reported by the pizza chain"
+        },
+        {
+          "figure": "$4.60",
+          "what": "earnings per share"
+        },
+        {
+          "figure": "$139.3 million",
+          "what": "profit reported one year earlier"
+        },
+        {
+          "figure": "$4.08",
+          "what": "earnings per share one year earlier"
         }
       ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "A Ukrainian national is on trial in Hamburg, Germany, accused of orchestrating the 2022 sabotage of the Nord Stream gas pipelines. Prosecutors allege the operation was carried out by military personnel to disrupt Russian energy revenue.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-10-14",
+          "title": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
+          "url": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
+          "note": "The Financial Times headline specifically identifies the defendant as an 'ex-officer,' emphasizing his military background more directly than the BBC."
+        }
+      ],
+      "brief": {
+        "what": "The trial of Serhii K, a Ukrainian national, has commenced in Hamburg regarding the 2022 destruction of three of the four Nord Stream gas pipelines. German prosecutors allege the suspect led a team of divers and explosives experts to sabotage the infrastructure, which they classify as a war crime.",
+        "who": "The primary defendant is Serhii K, a former Ukrainian military officer. German federal prosecutors are leading the case, while Ukrainian officials, including President Volodymyr Zelensky, have denied state involvement in the blasts.",
+        "context": "The Nord Stream pipelines were critical energy infrastructure connecting Russia to Germany. The sabotage occurred seven months after Russia's full-scale invasion of Ukraine, during a period of heightened geopolitical tension and shifting European energy policies.",
+        "why": "German prosecutors state the trial is necessary because the attack undermined Germany's internal security and violated international law. Conversely, some Ukrainian officials argue the pipelines were tools of Russian war preparation, while others maintain the investigation is merely one version of events.",
+        "next": "The trial is ongoing in Hamburg, while a second suspect, Volodymyr Zhuravlov, awaits potential extradition from Croatia to face related charges."
+      }
     },
     {
       "topic": "aerospace",
@@ -308,8 +497,15 @@
       "url": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
       "date": "2026-10-14",
       "author": "Alex Travelli",
-      "summary": "As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.",
-      "also": []
+      "summary": "Starlink is currently seeking regulatory approval to provide satellite internet services within India. The company's expansion efforts face scrutiny amid concerns regarding government control over internet access.",
+      "also": [],
+      "brief": {
+        "what": "Starlink is attempting to secure the necessary permissions to launch its satellite internet operations in the Indian market. This push comes as the Indian government demonstrates its capacity to rapidly restrict mobile internet access during public protests.",
+        "who": "Elon Musk, the head of Starlink, and Indian authorities who manage national internet infrastructure.",
+        "context": "The Indian government has previously demonstrated the ability to shut down mobile internet connectivity during civil unrest, such as recent protests in New Delhi, which complicates the entry of satellite-based providers.",
+        "why": "Musk has publicly attributed delays in Starlink's Indian market entry to a specific tycoon, though the broader context involves the regulatory environment and the government's history of internet censorship.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "business",
@@ -319,14 +515,44 @@
       "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
       "date": "2026-10-12",
       "author": null,
-      "summary": "The Picklr's Chapter 11 filing stems from costly lease guarantees on about 40 franchise locations as an investor group commits millions for restructuring.",
+      "summary": "Pickleball facility franchisor The Picklr has filed for Chapter 11 bankruptcy to reorganize after struggling with costly corporate lease guarantees for early franchisees. The company intends to keep its locations open while renegotiating lease terms with landlords.",
       "also": [
         {
           "source": "New York Post",
           "author": "Fox Business",
           "date": "2026-10-13",
           "title": "Pickleball company files for bankruptcy as founder acknowledges business mistake: ‘I own it’",
-          "url": "https://nypost.com/2026/10/13/business/pickleball-company-files-for-bankruptcy-as-founder-acknowledges-business-mistake-i-own-it/"
+          "url": "https://nypost.com/2026/10/13/business/pickleball-company-files-for-bankruptcy-as-founder-acknowledges-business-mistake-i-own-it/",
+          "note": "The New York Post headline is nearly identical to the Fox Business headline, framing the story with the same focus on the founder's admission of error."
+        }
+      ],
+      "brief": {
+        "what": "The Picklr, an indoor pickleball franchisor, filed for Chapter 11 bankruptcy protection to restructure its finances. The company is supported by a $4.5 million financing commitment from an investor group led by a franchisee.",
+        "who": "Founder and CEO Jorge Barragan leads the company, while investor and franchisee Tom Neale is heading the group sponsoring the reorganization.",
+        "context": "The company expanded rapidly since its 2021 founding, reaching over 70 locations. However, it faced financial strain from signing corporate guarantees for early franchisee facility leases, which became an untenable burden.",
+        "why": "Barragan stated the filing was necessary because the company grew faster than it could operate and signed too many corporate guarantees that landed on the holding company. He noted that the restructuring will allow the firm to renegotiate with landlords to create more profitable businesses.",
+        "next": "The company plans to use the bankruptcy process to renegotiate leases over the next 18 months to two years, with management expecting some contraction in the number of locations."
+      },
+      "numbers": [
+        {
+          "figure": "$4.5 million",
+          "what": "financing committed by an investor group"
+        },
+        {
+          "figure": "$19 million",
+          "what": "total liabilities as of March"
+        },
+        {
+          "figure": "$4.4 million",
+          "what": "net loss reported in 2025"
+        },
+        {
+          "figure": "$10.3 million",
+          "what": "revenue reported in 2025"
+        },
+        {
+          "figure": "40 locations",
+          "what": "facilities with corporate lease guarantee arrangements"
         }
       ]
     },
@@ -338,8 +564,15 @@
       "url": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
       "date": "2026-10-13",
       "author": "Christopher F. Schuetze and Aurelien Breeden",
-      "summary": "German police said they had determined there was “no danger” after a plane mistakenly transmitted a code suggesting a possible hijacking onboard.",
-      "also": []
+      "summary": "Nuremberg Airport briefly suspended operations after a commercial aircraft transmitted an erroneous hijacking signal. German authorities confirmed the incident was a false alarm and posed no actual threat.",
+      "also": [],
+      "brief": {
+        "what": "Nuremberg Airport was temporarily shut down following a false alarm triggered by a plane transmitting a code that indicated a potential hijacking. German police subsequently investigated the situation and determined there was no danger.",
+        "who": "German police, who investigated the incident and declared the airport safe.",
+        "context": "Commercial aircraft are equipped with transponder codes that pilots can set to alert air traffic control to emergency situations, including unlawful interference or hijacking.",
+        "why": "The airport shutdown occurred because a plane mistakenly transmitted a code suggesting a possible hijacking was taking place onboard.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "business",
@@ -349,19 +582,33 @@
       "url": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
       "date": "2026-10-14",
       "author": null,
-      "summary": "San Francisco-based Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company",
-      "also": []
+      "summary": "Payward, the parent company of the crypto exchange Kraken, is acquiring Lithuania’s Saldo Bank. This move is part of a strategic effort to expand into a broader financial services provider.",
+      "also": [],
+      "brief": {
+        "what": "Payward, the owner of the cryptocurrency exchange Kraken, has announced the acquisition of the Lithuanian-based Saldo Bank.",
+        "who": "Payward is the parent company of Kraken, while Saldo Bank is the target entity being acquired.",
+        "context": "The acquisition represents a strategic shift for Payward as it attempts to diversify its operations beyond its core cryptocurrency exchange business.",
+        "why": "The company is pursuing this purchase as it seeks to evolve into a broader financial services firm.",
+        "next": "The article doesn't say."
+      }
     },
     {
-      "topic": "business",
+      "topic": "markets",
       "importance": 1,
       "title": "The Former Theater Director Who Keeps Beating Wall Street",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/the-former-theater-director-who-keeps-beating-wall-street",
       "date": "2026-10-14",
       "author": "Charles Riley",
-      "summary": "Brian Golden has emerged as the most successful trader in Kalshi markets on economic indicators.",
-      "also": []
+      "summary": "Former theater director Brian Golden has become the top-performing trader on Kalshi's economic indicator markets.",
+      "also": [],
+      "brief": {
+        "what": "Brian Golden has established himself as the most successful trader on Kalshi, a platform specializing in event contracts based on economic indicators.",
+        "who": "Brian Golden, a former theater director, is identified as the leading trader on the Kalshi platform.",
+        "context": "Kalshi allows participants to trade on the outcomes of specific real-world events, including various economic data releases.",
+        "why": "The article attributes Golden's success to his performance within the specific niche of economic indicator markets on the Kalshi platform.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "business",
@@ -371,8 +618,15 @@
       "url": "https://www.wsj.com/business/eu-accepts-sanofis-concessions-to-settle-antitrust-probe-over-vaccine-marketing-a07a2a95?mod=pls_whats_news_us_business_f",
       "date": "2026-10-14",
       "author": "Adrià Calatayud",
-      "summary": "Sanofi’s offer to rectify the potential effects of its past messages on a rival flu shot awould address concerns, the bloc’s executive arm said.",
-      "also": []
+      "summary": "The European Union has accepted concessions from Sanofi to resolve an antitrust investigation regarding the company's marketing practices for flu vaccines. These measures aim to address concerns raised by the bloc's executive arm over the impact of Sanofi's past communications on a competitor's product.",
+      "also": [],
+      "brief": {
+        "what": "The European Union's executive arm has accepted a proposal from Sanofi to resolve an antitrust probe concerning the company's marketing of flu vaccines. The concessions are intended to rectify potential market effects caused by Sanofi's past messaging regarding a rival flu shot.",
+        "who": "Sanofi is the pharmaceutical company subject to the investigation, while the European Union's executive arm serves as the regulatory body overseeing the antitrust probe.",
+        "context": "The investigation focused on whether Sanofi's marketing strategies unfairly hindered competition in the flu vaccine market.",
+        "why": "The European Union accepted the offer because it addresses the bloc's concerns regarding the potential negative effects of Sanofi's past marketing messages on a rival product.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
@@ -382,8 +636,15 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-14/turkey-lets-lira-fall-quicker-to-avoid-future-devaluation-risk",
       "date": "2026-10-14",
       "author": "Beril Akman and Kerim Karakaya",
-      "summary": "Turkey is allowing the lira to slide more quickly in order to prevent sharper weakness in the longer term, central bank Governor Fatih Karahan told investors at meetings in Bangkok, according to people with direct knowledge of the matter.",
-      "also": []
+      "summary": "Turkey's central bank is accelerating the depreciation of the lira to mitigate the risk of more severe currency devaluation in the future.",
+      "also": [],
+      "brief": {
+        "what": "The Central Bank of Turkey is permitting the lira to slide at a faster pace against other currencies. This strategic shift aims to avoid the necessity of a sharper, more disruptive devaluation later on.",
+        "who": "Central Bank Governor Fatih Karahan is the primary actor, having communicated this policy approach to investors during meetings in Bangkok.",
+        "context": "The Turkish lira has faced significant volatility and downward pressure in recent years, prompting the central bank to manage its exchange rate trajectory carefully to maintain economic stability.",
+        "why": "Governor Karahan stated that the accelerated slide is a proactive measure intended to prevent sharper weakness in the longer term, according to individuals familiar with the discussions.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
@@ -393,8 +654,15 @@
       "url": "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html",
       "date": "2026-10-14",
       "author": "Tony Romm and Colby Smith",
-      "summary": "President Trump tapped his political appointees to determine whether he could oust Lisa Cook, a Fed governor he had already tried to oust.",
-      "also": []
+      "summary": "President Trump has directed political appointees to evaluate the feasibility of removing Federal Reserve governor Lisa Cook from her position.",
+      "also": [],
+      "brief": {
+        "what": "President Trump is actively seeking legal and administrative avenues to remove Federal Reserve governor Lisa Cook from office.",
+        "who": "President Trump, who is initiating the removal effort, and Lisa Cook, the Federal Reserve governor currently targeted for ouster.",
+        "context": "The Federal Reserve operates as the central bank of the United States, and its governors are typically protected by statutory independence to prevent political interference in monetary policy.",
+        "why": "The article states that this effort underscores the President's political motives regarding the central bank's leadership.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
@@ -404,8 +672,21 @@
       "url": "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
       "date": "2026-10-14",
       "author": null,
-      "summary": "Japanese medical devices maker tumbles 13.5% as private equity circles company",
-      "also": []
+      "summary": "Olympus shares experienced their sharpest decline since 2011 following a warning from the US Food and Drug Administration. The medical device manufacturer saw its stock price tumble amid reports of interest from private equity firms.",
+      "also": [],
+      "brief": {
+        "what": "Olympus shares fell 13.5% in the company's largest single-day drop since 2011. This market reaction follows a formal warning issued by the US Food and Drug Administration regarding the Japanese medical device maker.",
+        "who": "Olympus, a Japanese medical devices manufacturer, and the US Food and Drug Administration, the regulatory body that issued the warning.",
+        "context": "The company is currently facing scrutiny from regulators while simultaneously attracting attention from private equity investors.",
+        "why": "The stock price decline was triggered by the FDA warning, though the company is also being circled by private equity firms.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "13.5%",
+          "what": "decline in Olympus share price"
+        }
+      ]
     },
     {
       "topic": "markets",
@@ -415,8 +696,33 @@
       "url": "https://www.ft.com/content/3cad49d9-4c88-46bc-bddd-7b237a399a7b?syn-25a6b1a6=1",
       "date": "2026-10-14",
       "author": null,
-      "summary": "South African miner’s chief meets Australian shareholders to promote merits of creating global gold ‘powerhouse’",
-      "also": []
+      "summary": "Gold Fields is engaging with Australian shareholders to advocate for a potential merger with Northern Star. The company aims to establish a global gold powerhouse through this strategic consolidation.",
+      "also": [],
+      "brief": {
+        "what": "Gold Fields is conducting a charm offensive to persuade Northern Star investors of the benefits of a merger. The South African miner intends to create a global gold powerhouse by combining operations.",
+        "who": "Gold Fields is the primary actor, with its chief executive meeting with Australian shareholders of Northern Star to discuss the proposed corporate combination.",
+        "context": "The move represents an effort by the South African mining company to expand its international footprint and scale by integrating with an Australian counterpart.",
+        "why": "The company is promoting the merger to highlight the perceived merits and strategic advantages of forming a larger, more competitive global entity in the gold mining sector.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Hillhouse-Backed NOTA Said to Target Tokyo IPO in December",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/hillhouse-backed-nota-is-said-to-target-tokyo-ipo-in-december",
+      "date": "2026-10-14",
+      "author": "Yasutaka Tamura and Julia Fioretti",
+      "summary": "Hillhouse-backed NOTA Inc. is preparing for an initial public offering in Tokyo as early as December. The deal is expected to be one of the larger listings in a year characterized by a slowdown in Japanese market debuts.",
+      "also": [],
+      "brief": {
+        "what": "NOTA Inc. is planning an initial public offering on the Tokyo stock exchange as soon as December. The potential listing is positioned to be one of the larger deals in a year that has seen a decline in Japanese market debuts.",
+        "who": "NOTA Inc., a company backed by the investment firm Hillhouse, is the primary actor.",
+        "context": "The Japanese IPO market has experienced a down year, making this potential listing a significant event for the region's financial landscape.",
+        "why": "The article does not provide specific reasons for the IPO timing or the company's strategic motivations beyond the reported plans.",
+        "next": "The company is targeting a December timeframe for the offering."
+      }
     },
     {
       "topic": "aerospace",
@@ -426,8 +732,25 @@
       "url": "https://www.aerotime.aero/articles/bombardier-global-7500-easa-missile-protection-bird",
       "date": "2026-10-14",
       "author": "Clement Charpentreau",
-      "summary": "BIRD Aerosystems has completed the installation and European Union Aviation Safety Agency (EASA) certification of its Airborne Missile… The post Bombardier Global 7500 gains EASA-certified anti-missile defense appeared first on AeroTime .",
-      "also": []
+      "summary": "BIRD Aerosystems has secured EASA certification for its Airborne Missile Protection System on the Bombardier Global 7500 business jet. The system uses laser-based countermeasures to defend against heat-seeking missile threats.",
+      "also": [],
+      "brief": {
+        "what": "Ondas-owned BIRD Aerosystems successfully certified its Airborne Missile Protection System (AMPS) for the Bombardier Global 7500, meeting European airworthiness requirements. The system integrates directional infrared countermeasures to jam heat-seeking missiles, specifically targeting man-portable air-defense systems.",
+        "who": "BIRD Aerosystems, a subsidiary of Florida-based Ondas, developed the technology, while the Bombardier Global 7500 serves as the platform for this certified defense configuration.",
+        "context": "High-value aircraft, including government transports, are increasingly adopting missile defense systems due to evolving global threats. While common in military and VIP fleets, such systems are rarely found on commercial airliners due to significant weight, cost, and maintenance burdens.",
+        "why": "Ondas CEO Eric Brock stated that protecting high-value assets against sophisticated missile threats has become a critical and growing defense requirement for government and private operators.",
+        "next": "The article does not provide specific details regarding the undisclosed operator of this certified aircraft or updates on the status of a similar project for a Gulfstream G700."
+      },
+      "numbers": [
+        {
+          "figure": "700 aircraft",
+          "what": "total number of aircraft equipped with BIRD protection systems"
+        },
+        {
+          "figure": "40 types",
+          "what": "number of different aircraft types using BIRD protection systems"
+        }
+      ]
     },
     {
       "topic": "aerospace",
@@ -437,8 +760,15 @@
       "url": "https://www.aerotime.aero/articles/tcab-tech-malaysia-sidec-e20-evtol-commercialization",
       "date": "2026-10-14",
       "author": "AeroTime Advisory",
-      "summary": "On October 9, 2026, the “Malaysian Engineers, Global Impact: TCab Tech E20 eVTOL Showcase”, jointly organized by the… The post TCab Tech and SIDEC sign MOU to advance E20 eVTOL commercialization in Malaysia appeared first on AeroTime .",
-      "also": []
+      "summary": "TCab Tech and the Selangor Information Technology and Digital Economy Corporation (SIDEC) have signed a memorandum of understanding to commercialize the E20 eVTOL in Malaysia. The partnership aims to establish a regional business center and advance the local Low Altitude Economy ecosystem.",
+      "also": [],
+      "brief": {
+        "what": "TCab Tech and SIDEC signed an MOU to facilitate the commercialization of the E20 eVTOL aircraft in Malaysia. As part of the agreement, TCab Tech will establish a regional business center in the country, and founder Ng Yon Wui will serve as an Industry Advisor to SIDEC.",
+        "who": "TCab Tech, an eVTOL developer, and SIDEC, a state-backed organization in Selangor, are the primary partners. The initiative is supported by Selangor government officials and aligns with broader aviation safety cooperation between China and Malaysia.",
+        "context": "The collaboration leverages Malaysia's existing aerospace manufacturing and MRO capabilities to support the introduction of Advanced Air Mobility (AAM). The E20 is currently undergoing Type Certification with the Civil Aviation Administration of China.",
+        "why": "The partnership seeks to integrate the E20 into Malaysia's tourism and intercity travel sectors while building a regulatory and industrial foundation for the Low Altitude Economy. Ng Yon Wui stated that success depends on coordinated efforts across certification, infrastructure, and industrial capabilities.",
+        "next": "TCab Tech will continue its certification roadmap and engage with the Civil Aviation Authority of Malaysia to prepare for future commercial operations."
+      }
     },
     {
       "topic": "aerospace",
@@ -448,8 +778,37 @@
       "url": "https://www.cityam.com/abandoning-third-runway-would-be-mistake-istanbul/",
       "date": "2026-10-14",
       "author": "Ali Lyon",
-      "summary": "The UK risks missing out on a “positive cycle in the economy” if it fails to approve Heathrow’s third runway, the boss of Istanbul airport has said, adding that a phased approach to development could help keep a lid on the mega-project’s eye-watering costs. Selahattin Bilgen, chief executive of Turkey’s iGA Istanbul…",
-      "also": []
+      "summary": "The CEO of Istanbul Airport has urged the UK to proceed with Heathrow's third runway to boost economic connectivity. He suggests a phased development approach could help manage the project's significant costs.",
+      "also": [],
+      "brief": {
+        "what": "Selahattin Bilgen, CEO of iGA Istanbul Airport, warned that failing to approve Heathrow's third runway could hinder UK economic growth. The project faces uncertainty as the government weighs its £49bn budget and environmental concerns against the need for increased hub capacity.",
+        "who": "Selahattin Bilgen (CEO of iGA Istanbul Airport), Heathrow Airport Limited (incumbent operator), and Surinder Arora (proponent of the alternative Heathrow West phased proposal).",
+        "context": "Heathrow's expansion is a long-standing infrastructure debate involving competing construction strategies, including a phased approach similar to the one used in Istanbul, which opened in 2018.",
+        "why": "Bilgen argues that improved air connectivity drives tourism, logistics, and commercial activity. Conversely, critics cite climate targets and the massive financial burden as reasons to reconsider the project.",
+        "next": "The government must decide whether to proceed with the full-length runway or consider alternative phased proposals like Heathrow West."
+      },
+      "numbers": [
+        {
+          "figure": "£49bn",
+          "what": "estimated budget for Heathrow's third runway"
+        },
+        {
+          "figure": "€9.2bn",
+          "what": "total bill for Istanbul airport development so far"
+        },
+        {
+          "figure": "€7bn",
+          "what": "cost of the first phase of Istanbul airport"
+        },
+        {
+          "figure": "3,500m",
+          "what": "length of the proposed Heathrow runway"
+        },
+        {
+          "figure": "2,400m",
+          "what": "length of the shorter runway proposed by Surinder Arora"
+        }
+      ]
     },
     {
       "topic": "science",
@@ -459,8 +818,15 @@
       "url": "https://www.nature.com/articles/d41586-026-03223-8",
       "date": "2026-10-14",
       "author": "Elizabeth Gibney",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.",
-      "also": []
+      "summary": "Analysts and researchers discuss the current state and future trajectory of the rapidly expanding artificial intelligence sector in China.",
+      "also": [],
+      "brief": {
+        "what": "Nature is investigating the current landscape of artificial intelligence research within China. The report examines the experiences of professionals working in the field to understand where the nation's AI development is headed.",
+        "who": "Nature, along with various analysts and researchers working in the Chinese AI sector.",
+        "context": "China has seen a significant boom in artificial intelligence research, prompting international interest in the direction and impact of its technological advancements.",
+        "why": "The investigation was conducted to gain insight into the working conditions and strategic focus of the AI industry in China.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
@@ -470,30 +836,51 @@
       "url": "https://www.cityam.com/ftse-100-live-stocks-to-gain-oil-rises-as-saudi-arabia-and-houthis-trade-strikes/",
       "date": "2026-10-14",
       "author": "Felix Armstrong",
-      "summary": "Welcome back to City AM‘s FTSE 100 live blog. Stocks are set to make modest gains on Wednesday morning, after the blue-chip index finished flat on Tuesday despite spending most of the day in the green. Oil prices are rising this morning, after the Iran-backed Houthi rebels fired missiles towards the headquarters of…",
-      "also": []
+      "summary": "The FTSE 100 is poised for modest gains on Wednesday morning following a flat performance in the previous session. Meanwhile, oil prices are trending upward following recent missile exchanges between Houthi rebels and Saudi Arabia.",
+      "also": [],
+      "brief": {
+        "what": "The FTSE 100 index is expected to open with modest gains on Wednesday after closing flat on Tuesday. Concurrently, oil prices are rising following reports that Iran-backed Houthi rebels fired missiles at Saudi Aramco headquarters, which occurred after Saudi Arabia struck Yemeni oil depots.",
+        "who": "The FTSE 100, representing the London Stock Exchange, and Saudi Aramco, the state-owned oil company targeted by Houthi rebels.",
+        "context": "The London Stock Exchange is experiencing market volatility influenced by geopolitical tensions in the Middle East affecting energy infrastructure.",
+        "why": "Oil prices are rising due to the escalation of hostilities involving missile strikes between Houthi rebels and Saudi Arabia.",
+        "next": "The article doesn't say."
+      }
     },
     {
-      "topic": "science",
+      "topic": "business",
       "importance": 1,
       "title": "Chip-Machine Supplier ASML Boosts Guidance for Third Time on Surging AI Demand",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/chip-machine-supplier-asml-boosts-guidance-for-third-time-on-surging-ai-demand-7ea173d9?mod=pls_whats_news_us_business_f",
       "date": "2026-10-14",
       "author": "Mauro Orru",
-      "summary": "The revision to forecasts shows how much ASML’s fortunes have come to benefit from the buildout of data centers that turned chips into a red-hot commodity.",
-      "also": []
+      "summary": "ASML has raised its financial guidance for the third time, driven by the rapid expansion of data centers and high demand for artificial intelligence chips.",
+      "also": [],
+      "brief": {
+        "what": "ASML has increased its financial forecasts for the third time, reflecting the company's strong performance amid the global surge in demand for artificial intelligence hardware.",
+        "who": "ASML, a major supplier of semiconductor manufacturing equipment.",
+        "context": "The semiconductor industry is currently experiencing a significant boom as companies invest heavily in the infrastructure required to support artificial intelligence applications.",
+        "why": "The company's improved outlook is attributed to the ongoing buildout of data centers, which has transformed semiconductor chips into a highly sought-after commodity.",
+        "next": "The article doesn't say."
+      }
     },
     {
-      "topic": "science",
+      "topic": "business",
       "importance": 1,
       "title": "AI demand to exceed supply for 2 more years, says ASML",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
       "date": "2026-10-14",
       "author": null,
-      "summary": "Europe’s most valuable company said its clients that include TSMC and Intel were experiencing ‘very, very strong demand’",
-      "also": []
+      "summary": "ASML reports that demand for its semiconductor manufacturing equipment will continue to outpace supply for the next two years. Major industry players like TSMC and Intel are driving this sustained market pressure.",
+      "also": [],
+      "brief": {
+        "what": "ASML, Europe's most valuable company, stated that demand for its products will exceed supply for the next two years. The company noted that its primary clients, including TSMC and Intel, are currently experiencing very strong demand.",
+        "who": "ASML is the primary actor, with TSMC and Intel identified as key clients driving the current market conditions.",
+        "context": "The semiconductor industry is currently navigating a period where manufacturing capacity is struggling to keep pace with the high demand for advanced chips.",
+        "why": "ASML attributes the supply-demand imbalance to the very strong demand being experienced by its major clients.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "science",
@@ -503,8 +890,15 @@
       "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
       "date": "2026-10-13",
       "author": "Zack Savitsky",
-      "summary": "Huge OpenAI release contains “exciting” progress on a puzzle about prime numbers",
-      "also": []
+      "summary": "OpenAI has released new research indicating significant progress toward solving the Riemann hypothesis, a long-standing challenge concerning the distribution of prime numbers.",
+      "also": [],
+      "brief": {
+        "what": "OpenAI has unveiled new research that provides progress on the Riemann hypothesis, a complex mathematical puzzle centered on prime numbers.",
+        "who": "OpenAI is the primary actor behind this research development.",
+        "context": "The Riemann hypothesis is widely considered one of the most difficult and significant problems in the field of mathematics.",
+        "why": "The release is described as containing exciting progress on the puzzle, according to the report.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "business",
@@ -514,41 +908,96 @@
       "url": "https://reason.com/2026/10/13/trump-fired-kimberly-guilfoyle-for-influence-peddling-that-pales-next-to-his-presidential-profiteering/",
       "date": "2026-10-13",
       "author": "Jacob Sullum",
-      "summary": "If the former ambassador tried to use her office for personal gain, she was only imitating her boss.",
-      "also": []
+      "summary": "U.S. Ambassador to Greece Kimberly Guilfoyle resigned following allegations of influence peddling. The article contrasts her actions with President Trump's own history of leveraging his office for personal financial gain.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Kimberly Guilfoyle resigned as U.S. Ambassador to Greece after being accused of soliciting $100,000 from a donor in exchange for access to the administration. The report argues this incident is minor compared to President Trump's own extensive history of profiting from his presidency, including selling access to dinners for $TRUMP coin holders who collectively spent $394 million.",
+        "who": "Kimberly Guilfoyle, the former U.S. Ambassador to Greece; President Donald Trump; and various political donors and interest groups.",
+        "context": "The article details a pattern of alleged profiteering by the Trump administration, citing past controversies involving the Trump International Hotel, foreign government spending, and the Domestic Emoluments Clause.",
+        "why": "The author suggests Guilfoyle was fired because she attempted to sell access for personal gain, which the article characterizes as a practice reserved for the President himself.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$394 million",
+          "what": "total spent by coin investors on $TRUMP"
+        },
+        {
+          "figure": "$1.8 million",
+          "what": "average amount spent per plate at dinner"
+        },
+        {
+          "figure": "$100,000",
+          "what": "amount Guilfoyle allegedly requested to pay bill"
+        },
+        {
+          "figure": "$400 million",
+          "what": "value of palace in the sky from Qatar"
+        },
+        {
+          "figure": "$100 million",
+          "what": "potential savings from IRS immunity deal"
+        }
+      ]
     },
     {
-      "topic": "business",
-      "importance": 1,
-      "title": "No, Giving Immigrants Research Jobs Is Not Fraud​",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/13/no-giving-immigrants-research-jobs-is-not-fraud/",
-      "date": "2026-10-13",
-      "author": "Josh Pauzé",
-      "summary": "J.D. Vance says he's probing universities for visa fraud, but the investigation is really about protectionism.",
-      "also": []
-    },
-    {
-      "topic": "environment",
+      "topic": "science",
       "importance": 1,
       "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03255-0",
       "date": "2026-10-12",
       "author": "Flora Graham",
-      "summary": "Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03255-0 Step into the rainforest with climatologist David Lapola. Plus, watch an ‘invisible’ tattoo be revealed by ultraviolet light and explore PhD remuneration across Europe.",
-      "also": []
+      "summary": "Nature's daily briefing highlights a climate experiment in the Amazon rainforest and research into PhD remuneration across Europe.",
+      "also": [],
+      "brief": {
+        "what": "The publication features a visit to a climate experiment in the Amazon rainforest led by climatologist David Lapola. Additionally, the briefing covers the development of an invisible tattoo revealed by ultraviolet light and an exploration of PhD compensation across Europe.",
+        "who": "Climatologist David Lapola is the primary subject of the Amazon rainforest feature.",
+        "context": "The briefing serves as a daily digest of scientific research and academic trends published by Nature.",
+        "why": "The content is presented as part of Nature's ongoing coverage of global scientific developments and academic professional standards.",
+        "next": "The article doesn't say."
+      }
     },
     {
-      "topic": "culture",
+      "topic": "business",
       "importance": 1,
       "title": "NFL tickets discounted to fill Wembley Stadium",
       "source": "City AM",
       "url": "https://www.cityam.com/nfl-tickets-discounted-to-fill-wembley-stadium/",
       "date": "2026-10-14",
       "author": "Matt Hardy",
-      "summary": "A 90,000-strong Wembley Stadium crowd for this weekend’s NFL fixture is under threat, prompting ticket discounts in areas of the London stadium. The fixture between the Jacksonville Jaguars and Houston Texans has not yet sold out, after a struggle to shift tickets for the first of three NFL matches – at the Tottenham…",
-      "also": []
+      "summary": "The NFL is offering ticket discounts at Wembley Stadium to ensure a full crowd for this weekend's game between the Jacksonville Jaguars and Houston Texans. This follows recent struggles to sell out international fixtures in London.",
+      "also": [],
+      "brief": {
+        "what": "The NFL is discounting tickets for the upcoming Jacksonville Jaguars and Houston Texans game at Wembley Stadium to avoid failing to reach a 90,000-person capacity. Discounts of 25 per cent are being applied to specific lower-tier blocks, with prices starting at £99 for standard seats.",
+        "who": "The NFL, which organizes the international series, and Shahid Khan, the owner of the Jacksonville Jaguars.",
+        "context": "The league is currently hosting three matches in London this season, following a previous event at Tottenham Hotspur Stadium that also faced challenges in selling out. American Express data suggests these international games are significant economic drivers, potentially generating £90m in local spending.",
+        "why": "The discounts were prompted by the threat of not achieving a full crowd, as the league struggles to shift tickets for its London-based fixtures.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "£90m",
+          "what": "estimated extra spend generated by three matches"
+        },
+        {
+          "figure": "£450",
+          "what": "average spend per attendee"
+        },
+        {
+          "figure": "25 per cent",
+          "what": "discount on tickets behind end zones"
+        },
+        {
+          "figure": "£117",
+          "what": "price of discounted tickets behind end zones"
+        },
+        {
+          "figure": "£99",
+          "what": "starting price for non-resale and non-obstructed tickets"
+        }
+      ]
     }
   ]
 }
