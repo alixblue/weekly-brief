@@ -200,14 +200,27 @@ def select(scored, src_by_name):
             crowded = max(counts, key=lambda k: counts[k] - TOPIC_MIN.get(k, 0))
             picked.remove(min((x for x in picked if x[1] == crowded), key=lambda x: x[0]))
             picked.append(spare.pop(0))
-    # balance: the weaker side of the spectrum must have at least 3/4 as many stories as the stronger side
-    sides = lambda: {s: sum(1 for _, _, c in picked if side(src_by_name[c["items"][0]["source"]]["lean"]) == s) for s in ("left", "right")}
-    for weak in ("left", "right"):
-        strong = "right" if weak == "left" else "left"
-        spare = [x for x in scored if x not in picked and side(src_by_name[x[2]["items"][0]["source"]]["lean"]) == weak]
-        while spare and sides()[weak] * 4 < sides()[strong] * 3:
-            drop = min((x for x in picked if side(src_by_name[x[2]["items"][0]["source"]]["lean"]) == strong), key=lambda x: x[0])
-            picked.remove(drop); picked.append(spare.pop(0))
+    # balance: counted the way the page's "Source balance" bar counts it (lead outlet plus the outlets listed as also covering),
+    # the weaker side of the spectrum must have at least 3/4 as many as the stronger side
+    sd = lambda n: side(src_by_name[n]["lean"])
+    def tally(x):
+        c = x[2]["items"]; t = {"left": 0, "right": 0, "center": 0}
+        for n in {i["source"] for i in c[1:4]} - {c[0]["source"]}: t[sd(n)] += 1
+        t[sd(c[0]["source"])] += 1
+        return t
+    sides = lambda: {s: sum(tally(x)[s] for x in picked) for s in ("left", "right")}
+    for _ in range(40):
+        tot = sides()
+        weak, strong = ("left", "right") if tot["left"] < tot["right"] else ("right", "left")
+        if tot[weak] * 4 >= tot[strong] * 3: break
+        spare = [x for x in scored if x not in picked and tally(x)[weak] > tally(x)[strong]
+                 and per_src.get(x[2]["items"][0]["source"], 0) < PER_SOURCE_CAP]
+        if not spare: break
+        drop = min((x for x in picked if tally(x)[strong] > tally(x)[weak]), key=lambda x: x[0], default=None)
+        if not drop: break
+        picked.remove(drop); picked.append(spare[0])
+        per_src[drop[2]["items"][0]["source"]] -= 1
+        per_src[spare[0][2]["items"][0]["source"]] = per_src.get(spare[0][2]["items"][0]["source"], 0) + 1
     picked.sort(key=lambda x: x[0], reverse=True)
     out = []
     for n, (score, topic, c) in enumerate(picked):
