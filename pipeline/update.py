@@ -226,6 +226,7 @@ def article_text(url, limit=9000):
     return "\n".join(p for p in paras if len(p) > 60)[:limit]
 
 
+_ai_state = {"fails": 0, "start": None}  # circuit breaker: stop asking after repeated failures or 25 minutes
 _gemini = {}  # model name, found once per run from Google's own list (names change from time to time)
 GROQ_MODEL = "llama-3.3-70b-versatile"                      # Groq free tier
 _last_call = [0.0]
@@ -252,7 +253,7 @@ def gemini_model(token):
     return _gemini["m"]
 
 
-def _post(url, body, headers, timeout=120):
+def _post(url, body, headers, timeout=45):
     req = urllib.request.Request(url, data=json.dumps(body).encode(), headers={"content-type": "application/json", **headers})
     return json.loads(urllib.request.urlopen(req, timeout=timeout).read())
 
@@ -261,6 +262,9 @@ def ask_claude(key, prompt, max_tokens=1500):
     """Send one prompt to whichever provider has a key; always returns the JSON object in the reply."""
     import time
     provider, token = key
+    _ai_state["start"] = _ai_state["start"] or time.time()
+    if _ai_state["fails"] >= 3 or time.time() - _ai_state["start"] > 1500:
+        raise RuntimeError("AI paused for this run (repeated failures or time budget used)")
     if provider == "anthropic":
         r = _post("https://api.anthropic.com/v1/messages", {"model": MODEL, "max_tokens": max_tokens, "messages": [{"role": "user", "content": prompt}]},
                   {"x-api-key": token, "anthropic-version": "2023-06-01"})
@@ -287,7 +291,8 @@ def ask_claude(key, prompt, max_tokens=1500):
                 if e.code not in (429, 500, 503) or attempt == 2:
                     log("AI request refused:", e.code, e.read()[:300])
                     raise
-                time.sleep(int(e.headers.get("Retry-After") or 20))
+                time.sleep(min(int(e.headers.get("Retry-After") or 20), 30))
+    _ai_state["fails"] = 0
     return json.loads(text[text.index("{"): text.rindex("}") + 1])
 
 
@@ -325,6 +330,7 @@ def claude_polish(items, glossary):
             r = ask_claude(key, BRIEF_PROMPT.format(source=it["source"], title=it["title"], others=others,
                                                     text=text))
         except Exception as e:
+            _ai_state["fails"] += 1
             log("brief skipped:", it["title"][:60], e); continue
         if r.get("topic") in TOPIC_BOOST: it["topic"] = r["topic"]
         if r.get("kind") in ("opinion", "analysis"): it["kind"] = r["kind"]
@@ -333,6 +339,7 @@ def claude_polish(items, glossary):
         for a, note in zip(it.get("also", []), r.get("notes") or []):
             if note: a["note"] = note
         for t, d in (r.get("terms") or {}).items(): glossary.setdefault(t, d)
+        log("brief written:", it["title"][:60])
     return items, glossary
 
 

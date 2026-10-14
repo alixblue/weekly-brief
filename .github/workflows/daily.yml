@@ -23,6 +23,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - name: Fetch, rank, summarise, render
+        timeout-minutes: 40
         if: github.event_name != 'push'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # free: Google Gemini writes the summaries
