@@ -11,27 +11,27 @@
       ]
     },
     {
-      "text": "The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.",
-      "urls": [
-        "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
-      ]
-    },
-    {
       "text": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
       "urls": [
         "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html"
       ]
     },
     {
-      "text": "The amusement park company said it was shutting down similar attractions across its parks after several people were injured.",
+      "text": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
       "urls": [
-        "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f"
+        "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
       ]
     },
     {
-      "text": "US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border",
+      "text": "The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.",
       "urls": [
-        "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1"
+        "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
+      ]
+    },
+    {
+      "text": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
@@ -55,24 +55,68 @@
           "url": "https://www.bloomberg.com/news/videos/2026-10-13/bofa-fined-more-than-1-2-billion-for-money-laundering-video"
         },
         {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Bank of America fined $1.2bn over money laundering failures",
+          "url": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1"
+        },
+        {
           "source": "Al Jazeera",
           "author": null,
           "date": "2026-10-14",
           "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
           "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
+      "date": "2026-10-12",
+      "author": "Eshe Nelson",
+      "summary": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
+      "also": [
+        {
+          "source": "The Economist",
+          "author": null,
+          "date": "2026-10-12",
+          "title": "A Nobel prize for how to keep economies on an even keel",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-an-even-keel"
         },
         {
-          "source": "New York Post",
-          "author": "Associated Press",
+          "source": "NPR",
+          "author": "Erika Ryan",
           "date": "2026-10-13",
-          "title": "Bank of America hit with $1.2B fine for money laundering, sanctions violations",
-          "url": "https://nypost.com/2026/10/13/business/bank-of-america-hit-with-1-2b-fine-for-money-laundering-sanctions-violations/"
+          "title": "What an economics Nobel Prize winner knows about pricing",
+          "url": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing"
+        },
+        {
+          "source": "NPR",
+          "author": "Greg Rosalsky",
+          "date": "2026-10-13",
+          "title": "What ice cream has to do with this year's Nobel Prize in economics",
+          "url": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 3,
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "date": "2026-10-14",
+      "author": "Robert Jimison",
+      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "also": []
+    },
+    {
+      "topic": "world",
+      "importance": 2,
       "title": "Pope Leo Has Lung Cancer, Vatican Says",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
@@ -93,84 +137,58 @@
           "date": "2026-10-13",
           "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
           "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces"
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-13",
-          "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
-          "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 3,
-      "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
-      "date": "2026-10-12",
-      "author": "Eshe Nelson",
-      "summary": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
-      "also": [
-        {
-          "source": "The Guardian",
-          "author": "Graeme Wearden",
-          "date": "2026-10-12",
-          "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-          "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
-        },
-        {
-          "source": "Reason",
-          "author": "Eugene Volokh",
-          "date": "2026-10-12",
-          "title": "Congratulations to the Hoover Institution's Robert E. Hall, on His Economics Nobel Prize",
-          "url": "https://reason.com/volokh/2026/10/12/congratulations-to-the-hoover-institutions-robert-e-hall-on-his-economics-nobel-prize/"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
-      "author": "Jack Morphet",
-      "summary": "The amusement park company said it was shutting down similar attractions across its parks after several people were injured.",
+      "author": null,
+      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
       "also": [
         {
-          "source": "The Washington Post",
-          "author": "Aoife Walsh",
+          "source": "Bloomberg",
+          "author": "Anthony Di Paola and Annmarie Hordern",
           "date": "2026-10-13",
-          "title": "Six Flags shuts roller coasters at six parks after death in Georgia",
-          "url": "https://www.washingtonpost.com/business/2026/10/13/six-flags-shuts-roller-coasters-six-parks-after-death-georgia/"
+          "title": "Aramco Headquarters Hit as Houthi Missiles Strike Saudi Arabia",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia"
         },
         {
-          "source": "Fox Business",
+          "source": "Al Jazeera",
           "author": null,
-          "date": "2026-10-13",
-          "title": "Six Flags closes roller coasters at multiple parks after deadly incident in Georgia",
-          "url": "https://www.foxbusiness.com/lifestyle/six-flags-closes-roller-coasters-multiple-parks-after-deadly-incident-georgia"
+          "date": "2026-10-14",
+          "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 2,
-      "title": "Bank of America fined $1.2bn over money laundering failures",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1",
+      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "author": null,
-      "summary": "US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border",
+      "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
       "also": [
         {
-          "source": "Fox Business",
-          "author": null,
+          "source": "NPR",
+          "author": "Betsy Joles",
           "date": "2026-10-13",
-          "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures",
-          "url": "https://www.foxbusiness.com/economy/bank-america-hit-1-2b-penalties-money-laundering-compliance-failures"
+          "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+          "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-14",
+          "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss"
         }
       ]
     },
@@ -213,46 +231,91 @@
       ]
     },
     {
-      "topic": "world",
+      "topic": "markets",
       "importance": 2,
-      "title": "India’s ‘Cockroach’ Party Leaders to Face Court After Protests",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/india-s-cockroach-party-leaders-to-face-court-after-protests",
-      "date": "2026-10-14",
-      "author": "Asmi Bhatia and Akriti Sharma",
-      "summary": "Leaders of India’s youth-led “Cockroach” movement were arrested early Wednesday, the first such move by authorities since protests erupted, in an escalation of tensions over a contentious overhaul of the country’s voter rolls.",
+      "title": "Premier Inn owner urges investors to resist pressure from activist hedge fund",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1cf8da1d-8abd-40a6-bcd2-055ee49c7fcb?syn-25a6b1a6=1",
+      "date": "2026-10-13",
+      "author": null,
+      "summary": "Whitbread asks shareholders to reject Corvex Management’s demand for a board seat",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Somini Sengupta and Suhasini Raj",
-          "date": "2026-10-11",
-          "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
-          "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
+          "source": "City AM",
+          "author": "Felix Armstrong",
+          "date": "2026-10-13",
+          "title": "Premier Inn owner Whitbread hits out at ‘destructive’ activist investor",
+          "url": "https://www.cityam.com/premier-inn-owner-whitbread-hits-out-at-destructive-investor-pressure/"
         }
       ]
     },
     {
-      "topic": "world",
+      "topic": "markets",
       "importance": 2,
-      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-      "date": "2026-10-14",
-      "author": "Robert Jimison",
-      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "title": "FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fd733de5-8047-4809-9cbe-695eb5dd6f5e?syn-25a6b1a6=1",
+      "date": "2026-10-13",
+      "author": null,
+      "summary": "US regulators accuse convicted felon of trading in dozens of pharmaceutical stocks and sharing opinions on social media",
       "also": [
         {
-          "source": "National Review",
-          "author": "Andrew C. McCarthy",
-          "date": "2026-10-12",
-          "title": "Trump’s Diesel Deal with Putin Is a Gross Abuse of Power",
-          "url": "https://www.nationalreview.com/2026/10/trumps-diesel-deal-with-putin-is-a-gross-abuse-of-power/"
+          "source": "New York Post",
+          "author": "Peter Senzamici, Ariel Zilber",
+          "date": "2026-10-13",
+          "title": "‘Pharma Bro’ Martin Shkreli broke lifetime ban on drug industry trades, feds say",
+          "url": "https://nypost.com/2026/10/13/business/pharma-bro-martin-shkreli-broke-lifetime-ban-on-drug-industry-trades-fed-say/"
         }
       ]
     },
     {
       "topic": "science",
       "importance": 2,
+      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+      "also": [
+        {
+          "source": "BBC News",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC News",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-13",
+      "author": "Jack Morphet",
+      "summary": "The amusement park company said it was shutting down similar attractions across its parks after several people were injured.",
+      "also": [
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-13",
+          "title": "Six Flags closes roller coasters at multiple parks after deadly incident in Georgia",
+          "url": "https://www.foxbusiness.com/lifestyle/six-flags-closes-roller-coasters-multiple-parks-after-deadly-incident-georgia"
+        }
+      ]
+    },
+    {
+      "topic": "science",
+      "importance": 1,
       "title": "AI is less regulated than milk, says Microsoft president",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
@@ -271,24 +334,13 @@
     },
     {
       "topic": "aerospace",
-      "importance": 2,
+      "importance": 1,
       "title": "'Jellyfish' effect lights up US sky after SpaceX launch",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cr86zjv5plp5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "author": null,
       "summary": "A 'Jellyfish' effect lit up the sky in US after a SpaceX Falcon 9 rocket launch.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
-      "date": "2026-10-13",
-      "author": "Christopher F. Schuetze and Aurelien Breeden",
-      "summary": "German police said they had determined there was “no danger” after a plane mistakenly transmitted a code suggesting a possible hijacking onboard.",
       "also": []
     },
     {
@@ -309,28 +361,6 @@
           "url": "https://nypost.com/2026/10/13/business/pickleball-company-files-for-bankruptcy-as-founder-acknowledges-business-mistake-i-own-it/"
         }
       ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "BA flight forced to turn back over cracked window",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "author": null,
-      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
-      "date": "2026-10-13",
-      "author": "Erika Solomon",
-      "summary": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
-      "also": []
     },
     {
       "topic": "business",
@@ -357,23 +387,12 @@
     {
       "topic": "business",
       "importance": 1,
-      "title": "Albertsons Just Slapped a ‘For Sale’ Sign on Itself—Again",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/albertsons-just-slapped-a-for-sale-sign-on-itselfagain-298d13f4?mod=pls_whats_news_us_business_f",
+      "title": "Latest Oil Market News and Analysis for Oct. 14",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14",
       "date": "2026-10-13",
-      "author": "Patrick Thomas",
-      "summary": "Executives at America’s second-largest supermarket chain are in search of a turnaround as consumers spend less.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "AT&T to Sell AT&T Mexico to Grupo Televisa and Fintech Holdings",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/telecom/at-t-to-sell-at-t-mexico-to-grupo-televisa-and-fintech-holdings-c36a62af?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-13",
-      "author": "Anthony Harrup",
-      "summary": "AT&T is leaving the Mexican mobile market after a little more than a decade as it focuses on its U.S. business.",
+      "author": "Kanoko Matsuyama",
+      "summary": "Oil climbed as a flare-up in attacks in the Middle East increased uncertainty over a recovery in Persian Gulf energy flows.",
       "also": []
     },
     {
@@ -396,17 +415,6 @@
       "date": "2026-10-14",
       "author": null,
       "summary": "Goldman CEO David Solomon said IPO and capital-markets activity remained healthy, while JPMorgan's Jamie Dimon said the bank is tightening some credit terms, as top Wall Street banks reported earnings that failed to impress investors. (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Rupee’s Relentless Slide Draws Importers Into RBI Currency Fight",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/rupee-s-relentless-slide-draws-importers-into-rbi-currency-fight",
-      "date": "2026-10-14",
-      "author": "Subhadip Sircar and Bhaskar Dutta",
-      "summary": "India’s importers are now in the crosshairs of the central bank, as its latest efforts to shore up the rupee expand from financial markets to the economy.",
       "also": []
     },
     {
@@ -434,12 +442,12 @@
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
-      "date": "2026-10-12",
-      "author": "Jena-Optronik",
-      "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […] The post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.…",
+      "title": "Jamaica accepts first flight of third-country deportations from US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
+      "date": "2026-10-14",
+      "author": null,
+      "summary": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
       "also": []
     },
     {
@@ -454,47 +462,69 @@
       "also": []
     },
     {
-      "topic": "science",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+      "title": "Fractured Realities",
+      "source": "The Dispatch",
+      "url": "https://thedispatch.com/article/cornell-talarico-left-right-alternate-realities/",
+      "date": "2026-10-13",
+      "author": "Jesse Singal",
+      "summary": "The age of micro-balkanization is going to become increasingly unpleasant.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "No Immunity for Judge Who Locked Children in Holding Cells in Custody Case",
+      "source": "Reason",
+      "url": "https://reason.com/volokh/2026/10/13/no-immunity-for-judge-who-locked-children-in-holding-cells-in-custody-case/",
+      "date": "2026-10-13",
+      "author": "Eugene Volokh",
+      "summary": "From Rockett v. Eighmy, decided today by Eighth Circuit Judge David Stras, joined by Judges Bobby Shepherd and Jane Kelly:… The post No Immunity for Judge Who Locked Children in Holding Cells in Custody Case appeared first on Reason Magazine.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "The New Mega-Hub Airport Being Purpose-Built Around Just 15 Jets",
+      "source": "Simple Flying",
+      "url": "https://simpleflying.com/new-mega-hub-airport-being-purpose-built-around-just-15-jets/",
       "date": "2026-10-14",
-      "author": null,
-      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+      "author": "Josh Lamb",
+      "summary": "Qantas has been involved since before ground was first broken at Western Sydney International Airport.",
       "also": []
     },
     {
-      "topic": "science",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+      "title": "Air Tahiti All First Class ATR-72 Begins Epic 6-Day, 9-Airport Journey From France To Tahiti",
+      "source": "Simple Flying",
+      "url": "https://simpleflying.com/air-tahiti-first-class-atr-72-epic-6-day-9-airport-france-tahiti/",
       "date": "2026-10-13",
-      "author": null,
-      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "How long will humans be needed for translation?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "author": null,
-      "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "author": "Paul Hartley",
+      "summary": "Air Tahiti's luxurious 26-seat ATR 72-600 is embarking on an extraordinary six-day delivery journey spanning nine airports.",
       "also": []
     },
     {
       "topic": "environment",
       "importance": 1,
-      "title": "More tea? How Scotland's crops of the future could be set to change",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+      "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
       "date": "2026-10-13",
-      "author": null,
-      "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+      "author": "Jonathan Watts",
+      "summary": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official has said, as the country battles devastating blazes…",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Trill seekers: can scientists use AI and tutors to help birds remember lost songs?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
+      "date": "2026-10-13",
+      "author": "Rebecca Ratcliffe",
+      "summary": "When populations fall, fledglings can struggle to learn the right notes to attract mates. But research on how birds communicate offers hope for species’ survival Listening to birdsong is one of life’s great joys, but when researchers heard a particular tune emerging from a tree in a Buenos Aires park, they were…",
       "also": []
     }
   ]
