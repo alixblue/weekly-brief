@@ -223,7 +223,7 @@ def select(scored, src_by_name):
             print(f"balance: stuck at {tot}; weak-side spare stories: {len(spare)}, strong-side droppable: {len(drops)}"); break
         drop, add = swap
         picked.remove(drop); picked.append(add)
-        per_src[drop[2]["items"][0]["source"]] -= 1
+        per_src[drop[2]["items"][0]["source"]] = max(0, per_src.get(drop[2]["items"][0]["source"], 0) - 1)
         per_src[add[2]["items"][0]["source"]] = per_src.get(add[2]["items"][0]["source"], 0) + 1
     print(f"balance: left {sides()['left']} / right {sides()['right']} (lead + also-covered outlets)")
     picked.sort(key=lambda x: x[0], reverse=True)
