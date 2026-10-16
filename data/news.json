@@ -1,280 +1,253 @@
 {
-  "generated": "2026-10-15",
-  "window": "2026-10-08 to 2026-10-15",
+  "generated": "2026-10-16",
+  "window": "2026-10-09 to 2026-10-16",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-10-15",
-    "label": "Thu 15 Oct · change on the day",
+    "asof": "2026-10-16",
+    "label": "Fri 16 Oct · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,718.94",
-        "change": "-1.11%"
-      },
-      {
-        "name": "Dow",
-        "value": "51,621.48",
-        "change": "-0.09%"
-      },
-      {
-        "name": "Nasdaq",
-        "value": "26,692.868",
-        "change": "-1.88%"
-      },
-      {
-        "name": "CAC 40",
-        "value": "7,899.31",
+        "value": "7,744.06",
         "change": "+0.33%"
       },
       {
+        "name": "Dow",
+        "value": "52,177.69",
+        "change": "+1.08%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,713.026",
+        "change": "+0.08%"
+      },
+      {
+        "name": "CAC 40",
+        "value": "7,950.48",
+        "change": "+0.20%"
+      },
+      {
         "name": "DAX",
-        "value": "25,233.19",
-        "change": "-0.26%"
+        "value": "25,631.11",
+        "change": "+0.98%"
       },
       {
         "name": "Brent oil",
-        "value": "$104.10",
-        "change": "-1.85%"
+        "value": "$105.16",
+        "change": "-0.72%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "5.077%",
-        "change": "-0.11 pt"
+        "value": "5.10%",
+        "change": "+0.01 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1226",
-        "change": "+0.6275%"
+        "value": "1.125",
+        "change": "+0.2853%"
       }
     ]
   },
   "week": [
     {
-      "text": "Bank of America has received a $1.2bn fine from US regulators after failing to detect and report illicit financial activity. The bank admitted to willfully violating the Bank Secrecy Act and will incur a $1.2 billion non-tax-deductible charge in its third-quarter results.",
+      "text": "Roadster makes debut after decade in development as EV maker tries to revive image as brash innovator",
+      "urls": [
+        "https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1"
+      ]
+    },
+    {
+      "text": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "urls": [
+        "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "text": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023.",
+      "urls": [
+        "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html"
+      ]
+    },
+    {
+      "text": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
       "urls": [
         "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’ Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of…",
+      "text": "The sports car will test America’s appetite for high-end electric sports cars—and Tesla’s own thesis.",
       "urls": [
-        "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices"
-      ]
-    },
-    {
-      "text": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
-      "urls": [
-        "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
-      ]
-    },
-    {
-      "text": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
-      "urls": [
-        "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan"
-      ]
-    },
-    {
-      "text": "US economists Robert Hall and Michael Woodford have won the 2026 Nobel economics prize for research that helps central banks stabilise economies during crises. Their work laid the foundation for New Keynesian models and forward guidance on interest rates.",
-      "urls": [
-        "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+        "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?mod=pls_whats_news_us_business_f"
       ]
     }
   ],
   "watch": [],
   "items": [
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 3,
+      "title": "Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1",
+      "date": "2026-10-16",
+      "author": null,
+      "summary": "Roadster makes debut after decade in development as EV maker tries to revive image as brash innovator",
+      "also": [
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-15",
+          "title": "Tesla’s new Roadster makes a flying debut, hitting 60 MPH in under a second",
+          "url": "https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second"
+        },
+        {
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-10-15",
+          "title": "Tesla’s new Roadster makes a flying debut, hitting 60 MPH in under a second",
+          "url": "https://nypost.com/2026/10/15/business/tesla-unveils-redesigned-next-generation-roadster-after-long-awaited-anticipation/"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 3,
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-16",
+      "author": null,
+      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Salman Masood",
+          "date": "2026-10-15",
+          "title": "32 Children Killed After School Roof Collapses in Pakistan",
+          "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 3,
+      "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
+      "date": "2026-10-16",
+      "author": "John Koblin and Nicole Sperling",
+      "summary": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-10-15",
+          "title": "Netflix replaces chief content officer in effort to arrest declining share price",
+          "url": "https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Wall Street Journal",
+          "author": "Ben Fritz",
+          "date": "2026-10-15",
+          "title": "Netflix Replaces Content Chief as It Struggles to Engage Viewers",
+          "url": "https://www.wsj.com/business/media/netflix-replaces-content-chief-as-it-struggles-to-engage-viewers-c179e0ba?mod=pls_whats_news_us_business_f"
+        },
+        {
+          "source": "New York Post",
+          "author": "Ariel Zilber",
+          "date": "2026-10-15",
+          "title": "Netflix big Bela Bajaria out after decade calling shots on shows. Peter Rice is streamer’s new chief content officer",
+          "url": "https://nypost.com/2026/10/15/business/netflix-big-bela-bajaria-out-after-decade-calling-shots-on-shows-peter-rice-is-steamers-new-chief-content-officer/"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
       "title": "Bank of America hit with $1.2bn fine for money laundering failings",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-14",
       "author": null,
-      "summary": "Bank of America has received a $1.2bn fine from US regulators after failing to detect and report illicit financial activity. The bank admitted to willfully violating the Bank Secrecy Act and will incur a $1.2 billion non-tax-deductible charge in its third-quarter results.",
+      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
       "also": [
         {
           "source": "The New York Times",
           "author": "Rob Copeland",
           "date": "2026-10-15",
           "title": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight",
-          "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
-          "note": "The New York Times characterizes the enforcement action as resulting from 'lax' oversight."
+          "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html"
         },
         {
           "source": "The Guardian",
           "author": "Reuters",
           "date": "2026-10-14",
           "title": "Bank of America fined $1.2bn for money-laundering failures",
-          "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
-          "note": "The Guardian uses 'money-laundering failures' rather than focusing on the specific Treasury enforcement action."
-        },
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-10-13",
-          "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures",
-          "url": "https://www.foxbusiness.com/economy/bank-america-hit-1-2b-penalties-money-laundering-compliance-failures",
-          "note": "Fox Business emphasizes the fine specifically as penalties over compliance failures."
-        }
-      ],
-      "brief": {
-        "what": "The US Treasury Department fined Bank of America $1.2bn for failing to detect potential money laundering and other illegal operations. The bank failed to report over $5bn in suspicious activity, including $1bn linked to illicit finance and national security risks.",
-        "who": "The main parties are Bank of America, the US Treasury Department, Treasury Secretary Scott Bessent, the Office of the Comptroller of the Currency (OCC), and the Office of Foreign Assets Control (OFAC).",
-        "context": "The penalty includes a record $750m fine from the OCC and an $11.6m settlement with OFAC over 475 apparent sanctions violations tied to Russia, Iran, narcotics, and terrorism. The overall penalty is the third-largest ever imposed by the Treasury Department.",
-        "why": "According to the Treasury, Bank of America overly relied on external inquiries rather than internal controls, effectively outsourcing proactive detection. The bank admitted it willfully violated the Bank Secrecy Act regarding anti-money laundering compliance, foreign correspondent due diligence, and suspicious activity reporting.",
-        "next": "Bank of America is set to report quarterly earnings, which will reflect a non-tax-deductible charge of $1.2 billion, while continuing remediation efforts."
-      },
-      "numbers": [
-        {
-          "figure": "$1.2bn",
-          "what": "total fine imposed on Bank of America"
-        },
-        {
-          "figure": "over $5bn",
-          "what": "unreported suspicious activity to the government"
-        },
-        {
-          "figure": "$1bn",
-          "what": "unreported activity posing national security risks"
-        },
-        {
-          "figure": "$750m",
-          "what": "penalty levied by the OCC"
-        },
-        {
-          "figure": "17 cents per share",
-          "what": "net income impact from the charge"
+          "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering"
         }
       ]
     },
     {
-      "topic": "world",
-      "importance": 3,
-      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-      "date": "2026-10-11",
-      "author": "Simon Goodley",
-      "summary": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’ Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of…",
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-16",
+      "author": "Christopher Otts",
+      "summary": "The sports car will test America’s appetite for high-end electric sports cars—and Tesla’s own thesis.",
       "also": [
-        {
-          "source": "The New York Times",
-          "author": "David E. Sanger, Paul Abowd, Nikolay Nikolov, Nour Idriss, Rafaela Balster and Whitney Shefte",
-          "date": "2026-10-14",
-          "title": "Why Trump Made a Diesel Deal With Putin",
-          "url": "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html"
-        },
-        {
-          "source": "The New York Times",
-          "author": "Robert Jimison",
-          "date": "2026-10-14",
-          "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-          "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
-        },
-        {
-          "source": "The New York Times",
-          "author": "Robert Jimison",
-          "date": "2026-10-14",
-          "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-          "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 3,
-      "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
-      "date": "2026-10-14",
-      "author": "Scott Horsley",
-      "summary": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Mark Miller",
-          "date": "2026-10-14",
-          "title": "Social Security COLA for 2027 Will Be 3.6%",
-          "url": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
-        },
         {
           "source": "Fox Business",
           "author": null,
-          "date": "2026-10-14",
-          "title": "Social Security announces cost-of-living adjustment for 2027",
-          "url": "https://www.foxbusiness.com/economy/social-security-announces-cost-of-living-adjustment-2027"
+          "date": "2026-10-15",
+          "title": "Tesla's long-awaited Roadster gets its moment after years of delays",
+          "url": "https://www.foxbusiness.com/markets/teslas-long-awaited-roadster-gets-its-moment-after-years-delays"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-15",
-      "author": "The Associated Press",
-      "summary": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
+      "author": null,
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Salman Masood",
-          "date": "2026-10-15",
-          "title": "At Least 20 Children Dead After School Roof Collapses in Pakistan",
-          "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html"
+          "author": "Cassandra Vinograd and Francesca Regalado",
+          "date": "2026-10-16",
+          "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
         },
+        {
+          "source": "Washington Examiner",
+          "author": "David Zimmermann",
+          "date": "2026-10-16",
+          "title": "Trump says he’s ‘not a big fan’ of Zelensky after new strikes on Russian oil refineries",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4768351/trump-not-a-big-fan-zelensky-russia-oil-strikes/"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-16",
+      "author": null,
+      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "also": [
         {
           "source": "Al Jazeera",
           "author": null,
-          "date": "2026-10-15",
-          "title": "School roof collapses in northwestern Pakistan, killing at least 29 people",
-          "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-      "date": "2026-10-12",
-      "author": "Graeme Wearden",
-      "summary": "US economists Robert Hall and Michael Woodford have won the 2026 Nobel economics prize for research that helps central banks stabilise economies during crises. Their work laid the foundation for New Keynesian models and forward guidance on interest rates.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Eshe Nelson",
-          "date": "2026-10-12",
-          "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
-          "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
-          "note": "The New York Times takes a straightforward approach by naming both recipients without referencing the crisis-smoothing focus of their research."
-        },
-        {
-          "source": "Reason",
-          "author": "Eugene Volokh",
-          "date": "2026-10-12",
-          "title": "Congratulations to the Hoover Institution's Robert E. Hall, on His Economics Nobel Prize",
-          "url": "https://reason.com/volokh/2026/10/12/congratulations-to-the-hoover-institutions-robert-e-hall-on-his-economics-nobel-prize/",
-          "note": "Reason frames the announcement as a congratulatory piece highlighting Robert E. Hall and his Hoover Institution affiliation while omitting co-winner Michael Woodford."
-        }
-      ],
-      "brief": {
-        "what": "The Royal Swedish Academy of Sciences awarded the 2026 Nobel economics prize, worth a combined $1.2m (£900,000), to US economists Robert Hall and Michael Woodford. The laureates were recognized for creating models that assist central bankers and finance ministers in smoothing economic cycles and averting recessions.",
-        "who": "The recipients are Robert Hall of Stanford University and Michael Woodford of Columbia University, with the prize awarded by the Royal Swedish Academy of Sciences.",
-        "context": "Traditional models based on John Maynard Keynes struggled during 1970s oil shocks that brought high inflation, weak growth, and unemployment. Hall reconstructed models based on forward-looking consumer behavior, and Woodford expanded this into the New Keynesian model, which helped steer economies and led to forward guidance following the 2008 financial crisis.",
-        "why": "The academy cited a paradigm shift in stabilisation policy that equips authorities to handle economic shocks by modeling how household and business actions collectively drive the economy. Prize committee chair John Hassler noted that their frameworks provide a stable theoretical foundation for central banks and governments.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$1.2m",
-          "what": "combined monetary value of the prize"
-        },
-        {
-          "figure": "£900,000",
-          "what": "combined prize value in British pounds"
+          "date": "2026-10-16",
+          "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss"
         }
       ]
     },
@@ -286,100 +259,59 @@
       "url": "https://www.aerotime.aero/articles/lufthansa-air-france-klm-acquire-minority-stake-tap-air-portugal",
       "date": "2026-10-14",
       "author": "Ian Molyneaux",
-      "summary": "Lufthansa Group has won the bid to acquire a minority stake of up to 49.9% in TAP Air Portugal for €1.201 billion. The Portuguese government selected Lufthansa over Air France-KLM, citing a financially stronger all-cash offer and growth commitments.",
+      "summary": "Lufthansa Group has beaten rival bidder Air France-KLM to acquire a minority stake in TAP Air Portugal, concluding… The post Lufthansa beats Air France-KLM to acquire minority stake in TAP Air Portugal appeared first on AeroTime .",
       "also": [
         {
           "source": "Wall Street Journal",
           "author": "Joshua Kirby",
           "date": "2026-10-14",
           "title": "Germany’s Lufthansa Beats Air France-KLM to Take $1.3 Billion Stake in Portugal’s Flag Carrier",
-          "url": "https://www.wsj.com/business/airlines/germanys-lufthansa-beats-air-france-klm-to-take-1-3-billion-stake-in-portugals-flag-carrier-3fe9ccfb?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the transaction by converting the deal value to $1.3 billion and emphasizing Lufthansa's German identity alongside TAP's role as Portugal's flag carrier."
-        }
-      ],
-      "brief": {
-        "what": "Lufthansa Group secured a 44.9% minority stake in TAP Air Portugal—potentially rising to 49.9% if employees forgo their 5% allocation—in an operation valued at €1.201 billion. The Portuguese government retained majority ownership for now.",
-        "who": "Lufthansa Group and defeated bidder Air France-KLM competed for the stake offered by the Portuguese government, Prime Minister Luís Montenegro, and infrastructure minister Miguel Pinto Luz via state entity Parpública.",
-        "context": "Portugal announced plans to re-privatize TAP in July 2025, receiving bids from major European airline groups by September 2026. Lufthansa already owns carriers including SWISS, Austrian Airlines, Brussels Airlines, and ITA Airways.",
-        "why": "The Portuguese government stated Lufthansa presented a financially stronger proposal that was up to 16% higher than Air France-KLM's bid, alongside an ambitious growth plan and an all-cash structure reported by Reuters.",
-        "next": "Preparations to sell a majority capital stake in a second phase will launch shortly, with the transaction expected to close by the beginning of 2028."
-      },
-      "numbers": [
-        {
-          "figure": "€1.201 billion",
-          "what": "total value of the transaction"
-        },
-        {
-          "figure": "44.9%",
-          "what": "minority stake secured by Lufthansa Group"
-        },
-        {
-          "figure": "up to 5%",
-          "what": "additional stake reserved for airline employees"
-        },
-        {
-          "figure": "up to 16%",
-          "what": "financial premium over Air France-KLM offer"
-        },
-        {
-          "figure": "up to 130 aircraft",
-          "what": "projected expansion target for TAP fleet"
+          "url": "https://www.wsj.com/business/airlines/germanys-lufthansa-beats-air-france-klm-to-take-1-3-billion-stake-in-portugals-flag-carrier-3fe9ccfb?mod=pls_whats_news_us_business_f"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "India approves biggest foreign takeover of domestic bank",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bbffeec4-c491-45a3-8df9-7339ddb020e3?syn-25a6b1a6=1",
+      "title": "Lufthansa tells jets to carry extra fuel as Frankfurt, Zurich face supply crunch",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/lufthansa-extra-fuel-frankfurt-zurich-supply-crunch",
       "date": "2026-10-15",
-      "author": null,
-      "summary": "India has approved its largest foreign takeover of a domestic bank, clearing Canada's Fairfax Financial Holdings to buy nearly 61% of IDBI Bank for $5.6bn.",
+      "author": "Stephen Pope",
+      "summary": "Lufthansa is telling crews on selected flights to Frankfurt to take on extra fuel before departure as pipeline… The post Lufthansa tells jets to carry extra fuel as Frankfurt, Zurich face supply crunch appeared first on AeroTime .",
       "also": [
         {
-          "source": "Wall Street Journal",
-          "author": "Robb M. Stewart",
-          "date": "2026-10-14",
-          "title": "Fairfax Financial Buying Majority Stake in India’s IDBI Bank",
-          "url": "https://www.wsj.com/finance/fairfax-financial-buying-majority-stake-in-indias-idbi-bank-faf0fe0c?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses directly on Fairfax Financial purchasing a majority stake, whereas the Financial Times emphasizes the Indian government's approval and the record-breaking scale of the foreign takeover."
-        }
-      ],
-      "brief": {
-        "what": "India has formally granted approval for its biggest foreign takeover of a domestic bank, enabling Canada's Fairfax Financial Holdings to purchase nearly 61% of IDBI Bank. The agreed transaction carries a total value of $5.6bn for the majority stake in the domestic banking institution.",
-        "who": "The primary participants identified in the transaction are Canadian investment firm Fairfax Financial Holdings, which is acquiring the majority interest, and IDBI Bank, the domestic target bank based in India. Indian regulatory authorities also act as central decision-makers through their official approval of the foreign takeover.",
-        "context": "The transaction marks the largest foreign takeover of a domestic bank in India's history, establishing a historic milestone for overseas ownership and foreign capital within India's domestic banking industry.",
-        "why": "The provided text does not explain the motivations or strategic reasons driving Fairfax Financial Holdings to pursue the deal, nor does it detail the rationale behind the Indian authorities' decision to approve the acquisition.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$5.6bn",
-          "what": "purchase price for the bank stake"
-        },
-        {
-          "figure": "nearly 61%",
-          "what": "stake acquired in IDBI Bank"
+          "source": "Simple Flying",
+          "author": "Jake Hardiman",
+          "date": "2026-10-16",
+          "title": "Lufthansa Orders Select Frankfurt-Bound Flights To Carry Extra Fuel Over Supply Concerns",
+          "url": "https://simpleflying.com/lufthansa-select-frankfurt-bound-flights-carry-extra-fuel-supply-concerns/"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "world",
       "importance": 2,
-      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+      "title": "Social Security COLA for 2027 Will Be 3.6%",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
+      "url": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html",
       "date": "2026-10-14",
-      "author": "Colby Smith",
-      "summary": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.",
+      "author": "Mark Miller",
+      "summary": "The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.",
       "also": [
         {
-          "source": "Wall Street Journal",
-          "author": "Konrad Putzier",
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-15",
+          "title": "Social Security cost-of-living increase sparks debate over looming funding shortfall",
+          "url": "https://www.foxbusiness.com/personal-finance/social-security-cost-of-living-increase-sparks-debate-over-looming-funding-shortfall"
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
           "date": "2026-10-14",
-          "title": "Broad Pickup in Prices Lifted Inflation to 3.7% in September",
-          "url": "https://www.wsj.com/economy/cpi-inflation-report-september-2026-b2037469?mod=pls_whats_news_us_business_f"
+          "title": "Social Security announces cost-of-living adjustment for 2027",
+          "url": "https://www.foxbusiness.com/economy/social-security-announces-cost-of-living-adjustment-2027"
         }
       ]
     },
@@ -391,296 +323,240 @@
       "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights",
       "date": "2026-10-12",
       "author": "Stephen Pope",
-      "summary": "Delta Air Lines has postponed the launch of its Atlanta–Riyadh direct service until March 2027 following deadly strikes on King Khalid International Airport. The move comes as regulators issue warnings over military activity and risks to aviation infrastructure.",
+      "summary": "Delta Air Lines has postponed the launch of its Atlanta–Riyadh flights until March 2027 following deadly attacks on… The post Delta postpones Saudi Arabia launch after deadly airport attacks appeared first on AeroTime .",
       "also": [
         {
           "source": "Wall Street Journal",
           "author": "Kelly Cloonan",
           "date": "2026-10-12",
           "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
-          "url": "https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal's headline emphasizes the operational route delay neutrally without mentioning the deadly airport attacks that prompted the decision."
-        }
-      ],
-      "brief": {
-        "what": "Delta Air Lines has delayed starting its nonstop Atlanta–Riyadh passenger route until March 2027. The decision follows strikes on Riyadh's main airport that killed 14 people and injured more than 300.",
-        "who": "Delta Air Lines postponed the launch, acting in response to recent warnings from the Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) regarding Houthi attacks.",
-        "context": "The planned service would have marked Delta's first direct passenger flights to Saudi Arabia. King Khalid International Airport sustained repeated attacks, leading Saudi authorities to extend the facility's temporary closure and prompting other carriers including Lufthansa, Air France-KLM, and Etihad to cancel flights.",
-        "why": "The carrier halted the launch after the FAA warned of risks at any altitude from military activity and satellite navigation interference, while EASA highlighted dangers from missile strikes, air-defense debris, and potential misidentification of civilian aircraft.",
-        "next": "Delta stated it will monitor developments in contact with government and aviation partners, including Saudia and Riyadh Air, while Saudi authorities keep the airport closed until October 17."
-      },
-      "numbers": [
-        {
-          "figure": "13",
-          "what": "people killed in October 10 airport strike"
-        },
-        {
-          "figure": "more than 300",
-          "what": "people injured in October 10 strike"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Abeer Ayyoub",
-          "date": "2026-10-15",
-          "title": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room",
-          "url": "https://www.wsj.com/tech/the-engineer-accused-of-bugging-openais-top-secret-conference-room-7f91c07c?mod=pls_whats_news_us_business_f"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "White House defends new press secretary amid questions about her legal credentials",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-15",
-      "author": null,
-      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Alexandra Bruell",
-          "date": "2026-10-15",
-          "title": "White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam",
-          "url": "https://www.wsj.com/business/media/white-house-press-secretary-katie-zacharia-didnt-pass-bar-exam-714a484e?mod=pls_whats_news_us_business_f"
+          "url": "https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446?mod=pls_whats_news_us_business_f"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 2,
-      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+      "title": "Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-      "date": "2026-10-15",
-      "author": "Constant Méheut",
-      "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+      "url": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
+      "date": "2026-10-16",
+      "author": "Andrew Trunsky",
+      "summary": "Lufthansa’s quirky plane, with its extra-long fuselage, four engines and restrooms down a flight of stairs, has a devoted following. Now, the carrier, one of few still flying the model, is taking it out of service.",
       "also": []
     },
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-      "date": "2026-10-15",
-      "author": "Maria Varenikova and Paul Mozur",
-      "summary": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
-      "date": "2026-10-15",
-      "author": "Alex Travelli",
-      "summary": "As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Saudi Airlines Rush to Save Scores of Planes From a War Zone",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-14",
-      "author": "Benjamin Katz",
-      "summary": "Deadly Houthi missile strikes have airlines racing to move billions worth of planes to safety.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Why Hamas Cheered Navi Pillay’s Nobel Peace Prize",
-      "source": "The Dispatch",
-      "url": "https://thedispatch.com/article/navi-pillay-nobel-prize-hamas-israel/",
-      "date": "2026-10-15",
-      "author": "Hillel C. Neuer",
-      "summary": "Pillay’s human rights career hid the commitments of a campaigner behind the authority of a judge.",
-      "also": [
-        {
-          "source": "National Review",
-          "author": "Ben Cohen and David May",
-          "date": "2026-10-13",
-          "title": "Navi Pillay’s Undeserved Nobel Peace Prize",
-          "url": "https://www.nationalreview.com/2026/10/navi-pillays-undeserved-nobel-peace-prize/"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "India Stocks Set to Beat Asia by Most In Over a Year on AI Rout",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/india-stocks-set-to-beat-asia-by-most-in-over-a-year-on-ai-rout",
-      "date": "2026-10-15",
-      "author": "Alex Gabriel Simon",
-      "summary": "Indian equities outpaced Asian peers on Thursday, as an unwinding of the artificial intelligence trade spurred a rotation toward markets that had largely missed the surge.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Chipmaker TSMC profits surge amid relentless AI demand",
+      "title": "Airlines should give up their fuel-hedging dogfight",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/2839679e-f329-41f0-a252-93444e81252c?syn-25a6b1a6=1",
+      "date": "2026-10-16",
+      "author": null,
+      "summary": "Even for battle-hardened CEOs, this latest crisis is a chance for some helpful new thinking",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Harvard’s endowment returns surge on back of AI and SpaceX investments",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1",
       "date": "2026-10-15",
       "author": null,
-      "summary": "Taiwanese manufacturer beats estimates in third quarter with earnings of $23.6bn",
+      "summary": "Ivy League university’s fund gains 27.1%, boosting total assets to $68bn as private capital holdings rebound",
       "also": []
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Malaysian Central Bank Governor on Economic Growth",
+      "title": "New World in Talks With Some Banks to Extend $11.2 Billion Loan",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/malaysian-central-bank-governor-on-economic-growth-video",
-      "date": "2026-10-15",
-      "author": null,
-      "summary": "Malaysia’s central bank governor Abdul Rasheed Ghaffour told Bloomberg's Avril Hong that the central bank has greater room to adjust interest rates after changing its policy guidance last month and stands ready to act if inflation pressures intensify as the Middle East conflict keeps energy prices elevated. Speaking…",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/new-world-in-talks-with-some-banks-to-extend-11-2-billion-loan",
+      "date": "2026-10-16",
+      "author": "Apple Ka Ying Li, Jackie Cai and Megawati Wijaya",
+      "summary": "New World Development Co. is in preliminary discussions with some banks to extend an about HK$88 billion ($11.2 billion) loan by two years, according to people familiar with the matter, a move that could pave the way for a capital injection for the cash-strapped Hong Kong builder.",
       "also": []
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Healey Says Budget Will Protect UK Economic 'Resilience'",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/healy-says-budget-will-protect-uk-economic-resilience-video",
-      "date": "2026-10-15",
-      "author": null,
-      "summary": "Chancellor of the Exchequer John Healey discusses the International Monetary Fund's comments that the UK is the “country that basically stands out” for plotting a path to bring down borrowing. Speaking to Bloomberg's Lisa Abramowicz in Bangkok, Healey also discusses the importance of banks to the British economy,…",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks",
+      "title": "Nordex Shares Jump on Earnings Growth, Guidance Raise",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-gulf-supply-recovery-hormuz-attacks-f0337002?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-15",
+      "url": "https://www.wsj.com/business/earnings/nordex-shares-jump-on-earnings-growth-guidance-raise-3e04a680?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-16",
+      "author": "Adam Whittaker",
+      "summary": "Shares in the German wind-turbine manufacturer jumped after it raised its full-year margin guidance and flagged improved third-quarter profitability.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+      "date": "2026-10-16",
+      "author": "Patricia Cohen",
+      "summary": "The Federal Reserve chairman said technological change was complicating the outlook for central banks as policymakers grapple with persistent inflation risks.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Oil Prices Fall as Traders Weigh IEA Reserve Releases, Hormuz Risks",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-iea-reserve-releases-hormuz-risks-f8d24d7b?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-16",
       "author": "Farhan Rafid",
-      "summary": "Middle East crude exports have recovered substantially but the International Energy Agency said flows remain vulnerable to attacks on energy infrastructure, shipping.",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Global stocks sell-off deepens as chipmakers tumble",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-      "date": "2026-10-15",
-      "author": null,
-      "summary": "European and Asian equities slide as investors question durability of AI boom",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Ericsson Shares Surge on Strong Sales of Network Gear",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/ericsson-to-streamline-structure-as-component-costs-pressure-profitability-f4be0cb0?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-15",
-      "author": "Dominic Chopping",
-      "summary": "Investors shrugged off the Swedish telecommunications-equipment maker’s warning that higher component costs will be a headwind to profitability next year.",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "General Atlantic’s IPO ambitions",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d9353431-e9ba-4b34-a277-ab1510120ef8?syn-25a6b1a6=1",
-      "date": "2026-10-15",
-      "author": null,
-      "summary": "The private capital group is planning to go public in the first half of next year as it seeks to keep pace with listed rivals like Blackstone and Apollo Global",
-      "also": []
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "Amazon Extra Strength Acetaminophen recalled: More than 112,000 bottles affected by discoloration complaints",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/lifestyle/amazon-extra-strength-acetaminophen-recalled-more-than-112000-bottles-affected-discoloration-complaints",
-      "date": "2026-10-14",
-      "author": null,
-      "summary": "The FDA says over 112,000 bottles of Amazon Extra Strength Acetaminophen are being recalled after consumer complaints about discolored tablets.",
-      "also": [
+      "summary": "Traders weighed International Energy Agency plans to accelerate emergency oil-stock releases against persistent Middle East supply risks and uncertainty over shipping through the Strait of Hormuz.",
+      "also": [],
+      "earlier": [
         {
-          "source": "New York Post",
-          "author": "Fox Business",
-          "date": "2026-10-14",
-          "title": "Amazon recalls more than 112,000 bottles of Extra Strength Acetaminophen over discolored tablets",
-          "url": "https://nypost.com/2026/10/14/business/amazon-recalls-over-112000-bottles-of-extra-strength-acetaminophen/"
+          "title": "Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks",
+          "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-gulf-supply-recovery-hormuz-attacks-f0337002?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-10-15"
         }
       ]
     },
     {
-      "topic": "science",
+      "topic": "business",
       "importance": 1,
-      "title": "Gas Exporter Venture Global Wants to Get In on AI Power Boom",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/gas-exporter-venture-global-wants-to-get-in-on-ai-power-boom-6b91b9e1?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-15",
-      "author": "Benoît Morenne",
-      "summary": "The company plans to build gas-fired power plants to supply data centers.",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Biocon Chair: AI in Clinical Trials Is the Holy Grail",
+      "title": "Why Indonesia Risks Being Removed From MSCI’s Global Indexes",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/biocon-chair-ai-in-clinical-trials-is-the-holy-grail-video",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/why-indonesia-risks-being-removed-from-msci-s-global-indexes",
+      "date": "2026-10-16",
+      "author": "Abhishek Vishnoi and Prima Wirayani",
+      "summary": "Indonesia has spent decades establishing itself as one of the world’s most important emerging markets. Now the country — Southeast Asia’s largest economy, with a gross domestic product of about $1.5 trillion — risks losing that standing, potentially jeopardizing billions of dollars in foreign investment.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Odd Lots: French Politics Are Leading to a Debt Crisis (Podcast)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/audio/2026-10-16/odd-lots-french-politics-are-leading-to-a-debt-crisis-podcast",
+      "date": "2026-10-16",
+      "author": "Joe Weisenthal and Tracy Alloway",
+      "summary": "Just about everyone is worried about what is going on in France right now: the country’s public finances are in sorry shape and there are fears that the French bond selloff, and the country’s growing debt crisis, might spillover into the rest of Europe. On top of that, the 2027 elections have investors worried: The…",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "China Moves to Prop Up Stocks With Selling Curbs, Buybacks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-moves-to-prop-up-stock-market-with-selling-curbs-buybacks",
+      "date": "2026-10-16",
+      "author": "Bloomberg News",
+      "summary": "China moved to stabilize its equity market by urging companies and state funds to buy shares while guiding some investors to curb selling, people familiar with the matter said.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Asia Stocks Recover Some Ground After Tech Rout",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/asia-stocks-recover-some-ground-after-tech-rout-c0735307?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-16",
+      "author": "Megan Cheah",
+      "summary": "Asian stocks rebounded Friday, following gains on Wall Street, as investors bought shares after a technology selloff fueled by concerns about the artificial-intelligence trade.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "FTSE 100 Live: Stocks dip as tech rebounds from sell-off; Oil set for weekly gain",
+      "source": "City AM",
+      "url": "https://www.cityam.com/ftse-100-live-stocks-to-dip-as-tech-rebounds-from-sell-off-oil-set-for-weekly-gain/",
+      "date": "2026-10-16",
+      "author": "Samuel Norman",
+      "summary": "Welcome back to City AM‘s FTSE 100 live blog. London’s blue-chip index has dipped this morning as tech stocks rebound after a sell-off earlier in the week. Over in Asia, equities bounced back overnight, reversing some of the losses from a heavy selling session after investors ditched their tech exposure following…",
+      "also": []
+    },
+    {
+      "topic": "culture",
+      "importance": 1,
+      "title": "Sally Rooney’s books are being withdrawn from sale in the UK, due to her support for Palestine Action",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/sally-rooneys-books-are-being-withdrawn-from-sale-in-the-uk-due-to-her-support-for-palestine-action-294458",
       "date": "2026-10-15",
+      "author": "Julian Novitz, Senior Lecturer, Writing, Department of Media and Communication, Swinburne University of Technology",
+      "summary": "The legal threat to Sally Rooney has drawn new attention to the controversial UK definition of a ‘terrorist organisation’.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Stephen Castle",
+          "date": "2026-10-15",
+          "title": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
+          "url": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss",
+      "date": "2026-10-16",
       "author": null,
-      "summary": "Biocon Executive Chairperson Kiran Mazumdar-Shaw told Bloomberg's Francine Lacqua that a wave of expiring biologic patents provides a major runway to expand affordable cancer biosimilars and elevate the company above its current top-five global ranking. Speaking on the sidelines of the Bloomberg New Economy Forum in…",
+      "summary": "After repeated currency crises, Zimbabweans remain wary of the ZiG.",
       "also": []
     },
     {
       "topic": "science",
       "importance": 1,
-      "title": "NSF backs choice of new Antarctic contractor despite concerns by government watchdog and researchers",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/nsf-backs-choice-new-antarctic-contractor-despite-concerns-government-watchdog-and",
-      "date": "2026-10-14",
-      "author": "Jeffrey Mervis",
-      "summary": "Agency says it has “resolved” questions about KBR winning an $8 billion contract",
+      "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03178-w",
+      "date": "2026-10-15",
+      "author": "David Payne",
+      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03178-w An expert panel debates the impact of artificial intelligence on doctoral programmes.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03233-6",
+      "date": "2026-10-15",
+      "author": "Maia Weinstock",
+      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03233-6 Programmer whose forward-thinking and reliable code helped to save the Apollo 11 mission.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "date": "2026-10-15",
+      "author": "Dalmeet Singh Chawla",
+      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03194-w Major preprint platform tightens its rules to curb a surge of submissions, including those generated by artificial-intelligence tools.",
       "also": []
     },
     {
       "topic": "environment",
       "importance": 1,
-      "title": "For the future of green politics, look beyond the Green party | Zoe Williams",
+      "title": "Flash floods kill five and destroy villages in central Nepal",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/green-politics-environmentalists-action",
-      "date": "2026-10-14",
-      "author": "Zoe Williams",
-      "summary": "Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus The future of Green politics is under constant discussion after the Holborn and St Pancras byelection , but a much heavier clash – in meaning, symbolism and portent – happened earlier this summer,…",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
+      "date": "2026-10-16",
+      "author": "Matt Andrews and Ed Walton for MetDesk",
+      "summary": "Landslide blocks river and triggers downstream flooding, while summer temperatures persist in Portugal Flash floods have swept through Nepal’s central Gorkha district after a pre-dawn landslide on 11 October blocked the Budhi Gandaki River, triggering severe downstream flooding. At least five people have died, and…",
+      "also": []
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "COP17: Tracking progress towards the UN’s 2030 nature targets",
+      "source": "Carbon Brief",
+      "url": "https://interactive.carbonbrief.org/nature-targets-2030-progress/",
+      "date": "2026-10-15",
+      "author": "Carbon Brief Staff",
+      "summary": "Countries will meet in Armenia this month to carry out the first global review of progress towards meeting key nature… The post COP17: Tracking progress towards the UN’s 2030 nature targets appeared first on Carbon Brief .",
       "also": []
     }
   ]
