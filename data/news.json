@@ -1,269 +1,214 @@
 {
-  "generated": "2026-10-21",
-  "window": "2026-10-14 to 2026-10-21",
+  "generated": "2026-10-22",
+  "window": "2026-10-15 to 2026-10-22",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-10-21",
-    "label": "Wed 21 Oct · change on the day",
+    "asof": "2026-10-22",
+    "label": "Thu 22 Oct · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,712.57",
-        "change": "+0.28%"
-      },
-      {
-        "name": "Dow",
-        "value": "52,495.88",
-        "change": "+1.02%"
-      },
-      {
-        "name": "Nasdaq",
-        "value": "26,424.817",
-        "change": "-0.02%"
-      },
-      {
-        "name": "CAC 40",
-        "value": "7,887.44",
-        "change": "+0.62%"
-      },
-      {
-        "name": "DAX",
-        "value": "25,449.93",
+        "value": "7,757.17",
         "change": "+0.58%"
       },
       {
+        "name": "Dow",
+        "value": "52,856.09",
+        "change": "+0.69%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,702.858",
+        "change": "+1.05%"
+      },
+      {
+        "name": "CAC 40",
+        "value": "7,800.45",
+        "change": "-1.53%"
+      },
+      {
+        "name": "DAX",
+        "value": "25,354.06",
+        "change": "-1.13%"
+      },
+      {
         "name": "Brent oil",
-        "value": "$110.14",
-        "change": "+1.24%"
+        "value": "$112.27",
+        "change": "+3.17%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "5.121%",
-        "change": "+0.00 pt"
+        "value": "5.067%",
+        "change": "-0.08 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1222",
-        "change": "-0.1246%"
+        "value": "1.1226",
+        "change": "-0.0534%"
       }
     ]
   },
   "week": [
     {
-      "text": "Elon Musk is exploring a merger between Tesla and SpaceX to consolidate their technological efforts, while SpaceX has simultaneously achieved profitability and announced a plan to provide shares to children.",
+      "text": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-        "https://www.wsj.com/business/five-takeaways-from-spacexs-earnings-call-b91bcaf2?mod=pls_whats_news_us_business_f",
-        "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-        "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html"
+        "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "The FAA has officially certified the Boeing 737 MAX 10, allowing the final variant of the aircraft family to carry passengers after significant regulatory delays.",
+      "text": "Barclays is eliminating roughly 5,000 jobs, or 5% of its global workforce, as it accelerates its adoption of artificial intelligence and concludes a three-year cost-cutting drive. Around 60% of the cuts will affect support functions, while the bank expects efficiency measures to yield £1.1bn in savings in 2027.",
       "urls": [
-        "https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html",
-        "https://www.wsj.com/business/airlines/boeings-last-737-max-jet-gets-approval-to-carry-passengers-73762731?mod=pls_whats_news_us_business_f"
+        "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "New UN reports warn that global greenhouse gas emissions are keeping the world on track for significant warming, with upcoming climate summits expected to address these mitigation challenges.",
+      "text": "Scott Kirby says wealth inequality is a ‘danger to society’ and calls for inheritance tax in recent interview Scott Kirby, the CEO of United Airlines, is under scrutiny from conservative politicians and commentators for saying wealth inequality is a “danger to society” and calling for a national wealth and inheritance…",
       "urls": [
-        "https://www.nature.com/articles/d41586-026-03355-x",
-        "https://www.ft.com/content/76bf9a5f-a1f9-4b59-9473-35fe18a7a008?syn-25a6b1a6=1"
+        "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash"
       ]
     },
     {
-      "text": "The UK government has approved the Jackdaw gasfield in the North Sea, while Australian pension fund IFM Investors acquired a majority stake in Associated British Ports for £10 billion.",
+      "text": "The company, which reported record revenue of $64.6 billion for the third quarter, said the new stock won’t affect Mark Zuckerberg’s voting control.",
       "urls": [
-        "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-        "https://www.bloomberg.com/news/articles/2026-10-21/uk-s-biggest-port-operator-valued-at-10-billion-in-stake-sale"
+        "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "The Democratic Republic of the Congo is launching a high-stakes Ebola vaccine trial, with plans to introduce strain-specific shots in the coming month.",
+      "text": "The UK is to fly defensive counter-air missions with Royal Air Force (RAF) Eurofighter Typhoon fighter jets to protect… The post UK to fly RAF Typhoons to defend Saudi Arabia from Houthi attacks appeared first on AeroTime .",
       "urls": [
-        "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial"
+        "https://www.aerotime.aero/articles/uk-raf-typhoons-saudi-arabia-houthi-air-defense"
       ]
     }
   ],
-  "watch": [
-    {
-      "date": "2026-11-01",
-      "when": "November",
-      "label": "COP31 climate summit in Antalya, Turkey",
-      "url": "https://www.nature.com/articles/d41586-026-03355-x"
-    },
-    {
-      "date": "2026-11-01",
-      "when": "Next month",
-      "label": "Potential addition of Bundibugyo-specific shots to Ebola vaccine trial",
-      "url": "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial"
-    },
-    {
-      "date": "2027-02-01",
-      "when": "February",
-      "label": "Court appearance for suspect in Helen Haines attack",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
-    }
-  ],
+  "watch": [],
   "items": [
     {
       "topic": "business",
       "importance": 3,
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-21",
       "author": null,
-      "summary": "Elon Musk has confirmed he is actively considering a merger between Tesla and SpaceX to consolidate their work in artificial intelligence, robotics, and chip manufacturing. Special committees have been formed at both companies to evaluate the potential transaction, though no agreement on terms has been reached.",
-      "also": [],
-      "brief": {
-        "what": "Elon Musk is exploring a merger of Tesla and SpaceX, a move that would create one of the largest corporate entities in history. While Musk believes there is significant merit to combining the firms to advance AI and chip development, he noted that special committees have yet to reach an agreement on terms.",
-        "who": "Elon Musk, the chief executive of both companies, is leading the discussion, while independent special committees are tasked with evaluating the feasibility of the merger.",
-        "context": "Musk has recently been consolidating his business interests, including the acquisition of xAI and X by SpaceX, and the launch of the Terafab chip manufacturing initiative.",
-        "why": "Musk stated that a merger would create synergies in software, artificial intelligence, and hardware manufacturing, though he acknowledged the process is complex and requires shareholder approval.",
-        "next": "The special committees will continue to examine the proposal, and ultimately, at least 50% of Tesla shareholders would need to approve the combination."
-      },
-      "numbers": [
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "also": [
         {
-          "figure": "$2 trillion",
-          "what": "valuation of SpaceX"
-        },
+          "source": "Wall Street Journal",
+          "author": "Becky Peterson",
+          "date": "2026-10-22",
+          "title": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
+          "url": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f"
+        }
+      ],
+      "earlier": [
         {
-          "figure": "$1.5 trillion",
-          "what": "valuation of Tesla"
-        },
-        {
-          "figure": "$27bn",
-          "what": "revenue for SpaceX over nine months"
-        },
-        {
-          "figure": "8%",
-          "what": "increase in SpaceX share price"
-        },
-        {
-          "figure": "50%",
-          "what": "shareholder approval threshold for Tesla"
+          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-10-21"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 3,
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-20",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-22",
       "author": null,
-      "summary": "The Liberty Justice Center has filed a lawsuit against the Trump administration, challenging the legality of 50% tariffs imposed on $20 billion worth of Canadian goods. The suit, brought on behalf of Gellert Global Group, argues the White House exceeded its authority under the 1930 Tariff Act.",
+      "summary": "Barclays is eliminating roughly 5,000 jobs, or 5% of its global workforce, as it accelerates its adoption of artificial intelligence and concludes a three-year cost-cutting drive. Around 60% of the cuts will affect support functions, while the bank expects efficiency measures to yield £1.1bn in savings in 2027.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-10-22",
+          "title": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
+          "url": "https://www.ft.com/content/e83591cd-13d4-4358-aee9-c500930bfd36?syn-25a6b1a6=1",
+          "note": "The Financial Times characterizes the cuts as Barclays stepping up AI adoption rather than attributing the layoffs to increasing reliance on it."
+        },
+        {
+          "source": "City AM",
+          "author": "Samuel Norman",
+          "date": "2026-10-22",
+          "title": "Barclays to axe 5,000 jobs by end of year after banking on AI savings",
+          "url": "https://www.cityam.com/barclays-profit-misses-after-investment-bank-comes-up-short/",
+          "note": "City AM highlights the year-end timeline and frames the bank as actively banking on AI savings to justify axing the positions."
+        }
+      ],
+      "brief": {
+        "what": "Barclays is cutting around 5,000 roles, equal to roughly 5% of its global workforce, having already closed 1,000 posts with 4,000 more reductions due by year-end. Around 60% of the cuts will target support functions, including developers.",
+        "who": "The actions are led by Barclays and Chief Executive CS Venkatakrishnan, with analyst commentary from Russ Mould at AJ Bell and Will Howlett at Quilter Cheviot.",
+        "context": "The reductions coincide with the conclusion of a three-year cost-cutting programme primarily focused on Barclays' UK retail bank, alongside its investment banking arm. The bank also posted a £2.3bn quarterly profit, which beat the prior year but missed forecasts.",
+        "why": "Barclays said the cuts stem from an ongoing modernisation plan and heavy investments in technology to simplify operations, calling AI the 'icing on the cake' of its strategy. Analysts noted banks' long-term technology investments are increasingly reducing the headcount needed to run operations.",
+        "next": "The bank expects its remaining 4,000 planned reductions to finish by the end of this year and anticipates its efficiency measures will deliver an additional £1.1bn of savings in 2027."
+      },
+      "numbers": [
+        {
+          "figure": "around 5,000",
+          "what": "jobs Barclays is cutting from staff"
+        },
+        {
+          "figure": "around 5%",
+          "what": "share of Barclays' global workforce cut"
+        },
+        {
+          "figure": "£2.3bn",
+          "what": "profit made in three months to September"
+        },
+        {
+          "figure": "£1.1bn",
+          "what": "savings expected in 2027 from efficiency"
+        },
+        {
+          "figure": "around 60%",
+          "what": "job cuts falling within support functions"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 3,
+      "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
+      "date": "2026-10-20",
+      "author": "Gaya Gupta",
+      "summary": "Scott Kirby says wealth inequality is a ‘danger to society’ and calls for inheritance tax in recent interview Scott Kirby, the CEO of United Airlines, is under scrutiny from conservative politicians and commentators for saying wealth inequality is a “danger to society” and calling for a national wealth and inheritance…",
       "also": [
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-10-21",
-          "title": "US food importer sues Trump administration over 50% tariffs on Canadian goods",
-          "url": "https://www.foxbusiness.com/politics/us-food-importer-sues-trump-administration-over-50-tariffs-canadian-goods",
-          "note": "Fox Business frames the story by specifically highlighting the impact on a food importer."
+          "title": "DOJ official takes swipe at United Airlines CEO amid backlash over wealth tax proposal",
+          "url": "https://www.foxbusiness.com/politics/doj-official-takes-swipe-united-airlines-ceo-backlash-wealth-tax-proposal"
         },
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-20",
+          "title": "United CEO silent on $32M compensation after calling wealth gap a 'danger'",
+          "url": "https://www.foxbusiness.com/business-leaders/united-ceo-silent-32m-compensation-after-calling-wealth-gap-danger"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-22",
+      "author": "Meghan Bobrowsky",
+      "summary": "The company, which reported record revenue of $64.6 billion for the third quarter, said the new stock won’t affect Mark Zuckerberg’s voting control.",
+      "also": [
         {
           "source": "New York Post",
-          "author": "Lisa Fickenscher",
-          "date": "2026-10-20",
-          "title": "Trump administration sued over 50% tariffs on Canadian products",
-          "url": "https://nypost.com/2026/10/20/business/trump-administration-sued-over-50-tariffs-on-canadian-products/",
-          "note": "New York Post focuses on the legal challenge against the administration regarding Canadian products."
-        }
-      ],
-      "brief": {
-        "what": "The Liberty Justice Center is suing the Trump administration to overturn 50% tariffs on $20 billion of Canadian imports, arguing the executive branch misused Section 338 of the 1930 Tariff Act. The plaintiff, Gellert Global Group, claims these duties disrupt supply chains and exceed the president's legal authority.",
-        "who": "The Liberty Justice Center is representing Gellert Global Group in a legal challenge against the Trump administration's trade policies.",
-        "context": "The dispute centers on the use of a dormant 1930 statute to justify tariffs following a breakdown in trade talks. The lawsuit contends that this authority has been superseded by newer legislation and that the administration failed to follow mandatory waiting periods.",
-        "why": "The Liberty Justice Center argues that the Constitution grants tariff power to Congress, not the executive branch, and that the administration is improperly using outdated statutes to bypass legislative limits.",
-        "next": "The lawsuit seeks to have the levies declared unlawful, obtain refunds for importers, and secure a preliminary injunction to block further tariff collection."
-      },
-      "numbers": [
-        {
-          "figure": "50%",
-          "what": "levy rate imposed on Canadian goods"
-        },
-        {
-          "figure": "$20bn",
-          "what": "value of Canadian goods subject to levies"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 3,
-      "title": "UK approves Jackdaw gasfield in North Sea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-      "date": "2026-10-21",
-      "author": "Peter Walker, Kiran Stacey and Aletha Adu",
-      "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? UK politics live – latest updates Business live – latest updates The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected…",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Lisa Friedman",
+          "author": "Ariel Zilber",
           "date": "2026-10-21",
-          "title": "U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea",
-          "url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html"
-        },
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-10-21",
-          "title": "UK approves development of Jackdaw gasfield in North Sea",
-          "url": "https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Australian MP loses both legs after alleged car attack, husband says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-21",
-      "author": null,
-      "summary": "Australian Member of Parliament Helen Haines has lost both legs following an alleged deliberate car attack outside her electorate office. The suspect, Brendan Nugent, faces multiple charges as police continue to investigate the motive behind the incident.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Victoria Kim and Laura Chung",
-          "date": "2026-10-20",
-          "title": "Australian Lawmaker Helen Haines Remains in Critical Condition After Car Attack",
-          "url": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
-          "note": "The New York Times headlines focus on the victim's medical status and the Prime Minister's involvement rather than the suspect's identity or the specific nature of the injuries."
-        },
-        {
-          "source": "The New York Times",
-          "author": "Laura Chung",
-          "date": "2026-10-19",
-          "title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
-          "url": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html"
-        }
-      ],
-      "brief": {
-        "what": "Independent MP Helen Haines suffered the loss of both legs after being struck by a vehicle in Wangaratta. The suspect, 43-year-old Brendan Nugent, has been charged with dangerous driving causing serious injury, intentionally causing serious injury, and harming a Commonwealth public official.",
-        "who": "Helen Haines is the victim and an independent MP for Indi; Phil Haines is her husband; Brendan Nugent is the accused attacker.",
-        "context": "Political violence is rare in Australia, though authorities have noted a rising trend in threats against high-office holders. The incident has prompted a national debate regarding the security protocols and protection levels provided to federal parliamentarians.",
-        "why": "Police state the investigation into the motive is ongoing, noting that Nugent was not previously on their radar. Nugent's lawyer mentioned the suspect has mental health concerns and a rare neurological condition, while investigators are examining potential drug use or personal connections.",
-        "next": "The suspect is due back in court in February, and police indicated that additional charges, including attempted murder, may be filed."
-      },
-      "numbers": [
-        {
-          "figure": "240km",
-          "what": "distance from Wangaratta to Melbourne"
-        },
-        {
-          "figure": "3",
-          "what": "charges filed against the suspect"
-        },
-        {
-          "figure": "226",
-          "what": "total number of federal MPs in Australia"
+          "title": "Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending",
+          "url": "https://nypost.com/2026/10/21/business/meta-stock-surges-on-strong-earnings-report-tech-giant-unveils-new-shares-to-bankroll-ai-spending/"
         }
       ]
     },
@@ -275,15 +220,14 @@
       "url": "https://www.aerotime.aero/articles/uk-raf-typhoons-saudi-arabia-houthi-air-defense",
       "date": "2026-10-20",
       "author": "Clement Charpentreau",
-      "summary": "The UK Ministry of Defense is deploying Royal Air Force Eurofighter Typhoon jets to Saudi Arabia to provide defensive air support against Houthi missile and drone attacks. This mission focuses on protecting critical infrastructure and cities without conducting offensive strikes.",
+      "summary": "The UK is to fly defensive counter-air missions with Royal Air Force (RAF) Eurofighter Typhoon fighter jets to protect… The post UK to fly RAF Typhoons to defend Saudi Arabia from Houthi attacks appeared first on AeroTime .",
       "also": [
         {
           "source": "The New York Times",
           "author": "Michael D. Shear",
           "date": "2026-10-20",
           "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-          "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-          "note": "The New York Times headline focuses on the UK's role in helping defend Saudi Arabia, while the second NYT headline highlights the economic impact of the attacks on Saudi investment events."
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html"
         },
         {
           "source": "The New York Times",
@@ -291,27 +235,6 @@
           "date": "2026-10-19",
           "title": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
           "url": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html"
-        }
-      ],
-      "brief": {
-        "what": "The UK Ministry of Defense announced the deployment of Eurofighter Typhoon fighter jets and an A400M transport aircraft to Saudi Arabia to defend against Houthi missile and drone attacks. The mission is strictly defensive, with the UK also extending its air-to-air refueling support for Saudi operations.",
-        "who": "The UK Ministry of Defense, led by Defense Secretary Wes Streeting, is the primary actor, alongside the Royal Air Force and Saudi Arabia's General Authority of Civil Aviation.",
-        "context": "This deployment follows a series of Houthi attacks on Saudi airports, including King Khalid International Airport and Abha International Airport, which resulted in casualties and operational suspensions.",
-        "why": "The UK Ministry of Defense stated the decision is linked to protecting UK economic and security interests, noting that regional violence risks disrupting energy supplies and increasing the cost of living in the UK. Defense Secretary Wes Streeting condemned the attacks as despicable and escalatory.",
-        "next": "The article does not say."
-      },
-      "numbers": [
-        {
-          "figure": "309",
-          "what": "people injured in a missile strike on King Khalid International Airpor"
-        },
-        {
-          "figure": "36",
-          "what": "people injured in attacks on RUH and Abha International Airport"
-        },
-        {
-          "figure": "3",
-          "what": "people killed in attacks on RUH and Abha International Airport"
         }
       ],
       "earlier": [
@@ -324,554 +247,335 @@
       ]
     },
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 2,
       "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
       "date": "2026-10-20",
       "author": "Kevin Draper",
-      "summary": "The Agriculture Department is launching the Harvest Fuel Relief Program to provide $8 billion in economic aid to farmers impacted by high diesel prices.",
+      "summary": "Under the Harvest Fuel Relief Program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices.",
       "also": [
         {
           "source": "Reason",
           "author": "Tosin Akintola",
           "date": "2026-10-20",
           "title": "Trump's $8 Billion Diesel Bailout Pays Farmers for a Problem He Created",
-          "url": "https://reason.com/2026/10/20/trumps-8-billion-diesel-bailout-pays-farmers-for-a-problem-he-created/",
-          "note": "Reason frames the story as a bailout for a problem created by the administration."
+          "url": "https://reason.com/2026/10/20/trumps-8-billion-diesel-bailout-pays-farmers-for-a-problem-he-created/"
         },
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-10-20",
           "title": "Trump announces $8B bailout for farmers to cover diesel cost surge amid attacks on global supply",
-          "url": "https://www.foxbusiness.com/energy/trump-announces-8b-bailout-farmers-cover-diesel-cost-surge-amid-attacks-global-supply",
-          "note": "Fox Business frames the story by highlighting the diesel cost surge and global supply chain issues."
-        }
-      ],
-      "brief": {
-        "what": "The Agriculture Department has announced the Harvest Fuel Relief Program, an initiative providing $8 billion in economic aid to support farmers struggling with high diesel costs.",
-        "who": "The Agriculture Department is the primary actor implementing this relief program.",
-        "context": "The program is designed to address financial hardships faced by the agricultural sector due to elevated fuel prices.",
-        "why": "The aid is being provided to assist farmers who have been hurt by high diesel prices.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$8 billion",
-          "what": "total economic aid for farmers"
+          "url": "https://www.foxbusiness.com/energy/trump-announces-8b-bailout-farmers-cover-diesel-cost-surge-amid-attacks-global-supply"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-20",
-      "author": null,
-      "summary": "A US district judge has dismissed a lawsuit against OpenAI CEO Sam Altman after his sister failed to attend court-ordered medical examinations. The case, which alleged historical sexual abuse, was thrown out with prejudice due to the plaintiff's failure to meet discovery obligations.",
-      "also": [
-        {
-          "source": "The Guardian",
-          "author": "Reuters",
-          "date": "2026-10-20",
-          "title": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
-          "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
-          "note": "The Guardian focuses on the nature of the allegations, while the New York Post highlights the specific accusation of sexual abuse in its headline."
-        },
-        {
-          "source": "New York Post",
-          "author": "Reuters",
-          "date": "2026-10-20",
-          "title": "Sam Altman’s sister’s lawsuit accusing brother and OpenAI CEO of sexual abuse is tossed",
-          "url": "https://nypost.com/2026/10/20/business/sam-altman-wins-dismisal-of-sisters-sexual-abuse-lawsuit/"
-        }
-      ],
-      "brief": {
-        "what": "District Judge Zachary Bluestone dismissed a lawsuit against OpenAI CEO Sam Altman after his sister, Ann Altman, failed to attend three independent medical examinations. The court ruled that the plaintiff failed to meaningfully prosecute her case and violated discovery obligations, resulting in the claims being dismissed with prejudice.",
-        "who": "Sam Altman, the CEO of OpenAI, and his sister, Ann Altman, are the primary parties in the litigation.",
-        "context": "Ann Altman had alleged that her brother sexually abused her between 1997 and 2006. The Altman family has publicly denied these claims, stating that Ann faces mental health challenges and has been receiving ongoing financial support from the family.",
-        "why": "The judge dismissed the case because the plaintiff repeatedly failed to comply with court-ordered discovery requirements, specifically the independent medical exam, despite being warned of the consequences.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
-      "date": "2026-10-20",
-      "author": "Gaya Gupta",
-      "summary": "United Airlines CEO Scott Kirby is facing criticism from conservative figures after advocating for a national wealth and inheritance tax. Critics have highlighted his significant annual compensation in response to his comments on wealth inequality.",
+      "title": "FAA certifies Boeing 737 MAX 10, clears way for deliveries after years of delays",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/boeing-737-max-10-faa-certification",
+      "date": "2026-10-21",
+      "author": "Stephen Pope",
+      "summary": "Boeing’s 737 MAX 10 received certification from the US Federal Aviation Administration (FAA) on October 20, 2026, clearing… The post FAA certifies Boeing 737 MAX 10, clears way for deliveries after years of delays appeared first on AeroTime .",
       "also": [
         {
           "source": "Fox Business",
           "author": null,
-          "date": "2026-10-20",
-          "title": "United CEO silent on $32M compensation after calling wealth gap a 'danger'",
-          "url": "https://www.foxbusiness.com/business-leaders/united-ceo-silent-32m-compensation-after-calling-wealth-gap-danger",
-          "note": "Fox Business frames the story by contrasting Kirby's policy stance with his specific $32 million compensation figure to highlight perceived hypocrisy."
-        }
-      ],
-      "brief": {
-        "what": "United Airlines CEO Scott Kirby sparked a backlash from conservative politicians and commentators after publicly supporting a national wealth tax and near 100% inheritance taxes. Critics, including Louisiana Governor Jeff Landry, have called for boycotts and questioned the audacity of these remarks given Kirby's $32 million annual compensation.",
-        "who": "Scott Kirby, CEO of United Airlines, is the primary subject, with opposition led by figures such as Louisiana Governor Jeff Landry and media outlets like Fox Business.",
-        "context": "The controversy arises as California voters prepare to decide on a 5% 'billionaire’s tax' and amid ongoing public debate regarding CEO pay, wealth inequality, and rising airline travel costs.",
-        "why": "Kirby stated that wealth inequality is a 'danger to society' and argued that a national wealth tax is necessary because state-level taxes are ineffective due to population mobility. He also defended current airline pricing as necessary to cover operational costs.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$32m",
-          "what": "annual compensation earned by Scott Kirby in 2025"
-        },
-        {
-          "figure": "5%",
-          "what": "proposed tax rate on California billionaires"
-        },
-        {
-          "figure": "20%",
-          "what": "increase in airline fare index from September 2019 to September 2026"
-        },
-        {
-          "figure": "31%",
-          "what": "increase in overall consumer prices from September 2019 to September 2"
-        },
-        {
-          "figure": "$70",
-          "what": "fee for non-frequent flyers to select aisle or window seats"
+          "date": "2026-10-21",
+          "title": "Boeing's largest 737 MAX jet wins FAA certification, clearing way for deliveries of 1,555 ordered planes",
+          "url": "https://www.foxbusiness.com/markets/boeings-largest737-max-jet-wins-faa-certification-clearing-way-deliveries-1555-ordered-planes"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 2,
-      "title": "UK’s Biggest Port Operator Valued at £10 Billion in Stake Sale",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-21/uk-s-biggest-port-operator-valued-at-10-billion-in-stake-sale",
-      "date": "2026-10-21",
-      "author": "Jamie Nimmo",
-      "summary": "Australian pension fund IFM Investors has acquired a 64% stake in Associated British Ports, valuing the company at £10 billion. This transaction represents one of the largest corporate deals in the UK this year.",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19",
+      "author": null,
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "also": [
         {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-10-21",
-          "title": "UK’s biggest port operator valued at over £10bn in Australian fund purchase",
-          "url": "https://www.ft.com/content/21d3b4e1-941b-4ad8-8e41-f8fc1864e758?syn-25a6b1a6=1",
-          "note": "The Financial Times headline emphasizes that the valuation exceeds £10 billion, whereas Bloomberg focuses on the £10 billion figure as the primary valuation."
-        }
-      ],
-      "brief": {
-        "what": "IFM Investors, an Australian pension fund, has purchased a 64% stake in Associated British Ports. The deal values the port operator at £10 billion, marking it as one of the most significant UK transactions of the year.",
-        "who": "IFM Investors is the Australian pension fund acting as the buyer, while Associated British Ports is the UK port operator being acquired.",
-        "context": "Associated British Ports is the largest port operator in the United Kingdom.",
-        "why": "The article does not explicitly state the strategic reasons behind the acquisition.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "64%",
-          "what": "stake acquired in Associated British Ports"
+          "source": "AeroTime",
+          "author": "Clement Charpentreau",
+          "date": "2026-10-20",
+          "title": "Japan launches mission to bring back first samples from Mars moon Phobos",
+          "url": "https://www.aerotime.aero/articles/japan-mmx-phobos-sample-return-h3-launch"
         },
         {
-          "figure": "£10 billion",
-          "what": "valuation of Associated British Ports"
+          "source": "The Conversation",
+          "author": "Daniel Brown, Lecturer in Astronomy, Nottingham Trent University",
+          "date": "2026-10-16",
+          "title": "Japan’s MMX mission aims to swipe soil samples from Mars’ moon Phobos",
+          "url": "https://theconversation.com/japans-mmx-mission-aims-to-swipe-soil-samples-from-mars-moon-phobos-294129"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 2,
-      "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
-      "date": "2026-10-19",
-      "author": "Ryan Mac",
-      "summary": "Elon Musk has announced a plan to provide a SpaceX share to every child in America. This initiative follows similar efforts by other tech leaders to establish savings accounts for children.",
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-20",
+      "author": null,
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
       "also": [
         {
           "source": "Wall Street Journal",
-          "author": "The Editorial Board",
-          "date": "2026-10-19",
-          "title": "Opinion | Elon Musk Beats Anthropic on Giveaways",
-          "url": "https://www.wsj.com/opinion/elon-musk-giving-spacex-shares-anthropic-fund-81d46772?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the story as an opinion piece comparing Musk's giveaway strategy to that of his competitor, Anthropic."
-        }
-      ],
-      "brief": {
-        "what": "Elon Musk stated he intends to gift a SpaceX share to every child in the United States. This move follows previous actions by other technology executives who have contributed to children's savings accounts.",
-        "who": "Elon Musk, the leader of SpaceX, and the company Anthropic, which is identified as an A.I. rival to SpaceX.",
-        "context": "The announcement occurs within a landscape where tech moguls are increasingly engaging in philanthropic efforts directed toward children's financial futures.",
-        "why": "The article does not provide a specific reason for Musk's decision, noting only that other tech figures have previously contributed to savings accounts for children.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "Elon Musk pledges to give every child in America a SpaceX share next year",
-          "url": "https://www.foxbusiness.com/fox-news-tech/elon-musk-spacex-shares-american-children-giveaway",
-          "source": "Fox Business",
-          "date": "2026-10-19"
+          "author": "Michael Hennessey",
+          "date": "2026-10-20",
+          "title": "Google Says Services Are Recovering After U.K. Cloud Outage Hits Businesses",
+          "url": "https://www.wsj.com/finance/investing/revolut-hit-by-widespread-outage-affecting-payments-transfers-withdrawals-5971bf0a?mod=pls_whats_news_us_business_f"
         }
       ]
     },
     {
-      "topic": "culture",
+      "topic": "world",
       "importance": 2,
-      "title": "Science ’s ‘Dance Your Ph.D.’ contest is open again",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/science-s-dance-your-ph-d-contest-open-again-2027",
-      "date": "2026-10-19",
-      "author": "Science News Staff",
-      "summary": "The annual 'Dance Your Ph.D.' contest, which challenges researchers to explain their doctoral work through dance, has officially opened for new submissions. Participants compete for a cash prize by creatively interpreting complex scientific concepts through movement.",
+      "title": "Mark Zuckerberg Threatened to Leave California. Meta’s Board Cut Him a Deal.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-21b0b522?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-22",
+      "author": "Laura J. Nelson",
+      "summary": "The Meta CEO feared a proposed billionaire tax in the state would force a major share sale, threatening his voting control of the company.",
       "also": [
         {
-          "source": "Reason",
-          "author": "Eugene Volokh",
-          "date": "2026-10-21",
-          "title": "Open Thread",
-          "url": "https://reason.com/volokh/2026/10/21/open-thread-364/",
-          "note": "Reason frames the story as an 'Open Thread,' suggesting a more informal discussion format compared to the direct reporting by Science."
-        },
-        {
-          "source": "Reason",
-          "author": "Eugene Volokh",
-          "date": "2026-10-20",
-          "title": "Open Thread",
-          "url": "https://reason.com/volokh/2026/10/20/open-thread-363/"
-        },
-        {
-          "source": "Reason",
-          "author": "Eugene Volokh",
-          "date": "2026-10-19",
-          "title": "Open Thread",
-          "url": "https://reason.com/volokh/2026/10/19/open-thread-362/"
-        }
-      ],
-      "brief": {
-        "what": "The 'Dance Your Ph.D.' contest has launched its latest edition, inviting scientists to submit videos that interpret their doctoral research through dance. The overall winner will receive a $1000 prize for their creative efforts.",
-        "who": "The contest is organized by the journal Science, which invites researchers globally to participate.",
-        "context": "The competition serves as a unique platform for scientists to communicate their specialized academic work to a broader audience using performance art.",
-        "why": "The contest aims to bridge the gap between complex academic research and public engagement by encouraging scientists to use creative expression.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$1000",
-          "what": "cash prize for the overall winner"
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-22",
+          "title": "Meta agrees to let Mark Zuckerberg remain in California amid proposed billionaire wealth tax",
+          "url": "https://www.foxbusiness.com/business-leaders/meta-agrees-let-mark-zuckerberg-remain-california-amid-proposed-billionaire-wealth-tax"
         }
       ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
+      "date": "2026-10-22",
+      "author": null,
+      "summary": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Frances Robles",
+          "date": "2026-10-21",
+          "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+          "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "SpaceX Takes Conglomerate-Building to Sci-Fi Extremes",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-22",
+      "author": "Aaron Back",
+      "summary": "Elon Musk’s mishmash of businesses will be a maze for investors to evaluate.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Are Prediction Markets Just Gambling? Kalshi CEO Responds",
+      "source": "Reason",
+      "url": "https://reason.com/podcast/2026/10/21/are-prediction-markets-just-gambling-kalshi-ceo-responds/",
+      "date": "2026-10-21",
+      "author": "Nick Gillespie",
+      "summary": "Kalshi CEO Tarek Mansour discusses the fight to regulate prediction markets, why ordinary people can outperform Wall Street, and the future of American capitalism.",
+      "also": [
+        {
+          "source": "National Review",
+          "author": "Ryan Bourne",
+          "date": "2026-10-21",
+          "title": "Prediction Markets Are Not ‘Just Gambling’ Platforms",
+          "url": "https://www.nationalreview.com/2026/10/prediction-markets-are-not-just-gambling-platforms/"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+      "date": "2026-10-21",
+      "author": "Jack Ewing",
+      "summary": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
+      "also": [],
+      "earlier": [
+        {
+          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "SpaceX Boosts the A.I. Rally",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
+      "date": "2026-10-21",
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+      "summary": "Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "MSCI’s Downgrade Warning Whipsaws Indonesian Markets. What’s Next?: Live Q&A",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/sessions/2026-10-22/live-q-amp-a-msci-s-double-downgrade-warning-whipsaws-indonesian-markets-what-s-next",
+      "date": "2026-10-22",
+      "author": "Katrina Nicholas, Prima Wirayani, Marcus Wong and Claire Jiao",
+      "summary": "Bloomberg reporters answer your questions about the challenges Southeast Asia's biggest economy faces on Oct. 23 at 11 a.m. HKT",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Brazil’s weird economy needs serious reform",
+      "source": "The Economist",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
+      "date": "2026-10-22",
+      "author": null,
+      "summary": "Neither Lula nor Flávio Bolsonaro have the stomach for it",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "AI compute is the new oil—and needs a new market",
+      "source": "The Economist",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "date": "2026-10-22",
+      "author": null,
+      "summary": "Financial firms race to create instruments to trade processing power",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "French Bond Stress Deepens as Crisis-Era Caution Creeps Back",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/french-bond-stress-deepens-as-crisis-era-caution-creeps-back",
+      "date": "2026-10-22",
+      "author": "Alice Atkins and Alice Gledhill",
+      "summary": "French bond stress intensified as a broad risk-off move swept global markets, with investors seeking safety in German bunds and US Treasuries.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+      "date": "2026-10-22",
+      "author": null,
+      "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent today at 8am (PDT)/4pm (BST)",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Apple’s Cash Flow Machine Makes It Investors’ Favorite AI Hedge",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/apple-s-cash-flow-machine-makes-it-investors-favorite-ai-hedge",
+      "date": "2026-10-22",
+      "author": "Ryan Vlastelica",
+      "summary": "It’s become one of the most reliable trades in the stock market as sentiment toward artificial intelligence swings wildly: Whatever AI stocks do, Apple Inc. does the opposite.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Indonesia Eyes $1.5 Billion Panda Bond as It Confronts MSCI Risk",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/indonesia-eyes-1-5-billion-panda-bond-as-it-confronts-msci-risk",
+      "date": "2026-10-22",
+      "author": "Bloomberg News",
+      "summary": "Indonesia is seeking to raise 10 billion yuan ($1.5 billion) through a panda bond sale, returning to China’s onshore debt market as Southeast Asia’s largest economy confronts MSCI Inc.’s double downgrade threat.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
+      "date": "2026-10-21",
+      "author": "TechnoMile",
+      "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on SpaceNews .",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/carrier-plans-600-million-texas-plant-to-make-cooling-gear-for-ai-data-centers-01c1a1dc?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-22",
+      "author": "Bob Tita",
+      "summary": "The plant, Carrier’s biggest-ever investment, comes amid a surge in sales to data-center customers.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "New research tries to defuse the “China shock”",
+      "source": "The Economist",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+      "date": "2026-10-22",
+      "author": null,
+      "summary": "An almighty fight over an influential finding",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "With blood test looming, government puts $41 million into clinical trials to ward off Alzheimer’s disease",
+      "source": "Science (AAAS)",
+      "url": "https://www.science.org/content/article/blood-test-looming-government-puts-41-million-clinical-trials-ward-alzheimer-s-disease",
+      "date": "2026-10-21",
+      "author": "Sara Reardon",
+      "summary": "Funding from Advanced Research Projects Agency for Health will expand testing of supplements and approved drugs to prevent dementia in people at risk",
+      "also": []
     },
     {
       "topic": "environment",
-      "importance": 2,
-      "title": "Deep-Sea Species Struggle to Recover After Deepwater Horizon Spill",
-      "source": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/19102026/deepwater-horizon-spill-recovery/",
-      "date": "2026-10-19",
-      "author": "By Bob Berwyn",
-      "summary": "New research indicates that deep-sea animal populations in the Gulf of Mexico have failed to recover following the 2011 Deepwater Horizon oil spill. The study reports severe, long-term declines in foundational species, suggesting lasting damage to the ecosystem's resilience.",
-      "also": [
-        {
-          "source": "Science (AAAS)",
-          "author": "Erik Stokstad",
-          "date": "2026-10-19",
-          "title": "The 2010 Deepwater Horizon oil spill devastated deep-sea life—and it hasn’t recovered",
-          "url": "https://www.science.org/content/article/2010-deepwater-horizon-oil-spill-devastated-deep-sea-life-and-it-hasn-t-recovered",
-          "note": "Science (AAAS) frames the story by emphasizing the devastation of deep-sea life and the lack of recovery over the long term."
-        }
-      ],
-      "brief": {
-        "what": "A study published in the Proceedings of the National Academy of Sciences reveals that deep-sea marine life in the Gulf of Mexico declined by 60 to 85 percent following the Deepwater Horizon disaster. Researchers found little evidence of recovery, noting that the spill caused genetic bottlenecks and disrupted the food web.",
-        "who": "Lead author Tracey Sutton of Nova Southeastern University and his team conducted the research, which was reviewed by independent experts like Bruce Robison and Jeffrey Drazen.",
-        "context": "The 2010 explosion of a Transoceanic drilling rig operated by BP resulted in the largest accidental marine oil spill in history, releasing millions of barrels of oil and fossil gas into the deep ocean.",
-        "why": "Researchers concluded the spill is the most parsimonious explanation for the collapse after ruling out other environmental factors like temperature and oxygen levels. The findings suggest the ecosystem lacks the resilience to recover from such industrial disasters.",
-        "next": "Restoration efforts involving federal, state, and tribal trustees are ongoing, while researchers warn that future industrial activities like deep-sea mining could further threaten the damaged ecosystem."
-      },
-      "numbers": [
-        {
-          "figure": "60 to 85 percent",
-          "what": "decline in animal populations after the spill"
-        },
-        {
-          "figure": "$20.8 billion",
-          "what": "total settlement amount agreed to by BP"
-        },
-        {
-          "figure": "$8.8 billion",
-          "what": "funds allocated for environmental restoration"
-        },
-        {
-          "figure": "4.9 million barrels",
-          "what": "total volume of oil released during the spill"
-        },
-        {
-          "figure": "80 percent",
-          "what": "decline in deep-diving toothed whales"
-        }
-      ]
-    },
-    {
-      "topic": "business",
       "importance": 1,
-      "title": "Five Takeaways From SpaceX’s Earnings Call",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/five-takeaways-from-spacexs-earnings-call-b91bcaf2?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-20",
-      "author": "Heather Gillers",
-      "summary": "SpaceX CEO Elon Musk discussed potential future growth, including a possible merger with Tesla and a new launchpad in Louisiana. The company also outlined ambitious long-term revenue projections.",
-      "also": [],
-      "brief": {
-        "what": "During an earnings call, SpaceX CEO Elon Musk highlighted a potential merger between SpaceX and Tesla, alongside plans for a new launchpad in Louisiana. The company also shared a long-term financial outlook, projecting annual revenue to reach $500 billion.",
-        "who": "Elon Musk, the CEO of SpaceX, is the primary actor driving these strategic discussions and financial projections.",
-        "context": "The company is evaluating its operational footprint and corporate structure as it scales its aerospace activities.",
-        "why": "The details emerged during a company earnings call where leadership outlined future growth strategies and infrastructure expansion.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$500 billion",
-          "what": "projected annual revenue for SpaceX"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "SpaceX Swings to a Profit, as A.I. Business Grows",
+      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-      "date": "2026-10-20",
-      "author": "Ryan Mac and Kate Conger",
-      "summary": "SpaceX has achieved profitability while significantly increasing its investment in artificial intelligence. The company's financial growth was driven by a substantial rise in revenue from its Starlink satellite internet service and A.I. offerings.",
-      "also": [],
-      "brief": {
-        "what": "SpaceX reported a shift to profitability, supported by revenue that more than doubled within its Starlink internet satellite service and A.I. product segments.",
-        "who": "Elon Musk’s rocket company, SpaceX.",
-        "context": "The company is balancing high capital expenditure in artificial intelligence with the rapid commercial expansion of its satellite-based internet infrastructure.",
-        "why": "The company stated that revenue growth from Starlink and A.I. products offset the impact of soaring spending on artificial intelligence initiatives.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Boeing’s Large 737 Max Jet Secures U.S. Approval",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html",
-      "date": "2026-10-20",
-      "author": "Niraj Chokshi",
-      "summary": "The Federal Aviation Administration has officially certified the Boeing 737 Max 10, marking a significant milestone for the manufacturer's largest narrow-body aircraft. This approval follows an extended period of regulatory delays for the jet program.",
-      "also": [],
-      "brief": {
-        "what": "The Federal Aviation Administration has granted certification to the Boeing 737 Max 10, the largest variant of the company's best-selling aircraft line. This regulatory clearance follows years of development and testing delays.",
-        "who": "Boeing, the aircraft manufacturer, and the Federal Aviation Administration, the U.S. regulatory body responsible for aviation safety certification.",
-        "context": "The 737 Max 10 is the largest version of Boeing's most popular commercial jet family. The program had faced significant scrutiny and extended delays prior to receiving this final approval.",
-        "why": "The certification was granted after the aircraft completed the necessary regulatory review process overseen by the Federal Aviation Administration.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Boeing’s Last 737 MAX Jet Gets Approval to Carry Passengers",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/boeings-last-737-max-jet-gets-approval-to-carry-passengers-73762731?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-20",
-      "author": "Andrew Tangel",
-      "summary": "The FAA has granted certification to the Boeing 737 MAX 10, allowing the final variant of the MAX family to carry passengers.",
-      "also": [],
-      "brief": {
-        "what": "The Federal Aviation Administration has officially certified the Boeing 737 MAX 10 for passenger service. This approval follows a period of delay caused by a flight-software glitch.",
-        "who": "The Federal Aviation Administration (FAA) acted as the regulator, while Boeing is the manufacturer of the 737 MAX 10 aircraft.",
-        "context": "The MAX 10 is the largest version of Boeing's 737 MAX family. Its certification process faced scrutiny and delays due to technical issues, specifically involving flight-software performance.",
-        "why": "The certification process was briefly held up due to a flight-software glitch that required resolution before the FAA could grant final approval.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Carrefour Shares Slump After Group Trims Guidance, Citing French Riots",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/carrefour-shares-slump-after-group-trims-guidance-citing-french-riots-6f5c146d?mod=pls_whats_news_us_business_f",
+      "url": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
       "date": "2026-10-21",
-      "author": "Aimee Look",
-      "summary": "Carrefour shares dropped over 13% following a reduction in the company's annual profitability targets. The grocer cited ongoing protests in France as the primary factor expected to negatively impact sales.",
-      "also": [],
-      "brief": {
-        "what": "Carrefour shares fell more than 13% after the company lowered its profitability guidance for the year. The retailer expects recent protests in France to dampen sales performance.",
-        "who": "Carrefour, a major grocery retailer.",
-        "context": "The company is adjusting its financial outlook due to external social unrest affecting its primary market in France.",
-        "why": "Carrefour cut its targets because it anticipates that protests in France will cast a pall over sales, according to the company's updated guidance.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "13%",
-          "what": "decline in Carrefour stock price"
-        }
-      ]
+      "author": "Ana Ionova",
+      "summary": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
+      "also": []
     },
     {
-      "topic": "markets",
+      "topic": "science",
       "importance": 1,
-      "title": "Turkey Shuts Down Three Brokerage Firms With Ties to Fund Crisis",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-21/turkey-shuts-down-three-brokerage-firms-with-ties-to-fund-crisis",
+      "title": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03376-6",
       "date": "2026-10-21",
-      "author": "Taylan Bilgic and Tugce Ozsoy",
-      "summary": "Turkey's market regulator has closed three brokerage firms linked to a fund crisis, leading to the liquidation of their managed funds.",
-      "also": [],
-      "brief": {
-        "what": "Turkey’s market regulator has officially shut down three brokerage firms that were associated with a fund crisis. These firms managed funds that are now slated for liquidation, a move that has created significant uncertainty for hundreds of employees.",
-        "who": "The Turkish market regulator is the primary actor responsible for the enforcement action against the three unnamed brokerage firms.",
-        "context": "The industry is currently experiencing turmoil, and these closures are a direct consequence of the ongoing fund crisis affecting these specific entities.",
-        "why": "The regulator intervened to shut down the firms because they operated funds that are now being liquidated as part of the broader financial instability.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Indonesia Holds Rates in ‘Policy Mix’ to Support FX and Growth",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-21/bank-indonesia-holds-rate-as-msci-shock-threatens-rupiah",
-      "date": "2026-10-21",
-      "author": "Grace Sihombing",
-      "summary": "Bank Indonesia maintained its benchmark interest rate while adjusting reserve requirements and deposit rates to stabilize the economy. These measures aim to address market volatility following a potential downgrade threat from MSCI Inc.",
-      "also": [],
-      "brief": {
-        "what": "Bank Indonesia held its benchmark interest rate steady while simultaneously cutting reserve requirements and increasing deposit rates. This policy mix is intended to manage competing economic objectives following market instability.",
-        "who": "Bank Indonesia is the central bank responsible for these monetary adjustments, while MSCI Inc. is identified as the source of the downgrade threat that triggered recent market volatility.",
-        "context": "The central bank is navigating a complex economic environment where it must balance currency support with the need for continued growth. This follows a period of market uncertainty linked to a potential downgrade by MSCI Inc.",
-        "why": "The bank implemented this specific policy mix to pursue competing objectives and address the market volatility caused by the threat of a downgrade from MSCI Inc.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Nscale boss seeks to reassure staff amid AI market fears",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc?syn-25a6b1a6=1",
-      "date": "2026-10-21",
-      "author": null,
-      "summary": "Nscale founder Josh Payne has moved to reassure employees regarding the company's stability amid broader concerns about the artificial intelligence market. He maintains that demand for the Nvidia-backed data centre group's services remains insatiable.",
-      "also": [],
-      "brief": {
-        "what": "Nscale founder Josh Payne addressed staff concerns regarding the current state of the artificial intelligence market. He emphasized that the company continues to see insatiable demand for its data centre services.",
-        "who": "Josh Payne, the founder of Nscale, and the company's staff.",
-        "context": "Nscale is a data centre group that has received backing from Nvidia, a major player in the semiconductor and AI infrastructure space.",
-        "why": "Payne spoke to staff to provide reassurance following market fears surrounding the artificial intelligence sector.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "UK’s top banking regulator to set targets with five-year strategy",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f06bdefd-bbc6-4a33-9884-09daa15752a9?syn-25a6b1a6=1",
-      "date": "2026-10-21",
-      "author": null,
-      "summary": "The Bank of England’s Prudential Regulation Authority is launching a five-year strategy to improve its accountability and transparency. Katharine Braddick will lead the initiative to establish new performance targets for the regulator.",
-      "also": [],
-      "brief": {
-        "what": "The Prudential Regulation Authority (PRA), the UK's top banking regulator, is implementing a new five-year strategy. This initiative aims to enhance the organization's transparency and accountability through the establishment of specific performance targets.",
-        "who": "Katharine Braddick is the official responsible for outlining the new strategic plans for the PRA.",
-        "context": "The PRA operates under the Bank of England and is tasked with the prudential supervision of banks, building societies, credit unions, insurers, and major investment firms.",
-        "why": "The regulator is seeking to improve its operational framework to ensure it remains accountable and transparent in its oversight duties.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Crypto exchanges race to offer prediction markets to US customers",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a7e3153d-ac45-4756-9961-75b892f337da?syn-25a6b1a6=1",
-      "date": "2026-10-21",
-      "author": null,
-      "summary": "Digital asset groups are exploring prediction markets as a new revenue stream to counter the ongoing decline in token prices. These exchanges are actively working to offer these services to customers in the United States.",
-      "also": [],
-      "brief": {
-        "what": "Digital asset groups are attempting to diversify their business models by introducing prediction markets to US customers. This strategic shift comes as firms look for alternative ways to generate revenue during a period of sustained weakness in token valuations.",
-        "who": "Digital asset groups are the primary actors seeking to expand their service offerings.",
-        "context": "The broader cryptocurrency sector is currently navigating a prolonged downturn characterized by falling token prices, which has pressured traditional revenue models for exchanges.",
-        "why": "The article states that these groups are seeking new ways of making money in the face of a prolonged downturn in token prices.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "French Bond Risk Gauge Nears 160 Basis Points, Hits 15-Year High",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-21/french-bond-risk-gauge-nears-160-basis-points-hits-15-year-high",
-      "date": "2026-10-21",
-      "author": "Alice Atkins",
-      "summary": "The risk premium on French government bonds has climbed to a 15-year high as investors react to concerns regarding the nation's fiscal outlook.",
-      "also": [],
-      "brief": {
-        "what": "Investors are demanding a higher premium to hold French government bonds, pushing the risk gauge near 160 basis points. This level represents a 15-year high for the country's debt market.",
-        "who": "Investors in the French government bond market.",
-        "context": "Government bond risk gauges measure the additional yield investors require to hold sovereign debt compared to safer benchmarks, reflecting perceived credit risk.",
-        "why": "The increase in bond yields is driven by growing concerns regarding France's fiscal outlook.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "160 basis points",
-          "what": "the risk gauge for French government bonds"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Michelin Shares Drop on Weaker Volumes",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/michelin-shares-drop-on-weaker-volumes-122be028?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-21",
-      "author": "Dominic Chopping",
-      "summary": "Michelin shares declined following a report of weaker sales volumes, driven primarily by a downturn in direct supply to automotive manufacturers. Despite this, the company's replacement tire segment demonstrated greater resilience.",
-      "also": [],
-      "brief": {
-        "what": "Michelin shares dropped as the company experienced a decline in total sales volumes. This weakness was specifically attributed to lower demand for tires sold directly to automakers, though the replacement tire market remained more stable.",
-        "who": "Michelin is the tire manufacturer experiencing the stock decline.",
-        "context": "The automotive supply chain is currently navigating fluctuating demand, with direct original equipment manufacturing sales often serving as a key indicator of broader industry health.",
-        "why": "The decline in volumes was weighed down by lower sales of tires directly to automakers, according to the report.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
-      "source": "The Economist",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
-      "date": "2026-10-19",
-      "author": null,
-      "summary": "The Japanese government is encouraging its pension fund and households to increase their holdings of domestic government debt. This initiative aims to find buyers for $120 billion in new bonds.",
-      "also": [],
-      "brief": {
-        "what": "Japan is seeking to secure buyers for $120 billion in new government bonds. The government is specifically targeting its national pension fund and private households to absorb this debt.",
-        "who": "The Japanese government is the primary actor, with the national pension fund and households identified as the intended purchasers of the debt.",
-        "context": "The government is managing its fiscal requirements by looking for domestic sources to finance its debt obligations.",
-        "why": "The initiative is driven by the government's desire to ensure there is sufficient demand for its newly issued government debt.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$120bn",
-          "what": "value of fresh Japanese government bonds"
-        }
-      ]
+      "author": "Benjamin Thompson",
+      "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03376-6 Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.",
+      "also": []
     },
     {
       "topic": "environment",
@@ -881,121 +585,19 @@
       "url": "https://www.nature.com/articles/d41586-026-03355-x",
       "date": "2026-10-21",
       "author": "James Dinneen",
-      "summary": "A new UN report indicates that while global greenhouse-gas emissions have plateaued, the world is still on track to exceed 2 °C of warming by mid-century. Rapid expansion in renewable energy provides some optimism, though current policies remain insufficient to meet Paris Agreement targets.",
-      "also": [],
-      "brief": {
-        "what": "Global greenhouse-gas emissions remained flat between 2024 and 2025, yet the UN Environment Programme warns that current trajectories lead to 2.6 °C to 2.8 °C of warming this century. Despite a 5–8% projected emissions drop by 2030, the world is set to surpass the 1.5 °C limit.",
-        "who": "The UN Environment Programme (UNEP) authored the report, with outgoing UN secretary-general António Guterres calling for urgent government action to transition away from fossil fuels.",
-        "context": "The 2015 Paris Agreement established a 2 °C upper limit for global warming to avoid catastrophic climate consequences. Current policies are failing to align with these international targets.",
-        "why": "Guterres attributes the shortfall to a 'leadership gap,' noting that while renewable energy capacity has grown faster than expected, governments must accelerate decarbonization and fossil fuel phase-outs to close the emissions gap.",
-        "next": "Governments will convene at the COP31 climate summit in Antalya, Turkey, in November to evaluate mitigation and adaptation efforts."
-      },
-      "numbers": [
-        {
-          "figure": "2 °C",
-          "what": "projected warming threshold to be exceeded"
-        },
-        {
-          "figure": "2.6 °C to 2.8 °C",
-          "what": "estimated warming under current policies"
-        },
-        {
-          "figure": "10%",
-          "what": "probability of warming exceeding 3.4 °C"
-        },
-        {
-          "figure": "5–8%",
-          "what": "projected emissions drop by 2030"
-        }
-      ]
+      "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03355-x The United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely out of reach.",
+      "also": []
     },
     {
-      "topic": "markets",
+      "topic": "culture",
       "importance": 1,
-      "title": "FTSE 100 Live: Stocks slide; oil tips over $110 on lack of US-Iran progress",
+      "title": "Black Knight’s Foley: We will do an AFC Bournemouth at Exeter Chiefs",
       "source": "City AM",
-      "url": "https://www.cityam.com/ftse-100-live-stocks-to-jump-oil-tips-over-110-on-lack-of-us-iran-progress/",
-      "date": "2026-10-21",
-      "author": "Samuel Norman",
-      "summary": "The FTSE 100 index is extending its weekly losses as Brent crude oil prices climb back above $110 per barrel. This market movement follows reports dismissing the likelihood of an imminent deal between the US and Iran.",
-      "also": [],
-      "brief": {
-        "what": "The FTSE 100 index is experiencing a decline as Brent crude prices surged past $110 per barrel. This follows a period of volatility where prices had previously fallen due to reports of diplomatic discussions between Pakistan, Iran, and the US.",
-        "who": "Investors on the London Stock Exchange, the US and Iranian governments, and Pakistan’s army chief, Field Marshal Asim Munir.",
-        "context": "The market is reacting to the ongoing uncertainty surrounding diplomatic efforts to resolve the conflict between the US and Iran, which directly impacts global oil benchmarks.",
-        "why": "Oil prices resumed their upward trend after a diplomat involved in the discussions dismissed reports that a deal between the US and Iran was imminent, despite ongoing efforts to end the conflict.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$110",
-          "what": "price per barrel of Brent crude oil"
-        },
-        {
-          "figure": "10 per cent",
-          "what": "increase in oil prices this month"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "World headed for warming of 2.8C as fossil fuel emissions keep rising, UN warns",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/76bf9a5f-a1f9-4b59-9473-35fe18a7a008?syn-25a6b1a6=1",
-      "date": "2026-10-21",
-      "author": null,
-      "summary": "Global energy-related greenhouse gas emissions have reached record levels, putting the world on track for a 2.8C temperature increase.",
-      "also": [],
-      "brief": {
-        "what": "Global energy-related greenhouse gas emissions have hit record levels, according to a UN warning. This trajectory indicates that the world is currently headed for a warming of 2.8C.",
-        "who": "The United Nations is the primary entity issuing the warning regarding global emissions.",
-        "context": "The report highlights the ongoing challenge of rising fossil fuel emissions despite international efforts to curb climate change.",
-        "why": "The UN warns that fossil fuel emissions continue to rise, preventing a decrease in global energy-related greenhouse gases.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "2.8C",
-          "what": "projected global temperature increase"
-        }
-      ]
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial",
-      "date": "2026-10-20",
-      "author": "Kai Kupferschmidt",
-      "summary": "The Democratic Republic of the Congo is launching a high-stakes vaccine trial to combat an ongoing Ebola epidemic. The study will initially utilize a mismatched vaccine, with plans to introduce strain-specific shots in the coming month.",
-      "also": [],
-      "brief": {
-        "what": "The Democratic Republic of the Congo is initiating a clinical trial to address an Ebola epidemic by testing a vaccine that does not perfectly match the circulating strain. Officials plan to incorporate Bundibugyo-specific vaccines into the study as early as next month.",
-        "who": "The Democratic Republic of the Congo is the primary actor overseeing the vaccine trial.",
-        "context": "The region is currently facing an Ebola epidemic, necessitating urgent medical intervention despite the initial use of a mismatched vaccine.",
-        "why": "The trial is being conducted as a high-stakes effort to curb the spread of the Ebola virus during the current outbreak.",
-        "next": "Bundibugyo-specific shots may be added to the trial as early as next month."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Could your chatbot tip off a scientific rival? It’s possible, researchers say",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say",
-      "date": "2026-10-20",
-      "author": "Tom Howarth",
-      "summary": "Researchers warn that chatbots could potentially leak sensitive information to scientific rivals. Experts are now providing guidance on how to maintain research privacy when using these tools.",
-      "also": [],
-      "brief": {
-        "what": "Experts have identified a risk where chatbots might inadvertently disclose sensitive research data to competitors. Consequently, researchers are being advised on best practices to protect their proprietary work.",
-        "who": "Researchers and experts in the field are the primary actors evaluating the security implications of using AI chatbots in scientific workflows.",
-        "context": "As AI tools become more integrated into academic and professional research, concerns regarding data security and the potential for intellectual property leakage have grown.",
-        "why": "The risk exists because chatbots may process and potentially retain input data, which could then be accessed or inferred by other users, including scientific rivals.",
-        "next": "The article doesn't say."
-      }
+      "url": "https://www.cityam.com/black-knights-foley-we-will-do-an-afc-bournemouth-at-exeter-chiefs/",
+      "date": "2026-10-22",
+      "author": "Matt Hardy",
+      "summary": "AFC Bournemouth owner Bill Foley has said he will replicate the Premier League club’s playbook at newly acquired Prem Rugby team Exeter Chiefs. Foley’s Black Knight consortium – which features Oscar winner Michael B Jordan – purchased Exeter Chiefs over the summer amid a flurry of inward investment into the English…",
+      "also": []
     }
   ]
 }
