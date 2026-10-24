@@ -1,128 +1,165 @@
 {
-  "generated": "2026-10-23",
-  "window": "2026-10-16 to 2026-10-23",
+  "generated": "2026-10-24",
+  "window": "2026-10-17 to 2026-10-24",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-10-23",
-    "label": "Fri 23 Oct · change on the day",
+    "asof": "2026-10-24",
+    "label": "Sat 24 Oct · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,663.43",
-        "change": "-1.21%"
+        "value": "7,623.68",
+        "change": "-0.52%"
       },
       {
         "name": "Dow",
-        "value": "52,867.98",
-        "change": "+0.02%"
+        "value": "52,215.16",
+        "change": "-1.23%"
       },
       {
         "name": "Nasdaq",
-        "value": "26,008.859",
-        "change": "-2.60%"
+        "value": "25,955.342",
+        "change": "-0.21%"
       },
       {
         "name": "CAC 40",
-        "value": "7,758.57",
-        "change": "-0.67%"
+        "value": "7,782.82",
+        "change": "-0.36%"
       },
       {
         "name": "DAX",
-        "value": "25,184.74",
-        "change": "-0.74%"
+        "value": "25,181.65",
+        "change": "-0.75%"
       },
       {
         "name": "Brent oil",
-        "value": "$114.52",
-        "change": "+1.19%"
+        "value": "$116.72",
+        "change": "+3.14%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.97%",
-        "change": "+0.02 pt"
+        "value": "4.999%",
+        "change": "+0.05 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1199",
-        "change": "-0.1338%"
+        "value": "1.1202",
+        "change": "UNCH"
       }
     ]
   },
   "week": [
     {
-      "text": "Elon Musk is expanding his influence through a potential Tesla-SpaceX merger and a $1 billion investment in Skydance. Meanwhile, Meta has secured a stock deal for Mark Zuckerberg to mitigate potential California billionaire taxes.",
+      "text": "Meta and Bombardier have announced significant financial moves in the US, with Meta securing a tax-offset deal for its CEO and Bombardier committing $270 million to expand its infrastructure.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment"
+        "https://www.aerotime.aero/articles/president-trump-announces-that-bombardier-plans-270-million-us-investment"
       ]
     },
     {
-      "text": "The aviation industry faces mixed developments as the FAA certifies the Boeing 737 MAX 10 and Rolls-Royce nears a UK subsidy for its UltraFan engine. Conversely, global conflicts are increasingly disrupting flight paths and operations.",
+      "text": "Global geopolitical tensions are forcing airlines to alter flight paths to avoid war zones, while industry experts warn that high ticket prices are likely to persist regardless of fuel costs.",
       "urls": [
-        "https://www.aerotime.aero/articles/rolls-royce-uk-subsidy-deal-narrowbody-engine-ultrafan",
-        "https://www.aerotime.aero/articles/boeing-737-max-10-faa-certification",
-        "https://www.wsj.com/business/airlines/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-3352cac3?mod=pls_whats_news_us_business_f"
+        "https://www.wsj.com/business/airlines/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-3352cac3?mod=pls_whats_news_us_business_f",
+        "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html"
       ]
     },
     {
-      "text": "Financial markets are experiencing volatility as Volvo Cars and Kering report significant share price drops. Additionally, Indian small-cap stocks have seen their sharpest decline since March due to retail deleveraging.",
+      "text": "The Trump administration is actively intervening in domestic affairs, including a lawsuit to block Alaska election certification and the removal of Canadian tariffs to support Senator Susan Collins.",
       "urls": [
-        "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc?mod=pls_whats_news_us_business_f",
-        "https://www.ft.com/content/deb209b5-a5ed-4d24-a470-636ecc1e3668?syn-25a6b1a6=1",
-        "https://www.bloomberg.com/news/articles/2026-10-23/margin-trade-liquidation-speeds-indian-small-cap-stock-decline"
+        "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+        "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
       ]
     },
     {
-      "text": "Political and social tensions are rising, with French authorities deploying military support for protests and French borrowing costs exceeding those of the US. In the Middle East, a shooting in the West Bank has left five people wounded.",
-      "urls": [
-        "https://www.bloomberg.com/news/videos/2026-10-23/french-authorities-brace-for-weekend-protests-video",
-        "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
-        "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
-      ]
-    },
-    {
-      "text": "Climate change impacts are becoming more severe, with research linking 50,000 deaths in European cities to summer heat. Meanwhile, the UK is deploying RAF Typhoons to Saudi Arabia to bolster regional defense against Houthi attacks.",
+      "text": "European cities are grappling with the aftermath of a record-breaking summer that resulted in 50,000 heat-related deaths, while a separate incident involves a fire at the historic Eagle's Nest retreat in Bavaria.",
       "urls": [
         "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
-        "https://www.aerotime.aero/articles/uk-raf-typhoons-saudi-arabia-houthi-air-defense"
+        "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "text": "Financial markets are seeing shifts as S&P updates its growth and value stock classifications and Cboe gains significant market share in ETF listings against traditional exchanges.",
+      "urls": [
+        "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
+        "https://www.ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1"
       ]
     }
   ],
   "watch": [
     {
-      "date": "2026-10-30",
-      "when": "Next week",
-      "label": "Potential announcement regarding Rolls-Royce subsidy agreement",
-      "url": "https://www.aerotime.aero/articles/rolls-royce-uk-subsidy-deal-narrowbody-engine-ultrafan"
-    },
-    {
-      "date": "2026-11-23",
-      "when": "Next month",
-      "label": "Deadline for FIFA presidential candidates to declare intent",
-      "url": "https://www.cityam.com/fifa-boss-infantinos-re-election-bid-boosted-as-asian-chiefs-complete-spectacular-climbdown/"
-    },
-    {
-      "date": "2026-12-11",
+      "date": "2026-11-05",
       "when": "",
-      "label": "Deadline for Donald Trump to provide deposition in BBC lawsuit",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "date": "2027-03-01",
-      "when": "March",
-      "label": "FIFA presidential election",
-      "url": "https://www.cityam.com/fifa-boss-infantinos-re-election-bid-boosted-as-asian-chiefs-complete-spectacular-climbdown/"
-    },
-    {
-      "date": "2031-01-01",
-      "when": "2031",
-      "label": "Japanese spacecraft expected to return from Phobos",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss"
+      "label": "Satellite Mission Management at the Edge virtual event",
+      "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/"
     }
   ],
   "items": [
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-22",
+      "author": null,
+      "summary": "Meta has reached a deal to provide CEO Mark Zuckerberg with additional stock to offset potential costs from a proposed California billionaire tax. The agreement aims to keep Zuckerberg in the state as the company accelerates its multi-billion dollar investment in artificial intelligence.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-10-23",
+          "title": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
+          "url": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
+          "note": "Financial Times frames the story by highlighting the reaction of wealth tax campaigners."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+          "date": "2026-10-22",
+          "title": "Zuckerberg’s Big Deal to Stay in California",
+          "url": "https://www.nytimes.com/2026/10/22/business/dealbook/zuckerbergs-big-deal.html",
+          "note": "The New York Times focuses on the geographic implication of the deal regarding Zuckerberg's residency."
+        },
+        {
+          "source": "The Guardian",
+          "author": "Graeme Wearden",
+          "date": "2026-10-22",
+          "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+          "note": "The Guardian emphasizes the specific purpose of the deal as a mechanism to help Zuckerberg pay the tax bill."
+        }
+      ],
+      "brief": {
+        "what": "Meta established a 'Founder Alignment Agreement' to grant CEO Mark Zuckerberg additional stock, allowing him to liquidate holdings more easily to cover a potential 5% California wealth tax. This deal, which lasts eight years, was finalized as Meta faces a $100bn drop in market capitalization following investor concerns over high AI spending.",
+        "who": "Mark Zuckerberg, Meta's CEO, and the company's special committee negotiated the deal to ensure his continued residency in California.",
+        "context": "California is considering a one-time 5% tax on residents with a net worth exceeding $1bn. Meta is currently pivoting its strategy toward artificial intelligence, planning to spend $145bn on related projects this year despite recent negative cash flow.",
+        "why": "Meta's board stated the agreement is 'critically important' to retain Zuckerberg in California during the industry's AI transformation. Zuckerberg had threatened to move his primary residence out of state, which he claimed would raise management questions for the company.",
+        "next": "The agreement remains effective for eight years as long as Zuckerberg stays a California resident, regardless of whether the tax measure passes in November."
+      },
+      "numbers": [
+        {
+          "figure": "$200bn",
+          "what": "estimated wealth of Mark Zuckerberg"
+        },
+        {
+          "figure": "$10bn",
+          "what": "estimated additional state taxes for Zuckerberg"
+        },
+        {
+          "figure": "$145bn",
+          "what": "planned spending on AI projects this year"
+        },
+        {
+          "figure": "15%",
+          "what": "reduction in company headcount from a year ago"
+        },
+        {
+          "figure": "$100bn",
+          "what": "market capitalization lost following investor reaction"
+        }
+      ]
+    },
     {
       "topic": "business",
       "importance": 3,
@@ -131,7 +168,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-21",
       "author": null,
-      "summary": "Elon Musk is exploring a potential merger between Tesla and SpaceX to consolidate their artificial intelligence, robotics, and aerospace technologies. The proposed deal would create the largest merger in history, though it faces significant regulatory hurdles and requires shareholder approval.",
+      "summary": "Elon Musk is exploring a potential merger between Tesla and SpaceX to consolidate their artificial intelligence, robotics, and aerospace technologies. The proposed deal would create the largest merger in history, though it faces significant regulatory and shareholder hurdles.",
       "also": [
         {
           "source": "Wall Street Journal",
@@ -139,7 +176,7 @@
           "date": "2026-10-22",
           "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
           "url": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the story by emphasizing the existing operational overlap between the two companies."
+          "note": "The Wall Street Journal frames the story by highlighting the existing operational overlap between the two companies."
         },
         {
           "source": "The New York Times",
@@ -147,15 +184,15 @@
           "date": "2026-10-21",
           "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
           "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-          "note": "The New York Times frames the story by highlighting Musk's direct confirmation that the companies are actively exploring the merger."
+          "note": "The New York Times focuses on the direct confirmation from Musk regarding the exploration of the merger."
         }
       ],
       "brief": {
-        "what": "Elon Musk has initiated a formal assessment of a merger between Tesla and SpaceX, a move that would combine Tesla's automotive and robotics assets with SpaceX's satellite and aerospace infrastructure. While Musk has confirmed interest, he noted that no agreement is finalized and the deal faces a high threshold of shareholder approval.",
-        "who": "Elon Musk, the chief executive of both companies, is the primary driver of the merger, supported by special committees tasked with evaluating the deal.",
-        "context": "Musk has been consolidating his business interests, including the acquisition of xAI and X. The merger is viewed as a strategic step toward his long-term goal of colonizing Mars and centralizing his AI infrastructure.",
-        "why": "Musk believes the companies share complementary technology in AI, chips, and robotics. Analysts suggest the merger would allow Musk to exert greater voting control and streamline his AI strategy, though it complicates the valuation of Tesla as a public entity.",
-        "next": "The deal requires approval from at least half of Tesla's shareholders and faces potential scrutiny from regulators."
+        "what": "Elon Musk has confirmed that special committees are assessing a potential merger between Tesla and SpaceX. If completed, the deal would combine Tesla's automotive and robotics assets with SpaceX's satellite and aerospace infrastructure, potentially creating the largest merger ever.",
+        "who": "Elon Musk, the chief executive of both companies, is the primary driver of the proposal, while shareholders and special committees hold the power to approve or reject the deal.",
+        "context": "Musk has been consolidating his business empire, which includes xAI and X, to advance his long-term vision of colonizing Mars and developing advanced AI infrastructure. Tesla recently reported $28.05 billion in third-quarter sales amid increasing competition from rivals like BYD.",
+        "why": "Musk believes the merger would be beneficial due to the complementary nature of the firms' work in chips, AI, and technology projects. Analysts suggest the move would allow Musk to concentrate his voting control and streamline his AI strategy.",
+        "next": "The deal requires approval from at least half of Tesla's shareholders, and the special committees must continue their assessment of the potential combination."
       },
       "numbers": [
         {
@@ -195,269 +232,256 @@
       ]
     },
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 3,
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-22",
-      "author": null,
-      "summary": "Meta has reached a deal to grant CEO Mark Zuckerberg additional stock to offset potential personal losses from a proposed California billionaire tax. The agreement aims to keep Zuckerberg in the state as the company accelerates its multi-billion dollar investment in artificial intelligence.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Laura J. Nelson",
-          "date": "2026-10-22",
-          "title": "Mark Zuckerberg Threatened to Leave California. Meta’s Board Cut Him a Deal.",
-          "url": "https://www.wsj.com/business/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-21b0b522?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the story as a threat by Zuckerberg to leave the state, whereas The Guardian focuses on the deal as a direct response to the tax bill."
-        },
-        {
-          "source": "The Guardian",
-          "author": "Graeme Wearden",
-          "date": "2026-10-22",
-          "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
-          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
-        }
-      ],
-      "brief": {
-        "what": "Meta finalized a 'Founder Alignment Agreement' to provide CEO Mark Zuckerberg with additional stock, allowing him to liquidate assets more easily to cover a potential 5% California wealth tax. Simultaneously, Meta reported a significant drop in market value following investor concerns over the company's $145bn AI spending plan.",
-        "who": "Mark Zuckerberg, Meta's CEO, and the company's board of directors are the primary actors involved in the compensation agreement.",
-        "context": "The deal follows a period of restructuring at Meta, including a 15% reduction in headcount, as the company pivots from the 'metaverse' to artificial intelligence development.",
-        "why": "Meta's board stated the agreement is 'critically important' to retain Zuckerberg in California during the industry's AI transformation, while Zuckerberg argued that moving his residence would negatively impact company management and employee morale.",
-        "next": "The agreement remains in effect for eight years, provided Zuckerberg continues to reside in California."
-      },
-      "numbers": [
-        {
-          "figure": "$200bn",
-          "what": "estimated wealth of Mark Zuckerberg"
-        },
-        {
-          "figure": "$10bn",
-          "what": "estimated additional state taxes for Zuckerberg"
-        },
-        {
-          "figure": "$145bn",
-          "what": "planned spending on AI projects this year"
-        },
-        {
-          "figure": "15%",
-          "what": "reduction in company headcount from last year"
-        },
-        {
-          "figure": "$100bn",
-          "what": "value wiped off company market capitalisation"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 3,
-      "title": "Rolls-Royce closes in on lucrative UK subsidy deal to advance narrowbody engine",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/rolls-royce-uk-subsidy-deal-narrowbody-engine-ultrafan",
+      "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-23",
-      "author": "Ian Molyneaux",
-      "summary": "Rolls-Royce is nearing a government subsidy agreement worth up to £200 million to support the development of its new UltraFan 30 narrowbody engine. This deal aims to facilitate the manufacturer's re-entry into the narrowbody market as it seeks to capitalize on projected growth in aircraft production.",
+      "author": null,
+      "summary": "The Trump administration has filed a federal lawsuit seeking to block the certification of Alaska's Senate election results if Republican Senator Dan Sullivan loses to Democrat Mary Peltola. The government argues that the presence of another candidate named Dan Sullivan on the ballot could confuse voters and distort the election's integrity.",
       "also": [
         {
-          "source": "Financial Times",
+          "source": "Al Jazeera",
           "author": null,
+          "date": "2026-10-24",
+          "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
+          "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
+          "note": "Al Jazeera frames the story as a personal conflict between the two candidates, while Reason focuses on the administration's specific justification of voter confusion."
+        },
+        {
+          "source": "Reason",
+          "author": "Ilya Somin",
           "date": "2026-10-23",
-          "title": "Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK",
-          "url": "https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11?syn-25a6b1a6=1",
-          "note": "The Financial Times headline emphasizes the taxpayer-funded nature of the subsidy, whereas AeroTime focuses on the lucrative aspect of the deal for the manufacturer."
+          "title": "Trump Sues to Block Alaska Senate Election Results Because of Potential Voter \"Confusion\"",
+          "url": "https://reason.com/volokh/2026/10/23/trump-sues-to-block-alaska-senate-election-results-because-potential-voter-confusion/"
         }
       ],
       "brief": {
-        "what": "Rolls-Royce is finalizing a deal with the UK government for a subsidy between £100 and £200 million to advance the UltraFan 30 engine. This initiative marks the company's strategic push to re-enter the narrowbody engine market, a sector it exited in 2011.",
-        "who": "Rolls-Royce is the primary manufacturer, with CEO Tufan Erginbilgic leading the negotiations alongside the UK government and Prime Minister Andy Burnham.",
-        "context": "Rolls-Royce previously focused on large engines for widebody aircraft but is now pivoting to address the narrowbody market. The company aims to align its development timeline with upcoming engine decisions from major airframers Boeing and Airbus.",
-        "why": "The manufacturer seeks to leverage the projected doubling of aircraft production over the next 25 years, which it claims will create tens of thousands of jobs and stimulate the UK economy.",
-        "next": "An official announcement regarding the subsidy agreement could be made as early as next week."
+        "what": "The US Justice Department is suing to prevent Alaska from certifying its Senate election results if the incumbent Republican, Dan Sullivan, loses by a margin smaller than the votes received by a second candidate also named Dan Sullivan. The administration contends that the ballot inclusion of the second candidate, a retired teacher, creates voter confusion that threatens the integrity of the electoral process.",
+        "who": "The main actors include US President Donald Trump, who supports the legal challenge; Republican Senator Dan Sullivan; Democratic challenger Mary Peltola; and the second candidate, Dan J Sullivan, who denies his candidacy is a political maneuver.",
+        "context": "This legal action follows previous unsuccessful attempts to remove the second Dan Sullivan from the ballot, which were rejected by the Alaska Supreme Court. Alaska utilizes a ranked-choice voting system, which allows voters to select multiple candidates.",
+        "why": "The Justice Department claims the second candidate's presence is a 'scam' intended to siphon votes from the incumbent to benefit Peltola's campaign, thereby distorting the will of Alaskan voters.",
+        "next": "The lawsuit requests that certification be delayed pending an investigation if the election outcome is close enough to suggest voter confusion occurred."
       },
       "numbers": [
         {
-          "figure": "£100 and £200 million",
-          "what": "potential total government assistance for engine development"
-        },
-        {
-          "figure": "$133 and $267 million",
-          "what": "potential total government assistance in US dollars"
+          "figure": "14 percentage points",
+          "what": "margin by which Trump won Alaska in 2024"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-23",
-      "author": null,
-      "summary": "A US judge has ordered President Donald Trump to provide a deposition in his defamation lawsuit against the BBC by December 11. Failure to comply with this court-ordered deadline could result in sanctions, including the potential dismissal of the case.",
+      "title": "Netanyahu’s threat to invade West Bank would test America’s dwindling patience for Israeli conflict",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/world/4777617/benjamin-netanyahu-threat-invade-west-bank-test-us-patience-israeli-conflict/",
+      "date": "2026-10-24",
+      "author": "Timothy Nerozzi",
+      "summary": "Prime Minister Benjamin Netanyahu is threatening a large-scale invasion of the West Bank following the deaths of two Israeli soldiers. This potential escalation risks further straining the diplomatic relationship between Israel and the United States.",
       "also": [
         {
-          "source": "Wall Street Journal",
-          "author": "Corinne Ramey",
-          "date": "2026-10-22",
-          "title": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
-          "url": "https://www.wsj.com/politics/trump-must-sit-for-deposition-in-bbc-lawsuit-judge-orders-3ea44939?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal headline focuses on the judge's mandate for the president to sit for the interview."
-        },
+          "source": "The New York Times",
+          "author": "Adam Rasgon",
+          "date": "2026-10-24",
+          "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+          "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+          "note": "The New York Times frames the story by focusing on the specific event of Palestinian gunmen opening fire rather than the broader geopolitical implications of a potential invasion."
+        }
+      ],
+      "kind": "analysis",
+      "brief": {
+        "what": "Following the death of two Israeli soldiers, Prime Minister Benjamin Netanyahu has announced plans for a counterterrorism campaign in the West Bank involving the seizure of Palestinian properties. He stated this operation would be conducted \"exactly like in Gaza.\"",
+        "who": "Prime Minister Benjamin Netanyahu is the primary actor initiating the potential invasion, while President Donald Trump and his administration are identified as the key U.S. stakeholders whose patience is being tested.",
+        "context": "The region is already experiencing significant instability due to the long-standing conflict in Gaza and ongoing Israeli hostility, which has caused fatigue within the current U.S. administration.",
+        "why": "The article states the threat of invasion is a direct response to the murder of two Israeli soldiers, which Netanyahu is using as a jumping-off point for a broader military campaign.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "date": "2026-10-23",
+      "author": "Gaya Gupta in New York",
+      "summary": "The White House has removed tariffs on specific Canadian agricultural and industrial goods to support Senator Susan Collins' re-election campaign in Maine. The move aims to mitigate economic friction in a state heavily reliant on cross-border trade.",
+      "also": [
         {
-          "source": "The Guardian",
-          "author": "Jeremy Barr in Miami",
-          "date": "2026-10-22",
-          "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-          "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
-          "note": "The Guardian headline highlights the specific monetary value of the lawsuit."
+          "source": "The New York Times",
+          "author": "Alan Rappeport and Ana Swanson",
+          "date": "2026-10-23",
+          "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+          "url": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+          "note": "The New York Times frames the story as a strategic maneuver specifically timed ahead of a competitive election race."
         }
       ],
       "brief": {
-        "what": "US Magistrate Judge Enjoliqué Lett ordered Donald Trump to complete a deposition by December 11 regarding his $10 billion defamation lawsuit against the BBC. The order follows Trump's cancellation of a previous session, which the BBC's legal counsel argued was skipped in favor of campaign activities in Georgia.",
-        "who": "Donald Trump, the US president and plaintiff; the BBC, the defendant; and US Magistrate Judge Enjoliqué Lett, who is presiding over the case.",
-        "context": "The lawsuit centers on a 2021 Panorama episode that Trump alleges was deceptively edited to imply he called for violence at the US Capitol. The case is currently in the discovery phase, where parties exchange evidence and conduct depositions.",
-        "why": "The judge issued the order after Trump failed to attend a scheduled deposition, with the BBC arguing he prioritized campaign events. Trump's legal team maintains he is not avoiding the process and proposed alternative dates in January.",
-        "next": "Trump must sit for the deposition by December 11 or face potential sanctions, including the possible dismissal of his lawsuit."
+        "what": "The Trump administration lifted tariffs on nine agricultural products and specific processing equipment imported from Canada. This policy adjustment follows significant economic pressure on Maine industries that depend on Canadian supply chains.",
+        "who": "Senator Susan Collins, who advocated for the relief, and President Donald Trump, whose administration implemented the tariff adjustments.",
+        "context": "Maine is a key battleground state with a history of strong trade ties to Canada. The state's industries, including logging and fishing, have faced economic challenges due to the ongoing trade dispute between the two nations.",
+        "why": "The White House stated the move was to 'better serve the public interest' and refine trade measures. Critics, including Senator Ron Wyden, characterized the decision as a political maneuver to bolster Collins' re-election prospects.",
+        "next": "Senator Collins intends to continue working with administration officials to seek additional tariff relief and pursue a broader trade agreement with Canada."
       },
       "numbers": [
         {
-          "figure": "$10 billion",
-          "what": "value of the lawsuit against the BBC"
+          "figure": "10%",
+          "what": "decline in Canadian auto exports to the US"
+        },
+        {
+          "figure": "20%",
+          "what": "decline in US exports to Canada"
+        },
+        {
+          "figure": "50%",
+          "what": "tariff rate placed on certain Canadian goods"
+        },
+        {
+          "figure": "$20bn",
+          "what": "value of American goods subject to Canadian retaliatory tariffs"
         }
       ]
     },
     {
       "topic": "markets",
       "importance": 2,
-      "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc?mod=pls_whats_news_us_business_f",
+      "title": "Volvo Shares Plunge as China Ambitions Fade for Western Carmakers",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html",
       "date": "2026-10-23",
-      "author": "Joshua Kirby",
-      "summary": "Kering shares experienced a significant decline as the company's recovery efforts stalled, driven by a notable sales slump at its flagship Gucci brand.",
+      "author": "James Paton",
+      "summary": "Volvo Cars shares fell sharply as the company announced plans to cut 2,500 jobs amid a cooling outlook for the Chinese automotive market.",
       "also": [
         {
-          "source": "Financial Times",
-          "author": null,
+          "source": "Wall Street Journal",
+          "author": "Dominic Chopping",
           "date": "2026-10-23",
-          "title": "Kering shares slide 10% after drop in sales at flagship brand Gucci",
-          "url": "https://www.ft.com/content/b0e5199d-a229-4e56-b47c-b56b6fb219a0?syn-25a6b1a6=1",
-          "note": "The Financial Times headline specifically highlights the 10% share price slide, whereas the Wall Street Journal focuses on the broader theme of a receding recovery."
+          "title": "Volvo Car Shares Plunge as Automaker Slashes More Jobs",
+          "url": "https://www.wsj.com/business/autos/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal focuses specifically on the job cuts as the primary driver for the share price decline."
         }
       ],
       "brief": {
-        "what": "Kering shares plunged following a 6% decline in sales at its flagship Gucci brand, which accounts for nearly half of the group's total revenue.",
-        "who": "Kering, a French luxury-fashion house, and its primary brand, Gucci.",
-        "context": "The company has been attempting to navigate a recovery period, but recent performance metrics indicate that the anticipated turnaround for the group is receding.",
-        "why": "The decline in overall group performance is directly linked to the sales drop at Gucci, which serves as the primary revenue driver for the organization.",
+        "what": "Volvo Cars announced a reduction of 2,500 jobs, reflecting a broader downturn in sentiment regarding the Chinese automotive sector.",
+        "who": "Volvo Cars is the Swedish automaker implementing these workforce reductions.",
+        "context": "The company is facing significant headwinds in China, which currently stands as the world's largest car market.",
+        "why": "The job cuts follow a gloomy outlook for the Chinese market, a trend that Volvo shares with other Western competitors.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "6%",
-          "what": "drop in sales at Gucci brand"
+          "figure": "2,500 jobs",
+          "what": "number of positions to be cut"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
-      "date": "2026-10-22",
-      "author": "Maya Yang",
-      "summary": "Elon Musk has reportedly invested $1 billion into David Ellison’s newly formed media empire, Skydance. The investment follows a massive $111 billion merger between Paramount and Warner Bros Discovery.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Ariel Zilber",
-          "date": "2026-10-22",
-          "title": "Elon Musk invests $1B in David Ellison’s Skydance as media giant grapples with massive debt: report",
-          "url": "https://nypost.com/2026/10/22/business/elon-musk-invests-1b-in-david-ellisons-skydance-as-media-giant-grapples-with-massive-debt-report/",
-          "note": "The New York Post headline emphasizes the company's massive debt as a primary driver for the investment."
-        }
-      ],
-      "brief": {
-        "what": "Elon Musk has reportedly invested $1 billion in Skydance, the media entity formed by the $111 billion merger of Paramount and Warner Bros Discovery. The company is currently targeting $6 billion in cost savings, which officials estimate could result in 4,500 job losses in Los Angeles.",
-        "who": "Elon Musk, the investor; David Ellison, the CEO of Skydance; and Ynon Kreiz, the co-CEO of Skydance.",
-        "context": "The investment follows a major consolidation of media assets, including HBO Max, CBS News, and CNN, under the Skydance banner. The merger previously faced legal challenges from a coalition of 12 states concerned about reduced competition.",
-        "why": "The investment solidifies an alliance between Musk and Ellison, both of whom are significant financial backers of Donald Trump. Executives stated that the integration of the two companies necessitates difficult workforce decisions to achieve their cost-saving goals.",
-        "next": "Skydance is required to release at least 30 films and 180 television shows annually as part of a settlement agreement."
-      },
-      "numbers": [
-        {
-          "figure": "$111bn",
-          "what": "value of the merger between Paramount and Warner Bros Discovery"
-        },
-        {
-          "figure": "$6bn",
-          "what": "target for cost savings over the next three years"
-        },
-        {
-          "figure": "$1bn",
-          "what": "reported investment amount from Elon Musk into Skydance"
-        },
-        {
-          "figure": "4,500",
-          "what": "estimated number of film and television jobs lost in Los Angeles"
-        },
-        {
-          "figure": "180",
-          "what": "number of television shows Skydance is required to release annually"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
-      "date": "2026-10-20",
-      "author": "Gaya Gupta",
-      "summary": "United Airlines CEO Scott Kirby is facing conservative backlash after publicly advocating for a national wealth tax and higher inheritance taxes. Critics have responded by highlighting his executive compensation and calling for boycotts of the airline.",
+      "title": "President Trump announces that Bombardier plans $270 million US investment",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/president-trump-announces-that-bombardier-plans-270-million-us-investment",
+      "date": "2026-10-23",
+      "author": "Ian Molyneaux",
+      "summary": "Bombardier has announced a $270 million investment to expand its US service network and infrastructure. The move follows recent trade tensions and discussions with the US administration regarding the company's American manufacturing footprint.",
       "also": [
         {
           "source": "Fox Business",
           "author": null,
-          "date": "2026-10-21",
-          "title": "DOJ official takes swipe at United Airlines CEO amid backlash over wealth tax proposal",
-          "url": "https://www.foxbusiness.com/politics/doj-official-takes-swipe-united-airlines-ceo-backlash-wealth-tax-proposal",
-          "note": "Fox Business frames the story by highlighting a DOJ official's criticism of the CEO, shifting the focus toward regulatory or political friction."
+          "date": "2026-10-23",
+          "title": "Jetmaker Bombardier doubles down on US investment in deal touted by Trump",
+          "url": "https://www.foxbusiness.com/economy/jetmaker-bombardier-doubles-down-us-investment-deal-touted-trump",
+          "note": "Fox Business frames the story by emphasizing the company's commitment to the US market and highlighting the deal as a specific achievement touted by the President."
         }
       ],
+      "kind": "analysis",
       "brief": {
-        "what": "United Airlines CEO Scott Kirby has drawn criticism from conservative politicians and commentators after proposing a national wealth tax and near 100% inheritance taxes. Critics, including Louisiana Governor Jeff Landry, have attacked Kirby's $32 million annual salary and called for boycotts of the airline.",
-        "who": "Scott Kirby, CEO of United Airlines, is the primary subject, with opposition led by figures like Louisiana Governor Jeff Landry and former Fox News host Glenn Beck.",
-        "context": "The controversy arises as California voters prepare to decide on a 5% 'billionaire’s tax' and amid ongoing public debate regarding airline pricing, which Kirby attributes to recovering from pandemic-era artificial lows.",
-        "why": "Kirby stated that wealth inequality is a 'danger to society' and argued that a national wealth tax is necessary because state-level taxes are ineffective due to migration. Critics argue his position is hypocritical given his executive compensation.",
+        "what": "Bombardier is expanding its US operations with a $270 million infrastructure investment and the creation of 800 new jobs across Kansas, Texas, Indiana, and Connecticut. This follows a period of trade friction where the US president previously threatened to restrict the company's sales unless it manufactured aircraft domestically.",
+        "who": "Bombardier CEO Eric Martel, US President Donald Trump, Kansas Senator Roger Marshall, and Texas Attorney General Ken Paxton.",
+        "context": "The announcement occurs against a backdrop of escalating trade tensions between the US and Canada, involving reciprocal tariffs and specific threats against Bombardier's market access.",
+        "why": "Bombardier CEO Eric Martel stated the expansion reflects long-term confidence in the US market and follows constructive conversations with the administration. President Trump attributed the deal to his own policies, claiming they are bringing manufacturing and jobs back to America.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "$32m",
-          "what": "annual compensation earned by Scott Kirby"
+          "figure": "$270 million",
+          "what": "estimated infrastructure investments in the first phase"
         },
         {
-          "figure": "5%",
-          "what": "proposed tax rate on California billionaires"
+          "figure": "800",
+          "what": "number of new jobs to be hired"
         },
         {
-          "figure": "$70",
-          "what": "fee for aisle or window seats"
+          "figure": "3,500",
+          "what": "number of current US workers employed by Bombardier"
         },
         {
-          "figure": "20%",
-          "what": "increase in airline fare index"
-        },
-        {
-          "figure": "31%",
-          "what": "increase in overall consumer prices"
+          "figure": "$50 million",
+          "what": "investment in the Wichita base announced last week"
         }
       ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-24",
+      "author": null,
+      "summary": "Police in Bavaria have detained a suspect following a fire at the Kehlsteinhaus, the historic mountain retreat formerly used by Adolf Hitler. Emergency crews are currently working to extinguish the blaze at the site, which now operates as a tourist destination and mountain inn.",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-24",
+          "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
+          "note": "Al Jazeera's headline emphasizes the location as an 'Alpine retreat' rather than using the specific name 'Eagle's Nest' in the primary title."
+        }
+      ],
+      "brief": {
+        "what": "A suspect has been detained by Bavarian police after a fire broke out at the Kehlsteinhaus, also known as the Eagle's Nest. Approximately 200 emergency personnel were deployed to combat the blaze, which was difficult to reach due to the site's challenging terrain.",
+        "who": "Bavarian police are leading the criminal investigation, while the site itself is managed as a mountain inn and tourist destination.",
+        "context": "The Eagle's Nest was completed by the Nazis in 1938 and served as a government seat during World War Two. It remains a subject of ongoing debate in Germany regarding whether sites connected to Hitler should be preserved as historical reminders or demolished to prevent them from becoming pilgrimage sites for extremists.",
+        "why": "A criminal investigation is currently underway to determine if the detained suspect is connected to the start of the fire.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "200",
+          "what": "emergency personnel deployed to the fire"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Attention, Passengers: High Airfares May Be Here to Stay",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
+      "date": "2026-10-24",
+      "author": "Niraj Chokshi",
+      "summary": "Airlines indicate that elevated ticket prices are likely to persist even if fuel costs decline following the conflict with Iran. The industry suggests that fares will not return to previous levels in the near term.",
+      "also": [
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-23",
+          "title": "American Airlines says airfares could stay elevated even if fuel prices drop",
+          "url": "https://www.foxbusiness.com/markets/american-airlines-warns-airfares-stay-elevated-even-oil-prices-drop-after-record-fuel-costs",
+          "note": "Fox Business frames the story by specifically highlighting American Airlines as the source of the claim regarding sustained high fares."
+        }
+      ],
+      "brief": {
+        "what": "Airlines have signaled that high ticket prices, which surged due to fuel cost spikes linked to the war with Iran, are unlikely to decrease rapidly even if the conflict concludes.",
+        "who": "Airlines are the primary actors managing pricing strategies in response to volatile fuel costs.",
+        "context": "The aviation industry has faced significant upward pressure on operating expenses due to geopolitical instability affecting global fuel markets.",
+        "why": "Airlines state that fares will remain elevated because the current pricing structure is not solely dependent on the immediate resolution of fuel price spikes.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "environment",
@@ -475,194 +499,98 @@
           "date": "2026-10-22",
           "title": "Europe’s summer heat wave killed more than 50,000 people in urban areas",
           "url": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas",
-          "note": "Science (AAAS) frames the story by focusing on the specific death toll count in urban areas."
+          "note": "Science (AAAS) frames the story by emphasizing the specific urban nature of the mortality data."
         }
       ],
       "brief": {
-        "what": "A study modeling heat-related mortality across 854 European cities found that 50,000 people died this summer due to extreme temperatures. Researchers estimate that 32,000 of these deaths were directly linked to climate change, which now accounts for 65% of heat-related mortality compared to 40% at the start of the century.",
-        "who": "The study was conducted by climate and health scientists, including Malcolm Mistry, with observations provided by emergency medical professionals like Mario Guarino.",
-        "context": "The research utilized historical relationships between heat and health to model mortality across urban areas, which house approximately 40% of the European population. Experts note that these figures are estimates based on epidemiological models rather than official death certificate data.",
-        "why": "Scientists attribute the rising death toll to climate breakdown caused by greenhouse gas emissions, which have warmed Europe twice as fast as the global average. Factors such as poverty, loneliness, and lack of access to air conditioning were cited as exacerbating the health risks for vulnerable populations.",
-        "next": "Doctors are urging governments to reduce fossil fuel consumption, improve health systems, and implement urban cooling strategies to mitigate future heat-related tragedies."
+        "what": "A study modeling heat-related mortality across 854 European cities found that 50,000 people died due to extreme summer temperatures, with 32,000 of those deaths linked to climate change. The research highlights that the proportion of heat-related deaths caused by climate breakdown has risen to 65%.",
+        "who": "The study was conducted by climate and health scientists, including Malcolm Mistry, while emergency medical professionals like Mario Guarino provided clinical context on the impact of heat on vulnerable populations.",
+        "context": "European cities are experiencing rising temperatures due to greenhouse gas emissions, which are warming the continent twice as fast as the global average. This study utilized historical health data and temperature modeling to estimate the mortality impact of the summer season.",
+        "why": "Scientists attribute the surge in deaths to climate change, noting that hot days and warm nights prevent human bodies from recovering. Experts also cite social factors like poverty and loneliness as exacerbating the health risks for the elderly.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
           "figure": "50,000",
-          "what": "people who died from heat in European cities"
-        },
-        {
-          "figure": "65%",
-          "what": "share of heat-related deaths attributed to climate change"
+          "what": "total heat-related deaths in European cities"
         },
         {
           "figure": "32,000",
-          "what": "extra lives cut short by heat added by pollution"
+          "what": "additional deaths attributed to climate change"
+        },
+        {
+          "figure": "65%",
+          "what": "share of deaths attributed to climate breakdown"
         },
         {
           "figure": "815",
           "what": "deaths per million in Naples"
         },
         {
-          "figure": "15%",
-          "what": "increase in emergency room visits in Naples"
+          "figure": "4,354",
+          "what": "estimated heat deaths in the UK"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 2,
-      "title": "UK to fly RAF Typhoons to defend Saudi Arabia from Houthi attacks",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/uk-raf-typhoons-saudi-arabia-houthi-air-defense",
-      "date": "2026-10-20",
-      "author": "Clement Charpentreau",
-      "summary": "The UK Ministry of Defense is deploying Royal Air Force Eurofighter Typhoon jets to Saudi Arabia to provide defensive air support against Houthi missile and drone attacks. This mission focuses on protecting critical infrastructure and cities without conducting offensive strikes.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Humza Jilani",
-          "date": "2026-10-19",
-          "title": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
-          "url": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
-          "note": "The New York Times frames the story around the postponement of a major investment event, whereas AeroTime focuses on the military deployment."
-        }
-      ],
-      "brief": {
-        "what": "The UK Ministry of Defense announced the deployment of RAF Eurofighter Typhoon fighter jets and an A400M transport aircraft to Saudi Arabia. These assets will perform defensive counter-air missions to protect Saudi cities and infrastructure from Houthi attacks, while UK military advisers will assist Saudi staff officers.",
-        "who": "The UK Ministry of Defense, led by Defense Secretary Wes Streeting, is the primary actor, alongside the Royal Air Force and Saudi Arabia's General Authority of Civil Aviation.",
-        "context": "This deployment follows a series of Houthi missile and drone strikes on Saudi airports, including King Khalid International Airport and Abha International Airport, which resulted in casualties and operational suspensions.",
-        "why": "The Ministry of Defense stated the decision aims to protect UK economic and security interests, citing concerns that regional violence could disrupt energy supplies and increase the cost of living in the UK. Defense Secretary Wes Streeting condemned the attacks as an escalation of the conflict.",
-        "next": "The article does not specify the number of aircraft involved, their base locations, or the exact start date for the missions."
-      },
-      "numbers": [
-        {
-          "figure": "12 people",
-          "what": "number of people killed in a missile strike on King Khalid Internation"
-        },
-        {
-          "figure": "309",
-          "what": "number of people injured in a missile strike on King Khalid Internatio"
-        },
-        {
-          "figure": "3 people",
-          "what": "number of people killed in attacks on RUH and AHB airports"
-        },
-        {
-          "figure": "36",
-          "what": "number of people injured in attacks on RUH and AHB airports"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-20/horizons-middle-east-africa-10-20-2026-video",
-          "source": "Bloomberg",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "BBC Inside Science",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-22",
-      "author": null,
-      "summary": "A Japanese spacecraft has launched on an ambitious mission to retrieve and return samples from the Martian moon Phobos. The mission represents a complex engineering feat that is expected to conclude with a sample return in 2031.",
-      "also": [
-        {
-          "source": "Science (AAAS)",
-          "author": "Jon Cohen",
-          "date": "2026-10-21",
-          "title": "Inside the science of the ‘robo ump’ revolutionizing baseball",
-          "url": "https://www.science.org/content/article/inside-science-robo-ump-revolutionizing-baseball",
-          "note": "Science (AAAS) focuses specifically on the 'robo ump' technology in baseball rather than the Japanese space mission."
-        }
-      ],
-      "brief": {
-        "what": "A Japanese spacecraft has launched on the Mars Moons eXploration mission, which aims to be the first to return samples from a Martian moon to Earth.",
-        "who": "The mission is led by Japanese space researchers, with technical insight provided by Naomi Murdoch, research director at ISAE-SUPAERO.",
-        "context": "The mission targets Phobos, one of the moons of Mars, and involves significant engineering challenges to successfully navigate the return journey.",
-        "why": "The mission is being conducted to advance scientific research through the retrieval of extraterrestrial samples.",
-        "next": "The spacecraft is expected to return from Phobos in 2031."
-      }
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "French Authorities Brace for Weekend Protests",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/french-authorities-brace-for-weekend-protests-video",
+      "title": "Archer to Launch Air Taxis in Texas",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/archer-aviation-launches-air-taxi-fleets-in-texas-38b697e6?mod=pls_whats_news_us_business_f",
       "date": "2026-10-23",
-      "author": null,
-      "summary": "French authorities are deploying the military to support police forces in anticipation of further protests this weekend. The move aims to prevent a recurrence of the riots that occurred last weekend.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Catherine Porter",
-          "date": "2026-10-22",
-          "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
-          "url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
-          "note": "The New York Times headline focuses specifically on the government's decision to ban certain protests rather than the broader military mobilization."
-        }
-      ],
+      "author": "Katherine Hamilton",
+      "summary": "Archer plans to establish air taxi networks across Austin, Houston, and the Dallas-Fort Worth area. The initiative aims to improve transit connectivity between key airports, business centers, and tourist locations.",
+      "also": [],
       "brief": {
-        "what": "French authorities are preparing for a new round of protests scheduled for Saturday. The military has been mobilized to assist police in maintaining order and preventing a repeat of the riots that took place last weekend.",
-        "who": "French authorities, including the military and police, are the primary actors managing the security response to the upcoming demonstrations.",
-        "context": "This mobilization follows a series of riots that occurred in France during the previous weekend, prompting heightened security measures.",
-        "why": "The military is being deployed to back up police forces in a strategic effort to prevent the escalation of violence and a repeat of the recent riots.",
+        "what": "Archer is launching air taxi networks in three major Texas metropolitan areas: Austin, Houston, and Dallas-Fort Worth. The project focuses on enhancing transportation links between airports, business hubs, and tourist destinations.",
+        "who": "Archer is the primary company developing these air taxi networks.",
+        "context": "The company is targeting high-traffic urban and transit corridors in Texas to deploy its air taxi services.",
+        "why": "The goal of the project is to increase connectivity between major airports, business hubs, and tourist destinations.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "aerospace",
+      "topic": "business",
       "importance": 2,
-      "title": "FAA certifies Boeing 737 MAX 10, clears way for deliveries after years of delays",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/boeing-737-max-10-faa-certification",
-      "date": "2026-10-21",
-      "author": "Stephen Pope",
-      "summary": "The FAA has officially certified the Boeing 737 MAX 10, allowing the manufacturer to begin deliveries of its largest single-aisle jet. This milestone follows years of regulatory delays and completes the certification process for all four main MAX variants.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-10-21",
-          "title": "Boeing's largest 737 MAX jet wins FAA certification, clearing way for deliveries of 1,555 ordered planes",
-          "url": "https://www.foxbusiness.com/markets/boeings-largest737-max-jet-wins-faa-certification-clearing-way-deliveries-1555-ordered-planes",
-          "note": "Fox Business highlights the specific volume of the order backlog, framing the certification as a direct unlock for those 1,555 pending deliveries."
-        }
-      ],
+      "title": "Railroads Gain as Cargo Shifts to Rail From Highways",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/logistics-report/railroads-gain-as-cargo-shifts-to-rail-from-highways-d121a357?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-23",
+      "author": "Mark R. Long",
+      "summary": "U.S. Steel has announced a significant capital investment in a new manufacturing facility located near Pittsburgh. Meanwhile, global geopolitical instability is compelling airlines to adjust their flight paths.",
+      "also": [],
       "brief": {
-        "what": "The FAA granted certification to the Boeing 737 MAX 10, clearing the path for deliveries of 1,555 ordered units. The aircraft, which can carry up to 230 passengers, is designed to compete with the Airbus A321neo.",
-        "who": "Boeing, the manufacturer; the FAA, the regulatory body; and Transportation Secretary Sean Duffy, who presented the certification documents.",
-        "context": "The program faced significant delays following the 2018 and 2019 MAX 8 crashes, leading to increased regulatory scrutiny and the implementation of the 2020 Aircraft Certification, Safety, and Accountability Act.",
-        "why": "The FAA stated the decision followed a thorough review of design and safety requirements, including new systems to manage sensor failures and pilot alerts. Boeing CEO Stephanie Pope noted the aircraft will set a new standard in commercial aviation.",
-        "next": "Boeing expects to begin deliveries of the MAX 10 in the coming months."
+        "what": "U.S. Steel is committing nearly $3 billion to construct a new mill in the vicinity of Pittsburgh. Simultaneously, international conflicts are necessitating that airlines reroute their flight operations.",
+        "who": "U.S. Steel is the primary corporate actor, while airlines are identified as the entities managing flight path adjustments due to geopolitical factors.",
+        "context": "The report highlights concurrent developments in industrial infrastructure investment and the operational challenges currently facing the global aviation sector.",
+        "why": "The article attributes the changes in airline flight paths directly to the impact of ongoing wars.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "1,555 orders",
-          "what": "total number of MAX 10 aircraft ordered"
-        },
-        {
-          "figure": "30%",
-          "what": "portion of unfilled MAX orderbook represented"
-        },
-        {
-          "figure": "230 passengers",
-          "what": "maximum passenger capacity of the aircraft"
-        },
-        {
-          "figure": "3,100 nautical miles",
-          "what": "listed range of the MAX 10"
-        },
-        {
-          "figure": "2,000 flight-test hours",
-          "what": "total time spent in flight testing"
+          "figure": "$3 billion",
+          "what": "planned investment for a new steel mill"
         }
       ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets",
+      "date": "2026-10-24",
+      "author": "Levin Stamm",
+      "summary": "Swiss large-cap stocks are emerging as a defensive refuge for investors amid widespread volatility in European equity markets.",
+      "also": [],
+      "brief": {
+        "what": "Switzerland’s ultra-defensive large companies are performing well, serving as a bright spot during a period of turbulence for European equity markets.",
+        "who": "Swiss large-cap companies are the primary actors identified as providing stability.",
+        "context": "European equity markets are currently experiencing a tumultuous period, with investors expressing concerns regarding artificial intelligence.",
+        "why": "The article suggests that these companies are acting as a haven for investors seeking to avoid the market fears currently roiling the broader European landscape.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "aerospace",
@@ -677,414 +605,374 @@
       "brief": {
         "what": "French aerospace supplier Safran confirmed its financial guidance after experiencing revenue growth. This performance was fueled by double-digit expansion within its propulsion, equipment, and defense divisions.",
         "who": "Safran, a French aerospace-industry supplier.",
-        "context": "The company operates across multiple sectors including propulsion systems, aerospace equipment, and defense technologies.",
-        "why": "The company stated that the revenue increase was pushed higher by double-digit growth across its propulsion and equipment and defense units.",
+        "context": "The company operates across multiple segments, including propulsion systems and defense equipment, which serve as the primary drivers for its current financial trajectory.",
+        "why": "The company stated that the revenue metric was pushed higher by double-digit growth across its propulsion and equipment and defense units.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 1,
-      "title": "Sydney’s long haul to a second airport",
+      "title": "UK mortgage market ‘failing to adapt to new patterns of work’",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/4fe2d4d2-92c8-4f4d-8a79-6afc0a12dc1b?syn-25a6b1a6=1",
-      "date": "2026-10-23",
+      "url": "https://www.ft.com/content/6a940d99-579a-481c-953e-a61cc23486e5?syn-25a6b1a6=1",
+      "date": "2026-10-24",
       "author": null,
-      "summary": "Sydney is developing a second airport to increase aviation capacity and provide better service to residents in the city's western suburbs.",
+      "summary": "UK mortgage lenders are struggling to accommodate the financial profiles of self-employed workers. Current affordability criteria are causing many of these borrowers to abandon their home loan applications.",
       "also": [],
       "brief": {
-        "what": "Sydney is constructing a new aviation hub designed to expand the city's overall airport capacity. The project aims to improve infrastructure access for millions of residents living in the western suburbs.",
-        "who": "The city of Sydney is the primary actor driving the development of this new infrastructure project.",
-        "context": "The project serves as a long-term strategy to address the growing demand for air travel and logistical needs within the Sydney metropolitan area.",
-        "why": "The new hub is intended to expand aviation capacity and serve millions of residents in the city's western suburbs.",
+        "what": "The UK mortgage market is reportedly failing to adjust its lending practices to reflect modern employment patterns. Consequently, many self-employed individuals are finding it impossible to secure home loans due to rigid affordability criteria.",
+        "who": "UK mortgage lenders and self-employed borrowers.",
+        "context": "The shift in work patterns has created a disconnect between traditional lending requirements and the income structures of self-employed professionals.",
+        "why": "According to the report, lenders' existing affordability criteria are the primary barrier preventing self-employed applicants from successfully obtaining financing.",
         "next": "The article doesn't say."
       }
     },
     {
+      "topic": "markets",
+      "importance": 1,
+      "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund INR 5.46B",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-24/india-regulator-orders-options-trainer-avadhut-sathe-to-refund-inr-5-46b",
+      "date": "2026-10-24",
+      "author": "Samie Modak",
+      "summary": "India's market regulator has ordered options trader Avadhut Sathe to refund 5.46 billion rupees to students for providing unregistered investment advice.",
+      "also": [],
+      "brief": {
+        "what": "The Securities and Exchange Board of India has directed options trader Avadhut Sathe and his academy to return 5.46 billion rupees, or approximately $57.5 million, to course participants.",
+        "who": "The Securities and Exchange Board of India is the regulator, while Avadhut Sathe and his trading academy are the entities ordered to issue the refunds.",
+        "context": "The regulator investigated the academy after determining that the services provided went beyond stock market education and constituted unregistered investment advice and research.",
+        "why": "The order was issued because the regulator found that Sathe and his academy were operating as unregistered investment advisors while masquerading as an educational institution.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "5.46 billion rupees",
+          "what": "total amount to be refunded to participants"
+        },
+        {
+          "figure": "$57.5 million",
+          "what": "dollar equivalent of the ordered refund"
+        }
+      ]
+    },
+    {
       "topic": "aerospace",
       "importance": 1,
-      "title": "See How Airlines Are Navigating the Dangerous Skies to Avoid Global Conflicts",
+      "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/business/airlines/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-3352cac3?mod=pls_whats_news_us_business_f",
       "date": "2026-10-23",
       "author": "Benjamin Katz",
-      "summary": "Global conflicts are significantly disrupting civil aviation operations, forcing airlines to navigate increasingly restricted and dangerous flight paths. These geopolitical tensions have reduced the availability of safe routes for international travel.",
+      "summary": "Global conflicts are significantly disrupting civil aviation, forcing airlines to alter flight routes to avoid dangerous war zones. These geopolitical tensions have reduced the availability of safe travel paths for international carriers.",
       "also": [],
       "brief": {
-        "what": "Civil aviation is facing widespread disruption as deadly global conflicts limit the number of safe flight paths available to airlines.",
-        "who": "Commercial airlines are the primary actors attempting to maintain operations amidst these geopolitical challenges.",
-        "context": "The aviation industry is currently contending with a landscape where traditional flight corridors are increasingly compromised by regional instability.",
-        "why": "The article states that deadly global conflicts have completely disrupted civil aviation, resulting in fewer and more difficult options for safe journeys.",
+        "what": "Civil aviation operations are facing widespread disruption as airlines navigate an increasing number of global conflicts. These security concerns have restricted the available flight paths, limiting options for safe international travel.",
+        "who": "Civil aviation operators and international airlines are the primary actors managing these route adjustments.",
+        "context": "The aviation industry must constantly adapt its flight paths to ensure passenger safety when regional conflicts emerge in various parts of the world.",
+        "why": "The article states that deadly global conflicts have disrupted civil aviation, necessitating these changes to avoid active war zones.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Nov. 5: Satellite Mission Management at the Edge",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+      "date": "2026-10-23",
+      "author": "SpaceNews Editor",
+      "summary": "SpaceNews and RTX are hosting a virtual event to discuss how emerging technologies like edge computing and cloud-native architectures are modernizing satellite mission management. The session will focus on improving resilience and affordability for national security space missions.",
+      "also": [],
+      "brief": {
+        "what": "SpaceNews and RTX are holding a virtual event on November 5 to explore the modernization of satellite operations. The discussion will cover the integration of edge computing, automation, and cloud-native architectures into national security space missions to enhance agility and cost-efficiency.",
+        "who": "SpaceNews, an aerospace industry publication, and RTX, a major defense and technology corporation with over $88 billion in 2025 sales, are the primary organizers.",
+        "context": "Satellite operations are becoming increasingly complex, necessitating faster decision-making and the ability to adapt on orbit. Operators face the challenge of integrating modern, modular technologies with existing legacy systems while maintaining security and reliability.",
+        "why": "The event aims to address the need for more dynamic and affordable national security space missions by examining how commercial capabilities and new technologies can be effectively deployed.",
+        "next": "The virtual event will take place on November 5, with a recording to be made available online shortly after the conclusion of the session."
+      },
+      "numbers": [
+        {
+          "figure": "$88 billion",
+          "what": "RTX 2025 sales"
+        },
+        {
+          "figure": "180,000",
+          "what": "global employees at RTX"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "‘Disrupter’ exchanges battle for ETFs in challenge to NYSE and Nasdaq",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1",
+      "date": "2026-10-24",
+      "author": null,
+      "summary": "Cboe has secured nearly 50% of US exchange-traded fund listings, intensifying competition against established players like the NYSE and Nasdaq. This shift highlights the rapid expansion of derivative-heavy investment funds.",
+      "also": [],
+      "brief": {
+        "what": "Cboe has captured nearly half of all US exchange-traded fund (ETF) listings, signaling a significant shift in market share away from traditional exchanges like the NYSE and Nasdaq.",
+        "who": "Cboe is the primary challenger, while the NYSE and Nasdaq are the established exchanges facing increased competition.",
+        "context": "The exchange landscape is evolving as the market for derivative-heavy funds experiences rapid growth, prompting smaller or newer exchanges to aggressively pursue listings.",
+        "why": "The competition is intensifying because of the rapid growth in derivative-heavy funds, which has allowed Cboe to position itself as a major disrupter in the listing space.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "world",
       "importance": 1,
-      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-      "date": "2026-10-23",
-      "author": "Adam Rasgon",
-      "summary": "Five people were wounded in a shooting attack in the West Bank, with Israeli soldiers killing two of the assailants. The incident occurred just days before scheduled national elections.",
+      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+      "date": "2026-10-22",
+      "author": "Ismaeel Naar",
+      "summary": "A Houthi militia strike on an airport in Dammam, Saudi Arabia, has resulted in two fatalities. The U.S. has responded by ordering some diplomats to depart the region.",
       "also": [],
       "brief": {
-        "what": "Five individuals were wounded during a shooting attack in the West Bank, according to health workers. In response, the Israeli military reported that its soldiers killed two of the assailants involved in the incident.",
-        "who": "The Israeli military and the unidentified assailants are the primary actors, with health workers providing information on the casualties.",
-        "context": "The attack took place in the West Bank shortly before national elections were set to occur.",
-        "why": "The article does not provide a specific motive for the attack, only reporting the sequence of events as described by officials.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-          "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-10-16"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "AI IPOs Stall While Private Markets Heat Up",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/ai-ipos-stall-while-private-markets-heat-up-video",
-      "date": "2026-10-23",
-      "author": null,
-      "summary": "Initial public offerings for artificial intelligence companies are slowing down as public market sentiment cools. Meanwhile, private capital continues to support major industry players, potentially encouraging firms to delay going public.",
-      "also": [],
-      "brief": {
-        "what": "AI-focused initial public offerings are stalling due to a cooling public market environment. Despite this trend, private funding remains robust for major entities like OpenAI and DeepSeek.",
-        "who": "OpenAI and DeepSeek are identified as major industry giants attracting significant private investment.",
-        "context": "Companies are currently weighing the benefits of public market entry against the availability of substantial private capital, which may lead to longer periods of private ownership.",
-        "why": "The article states that AI IPOs are hitting the brakes because public markets are cooling, while private money continues to flow into the sector.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Volvo Cars shares plunge as much as 30% after it swings to loss",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/deb209b5-a5ed-4d24-a470-636ecc1e3668?syn-25a6b1a6=1",
-      "date": "2026-10-23",
-      "author": null,
-      "summary": "Volvo Cars shares plummeted by up to 30% following a shift to a financial loss. The company also announced plans to cut 2,500 jobs while warning that market conditions have not yet hit their lowest point.",
-      "also": [],
-      "brief": {
-        "what": "Volvo Cars experienced a significant market downturn, with shares falling by as much as 30% after the company reported a swing to a loss. To address these financial challenges, the Swedish automaker is implementing a workforce reduction of 2,500 positions.",
-        "who": "Volvo Cars is the Swedish automotive manufacturer managing the financial loss and workforce restructuring.",
-        "context": "The company is navigating a difficult economic environment, characterized by ongoing market instability within the automotive sector.",
-        "why": "The company warns that the market has not yet reached the bottom, suggesting continued headwinds for the business.",
+        "what": "A Houthi militia attack on an airport in Dammam, Saudi Arabia, resulted in 2 deaths. Following the strike, the United States government has instructed some of its diplomats to leave the country.",
+        "who": "Yemen’s Iran-backed Houthi militia, the Saudi government, and the United States government.",
+        "context": "The targeted airport is located in Dammam, situated near the headquarters of the oil company Saudi Aramco. This incident follows weeks of ongoing Houthi attacks directed at Saudi Arabia's energy and aviation sectors.",
+        "why": "The article states that the Houthi militia has been targeting the kingdom's aviation and energy sectors for several weeks.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "30%",
-          "what": "maximum decline in Volvo Cars share price"
-        },
-        {
-          "figure": "2,500",
-          "what": "number of additional jobs to be cut"
+          "figure": "2",
+          "what": "number of people killed in the strike"
         }
       ]
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Trump’s Tariffs Slow America’s Access to Canada’s Cheese",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
-      "date": "2026-10-23",
-      "author": "Pete Wells",
-      "summary": "New tariffs imposed by the Trump administration are hindering the ability of Canadian cheese producers to distribute their products within the United States. This trade barrier is impacting market access just as these producers were beginning to establish a presence in the American market.",
+      "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
+      "date": "2026-10-24",
+      "author": "Lu Wang",
+      "summary": "S&P Dow Jones Indices has implemented new rules to reclassify how equities are sorted into growth and value investment styles.",
       "also": [],
       "brief": {
-        "what": "The Trump administration has implemented tariffs that are restricting the flow of Canadian cheese into the United States. These trade measures are actively slowing down access for producers who were previously gaining traction in the American market.",
-        "who": "The Trump administration, which implemented the tariffs, and Canadian cheese producers, who are facing new barriers to entry.",
-        "context": "Canadian cheese producers had been working to establish a foothold in the United States before these trade restrictions were introduced.",
-        "why": "The article states that the tariffs are the direct cause of the slowed access to the American market for these producers.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "A Simple Way to Benefit From Rising Rates: Buy Money Market Funds",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
-      "date": "2026-10-23",
-      "author": "Jeff Sommer",
-      "summary": "Rising interest rates are creating a favorable environment for investors looking to earn returns on cash holdings through money market funds. These funds offer a straightforward way to benefit from the current rate climate despite the challenges posed to traditional stocks and bonds.",
-      "also": [],
-      "kind": "opinion",
-      "brief": {
-        "what": "Investors are finding that higher interest rates provide a clear opportunity to generate income by parking cash in money market funds. This strategy serves as an alternative to the complications currently affecting the stock and bond markets.",
-        "who": "The New York Times columnist.",
-        "context": "The broader financial landscape is currently defined by rising interest rates, which typically create headwinds for equity and fixed-income investments.",
-        "why": "According to the columnist, higher rates are an unequivocal boon for those seeking to earn returns on idle cash.",
+        "what": "S&P Dow Jones Indices has adopted a new methodology for categorizing stocks into growth and value investment styles, which will lead to a reshuffle of these shares.",
+        "who": "S&P Dow Jones Indices is the entity responsible for establishing and implementing these new classification rules.",
+        "context": "Investors often categorize equities into growth or value styles to manage portfolios and track market performance, with S&P Dow Jones Indices providing the standard benchmarks for these segments.",
+        "why": "The organization adopted these new rules to update the criteria used to sort equities into their respective investment styles.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Are Prediction Markets Just Gambling? Kalshi CEO Responds",
-      "source": "Reason",
-      "url": "https://reason.com/podcast/2026/10/21/are-prediction-markets-just-gambling-kalshi-ceo-responds/",
-      "date": "2026-10-21",
-      "author": "Nick Gillespie",
-      "summary": "Kalshi CEO Tarek Mansour is defending his prediction market platform against state regulators who classify the service as illegal gambling. Mansour argues the platform functions like a stock exchange to provide valuable price discovery and information rather than acting as a casino.",
-      "also": [
-        {
-          "source": "National Review",
-          "author": "Ryan Bourne",
-          "date": "2026-10-21",
-          "title": "Prediction Markets Are Not ‘Just Gambling’ Platforms",
-          "url": "https://www.nationalreview.com/2026/10/prediction-markets-are-not-just-gambling-platforms/",
-          "note": "National Review frames the story by explicitly stating in its headline that these platforms are not gambling."
-        }
-      ],
-      "brief": {
-        "what": "Kalshi, a prediction market platform, is facing legal challenges from state regulators who allege the company operates an illegal gambling business. CEO Tarek Mansour contends that the platform is a neutral exchange matching buyers and sellers, similar to the New York Stock Exchange, rather than a sportsbook that sets prices and limits successful traders.",
-        "who": "Tarek Mansour is the co-founder and CEO of Kalshi, while Nick Gillespie serves as the interviewer for the Reason Foundation.",
-        "context": "Prediction markets allow users to trade on the outcomes of future events, such as elections or weather. Mansour draws a historical parallel to 19th-century commodities exchanges, which were also accused of gambling before being recognized as essential financial tools for price discovery.",
-        "why": "Mansour argues that prediction markets provide a public good by aggregating information through 'price discovery,' which he claims can be more accurate than professional forecasts. He asserts that the gambling industry is attempting to stifle competition by mischaracterizing his platform.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "0.7 percent",
-          "what": "the transaction fee taken by Kalshi per trade"
-        },
-        {
-          "figure": "10 percent",
-          "what": "the margin by which Kalshi's weather forecasts outperformed national a"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "SoftBank-Backed Oravel Said to Face Lower Valuation in India IPO",
+      "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/softbank-backed-oravel-said-to-face-lower-valuation-in-india-ipo",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
       "date": "2026-10-23",
-      "author": "Rajesh Mascarenhas and Baiju Kalesh",
-      "summary": "Oravel Stays Ltd., the parent company of travel platform OYO, is encountering investor resistance regarding its valuation for an upcoming initial public offering in India.",
+      "author": "Zahra Tayeb",
+      "summary": "S&P Global Ratings warns that data centers face potential credit rating downgrades as public opposition leads to project moratoriums and cancellations.",
       "also": [],
       "brief": {
-        "what": "Oravel Stays Ltd. is facing pushback from investors concerning the valuation of its planned initial public offering. The company, which operates the travel platform OYO, is the latest Indian startup to experience skepticism regarding its pricing strategy.",
-        "who": "Oravel Stays Ltd. is the parent company of OYO, and SoftBank Group Corp. is the primary backer of the firm.",
-        "context": "The company is attempting to launch an initial public offering in India, a market where startups are increasingly facing scrutiny from investors over their proposed valuations.",
-        "why": "According to people familiar with the matter, investors are expressing skepticism over the pricing of the startup's planned offering.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Retail Deleveraging Sinks India Small Caps Most Since March",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/margin-trade-liquidation-speeds-indian-small-cap-stock-decline",
-      "date": "2026-10-23",
-      "author": "Samie Modak and Chiranjivi Chakraborty",
-      "summary": "Indian small-cap stocks experienced their sharpest decline since March due to a wave of retail investor deleveraging. Concerns regarding inflation and elevated interest rates are driving the negative market sentiment.",
-      "also": [],
-      "brief": {
-        "what": "Indian small-cap stocks suffered their most significant decline in seven months as retail investors engaged in a wave of deleveraging. This sell-off reflects growing market anxiety surrounding macroeconomic pressures.",
-        "who": "Retail investors are the primary actors driving the deleveraging process in the Indian small-cap market.",
-        "context": "The Indian equity market is currently facing headwinds from broader economic concerns that are impacting investor behavior and asset valuations.",
-        "why": "According to the report, the rout was triggered by mounting concerns over inflation and higher interest rates, which have negatively weighed on overall market sentiment.",
+        "what": "Data centers are facing an increased risk of credit rating downgrades. This shift is being driven by a rise in project moratoriums and cancellations resulting from local public opposition.",
+        "who": "S&P Global Ratings is the primary entity identifying these credit risks for the data center industry.",
+        "context": "Data centers are critical infrastructure for modern digital operations, but their physical expansion is increasingly encountering resistance from local communities.",
+        "why": "According to S&P Global Ratings, the downgrades are a direct consequence of public pushback that has forced the cancellation or suspension of data center developments.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Aquis firm scraps failed Bitcoin treasury strategy after admitting ‘challenges’",
-      "source": "City AM",
-      "url": "https://www.cityam.com/aquis-firm-scraps-failed-bitcoin-treasury-strategy-after-admitting-challenges/",
+      "title": "Directors’ Deals: Safestore directors raise stakes as shares struggle",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/510f7213-e196-4af3-8ba8-fc51cd741228",
       "date": "2026-10-23",
-      "author": "Maisie Grice",
-      "summary": "Vaultz Capital is abandoning its Bitcoin treasury strategy after the firm's equity declined and it recorded a significant operating loss. The company now plans to pivot toward investments in sectors like digital infrastructure and AI.",
+      "author": null,
+      "summary": "Safestore directors have increased their shareholdings in the company as the stock price faces downward pressure. The self-storage group is also initiating a review of its UK expansion plans for the 2027-28 period.",
       "also": [],
       "brief": {
-        "what": "Vaultz Capital is scrapping its strategy of holding Bitcoin as a primary reserve asset after recording a £6m operating loss. The firm's equity fell to £11.6m as shareholders opted to buy Bitcoin directly rather than through the company.",
-        "who": "Vaultz Capital, led by executive chairman Charlie Wood, is the firm shifting its investment strategy away from cryptocurrency.",
-        "context": "The company transitioned to a pure-play Bitcoin treasury model in 2025, but faced challenges as market sentiment for the asset declined and the stock traded at a persistent discount to its underlying value.",
-        "why": "Executive chairman Charlie Wood stated that shareholders can access Bitcoin more cheaply elsewhere and that the strategy failed to close the gap between market capitalization and asset value. Additionally, the board concluded that the strategy was no longer the best use of shareholder capital amid economic uncertainty.",
-        "next": "Vaultz Capital is now seeking new transactions in high-growth sectors such as digital infrastructure, AI, and strategic metals to generate value."
-      },
-      "numbers": [
-        {
-          "figure": "£6m",
-          "what": "operating loss recorded in the 2026 financial year"
-        },
-        {
-          "figure": "£13.6m",
-          "what": "funds raised during the initial Bitcoin treasury transition"
-        },
-        {
-          "figure": "£11.6m",
-          "what": "equity value after the stock traded at a discount"
-        },
-        {
-          "figure": "24.9 per cent",
-          "what": "decline in the price of Bitcoin over 12 months"
-        },
-        {
-          "figure": "2.3 per cent",
-          "what": "equity stake gained in a software developer"
-        }
-      ]
+        "what": "Directors at the self-storage company Safestore have purchased additional shares in the business amid a period of share price struggle. Simultaneously, the company has announced a strategic review regarding its UK development plans for the 2027-28 fiscal window.",
+        "who": "Safestore directors are the primary actors, acting as both company leadership and investors increasing their equity stakes.",
+        "context": "The company operates within the self-storage sector and is currently evaluating its long-term capital allocation and expansion strategy for the United Kingdom market.",
+        "why": "The article indicates the share purchases coincide with a period where the company's shares are struggling, while the review of UK plans is a forward-looking strategic adjustment.",
+        "next": "The company will conduct a review of its UK plans for 2027-28."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Supermarkets blindsided by ‘shambolic’ stockpiling warning",
+      "source": "City AM",
+      "url": "https://www.cityam.com/supermarkets-blindsided-by-shambolic-stockpiling-warning/",
+      "date": "2026-10-23",
+      "author": "Felix Armstrong",
+      "summary": "UK supermarkets were caught off guard by a government campaign urging citizens to stockpile three days of food and water. Retailers expressed frustration over the communication process, though they remain confident in their ability to meet consumer demand.",
+      "also": [],
+      "brief": {
+        "what": "The UK government launched a three-year 'Be Ready' campaign advising citizens to stockpile three days of non-perishable food and water to prepare for potential hybrid attacks or extreme weather. Retailers reported being blindsided by the announcement, describing the government's coordination as 'shambolic' and noting that they were initially told the campaign would be low-key.",
+        "who": "Defence Secretary Wes Streeting, Security Minister Dan Jarvis, the British Retail Consortium, and major UK supermarket chains.",
+        "context": "The initiative aims to improve national resilience against technological dependency, hostile state threats, and supply chain disruptions, aligning the UK with European emergency preparedness standards.",
+        "why": "The government claims the campaign is necessary to improve national resilience, while industry sources argue the rollout was poorly managed and lacked adequate consultation with the retail sector regarding supply chain impacts.",
+        "next": "Supermarkets are currently holding talks with suppliers to assess potential demand surges, while advising customers to build supplies gradually rather than through panic-buying."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
+      "date": "2026-10-24",
+      "author": null,
+      "summary": "Former NSO Group leader Shalev Hulio is pivoting his focus toward sovereign artificial intelligence and national security technologies. He is advocating for governments to adopt these domestic solutions rather than relying on American AI systems.",
+      "also": [],
+      "brief": {
+        "what": "Shalev Hulio, the former head of NSO Group, is rebranding his professional focus to promote sovereign AI and national security tools. He is actively encouraging governments to prioritize these independent technological frameworks over existing US-based AI alternatives.",
+        "who": "Shalev Hulio, the former boss of NSO Group, is the primary actor seeking to reinvent his professional reputation and business focus.",
+        "context": "Hulio previously led NSO Group, a company widely known for its development of Pegasus spyware, which has been a subject of significant international scrutiny regarding its use by various governments.",
+        "why": "Hulio is positioning himself as a champion of sovereign AI, suggesting that nations should trust his new technological approach to maintain control over their national security interests rather than depending on US-developed AI.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "French borrowing costs overtake US amid budget turmoil",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
-      "date": "2026-10-22",
-      "author": "Lauren Almeida",
-      "summary": "French government bond yields have surged to their highest levels in over a decade, surpassing US Treasury borrowing costs amid political instability and budget gridlock. This sell-off reflects investor anxiety over the nation's fiscal health following widespread civil unrest.",
-      "also": [],
-      "brief": {
-        "what": "French 10-year borrowing costs rose to 5.089%, exceeding US Treasury yields for the first time since 2013. The bond market sell-off was driven by concerns over the government's inability to pass a federal budget and ongoing parliamentary gridlock.",
-        "who": "President Emmanuel Macron faces legislative challenges regarding pension reforms and spending cuts, while the European Central Bank monitors the fiscal volatility.",
-        "context": "France is currently recovering from violent protests and looting that resulted in nearly 2,400 arrests. The country is also managing a 115.6% debt-to-GDP ratio and inflationary pressures linked to the war in Iran.",
-        "why": "Investors are selling French debt due to fears that the government cannot effectively manage its fiscal deficit or implement necessary spending reforms. Market strategist Jim Reid noted that this volatility is beginning to impact the bond spreads of other nations like Italy and Spain.",
-        "next": "The European Central Bank is expected to hold interest rates steady at its upcoming meeting, with future policy decisions contingent on a resolution to France's fiscal challenges."
-      },
-      "numbers": [
-        {
-          "figure": "5.089%",
-          "what": "yield on the French 10-year bond"
-        },
-        {
-          "figure": "115.6%",
-          "what": "France's debt pile as a percentage of GDP"
-        },
-        {
-          "figure": "5.1%",
-          "what": "France's budget deficit as a percentage of GDP"
-        },
-        {
-          "figure": "2.5%",
-          "what": "European Central Bank's key interest rate"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Why the UK should greenlight both Jackdaw and Rosebank",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/34946f6f-ccd9-4de5-9f57-136e1a0e2064?syn-25a6b1a6=1",
-      "date": "2026-10-23",
-      "author": null,
-      "summary": "The author argues that the primary challenge for climate advocates is the high cost of renewables rather than the potential affordability of oil and gas. This perspective suggests a need to re-evaluate the focus of energy policy regarding projects like Jackdaw and Rosebank.",
-      "also": [],
-      "kind": "opinion",
-      "brief": {
-        "what": "The article posits that the central issue for climate-conscious observers is not the risk of cheap fossil fuels, but the persistent high cost of renewable energy sources.",
-        "who": "The author of the Financial Times piece.",
-        "context": "The discussion centers on the UK's energy policy decisions, specifically regarding the approval of the Jackdaw and Rosebank oil and gas projects.",
-        "why": "The author claims that focusing on the price of oil and gas is a distraction from the fundamental economic hurdle of making renewable energy competitive.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Scientists probe early brain development links to autism",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/01085941-f97f-44a1-8a37-f7bb84955e49?syn-25a6b1a6=1",
-      "date": "2026-10-23",
-      "author": null,
-      "summary": "Researchers are launching a new venture to investigate the links between early brain development and autism. The project aims to identify potential new therapies by utilizing clinical data and laboratory tissue models.",
-      "also": [],
-      "brief": {
-        "what": "A new research initiative is being established to explore the connection between early brain development and autism. The venture intends to leverage clinical data alongside laboratory tissue models to discover potential therapeutic interventions.",
-        "who": "The scientists involved in this venture are the primary actors, utilizing clinical and laboratory resources to conduct their research.",
-        "context": "The study focuses on the biological underpinnings of autism, specifically looking at how early brain development processes may contribute to the condition.",
-        "why": "The venture was formed to address the need for new therapies by combining clinical data with laboratory tissue models to better understand brain development.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "First human death linked to recently discovered livestock virus in Europe",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe",
-      "date": "2026-10-22",
-      "author": "Kai Kupferschmidt",
-      "summary": "Scientists are investigating the first human death linked to the Shamonda virus in Europe. Experts emphasize the need for further research but maintain there is no cause for alarm.",
-      "also": [],
-      "brief": {
-        "what": "A human death has been linked to the Shamonda virus, a recently discovered livestock virus in Europe. Scientists are currently calling for additional study of the pathogen.",
-        "who": "Scientists are the primary actors monitoring the situation and providing guidance.",
-        "context": "The Shamonda virus is a recently discovered virus that primarily affects livestock, and this incident marks the first recorded human death associated with it.",
-        "why": "Scientists are urging further study to better understand the virus, though they state there is currently no cause for alarm.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Meet the former FBI agent behind NIH’s targeting of Chinese scientists",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/meet-former-fbi-agent-behind-nih-s-targeting-chinese-scientists",
-      "date": "2026-10-22",
-      "author": "Jeffrey Mervis",
-      "summary": "Former FBI agent Tam Dao has received a grant to investigate the scope of foreign influence on U.S.-funded research. The project aims to assess threats related to the acquisition of sensitive scientific data.",
-      "also": [],
-      "brief": {
-        "what": "Tam Dao, a former FBI agent, has been awarded a grant to evaluate the extent of foreign efforts to obtain U.S.-funded research. This initiative follows his previous work investigating such activities.",
-        "who": "Tam Dao is the primary subject, acting as the lead researcher on the grant after his tenure at the FBI.",
-        "context": "The National Institutes of Health (NIH) has been actively targeting Chinese scientists as part of a broader effort to protect U.S. research interests from foreign interference.",
-        "why": "The grant was issued to determine the actual extent of the threat posed by foreign attempts to acquire sensitive, federally funded scientific information.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "culture",
-      "importance": 1,
-      "title": "Fifa boss Infantino’s re-election bid boosted as Asian chiefs complete spectacular climbdown",
+      "title": "High-cost loans firm Evlo eyes £200m sale in sign of subprime comeback",
       "source": "City AM",
-      "url": "https://www.cityam.com/fifa-boss-infantinos-re-election-bid-boosted-as-asian-chiefs-complete-spectacular-climbdown/",
+      "url": "https://www.cityam.com/high-cost-loans-firm-evlo-eyes-200m-sale-in-sign-of-subprime-comeback/",
       "date": "2026-10-23",
-      "author": "Frank Dalleres",
-      "summary": "The Asian Football Confederation has reversed its opposition to FIFA president Gianni Infantino, significantly strengthening his position for re-election. This shift leaves European governing body UEFA increasingly isolated in its efforts to challenge his leadership.",
-      "also": [
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-23",
-          "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
-          "note": "Al Jazeera frames the story by specifically highlighting the 'U-turn' aspect of the Asian football leadership's decision."
-        }
-      ],
+      "author": "Charlie Conchie",
+      "summary": "High-cost lender Evlo has initiated a sale process that could value the firm at over £200m. The move suggests a potential revival in the sub-prime lending sector following years of regulatory contraction.",
+      "also": [],
       "brief": {
-        "what": "The Asian Football Confederation (AFC) has publicly pledged its support for Gianni Infantino’s re-election bid, abandoning its previous stance of opposition. This move follows a period of tension regarding a controversial plan to privatize 20 per cent of FIFA’s World Cup business, valued at $4bn.",
-        "who": "Gianni Infantino is the FIFA president seeking a new mandate, while Sheikh Salman bin Ibrahim Al Khalifa leads the AFC. UEFA remains the primary body opposing Infantino's leadership.",
-        "context": "Infantino faced significant backlash after details leaked regarding the 'Fifa Forward Enterprise' plan, which proposed selling equity to investors. UEFA and other confederations previously issued a joint statement condemning the lack of transparency and perceived deception.",
-        "why": "The AFC stated that recent meetings in Zurich resolved previous issues and fostered a clear understanding between the parties. Critics suggest Infantino successfully divided his opposition by securing support from Caribbean and Arab nations, effectively stalling momentum for any alternative candidates.",
-        "next": "The next FIFA election is scheduled for March, with the deadline for potential candidates to declare their intent occurring next month."
+        "what": "Evlo, a high-cost lender formerly known as Everyday Loans, has hired Alantra to manage a sale process potentially worth over £200m. This development follows a period where the sub-prime market saw 250 firms exit and a £3bn decline in lending capacity.",
+        "who": "Evlo is the primary actor, with Alantra acting as its advisor for the sale. The Financial Conduct Authority and the Advertising Standards Authority are mentioned as regulatory bodies that have previously scrutinized the sector.",
+        "context": "The sub-prime lending market has faced significant pressure since 2019 due to regulatory oversight and compensation claims, leading to the collapse of major players like Amigo Loans and Wonga.com. Evlo emerged from a restructuring of Non-Standard Finance following similar legal challenges.",
+        "why": "Investors are reportedly eyeing the sector to capitalize on an estimated £2bn consumer lending gap left by the exit of previous firms. Evlo's leadership has previously characterized the firm as a good business that has navigated past operational difficulties.",
+        "next": "The company is currently undergoing a sale process dubbed 'Project Oak'."
       },
       "numbers": [
         {
-          "figure": "20 per cent",
-          "what": "equity in a new commercial vehicle"
+          "figure": "£200m",
+          "what": "potential valuation of the company sale"
         },
         {
-          "figure": "$4bn",
-          "what": "value of the privatisation plan"
+          "figure": "252 per cent",
+          "what": "maximum interest rates offered on loans"
+        },
+        {
+          "figure": "£3bn",
+          "what": "reduction in overall market lending capacity"
+        },
+        {
+          "figure": "£2bn",
+          "what": "estimated consumer lending gap"
+        },
+        {
+          "figure": "£14.2m",
+          "what": "profit reported by the company last year"
         }
       ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Boohoo eyes £100m profit as online seller revives fortunes",
+      "source": "City AM",
+      "url": "https://www.cityam.com/boohoo-eyes-100m-profit-as-online-seller-revives-fortunes/",
+      "date": "2026-10-23",
+      "author": "Felix Armstrong",
+      "summary": "Fast fashion retailer Boohoo has returned to profitability and is targeting a £100m pre-tax profit as part of its ongoing turnaround strategy. The company is streamlining operations by offloading non-essential assets and focusing on its core online platform model.",
+      "also": [],
+      "brief": {
+        "what": "Boohoo reported a £28m pre-tax profit for the six months ending in August, marking its first profit since 2021, despite a three per cent revenue decline to £410m. The company is now targeting a £100m pre-tax profit in the medium term through aggressive cost-cutting and asset divestments.",
+        "who": "Group Chief Executive Dan Finley is leading the turnaround, while retail tycoon Mike Ashley and his Frasers Group have previously challenged the company's board and executive pay.",
+        "context": "The firm has faced intense competition from rivals like Shein and Temu, leading to a strategic shift toward an online platform model for third-party brands and the sale of non-essential assets like the Nasty Gal brand and a Sheffield warehouse.",
+        "why": "Finley stated the turnaround is ahead of schedule due to cost-cutting measures and the successful integration of management teams. Analysts at Panmure Liberum attributed the progress to a breathtaking pace of change over the past year.",
+        "next": "Boohoo plans to transition its Burnley warehouse into a new fulfilment hub operated by GXO, with net debt expected to be negligible by the end of the year."
+      },
+      "numbers": [
+        {
+          "figure": "£100m",
+          "what": "targeted pre-tax profit in the medium term"
+        },
+        {
+          "figure": "£28m",
+          "what": "pre-tax profit posted in the six months to August"
+        },
+        {
+          "figure": "£410m",
+          "what": "revenue for the six-month period"
+        },
+        {
+          "figure": "£90m",
+          "what": "proceeds from the sale of a Sheffield warehouse"
+        },
+        {
+          "figure": "£12m",
+          "what": "proceeds from the sale of the Nasty Gal brand"
+        }
+      ]
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Kennedy to select MAHA-aligned researcher to head mental health institute, overruling NIH director",
+      "source": "Science (AAAS)",
+      "url": "https://www.science.org/content/article/kennedy-select-maha-aligned-researcher-head-mental-health-institute-overruling-nih",
+      "date": "2026-10-23",
+      "author": "Jocelyn Kaiser",
+      "summary": "The U.S. health secretary intends to appoint a proponent of metabolic psychiatry to lead the National Institute of Mental Health. This decision reportedly bypasses the authority of the NIH director.",
+      "also": [],
+      "brief": {
+        "what": "The health secretary plans to appoint a leader aligned with the MAHA movement to head the $2.2 billion National Institute of Mental Health. This appointment will occur despite opposition from the NIH director.",
+        "who": "The health secretary, the NIH director, and an unnamed researcher associated with the metabolic psychiatry movement.",
+        "context": "The National Institute of Mental Health is a major federal agency responsible for mental health research, currently operating with a $2.2 billion budget.",
+        "why": "The health secretary is overruling the NIH director to install a researcher who supports the metabolic psychiatry movement.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$2.2 billion",
+          "what": "annual budget of the mental health agency"
+        }
+      ]
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "First person infected with rare Shamonda virus: what we know",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03416-1",
+      "date": "2026-10-23",
+      "author": "Rachel Fieldhouse",
+      "summary": "A man in France has become the first recorded human case of the Shamonda virus following an ongoing outbreak in European livestock. Researchers are investigating the transmission routes of this orthobunyavirus, which currently lacks specific vaccines or antiviral treatments.",
+      "also": [],
+      "brief": {
+        "what": "A man in France with leukemia has died after contracting the Shamonda virus, marking the first known human infection. The virus, which has been circulating in European cattle since July, caused severe neurological symptoms including seizures and a coma.",
+        "who": "The patient, an immunocompromised man in France, and infectious-disease researchers including Krispin Hajkowicz and Daniel Rawle.",
+        "context": "Shamonda virus is an orthobunyavirus typically found in livestock and transmitted by midges. While human-to-human transmission has not been recorded for this specific virus, experts note that climate change and increased human-wildlife contact are raising the risk of zoonotic infections.",
+        "why": "Researchers suggest the man was likely infected via a midge bite, though they are investigating other potential routes like contaminated food or medical procedures. Experts attribute the rising risk of such infections to climate change, increased contact with livestock, and a growing population of immunocompromised individuals.",
+        "next": "Investigations are ongoing to rule out alternative transmission routes such as contaminated food or blood transfusions."
+      }
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Elusive snow leopards and evasive particles: Books in brief",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03395-3",
+      "date": "2026-10-23",
+      "author": "Andrew Robinson",
+      "summary": "A review of recent books explores the evolution of quantum physics, the history of US pharmaceutical research, and the cultural foundations of algorithmic communication.",
+      "also": [],
+      "brief": {
+        "what": "Nature reviews three new books covering diverse scientific and technical subjects, including the quantum world, the history of US pharmaceutical research, and the development of algorithmic culture. The works examine topics ranging from the physics of black holes to the long-term investment strategies that have sustained American drug research for an eighty-year-long period.",
+        "who": "Physicist Danni Holmes, journalist Barry Werth, and communication researcher Xiaochang Li are the authors of the books reviewed.",
+        "context": "The reviews highlight how scientific progress is often intertwined with historical, financial, and cultural developments, such as the influence of presidential science advisers on pharmacology and the linguistic debates shaping modern artificial intelligence.",
+        "why": "The books were written to provide analysis on complex topics, with Werth specifically aiming to illuminate the value of long-term investment in science through the lens of post-war pharmacology leaders.",
+        "next": "The article doesn't say."
+      }
     }
   ]
 }
