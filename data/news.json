@@ -1,139 +1,352 @@
 {
-  "generated": "2026-10-26",
-  "window": "2026-10-19 to 2026-10-26",
+  "generated": "2026-10-27",
+  "window": "2026-10-20 to 2026-10-27",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-10-26",
-    "label": "Mon 26 Oct · change on the day",
+    "asof": "2026-10-27",
+    "label": "Tue 27 Oct · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,623.68",
-        "change": "-0.52%"
+        "value": "7,676.77",
+        "change": "+0.70%"
       },
       {
         "name": "Dow",
-        "value": "52,215.16",
-        "change": "-1.23%"
+        "value": "52,361.58",
+        "change": "+0.28%"
       },
       {
         "name": "Nasdaq",
-        "value": "25,955.342",
-        "change": "-0.21%"
+        "value": "26,169.381",
+        "change": "+0.82%"
       },
       {
         "name": "CAC 40",
-        "value": "7,838.94",
-        "change": "+0.72%"
+        "value": "7,851.08",
+        "change": "+0.05%"
       },
       {
         "name": "DAX",
-        "value": "25,382.60",
-        "change": "+0.80%"
+        "value": "25,418.26",
+        "change": "+0.03%"
       },
       {
         "name": "Brent oil",
-        "value": "$114.98",
-        "change": "-1.49%"
+        "value": "$115.96",
+        "change": "+0.13%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.995%",
+        "value": "4.991%",
         "change": "+0.01 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1201",
-        "change": "-0.0089%"
+        "value": "1.1142",
+        "change": "-0.2685%"
       }
     ]
   },
   "week": [
     {
-      "text": "Lula da Silva has secured a fourth term as Brazil's president, though the result has triggered market volatility and a refusal to concede from Flavio Bolsonaro.",
+      "text": "DoorDash is in advanced talks to acquire Instacart for $17 billion, while Meta plans to raise $95 billion to expand its AI infrastructure.",
       "urls": [
-        "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results",
-        "https://thedispatch.com/newsletter/morning/lula-narrowly-wins-brazils-election/",
-        "https://www.bloomberg.com/news/videos/2026-10-26/brazil-braces-for-more-market-turbulence-3-minutes-mliv-video",
-        "https://www.bloomberg.com/news/newsletters/2026-10-26/brazil-catches-investors-leaning-the-wrong-way"
+        "https://www.wsj.com/business/doordash-circles-deal-to-buy-instacart-41ac407d?mod=pls_whats_news_us_business_f",
+        "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "SpaceX restored Starlink access in Ukraine following discussions with President Trump, while Tesla is reportedly exploring a merger with SpaceX to advance its autonomous driving technology.",
+      "text": "Anthropic has selected Goldman Sachs and Morgan Stanley to lead its upcoming IPO, fueling a broader rally in global technology stocks.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "https://www.ft.com/content/c8db9b39-1922-41f3-b8e9-4488d16f8a2c?syn-25a6b1a6=1"
+        "https://www.nytimes.com/2026/10/27/business/in-anthropic-ipo-goldman-and-morgan-stanley-slug-it-out-for-top-bank.html",
+        "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
+        "https://www.cityam.com/ftse-100-live-stocks-to-slide-as-oil-holds-at-115-tech-stocks-surge/"
       ]
     },
     {
-      "text": "Airbus and BAE Systems are entering discussions regarding potential collaboration on the Global Combat Air Programme, as Germany weighs its own involvement in the project.",
+      "text": "The Trump administration has removed some tariffs on Canadian goods to support Senator Susan Collins, though broader trade friction remains regarding aluminum.",
       "urls": [
-        "https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe?syn-25a6b1a6=1",
-        "https://www.aerotime.aero/articles/airbus-gpac-fighter-opportunities-bae-systems"
+        "https://www.wsj.com/business/aluminum-tariff-canada-trump-f2555b38?mod=pls_whats_news_us_business_f",
+        "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
       ]
     },
     {
-      "text": "The UK government faces pressure regarding the upcoming Autumn Budget, with concerns raised over potential bank taxes and the general economic outlook for the City of London.",
+      "text": "Microsoft is offering voluntary buyouts to 60,000 employees across four countries as part of a major workforce restructuring.",
       "urls": [
-        "https://www.cityam.com/autumn-budget-2026-bank-tax-will-put-the-citys-success-at-risk/",
-        "https://www.cityam.com/ftse-100-live-stocks-to-rise-oil-climbs-further-on-iran-us-tensions/"
+        "https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "Severe weather from Storm Boelo has caused widespread power outages in the UK, while the Met Office maintains wind warnings for the affected regions.",
+      "text": "Western Sydney International Airport has opened for commercial flights, though it currently lacks the planned metro rail connection.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
   "watch": [
     {
-      "date": "2026-10-27",
-      "when": "",
-      "label": "Met Office yellow weather warnings for wind expected to continue",
-      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "date": "2026-10-28",
       "when": "",
-      "label": "UK Chancellor to deliver the Autumn Budget",
-      "url": "https://www.cityam.com/autumn-budget-2026-bank-tax-will-put-the-citys-success-at-risk/"
+      "label": "UK Budget and National Minimum Wage rates announcement",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "date": "2026-10-30",
+      "when": "",
+      "label": "Apple iPhone Duo market expansion",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "date": "2027-10-27",
+      "when": "12 months",
+      "label": "Expected completion of Western Sydney Airport metro line",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "date": "2028-01-01",
+      "when": "2028",
+      "label": "First F-35 fighter arrivals in Canada",
+      "url": "https://www.aerotime.aero/articles/canada-first-two-f35-fighters-delivery"
+    },
+    {
+      "date": "2027-02-01",
+      "when": "February",
+      "label": "Jay-Z Super Bowl halftime performance",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z"
     }
   ],
   "items": [
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 3,
+      "title": "DoorDash Circles Deal to Buy Instacart",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/doordash-circles-deal-to-buy-instacart-41ac407d?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-26",
+      "author": "Amira McKee",
+      "summary": "DoorDash is reportedly in advanced discussions to acquire Instacart in a deal valued at approximately $17 billion. This potential consolidation follows broader market volatility and regulatory scrutiny in the technology sector.",
+      "also": [
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-26",
+          "title": "DoorDash in advanced talks to acquire Instacart in potential $17B deal: report",
+          "url": "https://www.foxbusiness.com/retail/doordash-advanced-talks-acquire-instacart-potential-17b-deal-report",
+          "note": "Fox Business highlights the specific $17 billion valuation and characterizes the discussions as advanced talks."
+        }
+      ],
+      "brief": {
+        "what": "DoorDash is currently in advanced negotiations to purchase Instacart, a transaction that could be valued at $17 billion. This move represents a significant potential consolidation within the delivery and logistics technology space.",
+        "who": "DoorDash and Instacart are the primary companies involved in the reported acquisition talks.",
+        "context": "The report emerges amid a period of broader market instability, including recent declines in Brazilian markets following a presidential election and ongoing regulatory tensions between Florida and major technology firms.",
+        "why": "The article does not explicitly state the strategic rationale behind the potential acquisition.",
+        "next": "The article does not say."
+      },
+      "numbers": [
+        {
+          "figure": "$17 billion",
+          "what": "potential valuation of the acquisition deal"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-26",
+      "author": "Isabella Simonetti",
+      "summary": "Microsoft is offering voluntary buyouts to 60,000 employees across four countries as part of a workforce restructuring. The offer is available to specific staff members in the U.S., U.K., Canada, and India.",
+      "also": [
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-26",
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees as tech giant reshapes its workforce",
+          "url": "https://www.foxbusiness.com/markets/microsoft-offers-voluntary-buyouts-60000-employees-tech-giant-reshapes-its-workforce",
+          "note": "Fox Business highlights the voluntary nature of the buyouts and the company's broader workforce reshaping efforts."
+        },
+        {
+          "source": "New York Post",
+          "author": "Emily Lang",
+          "date": "2026-10-26",
+          "title": "Microsoft announces buyouts for 60K employees — quarter of workforce — as part of AI transformation",
+          "url": "https://nypost.com/2026/10/26/tech/microsoft-announces-buyouts-for-60k-employees-quarter-of-workforce-as-part-of-ai-transformation/",
+          "note": "New York Post emphasizes the scale of the cuts by noting it represents a quarter of the total workforce and explicitly links the move to an AI transformation."
+        }
+      ],
+      "brief": {
+        "what": "Microsoft has announced a voluntary buyout program targeting 60,000 employees. This initiative is being extended to specific workers located in the United States, United Kingdom, Canada, and India.",
+        "who": "Microsoft is the software giant initiating the buyout program for its global workforce.",
+        "context": "The company is currently undergoing a strategic shift, which includes a focus on AI transformation and a broader restructuring of its internal workforce.",
+        "why": "The article states the buyouts are part of the company's efforts to reshape its workforce.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "60,000",
+          "what": "number of employees offered voluntary buyouts"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/aluminum-tariff-canada-trump-f2555b38?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-27",
+      "author": "Ryan Dezember",
+      "summary": "The Trump administration's 50% tariff on Canadian aluminum has increased costs for American industries that rely on the metal. Quebec smelters remain a critical source of supply due to their access to low-cost hydroelectric power.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Pete Wells",
+          "date": "2026-10-23",
+          "title": "Trump’s Tariffs Slow America’s Access to Canada’s Cheese",
+          "url": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+          "note": "The New York Times frames the story by focusing on the impact of tariffs on the cheese industry rather than aluminum."
+        }
+      ],
+      "brief": {
+        "what": "A 50% tariff on Canadian aluminum has driven up prices for American industries. These industries depend on Quebec smelters, which benefit from affordable hydroelectric power.",
+        "who": "The Trump administration, which implemented the tariff, and Quebec smelters, which supply the aluminum.",
+        "context": "American industry relies on Canadian aluminum imports to maintain operations and manage costs.",
+        "why": "The article states that the tariff has pushed up prices for American industry, highlighting the country's dependence on Canadian supply.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "50%",
+          "what": "tariff rate imposed by the Trump administration"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Trump’s Tariffs Slow America’s Access to Canada’s Cheese",
+          "url": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+          "source": "The New York Times",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "date": "2026-10-26",
+      "author": "Astranis",
+      "summary": "Astranis has upgraded its SpaceX launch contract to a dedicated mission, enabling the deployment of its entire six-satellite Block 4 MicroGEO production run. This move aims to meet rising demand for dedicated high-orbit communications and space domain awareness infrastructure.",
+      "also": [
+        {
+          "source": "AeroTime",
+          "author": "Clement Charpentreau",
+          "date": "2026-10-20",
+          "title": "ICEYE launches four radar satellites on SpaceX Bandwagon-5 mission",
+          "url": "https://www.aerotime.aero/articles/iceye-four-sar-satellites-spacex-bandwagon-5",
+          "note": "AeroTime focuses on a different launch mission involving ICEYE radar satellites, whereas the SpaceNews report highlights the strategic contract upgrade for Astranis' own production fleet."
+        }
+      ],
+      "brief": {
+        "what": "Astranis amended a 2024 contract with SpaceX to secure a dedicated Falcon 9 mission in 2028, which will carry all six satellites from its Block 4 production run. This mission utilizes an Impulse Helios upper stage for direct-inject into geostationary orbit (GEO).",
+        "who": "Astranis, a satellite manufacturer, and SpaceX, the launch provider.",
+        "context": "Astranis specializes in MicroGEO satellites, which are smaller, high-performance satellites designed for rapid deployment and dedicated customer control. The company is expanding its capabilities beyond communications into space domain awareness with its new Perceptor platform.",
+        "why": "CEO John Gedmark stated the upgrade is necessary to ramp up production and meet increasing demand from commercial and national security customers who require dedicated, controllable space infrastructure rather than shared capacity.",
+        "next": "Astranis plans to announce initial customers for the Block 4 satellites at a later date."
+      },
+      "numbers": [
+        {
+          "figure": "$1.2 billion",
+          "what": "total capital raised by Astranis from investors"
+        },
+        {
+          "figure": "$1 billion",
+          "what": "backlog of commercial contracts for Astranis"
+        },
+        {
+          "figure": "16",
+          "what": "total fleet size of Astranis satellites"
+        },
+        {
+          "figure": "6",
+          "what": "number of MicroGEO satellites in Block 4"
+        },
+        {
+          "figure": "153,000 sq. ft.",
+          "what": "size of Astranis headquarters facility"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Canada receives first two F-35s as full purchase remains under review",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/canada-first-two-f35-fighters-delivery",
+      "date": "2026-10-26",
+      "author": "Stephen Pope",
+      "summary": "The Royal Canadian Air Force has taken delivery of its first two F-35A fighters, even as the government reviews the total size of its planned 88-jet acquisition.",
+      "also": [
+        {
+          "source": "Simple Flying",
+          "author": "Aaron Bailey",
+          "date": "2026-10-27",
+          "title": "Canada Receives First 2 F-35s, But Its Full 88-Jet Order Hangs In The Balance",
+          "url": "https://simpleflying.com/canada-receives-first-2-f-35s-but-its-full-88-jet-order-hangs-in-the-balance/",
+          "note": "Simple Flying highlights the uncertainty of the full order in its headline, whereas AeroTime focuses on the delivery event itself."
+        }
+      ],
+      "brief": {
+        "what": "The Royal Canadian Air Force received its first two Lockheed Martin F-35A fighters at Luke Air Force Base in Arizona. While the initial agreement covers 88 aircraft, the government is currently reviewing the final fleet size.",
+        "who": "The Royal Canadian Air Force is the recipient, while Prime Minister Mark Carney initiated the review of the purchase agreement.",
+        "context": "Canada is replacing its aging CF-18 fleet to support NORAD and NATO commitments. The government previously considered a mixed fleet including Saab Gripens before selecting the F-35.",
+        "why": "Prime Minister Mark Carney ordered a review of the purchase due to deteriorating relations with Washington, leaving the total fleet size unresolved despite the start of deliveries.",
+        "next": "The first aircraft will remain in the United States for pilot training, with the first arrivals on Canadian soil scheduled for 2028."
+      },
+      "numbers": [
+        {
+          "figure": "88",
+          "what": "total number of F-35A aircraft in the acquisition agreement"
+        },
+        {
+          "figure": "2",
+          "what": "number of F-35A fighters delivered to the Royal Canadian Air Force"
+        },
+        {
+          "figure": "8",
+          "what": "number of fighters to be based at the pilot training center"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-25",
       "author": null,
-      "summary": "SpaceX CEO Elon Musk confirmed that the company restricted Ukraine's access to the Starlink satellite network, citing violations of terms regarding offensive drone strikes. The service has since been restored following discussions involving US President Donald Trump.",
+      "summary": "SpaceX CEO Elon Musk confirmed that the company restricted Starlink internet access in Ukraine, citing violations of terms regarding offensive drone strikes. The service has since been restored following discussions involving US President Donald Trump.",
       "also": [
-        {
-          "source": "The New York Times",
-          "author": "Sheera Frenkel, Siobhán O’Grady and Liubov Sholudko",
-          "date": "2026-10-25",
-          "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-          "note": "The New York Times frames the story by emphasizing Ukraine's alleged violation of rules."
-        },
         {
           "source": "AeroTime",
           "author": "Ian Molyneaux",
           "date": "2026-10-25",
           "title": "Elon Musk says Ukraine ‘violated Starlink terms’ as full speed service returns",
           "url": "https://www.aerotime.aero/articles/elon-musk-ukraine-violated-starlink-terms-full-speed-service-returns",
-          "note": "AeroTime highlights the return of full-speed service alongside the violation claims."
+          "note": "AeroTime frames the story by highlighting Musk's specific accusation that Ukraine violated terms of service."
         }
       ],
       "brief": {
-        "what": "Elon Musk stated that SpaceX restricted Ukraine's Starlink service because the military used the civilian network for offensive drone strikes, which he claims violates the company's terms of service. Following intervention from President Donald Trump, the service was restored, and Ukrainian officials confirmed a stable connection for drones reaching speeds over 400km/h.",
-        "who": "Elon Musk, CEO of SpaceX; Donald Trump, US President; and Ukrainian officials including presidential adviser Serhii Beskrestnov and Defense Minister Yevhenii Khmara.",
-        "context": "Ukraine relies on SpaceX's low Earth orbit satellite constellations for battlefield coordination and drone operations. The restriction occurred amid diplomatic friction between Washington and Kyiv regarding Ukrainian strikes on Russian oil infrastructure.",
-        "why": "Musk stated that Starlink is a civilian service and should not be used for offensive strikes that invite retaliation. Ukrainian officials argue that the technical limitations of the system make such strikes physically impossible via commercial Starlink.",
+        "what": "SpaceX restricted Starlink connectivity in Ukraine, which Musk claims was due to the military using the civilian service for offensive drone strikes. Following intervention from President Trump, the service was restored, with Ukrainian officials reporting stable connections and increased operational speeds for their drones.",
+        "who": "Elon Musk, CEO of SpaceX; Donald Trump, US President; and Ukrainian officials including President Volodymyr Zelensky and adviser Serhii Beskrestnov.",
+        "context": "Ukraine relies on both the civilian Starlink network and the military-grade Starshield system for battlefield communications and drone operations. The restriction occurred amid diplomatic tensions between Washington and Kyiv regarding Ukrainian strikes on Russian oil infrastructure.",
+        "why": "Musk stated that Starlink is a civilian service and that using it for offensive drone strikes violates company terms. Ukrainian officials, however, argue that the system is physically incapable of supporting the deep strikes Musk described and called his claims strange.",
         "next": "The article doesn't say."
       },
       "numbers": [
@@ -147,116 +360,56 @@
         },
         {
           "figure": "400km/h",
-          "what": "speed capacity of drones with stable connection"
+          "what": "speed at which drones can now operate"
         },
         {
           "figure": "161km/h",
-          "what": "previous speed threshold for connection cutouts"
+          "what": "previous speed limit for Starlink connection"
         }
       ]
     },
     {
-      "topic": "world",
-      "importance": 3,
-      "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
-      "date": "2026-10-26",
+      "topic": "business",
+      "importance": 2,
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-27",
       "author": null,
-      "summary": "Flavio Bolsonaro has refused to concede the Brazilian presidential election following the victory of Lula da Silva. Lula da Silva secured a historic fourth term in the recent national vote.",
+      "summary": "Apple has acknowledged screen defects in its new iPhone Duo foldable smartphone and is offering replacements to affected customers. The company is working to address reports of display lines and hinge-related cracks shortly after the device's high-profile launch.",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Ana Ionova, Adam B. Ellick and Yan Zhuang",
+          "source": "New York Post",
+          "author": "Ariel Zilber",
           "date": "2026-10-26",
-          "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-          "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-          "note": "The New York Times focuses on the broader implications of the victory and the transition process."
-        },
-        {
-          "source": "The New York Times",
-          "author": "Ana Ionova, Leila Medina and Thomas Vollkommer",
-          "date": "2026-10-24",
-          "title": "Why Brazil’s Election Could Come Down to Crime",
-          "url": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
-          "note": "The New York Times frames the election through the lens of crime as a primary political issue."
+          "title": "Apple addresses reports of cracked screens on $2K iPhone Duo just days after frenzied launch",
+          "url": "https://nypost.com/2026/10/26/business/apple-addresses-reports-of-cracked-screens-on-2k-iphone-duo-just-days-after-frenzied-launch/",
+          "note": "The New York Post headline emphasizes the high price point and the speed of the response following the product launch."
         }
       ],
       "brief": {
-        "what": "Flavio Bolsonaro is refusing to concede the election to Lula da Silva, who won a historic 4th term in Sunday's vote.",
-        "who": "Flavio Bolsonaro, who is refusing to concede, and Lula da Silva, the winner of the presidential election.",
-        "context": "The election results mark a significant political transition in Brazil as the incumbent administration faces a challenge regarding the legitimacy of the outcome.",
-        "why": "The refusal to concede follows the official election results that declared Lula da Silva the winner of the presidency.",
-        "next": "The article doesn't say."
+        "what": "Apple is replacing iPhone Duo handsets following reports of display lines and cracks along the central hinge. While the company has not disclosed the number of affected units, it is urging customers to contact them for support.",
+        "who": "Apple is the manufacturer, with new CEO John Ternus leading the product's market introduction. Technology analyst Francisco Jeronimo from IDC is monitoring the situation's impact on brand confidence.",
+        "context": "The iPhone Duo is Apple's first foldable device, representing a major redesign intended to compete with established foldable smartphones from rivals like Samsung. The product is positioned as a premium alternative in a category known for complex engineering challenges.",
+        "why": "Apple stated it is aware of an issue impacting the inner display on a small number of phones. Analyst Francisco Jeronimo suggests the issues highlight the steep learning curve associated with foldable technology, even for companies with significant engineering resources.",
+        "next": "Apple is preparing for a further 28 market launches on 30 October and is expected to clarify its warranty position."
       },
       "numbers": [
         {
-          "figure": "4th",
-          "what": "term won by Lula da Silva"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 3,
-      "title": "Israel’s election: Five key things to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-      "date": "2026-10-26",
-      "author": null,
-      "summary": "Israel is heading to legislative elections that will determine the government's direction amid ongoing military conflicts and deep domestic polarization. Neither the pro-Netanyahu coalition nor the opposition bloc is currently projected to secure the 61-seat parliamentary majority required to govern.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Patrick George",
-          "date": "2026-10-25",
-          "title": "Five Things to Know About Audi’s First U.S. Factory",
-          "url": "https://www.wsj.com/business/autos/five-things-to-know-about-audis-first-u-s-factory-ea203998?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses on Audi's factory, ignoring the Israeli election entirely."
+          "figure": "£1,999",
+          "what": "starting price of the iPhone Duo in the UK"
         },
         {
-          "source": "The New York Times",
-          "author": "Ephrat Livni",
-          "date": "2026-10-25",
-          "title": "Israel’s High-Stakes Election: What to Know",
-          "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-          "note": "The New York Times frames the election as 'high-stakes' and emphasizes the uncertainty of the outcome."
+          "figure": "$2,668",
+          "what": "starting price of the iPhone Duo in US dollars"
         },
         {
-          "source": "Wall Street Journal",
-          "author": "Patrick George",
-          "date": "2026-10-25",
-          "title": "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
-          "url": "https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe?mod=pls_whats_news_us_business_f"
-        }
-      ],
-      "brief": {
-        "what": "Israelis are voting in legislative elections to decide the country's leadership following years of conflict and internal division. Current polling indicates a deadlock, with the opposition projected to win 52 seats and the pro-Netanyahu bloc 50, both falling short of the 61 seats needed for a majority.",
-        "who": "Prime Minister Benjamin Netanyahu leads the Likud-centered coalition, while a diverse opposition alliance includes parties led by figures such as Yair Lapid and Naftali Bennett.",
-        "context": "The election is the first since the October 7, 2023 attacks and occurs against a backdrop of international criticism, domestic security concerns, and ongoing corruption trials facing the Prime Minister.",
-        "why": "The vote is happening because the country faces a fractured political landscape and a need to determine its future path regarding military conflicts and democratic institutions, according to analysts cited in the report.",
-        "next": "Parties will likely engage in difficult post-election negotiations to form a coalition; if these fail, Israel may face a minority government or another round of elections."
-      },
-      "numbers": [
-        {
-          "figure": "3.25 percent",
-          "what": "electoral threshold required for parties to enter parliament"
+          "figure": "7.6-inch",
+          "what": "size of the inner display on the iPhone Duo"
         },
         {
-          "figure": "61 seats",
-          "what": "parliamentary majority required to form a government"
-        },
-        {
-          "figure": "120 seats",
-          "what": "total number of seats in the Knesset"
-        },
-        {
-          "figure": "7.3 million",
-          "what": "number of Israeli citizens eligible to vote"
-        },
-        {
-          "figure": "1.2 million",
-          "what": "number of Palestinian citizens of Israel eligible to vote"
+          "figure": "£3,199",
+          "what": "price for the most well-equipped iPhone Duo models"
         }
       ]
     },
@@ -268,22 +421,22 @@
       "url": "https://thedispatch.com/newsletter/morning/lula-narrowly-wins-brazils-election/",
       "date": "2026-10-26",
       "author": "James P. Sutton, Surya Gowda, Ross Anderson",
-      "summary": "Lula has narrowly won the Brazilian election. The result comes alongside other major news, including U.S. legal action regarding an Alaska Senate race and potential military strikes on Iran.",
+      "summary": "Lula has secured a narrow victory in the Brazilian presidential election.",
       "also": [
         {
-          "source": "Bloomberg",
-          "author": "Leda Alvim, Giovanna Bellotti Azevedo and Barbara Nascimento",
+          "source": "Nature",
+          "author": "Mariana Lenharo",
           "date": "2026-10-26",
-          "title": "Brazil Markets Set to Plunge on Lula’s Improbable Election Win",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win",
-          "note": "Bloomberg frames the story by focusing specifically on the negative market reaction expected following the election result."
+          "title": "Brazil election: many scientists relieved as Lula wins surprise victory",
+          "url": "https://www.nature.com/articles/d41586-026-03446-9",
+          "note": "Nature frames the story by highlighting the specific reaction of the scientific community to the election results."
         }
       ],
       "brief": {
-        "what": "Lula has secured a narrow victory in Brazil's presidential election. Simultaneously, the U.S. Department of Justice is suing to block the certification of a Senate race in Alaska, and the Pentagon is preparing options for renewed military strikes against Iran.",
-        "who": "Lula is the winner of the Brazilian election, while the U.S. Department of Justice and the Pentagon are the primary actors involved in the domestic and international developments mentioned.",
-        "context": "The report provides a brief update on major political and geopolitical events occurring as of late October 2026.",
-        "why": "The article reports these events as current news developments without providing specific underlying causes for the election outcome or the military planning.",
+        "what": "Lula has won the Brazilian presidential election by a narrow margin.",
+        "who": "Lula is the primary actor mentioned as the winner of the election.",
+        "context": "The article provides brief mention of the election outcome alongside other unrelated news items, such as a Justice Department lawsuit regarding an Alaska Senate race and Pentagon planning for potential strikes on Iran.",
+        "why": "The article does not provide specific reasons for the election outcome or the margin of victory.",
         "next": "The article doesn't say."
       },
       "earlier": [
@@ -296,30 +449,70 @@
       ]
     },
     {
-      "topic": "environment",
+      "topic": "business",
       "importance": 2,
-      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e?mod=pls_whats_news_us_business_f",
       "date": "2026-10-26",
-      "author": null,
-      "summary": "Storm Boelo has left 90,000 properties without power across Scotland and northern England, causing significant infrastructure damage and travel disruption. The Met Office has issued further wind warnings as recovery efforts are hampered by ongoing severe weather.",
-      "also": [],
+      "author": "Chelsey Dulaney",
+      "summary": "Meta plans to raise up to $95 billion to finance its expanding artificial intelligence infrastructure and personal superintelligence projects.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Ryan Mac and Lauren Hirsch",
+          "date": "2026-10-26",
+          "title": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+          "url": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
+          "note": "The New York Times headline frames the story by grouping Meta with SpaceX to highlight a broader trend of major companies raising capital for AI ambitions."
+        }
+      ],
       "brief": {
-        "what": "Storm Boelo caused widespread power outages for 90,000 properties and significant property damage across Scotland and northern England. The storm, which followed recent disruption from Storm Austen, has forced school closures, halted rail lines, and disrupted ferry services.",
-        "who": "The Energy Networks Association (ENA) is managing power restoration, while the Met Office is issuing ongoing weather warnings. Local businesses, such as manufacturer Wax Lyrical, are reporting significant operational disruptions.",
-        "context": "The UK is experiencing a series of severe weather events, with Storm Boelo being the second major storm in recent days. These events have prompted discussions regarding the necessary level of investment in power network resilience to mitigate future impacts of climate change.",
-        "why": "The outages were caused by high winds and falling trees, which also resulted in two fatalities. Restoration efforts are currently delayed because high winds prevent engineers from safely repairing damaged poles and wires.",
-        "next": "The Met Office has issued additional yellow weather warnings for wind through Tuesday, with conditions expected to calm by midweek."
+        "what": "Meta has announced plans to raise up to $95 billion in financing to support its significant investments in artificial intelligence infrastructure and the development of personal superintelligence.",
+        "who": "Meta, the parent company of Facebook, is the primary actor driving this capital raise.",
+        "context": "The company is currently prioritizing massive investments in AI technology as part of its long-term growth strategy.",
+        "why": "The funding is intended to help Meta finance its extensive infrastructure requirements and research into personal superintelligence.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "90,000",
-          "what": "properties currently without power"
-        },
+          "figure": "$95 billion",
+          "what": "maximum amount of financing Meta plans to raise"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "India’s Green Aviation Push Gives Waste Cooking Oil New Life",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-27/india-s-green-aviation-push-gives-waste-cooking-oil-new-life",
+      "date": "2026-10-27",
+      "author": null,
+      "summary": "India is looking to used cooking oil to help fuel its green aviation ambition and reduce reliance on imported crude. But an inefficient and fragmented supply chain could pose a challenge as the country prepares to introduce its Sustainable Aviation Fuel mandate. (Source: Bloomberg)",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-26",
+      "author": null,
+      "summary": "Western Sydney International has officially opened for commercial flights, but the facility currently lacks direct public transportation links. A metro line intended to serve the airport is delayed and will not be operational for at least another year.",
+      "also": [],
+      "brief": {
+        "what": "Western Sydney International (WSI) has commenced operations as the city's first 24-hour commercial airport, a project costing $5bn. Despite the opening, the airport lacks direct public transport access, with a planned metro line facing delays that will keep it incomplete for at least 12 months.",
+        "who": "Western Sydney International is the primary actor, serving the Western Sydney region, while local residents are the affected stakeholders navigating the commute.",
+        "context": "The airport is designed to provide 24-hour commercial flight capacity to the Western Sydney area, aiming to improve regional infrastructure.",
+        "why": "The lack of immediate public transport is due to construction delays on the metro line intended to connect the airport to the city.",
+        "next": "The metro line is expected to be completed in at least 12 months."
+      },
+      "numbers": [
         {
-          "figure": "50-85mph",
-          "what": "sustained wind speeds across affected regions"
+          "figure": "$5bn",
+          "what": "total cost of the new airport"
         }
       ]
     },
@@ -339,14 +532,14 @@
           "date": "2026-10-23",
           "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
           "url": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
-          "note": "The New York Times frames the story as a strategic swap of tariffs ahead of a competitive election race."
+          "note": "The New York Times frames the story as a strategic maneuver specifically timed ahead of a tight election race."
         }
       ],
       "brief": {
-        "what": "President Trump lifted tariffs on nine agricultural products and specific processing equipment imported from Canada. This policy adjustment aims to alleviate economic pressure on Maine businesses and farmers who rely on cross-border supply chains.",
-        "who": "Senator Susan Collins, who lobbied for the relief, and President Trump, who authorized the exemptions. Democratic challenger Troy Jackson and Senate finance committee member Ron Wyden are also key figures criticizing the timing of the move.",
-        "context": "Maine maintains a highly integrated economy with Canada, making the state particularly vulnerable to trade wars. Senator Collins is currently in a competitive re-election race that could determine which party controls the Senate.",
-        "why": "The White House stated the refinement serves the public interest and offsets disadvantages from Canada's trade measures. Conversely, Democratic critics characterize the decision as a political maneuver to bolster Senator Collins' standing in a tight race.",
+        "what": "The Trump administration exempted nine agricultural products and specific processing equipment from existing tariffs on Canadian imports. This policy adjustment aims to alleviate economic pressure on Maine industries that rely on cross-border trade.",
+        "who": "Senator Susan Collins, who lobbied for the relief, and President Donald Trump, whose administration implemented the tariff changes.",
+        "context": "Maine maintains deep economic ties with Canada, and local industries like logging and fishing have been negatively impacted by the broader trade war. Senator Collins is currently in a highly competitive re-election race that could determine the balance of power in the Senate.",
+        "why": "The White House stated the move was to 'better serve the public interest' and refine trade measures. Conversely, Democratic critics characterize the decision as a political maneuver to bolster Senator Collins' standing in a tight race.",
         "next": "Senator Collins intends to continue seeking additional tariff relief and advocating for a broader trade agreement with Canada."
       },
       "numbers": [
@@ -369,59 +562,192 @@
       ]
     },
     {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Volvo Shares Plunge as China Ambitions Fade for Western Carmakers",
+      "topic": "business",
+      "importance": 1,
+      "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html",
-      "date": "2026-10-23",
-      "author": "James Paton",
-      "summary": "Volvo Car shares fell sharply as the automaker announced plans to eliminate 2,500 jobs amid a cooling Chinese automotive market.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Dominic Chopping",
-          "date": "2026-10-23",
-          "title": "Volvo Car Shares Plunge as Automaker Slashes More Jobs",
-          "url": "https://www.wsj.com/business/autos/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses specifically on the job cuts as the primary driver for the share price decline."
-        }
-      ],
+      "url": "https://www.nytimes.com/2026/10/27/business/in-anthropic-ipo-goldman-and-morgan-stanley-slug-it-out-for-top-bank.html",
+      "date": "2026-10-27",
+      "author": "Lauren Hirsch and Sri Muppidi",
+      "summary": "Anthropic has selected Goldman Sachs and Morgan Stanley as lead underwriters for its forthcoming initial public offering. This high-profile mandate promises significant prestige and substantial financial fees for the two banking giants.",
+      "also": [],
       "brief": {
-        "what": "Volvo Car announced a reduction of 2,500 jobs, contributing to a broader trend of Western automakers expressing pessimism regarding the Chinese market.",
-        "who": "Volvo Car is the Swedish automaker implementing the workforce reduction.",
-        "context": "The automotive industry is currently facing significant headwinds in China, which remains the world's largest car market.",
-        "why": "The company is responding to a gloomy outlook for the Chinese automotive sector, a sentiment shared by several of its industry competitors.",
+        "what": "Anthropic has officially appointed Goldman Sachs and Morgan Stanley to serve as the lead underwriters for its upcoming public offering. This selection marks a competitive victory for the two firms as they secure a prominent role in the company's transition to the public markets.",
+        "who": "Anthropic is the company preparing for the public offering, while Goldman Sachs and Morgan Stanley are the investment banks appointed to lead the underwriting process.",
+        "context": "An initial public offering (I.P.O.) is the process by which a private company offers shares to the public for the first time, requiring the assistance of investment banks to manage the sale and regulatory requirements.",
+        "why": "The article notes that the role of lead underwriter is highly sought after because it generates generous fees and provides enormous prestige for the financial institutions involved.",
         "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-27",
+      "author": null,
+      "summary": "The UK government is set to announce a series of cost-of-living measures in the upcoming Budget, including a fuel duty freeze and the removal of import tariffs on select food items. These initiatives aim to provide financial relief to households amid ongoing economic pressures.",
+      "also": [],
+      "brief": {
+        "what": "Chancellor John Healey is preparing a Budget featuring a fuel duty freeze, the removal of import tariffs on 100 food items, and a permanent tax-free mileage rate of 55p per mile. Additionally, the government plans to introduce a taper mechanism for carer's allowance and provide paternity pay for self-employed fathers.",
+        "who": "Chancellor John Healey is leading the Budget strategy, supported by Business Secretary Jonathan Reynolds, while Shadow Chancellor Andrew Griffith has criticized the measures as insufficient.",
+        "context": "The government is attempting to mitigate the impact of global conflicts in Iran and Ukraine on domestic living costs. These measures follow previous tariff suspensions introduced in June and ongoing extensions to fuel duty discounts.",
+        "why": "Healey stated the measures are intended to provide families with 'breathing space' against rising everyday costs, though the government acknowledges these steps do not address all economic challenges.",
+        "next": "The full Budget details and new National Minimum Wage rates will be officially announced on Wednesday."
       },
       "numbers": [
         {
-          "figure": "2,500 jobs",
-          "what": "number of positions to be cut"
+          "figure": "£500m",
+          "what": "estimated annual savings from food tariff removals"
+        },
+        {
+          "figure": "100",
+          "what": "number of food items losing import tariffs"
+        },
+        {
+          "figure": "3.9%",
+          "what": "reported expected rise in minimum and living wages"
+        },
+        {
+          "figure": "55p",
+          "what": "tax-free mileage rate per mile for work"
+        },
+        {
+          "figure": "£194",
+          "what": "weekly paternity pay for self-employed fathers"
         }
       ]
     },
     {
-      "topic": "business",
-      "importance": 2,
-      "title": "Tesla’s AI ambitions take flight as rivals race to keep up",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c8db9b39-1922-41f3-b8e9-4488d16f8a2c?syn-25a6b1a6=1",
-      "date": "2026-10-26",
-      "author": null,
-      "summary": "Tesla is exploring a potential merger with SpaceX to accelerate its development of autonomous driving technology and software. This strategic move aims to unlock new profit streams for the carmaker as it competes with industry rivals.",
+      "topic": "culture",
+      "importance": 1,
+      "title": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
+      "date": "2026-10-27",
+      "author": "Hari Raj",
+      "summary": "Hong Kong filmmakers are utilizing the city's high-density housing as a setting for horror movies that critique its extreme property market. These films explore the intersection of socioeconomic anxiety and superstition within one of the world's most expensive real estate environments.",
       "also": [],
       "brief": {
-        "what": "Tesla is considering a merger with SpaceX to bolster its capabilities in autonomous driving and software development. The integration is intended to provide fresh momentum to the carmaker's technological ambitions.",
-        "who": "Elon Musk is the central figure driving this initiative, seeking to leverage the combined resources of Tesla and SpaceX to secure a competitive advantage.",
-        "context": "Tesla is currently focused on expanding its software and autonomous driving offerings to maintain its market position against increasing competition. SpaceX, primarily known for its aerospace operations, possesses advanced engineering and software expertise that could be applied to automotive systems.",
-        "why": "Musk is pursuing this merger to unlock new profit opportunities and enhance the company's push into autonomous driving technology.",
+        "what": "Hong Kong cinema is increasingly using the city's dense residential landscape as a central theme in horror films. These movies serve as a commentary on the local property market and the anxieties surrounding housing affordability.",
+        "who": "Hong Kong filmmakers are the primary actors, using the city's unique urban environment to craft narratives.",
+        "context": "Hong Kong is widely recognized as having one of the least affordable housing markets globally, characterized by extreme density and high property costs.",
+        "why": "The article states that these films use the backdrop of high-density housing to explore themes of superstition and socioeconomic anxiety caused by the city's housing crisis.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Tech stocks rise as AI trade regains steam",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
+      "date": "2026-10-27",
+      "author": null,
+      "summary": "Asian markets tracked Wall Street higher following the announcement of Anthropic's long-awaited initial public offering filing. The move signals renewed investor enthusiasm for artificial intelligence-related equities.",
+      "also": [],
+      "brief": {
+        "what": "Asian stock markets rose in response to Wall Street's positive momentum, which was bolstered by the news that AI company Anthropic has filed for an initial public offering.",
+        "who": "Anthropic is the artificial intelligence company initiating the IPO process, while Asian and Wall Street investors are the primary market participants reacting to the news.",
+        "context": "The broader market sentiment is currently being driven by the performance of technology stocks and the ongoing investor interest in the artificial intelligence sector.",
+        "why": "The market rally is attributed to the renewed steam in the AI trade, catalyzed by the long-awaited regulatory filing from Anthropic.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Morocco Tops South Africa in RMB Continental Investment Ranking",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/morocco-tops-south-africa-in-rmb-continental-investment-ranking",
+      "date": "2026-10-27",
+      "author": "Adelaide Changole",
+      "summary": "Morocco has surpassed South Africa to become the fourth-most attractive investment destination in Africa. This shift is attributed to sustained industrialization and accelerated economic growth.",
+      "also": [],
+      "brief": {
+        "what": "Morocco has overtaken South Africa to secure the position of the fourth-most attractive investment destination on the continent. This change reflects Morocco's progress in industrialization and its faster economic growth compared to South Africa.",
+        "who": "Rand Merchant Bank, a division of FirstRand Ltd., identified the shift in investment attractiveness.",
+        "context": "South Africa has historically been considered the region's biggest economy, but it is now trailing Morocco in this specific investment ranking.",
+        "why": "According to Rand Merchant Bank, the change is driven by years of industrialization and faster growth within Morocco.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+      "date": "2026-10-26",
+      "author": "Flexell Space",
+      "summary": "Flexell Space has established a new French subsidiary to bolster its support for European customers as it advances toward volume production contracts. The Paris-based entity will serve as a strategic hub to coordinate technical reviews and supply planning between European partners and the company's Korean manufacturing teams.",
+      "also": [],
+      "brief": {
+        "what": "Flexell Space, a developer of space solar solutions, has launched a French subsidiary, FLEXELL SPACE FRANCE SAS, to facilitate its expansion into the European market. The new entity is designed to manage technical reviews, supply chain negotiations, and production scheduling for regional customers.",
+        "who": "Flexell Space is the primary actor, with CFO Keo-san Lee leading the strategic initiative to bridge the gap between the company's Korean R&D facilities and its European client base.",
+        "context": "The company specializes in tandem solar cells and power solutions for satellite platforms, which require high levels of customization regarding performance, weight, and reliability. As satellite missions diversify, the firm is transitioning from product development to commercialization and volume supply.",
+        "why": "According to CFO Keo-san Lee, the move is necessary to accelerate business execution and respond promptly to customer needs as discussions move toward formal contracts. A local presence allows for better alignment on production schedules and quality management processes.",
+        "next": "The company plans to use the French hub to deepen relationships with partners in France, Germany, Italy, and Lithuania while exploring new joint development opportunities with local research institutions."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Bond Market Gives Initial Nod to Serbia’s Untested Ballot Winner",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/bond-market-gives-initial-nod-to-serbia-s-untested-ballot-winner",
+      "date": "2026-10-27",
+      "author": "Peter Laca and Misha Savic",
+      "summary": "Fixed-income investors are showing initial confidence in Serbia's new protest-led government. The administration secured power with a mandate to improve democratic standards and eliminate corruption.",
+      "also": [],
+      "brief": {
+        "what": "Fixed-income investors are signaling early support for Serbia's new government, which recently rose to power following a protest movement. The administration has committed to a platform focused on strengthening democratic institutions and rooting out systemic corruption.",
+        "who": "Fixed-income investors are the primary actors, while the new Serbian government serves as the untested political entity receiving this market validation.",
+        "context": "The Serbian government emerged from a protest movement and now faces the challenge of implementing its reformist agenda while maintaining investor confidence in the country's debt markets.",
+        "why": "Investors are providing the benefit of the doubt to the new leadership because of their explicit pledges to address corruption and bolster democratic standards within the nation.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/27/business/the-fed-is-expected-to-hold-rates-steady-warsh-will-have-to-explain-why.html",
+      "date": "2026-10-27",
+      "author": "Colby Smith",
+      "summary": "The Federal Reserve is anticipated to maintain current interest rates despite inflationary pressures and a resilient labor market. Officials face the challenge of justifying this policy stance amid shifting economic indicators.",
+      "also": [],
+      "brief": {
+        "what": "The Federal Reserve is expected to keep interest rates steady. This decision comes as inflation trends in the wrong direction while the labor market maintains stability.",
+        "who": "The Federal Reserve and Warsh, who is tasked with explaining the rationale behind the central bank's policy decisions.",
+        "context": "The current economic environment features persistent inflation and a stable labor market, factors that typically support arguments for increasing interest rates.",
+        "why": "The article notes that the combination of rising inflation and a stable labor market bolsters the case for higher interest rates, forcing officials to explain why they are holding them steady instead.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Chinese Stocks’ Final-Hour Slide Shows Reliance on National Team",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/chinese-stocks-final-hour-slide-shows-reliance-on-national-team",
+      "date": "2026-10-27",
+      "author": "Bloomberg News",
+      "summary": "Chinese stocks experienced a late-session decline as investors reacted to the absence of expected state-backed market intervention. The sell-off highlights the market's ongoing dependence on the so-called national team to stabilize prices.",
+      "also": [],
+      "brief": {
+        "what": "Chinese equities saw a late-day drop during the final hour of trading. The decline occurred after investors grew disappointed by the lack of buying activity from the national team.",
+        "who": "The national team, a term referring to state-backed entities that intervene in Chinese markets to provide stability.",
+        "context": "Investors in Chinese markets frequently look for signs of state intervention to support share prices during periods of volatility.",
+        "why": "The slide happened because investors were disappointed by the lack of national team buying, leading them to dump their shares.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "world",
-      "importance": 2,
+      "importance": 1,
       "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
@@ -432,8 +758,8 @@
       "brief": {
         "what": "Riyadh airport has resumed operations following a series of deadly attacks launched by the Houthi militia this month.",
         "who": "The Houthis, described as an Iran-backed Yemeni militia, are the primary actors responsible for the strikes against the airport.",
-        "context": "The airport serves as a critical piece of infrastructure in Saudi Arabia, which has been the target of recent military aggression from the Yemeni group.",
-        "why": "The reopening proceeds despite explicit threats from the Houthis to carry out further strikes against the location.",
+        "context": "The airport serves as a critical piece of infrastructure in Saudi Arabia, which has been the target of repeated military aggression from the Yemeni group.",
+        "why": "The airport was reopened despite the Houthi militia issuing threats of further strikes against the location.",
         "next": "The article doesn't say."
       },
       "earlier": [
@@ -446,14 +772,56 @@
       ]
     },
     {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Insurers bullish on private markets even as government bond yields rise",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/26aea932-a70f-4d6a-bb41-b37079658652?syn-25a6b1a6=1",
+      "date": "2026-10-27",
+      "author": null,
+      "summary": "A BlackRock survey reveals that 75% of insurance groups intend to boost their investments in unlisted assets. This trend persists despite the upward movement of government bond yields.",
+      "also": [],
+      "brief": {
+        "what": "A BlackRock poll indicates that three-quarters of surveyed insurance groups plan to increase their allocations to unlisted assets. This shift in investment strategy is occurring even as government bond yields rise.",
+        "who": "BlackRock, the investment management firm that conducted the survey, and the insurance groups participating in the poll.",
+        "context": "Insurance companies are evaluating their portfolios in an environment where government bond yields are increasing, which typically influences asset allocation decisions.",
+        "why": "The article does not explicitly state the reasoning behind the shift, only noting the trend in the context of rising bond yields.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
       "topic": "aerospace",
-      "importance": 2,
+      "importance": 1,
+      "title": "Airbus secures Life Flight Network order for five H135 helicopters",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/airbus-life-flight-network-order-h135-helicopters",
+      "date": "2026-10-27",
+      "author": "Ian Molyneaux",
+      "summary": "Life Flight Network has placed an order for five new Airbus H135 helicopters to expand its medical transport fleet. This acquisition more than doubles the operator's commitment to the H135 model following a previous order in 2025.",
+      "also": [],
+      "brief": {
+        "what": "Life Flight Network finalized an agreement to purchase five H135 helicopters from Airbus. This order significantly increases the company's existing H135 fleet, which previously included three units ordered in 2025.",
+        "who": "Life Flight Network is a US-based medical transport service, while Airbus Helicopters is the manufacturer providing the rotorcraft.",
+        "context": "Life Flight Network operates a diverse fleet of rotor-wing and fixed-wing aircraft to provide emergency medical services across the Pacific Northwest, Intermountain West, and Hawai`i.",
+        "why": "CEO Ben Clayton stated the investment aims to strengthen access to critical care for communities separated by challenging geography, noting the H135's safety and medical capabilities. Bart Reijnen of Airbus highlighted the aircraft's reliability and performance as key factors for the operator's continued trust.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "1,500",
+          "what": "H135 family helicopters in service worldwide"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
       "title": "President Trump announces that Bombardier plans $270 million US investment",
       "source": "AeroTime",
       "url": "https://www.aerotime.aero/articles/president-trump-announces-that-bombardier-plans-270-million-us-investment",
       "date": "2026-10-23",
       "author": "Ian Molyneaux",
-      "summary": "Bombardier has announced a $270 million investment to expand its US service network and infrastructure. The expansion includes the creation of 800 new jobs across Kansas, Texas, Indiana, and Connecticut.",
+      "summary": "Bombardier has announced a $270 million investment to expand its US service network and infrastructure. The move follows recent trade tensions and discussions with the US administration regarding the company's American manufacturing footprint.",
       "also": [
         {
           "source": "Fox Business",
@@ -461,523 +829,182 @@
           "date": "2026-10-23",
           "title": "Jetmaker Bombardier doubles down on US investment in deal touted by Trump",
           "url": "https://www.foxbusiness.com/economy/jetmaker-bombardier-doubles-down-us-investment-deal-touted-trump",
-          "note": "Fox Business frames the story as the company doubling down on investment in a deal specifically touted by the President."
+          "note": "Fox Business frames the story by emphasizing the company's commitment to the US market as a direct result of the deal brokered by the President."
         }
       ],
       "kind": "analysis",
       "brief": {
-        "what": "Bombardier is expanding its US operations with a $270 million infrastructure investment and the hiring of 800 new employees. This follows recent threats from President Trump that the company would be barred from selling aircraft in the US unless it manufactured them domestically.",
-        "who": "Bombardier CEO Eric Martel and US President Donald Trump are the primary actors, with Kansas Senator Roger Marshall and Texas Attorney General Ken Paxton credited for securing the deal.",
-        "context": "The announcement occurs amid trade tensions between the US and Canada involving tariffs. President Trump previously threatened to block Bombardier sales before softening his stance after learning of the company's existing US manufacturing footprint.",
-        "why": "Bombardier states the expansion is a key pillar of its growth strategy and reflects confidence in the American market following constructive conversations with the US administration. President Trump claims the deal is part of his broader effort to bring manufacturing and jobs back to the United States.",
+        "what": "Bombardier is expanding its US operations with a $270 million investment, creating 800 new jobs across Kansas, Texas, Indiana, and Connecticut. This follows a previous $50 million investment announcement for its Wichita facility and ongoing efforts to maintain its US market presence.",
+        "who": "Bombardier CEO Eric Martel, US President Donald Trump, Kansas Senator Roger Marshall, and Texas Attorney General Ken Paxton.",
+        "context": "The investment follows a period of trade tensions where President Trump previously threatened to restrict Bombardier's US aircraft sales unless manufacturing was localized. The company currently operates ten facilities in the US.",
+        "why": "Bombardier states the expansion reflects long-term confidence in the US market and follows constructive conversations with the US administration. President Trump credits the deal to the efforts of Senator Marshall and Attorney General Paxton in securing American jobs.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
           "figure": "$270 million",
-          "what": "total estimated infrastructure investments in the first phase"
+          "what": "estimated infrastructure investments in the first phase"
         },
         {
           "figure": "800",
           "what": "number of new jobs to be hired"
         },
         {
-          "figure": "$50 million",
-          "what": "investment in the Wichita base announced last week"
-        },
-        {
           "figure": "3,500",
-          "what": "number of US workers currently employed by Bombardier"
+          "what": "current number of US workers employed by Bombardier"
+        },
+        {
+          "figure": "$50 million",
+          "what": "investment announced for the Wichita base"
         }
       ]
     },
     {
-      "topic": "business",
-      "importance": 2,
-      "title": "Opinion | Some Proposals for United’s CEO on Airline Equality",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/opinion/some-proposals-for-uniteds-ceo-on-airline-equality-c1eedd28?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-25",
-      "author": null,
-      "summary": "The author suggests potential strategies for United Airlines' CEO to address cabin equality and seating distribution. The piece questions the current allocation of premium amenities versus standard seating.",
-      "also": [],
-      "kind": "opinion",
-      "brief": {
-        "what": "The article questions the current distribution of premium cabin amenities, such as Polaris beds, compared to less desirable seating options like middle seats located near lavatories.",
-        "who": "The CEO of United Airlines is the primary target of the author's proposed strategies regarding airline equality.",
-        "context": "Airlines frequently manage complex cabin configurations that differentiate service levels between premium and economy passengers.",
-        "why": "The author seeks to address perceived disparities in the passenger experience regarding seat quality and onboard amenities.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Airbus to hold talks with BAE over role in GCAP fighter jet programme",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe?syn-25a6b1a6=1",
-      "date": "2026-10-25",
-      "author": null,
-      "summary": "Airbus is initiating discussions with BAE Systems regarding a potential role in the Global Combat Air Programme. This move follows the breakdown of Germany's previous collaborative efforts on a rival fighter jet project.",
-      "also": [],
-      "brief": {
-        "what": "Airbus is set to engage in talks with BAE Systems to explore participation in the Global Combat Air Programme (GCAP). This development follows the collapse of the Future Combat Air System (FCAS) partnership that previously involved Germany, France, and Spain.",
-        "who": "Airbus is the primary actor seeking involvement, while BAE Systems is the key partner in the GCAP project alongside the UK, Italy, and Japan.",
-        "context": "The GCAP is a multinational fighter jet development project currently led by the UK, Italy, and Japan. Germany is now evaluating its options for future combat aviation collaboration after its previous partnership with France and Spain failed.",
-        "why": "The shift in strategy is driven by the collapse of the FCAS partnership, prompting Germany to weigh the possibility of joining the GCAP initiative instead.",
-        "next": "Germany will continue to weigh its options regarding joining the UK, Italy, and Japan in the GCAP project."
-      }
-    },
-    {
-      "topic": "markets",
+      "topic": "culture",
       "importance": 1,
-      "title": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/coreweave-rout-sends-warning-sign-to-rest-of-the-stock-market",
-      "date": "2026-10-26",
-      "author": "Emily Forgash and Geoffrey Morgan",
-      "summary": "Wall Street strategists warn that falling shares in AI cloud-computing providers could trigger a broader downturn across the technology sector. This decline risks pulling the US stock market back to its June lows.",
-      "also": [],
-      "brief": {
-        "what": "Wall Street strategists are signaling that recent declines in AI cloud-computing stocks may spread to other areas of the technology market. This trend could potentially push the broader US stock market down to levels last seen in June.",
-        "who": "Wall Street strategists are the primary actors providing this market outlook.",
-        "context": "The warning highlights the interconnected nature of the current tech trade, where performance in AI-focused infrastructure is increasingly influencing broader market sentiment.",
-        "why": "Strategists suggest that the weakness in AI cloud-computing providers acts as a warning sign that could negatively impact other corners of the tech trade.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Galp Energia Shares Fall After Moeve Merger-Talks Collapse, Overshadowing Positive Earnings",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/galp-raises-full-year-view-after-oil-price-assumption-increase-ee79aceb?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-26",
-      "author": "Adam Whittaker",
-      "summary": "Galp Energia shares dropped over 8% following the collapse of merger discussions with Moeve. The negative market reaction occurred despite the company reporting earnings growth and raising its full-year guidance.",
-      "also": [],
-      "brief": {
-        "what": "Galp Energia shares fell more than 8% after the company confirmed that merger talks regarding a potential downstream combination with Moeve had collapsed. This decline occurred despite the company reporting positive earnings growth and an increase in its full-year guidance.",
-        "who": "Galp Energia is the energy company whose stock price was impacted, while Moeve was the counterparty in the failed merger discussions.",
-        "context": "The company was evaluating a potential downstream combination, which refers to the refining, marketing, and distribution segments of the oil and gas industry.",
-        "why": "The stock price fell because the breakdown of merger talks overshadowed the company's positive financial performance and improved outlook.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
+      "title": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z",
+      "date": "2026-10-27",
+      "author": "The Associated Press",
+      "summary": "Jay-Z will headline the Super Bowl halftime show at SoFi Stadium, marking a transition from his role as a producer for the event. The performance will take place in February following a series of anniversary concerts for his debut album.",
+      "also": [
         {
-          "figure": "8%",
-          "what": "decline in Galp Energia stock price"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Brazil Braces for More Market Turbulence: Market Analysis",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-26/brazil-braces-for-more-market-turbulence-3-minutes-mliv-video",
-      "date": "2026-10-26",
-      "author": null,
-      "summary": "Bloomberg analysts discuss the outlook for Brazil as the country prepares for potential market volatility. The discussion focuses on key themes currently impacting investors and financial analysts.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Analysts Guy Johnson, Oliver Crook, and Paul Dobson are examining the primary themes currently influencing the Brazilian market. The discussion aims to provide insights for investors and analysts navigating the country's financial landscape.",
-        "who": "Guy Johnson, Oliver Crook, and Paul Dobson are the Bloomberg analysts providing the market breakdown.",
-        "context": "The report serves as a briefing for market participants regarding the current economic climate in Brazil.",
-        "why": "The analysis is being conducted to help investors and analysts understand the factors contributing to expected market turbulence in Brazil.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Saudi Arabia’s Sabic Profit Rises Despite Lower Sales Volume",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/saudi-arabias-sabic-profit-rises-despite-lower-sales-volume-1dc7b067?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-26",
-      "author": "Farhan Rafid",
-      "summary": "Saudi Arabia’s Sabic reported an increase in net profit despite facing challenges from lower sales volumes. The company continues to navigate regional shipping disruptions.",
-      "also": [],
-      "brief": {
-        "what": "Sabic, a major global petrochemical manufacturer, achieved a rise in net profit. This financial growth occurred despite the company experiencing a decrease in sales volumes due to regional shipping disruptions.",
-        "who": "Sabic is the primary actor, identified as one of the world's largest petrochemical manufacturers.",
-        "context": "The company operates within the global petrochemical industry, which is currently contending with logistical challenges related to regional shipping.",
-        "why": "The article attributes the lower sales volumes to regional shipping disruptions, though the company still managed to increase its net profit.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-26",
-      "author": "Farhan Rafid",
-      "summary": "Oil prices retreated from recent highs as market participants balanced potential U.S.-Iran diplomatic progress against ongoing supply risks in the Middle East.",
-      "also": [],
-      "brief": {
-        "what": "Oil prices experienced a decline as traders evaluated the impact of diplomatic efforts aimed at reducing tensions between the United States and Iran.",
-        "who": "Traders and market participants are the primary actors reacting to geopolitical developments.",
-        "context": "The market is currently navigating a complex environment involving U.S.-Iran hostilities, Houthi attacks on Saudi Arabia, and broader concerns regarding Middle East supply stability.",
-        "why": "Prices pulled back because traders are weighing the potential for diplomatic de-escalation against the persistent threat of renewed regional attacks and supply disruptions.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "Oil Prices Fall as Traders Weigh IEA Reserve Releases, Hormuz Risks",
-          "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-iea-reserve-releases-hormuz-risks-f8d24d7b?mod=pls_whats_news_us_business_f",
           "source": "Wall Street Journal",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks",
-          "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-gulf-supply-recovery-hormuz-attacks-f0337002?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-10-15"
+          "author": "Elias Leight",
+          "date": "2026-10-27",
+          "title": "Jay-Z Announced as Super Bowl Halftime Star",
+          "url": "https://www.wsj.com/arts-culture/music/jay-z-announced-as-super-bowl-halftime-star-82b485fc?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline focuses strictly on the announcement of the star, whereas the NPR headline emphasizes Jay-Z's personal agency in selecting himself for the role."
         }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Brazil Catches Investors Leaning the Wrong Way",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/brazil-catches-investors-leaning-the-wrong-way",
-      "date": "2026-10-26",
-      "author": "Phil Serafino",
-      "summary": "An exchange-traded fund tracking Brazilian stocks experienced a sharp decline of 27% during morning trading. This significant drop highlights a sudden shift in market sentiment regarding the country's equities.",
-      "also": [],
+      ],
       "brief": {
-        "what": "An exchange-traded fund (ETF) focused on Brazilian stocks saw its value plummet by 27% during morning trading hours.",
-        "who": "Investors tracking Brazilian equities.",
-        "context": "The movement reflects a sudden and significant shift in the valuation of assets tied to the Brazilian market.",
-        "why": "The article does not provide specific reasons for the decline, only noting that investors were leaning the wrong way.",
-        "next": "The article doesn't say."
+        "what": "The NFL, Apple Music, and Roc Nation announced that Jay-Z will headline the Super Bowl halftime show on Feb. 14 at SoFi Stadium. This follows his long-standing role as an advisor and producer for the league's entertainment presentations.",
+        "who": "Jay-Z is the featured performer and founder of Roc Nation, while NFL Commissioner Roger Goodell represents the league's partnership with the entertainment company.",
+        "context": "Since 2019, Roc Nation has partnered with the NFL to produce entertainment, including the Super Bowl halftime show. Jay-Z previously stated he was initially hesitant to perform, but NFL Commissioner Roger Goodell requested he take the stage when the timing felt right.",
+        "why": "Jay-Z described the opportunity as a dream come true, noting the journey from his 1996 debut album to the world's biggest stage. The decision follows his recent series of sold-out concerts celebrating the 30th anniversary of his debut album, 'Reasonable Doubt'.",
+        "next": "The halftime show will be executive produced by Roc Nation and directed by Hamish Hamilton."
       },
       "numbers": [
         {
-          "figure": "27%",
-          "what": "plunge in ETF tracking Brazilian stocks"
+          "figure": "25",
+          "what": "Grammy Awards won by Jay-Z"
+        },
+        {
+          "figure": "89",
+          "what": "Grammy Award nominations received by Jay-Z"
+        },
+        {
+          "figure": "30",
+          "what": "Years of music, work, and culture"
+        },
+        {
+          "figure": "2008",
+          "what": "Year Roc Nation was founded"
+        },
+        {
+          "figure": "2019",
+          "what": "Year Roc Nation partnered with the NFL"
         }
       ]
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Turkey Raises Qualified-Investor Bar Fivefold After Fund Rout",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/turkey-raises-qualified-investor-bar-fivefold-after-fund-rout",
-      "date": "2026-10-26",
-      "author": "Tugce Ozsoy",
-      "summary": "Turkey's market regulator has increased the minimum wealth threshold for qualified investors by five times. This move follows a significant fund rout that caused substantial losses in equity value.",
-      "also": [],
-      "brief": {
-        "what": "Turkey’s market regulator has implemented a fivefold increase to the threshold required to be classified as a qualified investor. This regulatory adjustment follows a recent fund rout that destabilized capital markets and resulted in the erasure of billions of dollars in equity value.",
-        "who": "Turkey’s market regulator is the primary actor responsible for the policy change.",
-        "context": "The decision comes in response to a period of market volatility where a fund rout negatively impacted the country's capital markets.",
-        "why": "The regulator raised the threshold in the wake of a fund rout that rocked capital markets and erased billions of dollars of equity value.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Airbus to discuss GPAC fighter opportunities with BAE Systems: FT",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/airbus-gpac-fighter-opportunities-bae-systems",
-      "date": "2026-10-26",
-      "author": "Ian Molyneaux",
-      "summary": "Airbus and BAE Systems are preparing to discuss potential collaboration opportunities for the European planemaker within the Global Combat Air Programme. The talks may include the development of uncrewed autonomous Collaborative Combat Aircraft.",
-      "also": [],
-      "brief": {
-        "what": "Airbus and BAE Systems are scheduled to hold discussions regarding Airbus's potential involvement in the Global Combat Air Programme (GCAP). The talks will explore various collaboration options, including the development of uncrewed autonomous Collaborative Combat Aircraft.",
-        "who": "Airbus, led by CEO of Defence and Space Mike Schoellhorn, is seeking a significant role in the program, while BAE Systems serves as a lead partner in the existing GCAP joint venture alongside Leonardo and Mitsubishi Heavy Industries.",
-        "context": "GCAP is a multinational fighter jet program currently led by the United Kingdom, Italy, and Japan. Germany is considering joining the project following the conclusion of its separate fighter initiative with France, though industry observers note that integrating Berlin could require careful management.",
-        "why": "The discussions follow statements from UK Prime Minister Andy Burnham expressing openness to Germany joining the program. Airbus is pursuing a key role in the project rather than acting as a minor component supplier.",
-        "next": "Airbus and BAE Systems will meet in the coming weeks, while the UK government plans to consult with Italy and Japan regarding Germany's potential participation."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Philippines probes fatal SF-260 midair collision that killed four PAF pilots",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/philippines-probes-fatal-sf-260-midair-collision-that-killed-four-paf-pilots",
-      "date": "2026-10-26",
-      "author": "Jean Carmela Lim",
-      "summary": "The Philippine Air Force has grounded its entire SF-260 trainer fleet following a midair collision that resulted in four fatalities. Defense officials have launched a comprehensive investigation into the incident, which marks the third such accident involving these aircraft.",
-      "also": [],
-      "brief": {
-        "what": "Two Philippine Air Force SF-260 trainer aircraft collided during a training flight, killing all four pilots on board. The entire fleet of SF-260 aircraft has been grounded as a precautionary measure while an investigation is conducted.",
-        "who": "The Philippine Department of National Defense and the Air Force Safety Office are leading the investigation, overseen by Defense Secretary Gilberto Teodoro Jr.",
-        "context": "This incident follows a previous fatal crash involving an SF-260 aircraft in May 2026. The aircraft were performing close formation flying, a tactical maneuver used to reduce radar signatures.",
-        "why": "Defense Secretary Teodoro stated the investigation will examine flight planning, maintenance, and pilot training to determine if systemic issues exist. He emphasized the need for an objective, non-speculative review to ensure accountability and safety.",
-        "next": "The Air Force Safety Office will lead the investigation, with the potential to bring in technical experts from other agencies or partner countries."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Autumn Budget 2026: bank tax will put the City’s success at risk",
+      "title": "FTSE 100 Live: Stocks slide as oil holds at $115; tech surges",
       "source": "City AM",
-      "url": "https://www.cityam.com/autumn-budget-2026-bank-tax-will-put-the-citys-success-at-risk/",
-      "date": "2026-10-26",
-      "author": "Chris Hayward",
-      "summary": "The City of London Corporation warns that proposed windfall taxes on banks in the upcoming Autumn Budget could jeopardize the UK's financial sector competitiveness. Critics argue that higher levies threaten economic growth and investment, urging the government to prioritize regulatory simplification instead.",
-      "also": [],
-      "kind": "opinion",
-      "brief": {
-        "what": "The City of London Corporation is lobbying against potential bank windfall taxes in the 2026 Autumn Budget, arguing they undermine the sector's 12 per cent tax contribution and overall competitiveness. The sector currently supports 2.5 million jobs across the UK, with 370,000 of those roles located outside the capital.",
-        "who": "Chris Hayward, policy chairman at the City of London Corporation, is the primary critic, while Chancellor John Healey is the government official expected to deliver the budget.",
-        "context": "The UK financial sector has been a global hub since the 1986 'Big Bang' deregulation. The government is currently balancing fiscal priorities, such as funding public services, against the need to maintain international investment appeal.",
-        "why": "Proponents of the tax argue it is fair given bank profits during difficult economic times, but Hayward contends that higher taxes discourage mobile international capital and reduce lending to SMEs, ultimately stifling national growth.",
-        "next": "The Chancellor will deliver the Autumn Budget on Wednesday."
-      },
-      "numbers": [
-        {
-          "figure": "12 per cent",
-          "what": "contribution of financial and professional services to UK taxes"
-        },
-        {
-          "figure": "2.5m",
-          "what": "people employed by the financial and professional services sector"
-        },
-        {
-          "figure": "370,000",
-          "what": "jobs outside London supported by firms headquartered in the capital"
-        },
-        {
-          "figure": "59,000",
-          "what": "jobs in Greater Manchester supported by London-headquartered firms"
-        },
-        {
-          "figure": "1.3 per cent",
-          "what": "International Monetary Fund UK growth forecast for 2026"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Revolut to take fight to high street banks with UK personal loans",
-      "source": "City AM",
-      "url": "https://www.cityam.com/revolut-to-take-fight-to-high-street-banks-with-uk-personal-loans/",
-      "date": "2026-10-26",
+      "url": "https://www.cityam.com/ftse-100-live-stocks-to-slide-as-oil-holds-at-115-tech-stocks-surge/",
+      "date": "2026-10-27",
       "author": "Samuel Norman",
-      "summary": "Digital bank Revolut is expanding its UK services by launching personal loans ranging from £2,000 to £25,000. This move marks a strategic shift to compete directly with traditional high street lenders.",
+      "summary": "London's FTSE 100 index is expected to decline as oil prices remain high, while global tech stocks rally following Anthropic's IPO filing.",
       "also": [],
       "brief": {
-        "what": "Revolut has launched personal loans in the UK, offering amounts between £2,000 and £25,000 with repayment terms of one to five years. The digital bank aims to simplify borrowing by removing complex fee structures and providing near-instant fund transfers.",
-        "who": "Revolut UK CEO Francesca Carlesi and founder Nik Storonsky are leading the firm's expansion into the lending market, challenging established institutions like Lloyds, Natwest, HSBC, and Barclays.",
-        "context": "Revolut recently secured a full UK banking licence after a four-year process, allowing it to move beyond payment products into riskier lending. The company currently serves 13 million UK customers and 80 million globally.",
-        "why": "Carlesi stated the move aims to reduce consumer friction and integrate credit into the firm's ecosystem, creating an 'all in one place' experience. The company intends to eventually enter the competitive UK mortgage market.",
-        "next": "The firm plans to eventually enter the UK’s mortgage market."
+        "what": "The FTSE 100 is poised to slide as Brent crude oil prices remain elevated above $115 per barrel. Conversely, Asian markets saw a surge in stock prices driven by the highly anticipated IPO filing of AI company Anthropic.",
+        "who": "The FTSE 100 index represents London's blue-chip companies, while Anthropic acts as a bellwether for the artificial intelligence sector.",
+        "context": "Market volatility is influenced by ongoing diplomatic efforts regarding the US-Iran conflict and the approach of US midterm elections. Investors are also preparing for a series of upcoming tech earnings reports that will serve as a barometer for broader market risk appetite.",
+        "why": "The decline in London stocks is attributed to stubbornly high oil prices, while the tech sector rally is driven by positive sentiment surrounding the Anthropic IPO filing.",
+        "next": "Markets are awaiting a raft of tech earnings reports scheduled for release later this week."
       },
       "numbers": [
         {
-          "figure": "£2,000 and £25,000",
-          "what": "range of personal loan amounts offered"
-        },
-        {
-          "figure": "£1.7bn",
-          "what": "group-wide profit in the latest financial year"
-        },
-        {
-          "figure": "57 per cent",
-          "what": "surge in group-wide profit"
-        },
-        {
-          "figure": "13m",
-          "what": "number of customers in the UK"
-        },
-        {
-          "figure": "60 per cent",
-          "what": "share of industry deposits held by big four banks"
+          "figure": "$115",
+          "what": "price per barrel of Brent crude"
         }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "FTSE 100 Live: Stocks up; oil falls back as Trump weighs Iran deal",
-      "source": "City AM",
-      "url": "https://www.cityam.com/ftse-100-live-stocks-to-rise-oil-climbs-further-on-iran-us-tensions/",
-      "date": "2026-10-26",
-      "author": "Felix Armstrong",
-      "summary": "London's FTSE 100 index is expected to climb as investors prepare for the upcoming government budget. Meanwhile, oil prices are retreating following recent volatility linked to geopolitical tensions between the US and Iran.",
-      "also": [],
-      "brief": {
-        "what": "The FTSE 100 is poised for an increase as market participants await the first Budget announcement from John Healey. This follows a period of volatility in oil prices driven by concerns over potential conflict between the US and Iran.",
-        "who": "John Healey, who is set to deliver his first Budget, and investors monitoring market movements.",
-        "context": "The market is currently navigating a period of speculation regarding upcoming fiscal policy changes and geopolitical instability in the Middle East.",
-        "why": "The rise in oil prices was driven by speculation that a fresh wave of fighting could break out between the US and Iran.",
-        "next": "Investors are awaiting the Budget announcement scheduled for Wednesday."
-      },
+      ],
       "earlier": [
         {
           "title": "FTSE 100 Live: Stocks slide; oil tips over $110 on lack of US-Iran progress",
           "url": "https://www.cityam.com/ftse-100-live-stocks-to-jump-oil-tips-over-110-on-lack-of-us-iran-progress/",
           "source": "City AM",
           "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Weary driver creates AI 'litter-tracking dashcam'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2v3ky1ek7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-26",
-      "author": null,
-      "summary": "A software developer has created an AI-powered dashcam app that automatically identifies and logs roadside litter. The technology has already recorded over 28,000 reports across the UK to help authorities identify and address waste hotspots.",
-      "also": [],
-      "brief": {
-        "what": "Software developer Robin Bennett developed an AI-powered 'litter dashcam' app that automatically photographs, identifies, and grades roadside waste. The system has logged over 28,000 reports nationwide, including 3,000 in Shropshire, by taking photos every 10 seconds while the vehicle is in motion.",
-        "who": "Robin Bennett, a software company owner, created the technology, while the anti-litter group Clean Up Britain and Shropshire Council are engaging with the data to address waste management.",
-        "context": "The project aims to quantify the scale of roadside litter, which Bennett observed was particularly prevalent near fast-food outlets and motorway service stations.",
-        "why": "Bennett stated he created the app because he was frustrated by the amount of rubbish he saw while driving and wanted to determine if the issue was a local or national problem. He hopes the data will encourage authorities to take action on litter hotspots.",
-        "next": "Shropshire Council is exploring ways to improve litter management on the A5 and A49 roads in collaboration with National Highways."
-      },
-      "numbers": [
-        {
-          "figure": "28,000",
-          "what": "litter reports recorded across the UK"
         },
         {
-          "figure": "3,000",
-          "what": "litter reports recorded in Shropshire"
-        },
-        {
-          "figure": "10 seconds",
-          "what": "interval at which the app photographs litter"
+          "title": "FTSE 100 Live: Stocks dip as tech rebounds from sell-off; Oil set for weekly gain",
+          "url": "https://www.cityam.com/ftse-100-live-stocks-to-dip-as-tech-rebounds-from-sell-off-oil-set-for-weekly-gain/",
+          "source": "City AM",
+          "date": "2026-10-16"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "UK financial ombudsman hits phones to cut through AI hallucinations",
+      "title": "India’s outsourcers defy AI threat",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/5f56b300-f8a6-4834-a2e6-75902880ef87?syn-25a6b1a6=1",
-      "date": "2026-10-26",
+      "url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1",
+      "date": "2026-10-27",
       "author": null,
-      "summary": "The UK financial ombudsman is increasing direct telephone communication to address a surge in inaccurate, AI-generated complaints.",
+      "summary": "India's IT services sector is successfully adapting to artificial intelligence, with companies now generating 10% of their revenue from AI integration services.",
       "also": [],
       "brief": {
-        "what": "The UK financial ombudsman is shifting toward phone-based resolution to manage a growing volume of complaints that are lengthy and inaccurate due to the use of AI tools.",
-        "who": "The UK financial ombudsman is the primary actor addressing the impact of automated complaint generation.",
-        "context": "Public sector bodies and judicial systems are currently facing operational strain from an influx of tech-assisted submissions.",
-        "why": "The ombudsman is taking this action because AI-assisted complaints are creating significant administrative burdens by being both inaccurate and overly long.",
+        "what": "India's IT services groups are successfully integrating new technology into their business models, with 10% of their total revenue now derived from AI integration services.",
+        "who": "India's IT services groups.",
+        "context": "The sector is navigating the potential disruption posed by the emergence of artificial intelligence.",
+        "why": "The industry is actively helping client companies integrate new technology, allowing them to defy the threat posed by AI.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "10%",
+          "what": "share of revenue from AI integration services"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Insurance analysts pressured to play down climate risks to cut prices",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b6bc597f-48a1-4af8-981d-a42ba842f66b?syn-25a6b1a6=1",
+      "date": "2026-10-27",
+      "author": null,
+      "summary": "Insurance industry professionals report that risk modellers are frequently pressured to manipulate climate risk assessments to justify lower policy prices. This practice raises concerns about the accuracy of risk modeling within the sector.",
+      "also": [],
+      "brief": {
+        "what": "Five industry professionals have disclosed that it is common practice for risk modellers to be pressured into altering their analyses to artificially reduce insurance prices. This suggests a systemic effort to downplay climate-related risks to maintain competitive pricing.",
+        "who": "The main actors are unnamed industry professionals who provided information to the Financial Times regarding internal practices at insurance firms.",
+        "context": "Insurance companies rely on complex risk models to determine premiums, particularly regarding environmental threats. These models are intended to reflect the actual financial exposure posed by climate change.",
+        "why": "According to the professionals, the pressure is applied to artificially lower prices, implying a conflict between accurate risk assessment and commercial pricing strategies.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "world",
+      "topic": "science",
       "importance": 1,
-      "title": "We need to know if AI agents are accessing British services",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a2be99e5-b952-495f-9776-1ce7e4f994aa?syn-25a6b1a6=1",
+      "title": "Milestone cancer vaccine success leaves hard questions unanswered",
+      "source": "Science (AAAS)",
+      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
       "date": "2026-10-26",
-      "author": null,
-      "summary": "A recent cyber attack on Australian health data highlights the significant security risks posed to British services. The incident serves as a warning regarding the potential threats facing the UK's digital infrastructure.",
+      "author": "Jocelyn Kaiser",
+      "summary": "A joint mRNA vaccine developed by Merck and Moderna has demonstrated success in reducing the risk of melanoma recurrence. Researchers are now investigating the underlying biological mechanisms behind this efficacy.",
       "also": [],
-      "kind": "analysis",
       "brief": {
-        "what": "A cyber security breach involving Australian health data has occurred, prompting concerns about the vulnerability of similar services in the UK.",
-        "who": "The article identifies the Australian health sector as the victim of a recent hack.",
-        "context": "The UK faces ongoing cyber security threats, with the Australian incident serving as a case study for potential risks to national services.",
-        "why": "The author states that the Australian hack is a reminder that cyber security represents the biggest threat currently facing the UK.",
-        "next": "The article doesn't say."
+        "what": "An mRNA vaccine developed by Merck and Moderna has successfully reduced the risk of melanoma returning in patients. While the clinical results are positive, the specific reasons for the vaccine's effectiveness remain unclear.",
+        "who": "Merck and Moderna are the pharmaceutical companies responsible for developing the mRNA vaccine.",
+        "context": "The vaccine is designed to treat melanoma, a serious form of skin cancer, by preventing its return after initial treatment.",
+        "why": "The article notes that while the vaccine slashes the risk of melanoma's return, the precise biological explanation for why this occurs is not yet understood.",
+        "next": "Researchers are working to answer the remaining questions regarding the vaccine's mechanism of action."
       }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "From agriculture to AI-griculture: How tech is changing farming",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-26",
-      "author": null,
-      "summary": "Farmers are increasingly adopting AI-driven applications and robotic systems to monitor livestock health and streamline operational management. These digital tools are enhancing efficiency and sustainability across rural agricultural businesses.",
-      "also": [],
-      "brief": {
-        "what": "Farmers are integrating AI cameras, robotic milking machines, and digital record-keeping apps to improve herd health and business efficiency. These technologies allow for real-time monitoring of cattle and automated compliance reporting, replacing traditional manual paperwork and visual observation.",
-        "who": "Farmers including George McMaster, Caleb Howard, and Robert Smyth are the primary adopters, while developers like Gareth McDonald provide the software tools.",
-        "context": "The agricultural sector is undergoing a digital transformation similar to historical innovations like the Harry Ferguson tractor linkage system. Improved rural broadband access, supported by initiatives like Project Stratum, has been a critical enabler for these technological advancements.",
-        "why": "Farmers are adopting these tools to increase efficiency, improve animal welfare, and meet sustainability targets. Developers and industry experts suggest that AI acts as an adviser to help farmers manage data-driven operations rather than replacing human decision-making.",
-        "next": "The industry is expected to continue utilizing data and digitalization to meet economic, environmental, and social sustainability objectives."
-      },
-      "numbers": [
-        {
-          "figure": "300-strong",
-          "what": "number of cattle in a herd"
-        },
-        {
-          "figure": "100",
-          "what": "number of dairy cows in a herd"
-        },
-        {
-          "figure": "90",
-          "what": "number of Jersey cows in a herd"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "A.I. videos flooded the internet in the run-up to the election.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
-      "date": "2026-10-25",
-      "author": "Ana Ionova",
-      "summary": "The internet experienced a significant surge in AI-generated videos during the period leading up to the recent election. These synthetic media creations raised concerns regarding the spread of misinformation and the integrity of digital discourse.",
-      "also": [],
-      "brief": {
-        "what": "A proliferation of AI-generated videos appeared online throughout the election cycle. These digital assets utilized advanced technology to create synthetic content that reached a broad audience.",
-        "who": "Internet users and political observers are the primary actors witnessing the impact of these AI-driven media campaigns.",
-        "context": "The rise of generative artificial intelligence has made it increasingly simple to produce realistic but fabricated video content, complicating the information landscape for voters.",
-        "why": "The article suggests this trend occurred due to the accessibility of AI tools that allow for the rapid creation and dissemination of synthetic media.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
-          "url": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-          "source": "The New York Times",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "CEO SUNDAY: Atomic Wings CEO shares his journey from Wall Street to the restaurant business",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/business-leaders/ceo-sunday-atomic-wings-ceo-shares-his-journey-from-wall-street-restaurant-business",
-      "date": "2026-10-25",
-      "author": null,
-      "summary": "Atomic Wings CEO Zak Omar discusses his transition from a Wall Street IT career to leading a growing restaurant franchise. He emphasizes the importance of customer service, team development, and reflective leadership practices.",
-      "also": [],
-      "brief": {
-        "what": "Atomic Wings CEO Zak Omar is expanding his restaurant chain to 40 locations by the end of the year, up from the current 35. Omar attributes his leadership style to a weekly habit of analyzing successes and failures to drive continuous improvement.",
-        "who": "Zak Omar is the CEO of Atomic Wings, a fast-casual restaurant chain specializing in chicken wings and tenders.",
-        "context": "Omar transitioned into the restaurant industry after a career in IT on Wall Street, following personal health challenges involving a leukemia diagnosis and his father's hospitalization.",
-        "why": "Omar believes that prioritizing the success of his team and franchisees is the primary driver of the company's growth, noting that the business is fundamentally about customer service rather than just food.",
-        "next": "The company plans to reach 40 locations by the end of the year."
-      },
-      "numbers": [
-        {
-          "figure": "35 locations",
-          "what": "current number of Atomic Wings restaurant sites"
-        },
-        {
-          "figure": "40",
-          "what": "planned number of restaurant locations by year-end"
-        }
-      ]
     }
   ]
 }
