@@ -1,962 +1,708 @@
 {
-  "generated": "2026-10-28",
-  "window": "2026-10-21 to 2026-10-28",
+  "generated": "2026-10-29",
+  "window": "2026-10-22 to 2026-10-29",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-10-28",
-    "label": "Wed 28 Oct · change on the day",
+    "asof": "2026-10-29",
+    "label": "Thu 29 Oct · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,722.60",
-        "change": "+0.60%"
+        "value": "7,743.98",
+        "change": "+0.28%"
       },
       {
         "name": "Dow",
-        "value": "52,377.57",
-        "change": "+0.03%"
+        "value": "52,475.10",
+        "change": "+0.19%"
       },
       {
         "name": "Nasdaq",
-        "value": "26,477.811",
-        "change": "+1.18%"
+        "value": "26,549.851",
+        "change": "+0.27%"
       },
       {
         "name": "CAC 40",
-        "value": "7,880.70",
-        "change": "-0.08%"
+        "value": "7,962.48",
+        "change": "+0.96%"
       },
       {
         "name": "DAX",
-        "value": "25,594.71",
-        "change": "+0.02%"
+        "value": "25,954.65",
+        "change": "+0.98%"
       },
       {
         "name": "Brent oil",
-        "value": "$114.91",
-        "change": "+0.90%"
+        "value": "$113.90",
+        "change": "-1.23%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "5.007%",
-        "change": "+0.01 pt"
+        "value": "5.005%",
+        "change": "-0.04 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1122",
-        "change": "UNCH"
+        "value": "1.1149",
+        "change": "-0.0269%"
       }
     ]
   },
   "week": [
     {
-      "text": "President Trump has terminated Biden-era methane regulations for oil and gas producers, even as satellite data shows methane emissions in the Permian Basin have remained stable despite increased production.",
+      "text": "Nasdaq 100 to open 1% down after Google parent Alphabet and Microsoft report lower than expected capex",
       "urls": [
-        "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-        "https://www.nature.com/articles/d41586-026-03388-2"
+        "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1"
       ]
     },
     {
-      "text": "DoorDash is in advanced talks to acquire Instacart, while Reliance Industries' Jio unit completed India's largest-ever initial public offering.",
+      "text": "Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president.",
       "urls": [
-        "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f",
-        "https://www.ft.com/content/32f2864d-c122-4d83-b0c5-8d2f1fcc63bd?syn-25a6b1a6=1",
-        "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html"
+        "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
       ]
     },
     {
-      "text": "Israeli financial markets declined following an inconclusive election, while the nation's political stalemate continues to create uncertainty.",
+      "text": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
       "urls": [
-        "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-        "https://www.bloomberg.com/news/articles/2026-10-28/israeli-markets-slide-across-board-on-election-stalemate-concern"
+        "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "Finland and Norway held rare direct talks with Vladimir Putin regarding Ukraine, while SpaceX restored Starlink services in the region following intervention by President Trump.",
+      "text": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
       ]
     },
     {
-      "text": "IBM achieved a technical milestone by connecting two quantum chips, as researchers warn that advancements in AI mathematics may threaten global encryption security.",
+      "text": "Fed chair Kevin Warsh said politics played no role in pause of interest rate hikes, despite inflation remaining above 3% The US Federal Reserve left interest rates unchanged on Wednesday during its last board meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20…",
       "urls": [
-        "https://www.science.org/content/article/ibm-links-two-quantum-chips-key-step-toward-bigger-computers",
-        "https://www.ft.com/content/694dbd7b-7096-47fe-b134-5275a1fb7b87?syn-25a6b1a6=1"
+        "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
       ]
     }
   ],
-  "watch": [
-    {
-      "date": "2026-10-28",
-      "when": "",
-      "label": "Federal Reserve interest rate decision release",
-      "url": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html"
-    },
-    {
-      "date": "2026-10-28",
-      "when": "This week",
-      "label": "Potential finalization of DoorDash and Instacart acquisition",
-      "url": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f"
-    },
-    {
-      "date": "2026-11-02",
-      "when": "",
-      "label": "NASA's Neil Gehrels Swift Observatory atmospheric re-entry",
-      "url": "https://www.nature.com/articles/d41586-026-03461-w"
-    },
-    {
-      "date": "2026-11-01",
-      "when": "Early November",
-      "label": "Tentative trilateral talks between US, Ukraine, and Russia in Abu Dhabi",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
-    }
-  ],
+  "watch": [],
   "items": [
     {
-      "topic": "environment",
+      "topic": "business",
       "importance": 3,
-      "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-      "date": "2026-10-28",
-      "author": "The Associated Press",
-      "summary": "President Donald Trump announced the termination of Biden-era methane emissions regulations for the oil and gas industry, citing significant cost savings for producers. The administration claims the move will unlock 210 million barrels of oil and reduce regulatory burdens on small operators.",
+      "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+      "date": "2026-10-29",
+      "author": null,
+      "summary": "Nasdaq 100 to open 1% down after Google parent Alphabet and Microsoft report lower than expected capex",
       "also": [
         {
-          "source": "Wall Street Journal",
-          "author": "Benoît Morenne",
+          "source": "The New York Times",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
           "date": "2026-10-28",
-          "title": "Trump Moves to Weaken Methane Emissions Rules for Oil and Gas",
-          "url": "https://www.wsj.com/politics/policy/trump-moves-to-weaken-methane-emissions-rules-for-oil-and-gas-71736afd?mod=pls_whats_news_us_business_f",
-          "note": "Wall Street Journal frames the story as a move to weaken existing rules."
-        },
-        {
-          "source": "The Guardian",
-          "author": "Sara Sneath",
-          "date": "2026-10-28",
-          "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-          "note": "The Guardian emphasizes the administration's intent to terminate specific Biden-era policies."
+          "title": "Investors Brace for Big Tech’s A.I. Spending Bill",
+          "url": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html"
         },
         {
           "source": "Fox Business",
           "author": null,
-          "date": "2026-10-27",
-          "title": "Trump announces end of Biden-era methane rule, citing $45B in savings",
-          "url": "https://www.foxbusiness.com/politics/trump-announces-end-biden-era-methane-rule-citing-45b-savings",
-          "note": "Fox Business highlights the administration's justification regarding the $45 billion in savings."
-        }
-      ],
-      "brief": {
-        "what": "President Trump is rolling back federal methane emission restrictions on oil and gas drilling, specifically targeting the EPA's 'Super Emitter Program' and standards for small wells. The administration estimates these changes will save industry and consumers $45 billion while increasing domestic oil production by 210 million barrels.",
-        "who": "President Donald Trump, EPA Administrator Lee Zeldin, and Environmental Defense Fund President Fred Krupp.",
-        "context": "The Biden-era rule, published in 2024, aimed to regulate both new and existing oil and gas wells to curb methane, a potent greenhouse gas. This action is part of a broader effort by the current administration to dismantle climate policies established under the previous presidency.",
-        "why": "Trump stated the regulations were 'expensive and unnecessary' and 'crushed the small operators.' EPA Administrator Lee Zeldin argued the rule was holding back the U.S. energy industry, while environmental groups contend the rollback allows companies to waste energy resources and pollute the atmosphere.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$45 billion",
-          "what": "estimated cost savings for consumers and energy producers"
-        },
-        {
-          "figure": "210 million barrels",
-          "what": "amount of oil the administration claims will be unlocked"
-        },
-        {
-          "figure": "$18 billion",
-          "what": "estimated cost of the Biden-era methane rule"
-        },
-        {
-          "figure": "58 million tons",
-          "what": "estimated methane emissions prevented by 2038 under the previous rule"
-        },
-        {
-          "figure": "$98 billion",
-          "what": "projected benefits of the rule by 2034 based on social costs"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 3,
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-27",
-      "author": null,
-      "summary": "The leaders of Finland and Norway held a rare direct phone call with Vladimir Putin to discuss potential peace negotiations regarding the war in Ukraine. The initiative was coordinated with Ukraine and the US but was not conducted on behalf of the broader European Union.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Jeffrey Gettleman, Paul Sonne and Jeanna Smialek",
-          "date": "2026-10-27",
-          "title": "European Leaders Split Over Phone Call to Putin",
-          "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
-          "note": "The New York Times highlights the internal European disagreement regarding the call, whereas Al Jazeera focuses on the implications of the diplomatic outreach."
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
           "date": "2026-10-28",
-          "title": "Norway and Finland hold rare phone call with Putin: What that means",
-          "url": "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss"
-        }
-      ],
-      "brief": {
-        "what": "Finland's President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre conducted a 90-minute call with Vladimir Putin to discuss diplomatic efforts to end the war in Ukraine. While the leaders described the conversation as substantive, they acknowledged significant differences in views remained.",
-        "who": "Finnish President Alexander Stubb, Norwegian Prime Minister Jonas Gahr Støre, and Russian President Vladimir Putin are the primary participants, with consultation from Ukrainian President Volodymyr Zelensky and US officials.",
-        "context": "The call follows a shift in international dynamics, including a recent summit between Putin and US President Donald Trump in Alaska and the lifting of certain US sanctions on Russian oil exports. European leaders are increasingly considering direct engagement with the Kremlin as the US administration's stance on Russia softens.",
-        "why": "The leaders aimed to convey messages directly regarding future negotiations, asserting that peace cannot be achieved through silence. Putin stated that a lasting peace requires Russia's legal interests to be fully and unconditionally considered.",
-        "next": "The parties agreed to continue direct phone communication, and trilateral talks involving the US, Ukraine, and Russia are tentatively planned for early November in Abu Dhabi."
-      },
-      "numbers": [
-        {
-          "figure": "90-minute",
-          "what": "duration of the call between leaders"
+          "title": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars",
+          "url": "https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars"
         }
       ]
     },
     {
-      "topic": "world",
+      "topic": "markets",
       "importance": 3,
-      "title": "At least 10 dead in crash between 2 trains in Spain",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-      "date": "2026-10-28",
-      "author": "The Associated Press",
-      "summary": "A collision between two high-speed trains in central Spain has resulted in at least 10 fatalities. The crash occurred when one train struck the rear of another that had stopped on the tracks.",
+      "title": "Christine Lagarde to Step Down as President of European Central Bank",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
+      "date": "2026-10-29",
+      "author": "Eshe Nelson",
+      "summary": "Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president.",
       "also": [
+        {
+          "source": "Bloomberg",
+          "author": null,
+          "date": "2026-10-29",
+          "title": "Lagarde to Step Down as ECB President on Feb. 7",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-to-step-down-as-ecb-president-on-feb-7-video"
+        },
         {
           "source": "Financial Times",
           "author": null,
-          "date": "2026-10-28",
-          "title": "At least 10 killed in collision of high-speed trains in Spain",
-          "url": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
-          "note": "Financial Times specifies the trains were high-speed in the headline, whereas NPR focuses on the death toll."
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-28",
-          "title": "At least 10 killed after two trains collide in Spain, authorities say",
-          "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
-          "note": "Al Jazeera emphasizes that the information regarding the death toll is being reported by authorities."
-        }
-      ],
-      "brief": {
-        "what": "A high-speed train operated by RENFE collided with a stationary IRYO train in the province of Toledo, Spain, causing two cars to derail and killing at least 10 people. Rail services between Madrid, Ciudad Real, and Andalusia have been suspended following the incident.",
-        "who": "The main actors include the state-owned operator RENFE, the private rail company IRYO, and regional authorities including spokeswoman Esther Padilla and regional president Emiliano García-Page.",
-        "context": "Spain operates an extensive high-speed rail network, though public confidence has been tested by previous accidents, including a deadly crash in January that resulted in 45 fatalities.",
-        "why": "According to regional spokeswoman Esther Padilla, the cause of the crash remains unknown, though it involved one train striking the rear of another that had stopped on the tracks.",
-        "next": "Authorities are currently managing the crash site and attending to injured passengers, while the number of casualties is expected to rise."
-      },
-      "numbers": [
-        {
-          "figure": "10",
-          "what": "confirmed deaths resulting from the train collision"
-        },
-        {
-          "figure": "397",
-          "what": "passengers aboard the RENFE train"
-        },
-        {
-          "figure": "147",
-          "what": "passengers aboard the IRYO train"
-        },
-        {
-          "figure": "2",
-          "what": "rail cars derailed during the accident"
+          "date": "2026-10-29",
+          "title": "Christine Lagarde to step down as ECB president in February",
+          "url": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1"
         }
       ]
     },
     {
-      "topic": "world",
-      "importance": 2,
-      "title": "Watch: What happens now after close vote in Israeli election?",
+      "topic": "business",
+      "importance": 3,
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-28",
       "author": null,
-      "summary": "Polls have closed in the Israeli election with exit polls indicating no clear winner. Neither Benjamin Netanyahu nor Gadi Eisenkot appears to have secured a majority.",
+      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Adam Rasgon",
-          "date": "2026-10-27",
-          "title": "Israeli elections have great consequences for Palestinians, but they don’t get to vote.",
-          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
-          "note": "The New York Times focuses on the consequences for Palestinians and the specific issues dividing the Israeli electorate."
-        },
-        {
-          "source": "The New York Times",
-          "author": "Aaron Boxerman",
-          "date": "2026-10-27",
-          "title": "The Key Election Issues Dividing Israelis as They Vote",
-          "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html",
-          "note": "The Conversation highlights the absence of Palestinian statehood as a topic of discussion during the election cycle."
-        },
-        {
-          "source": "The Conversation",
-          "author": "Amnon Aran, Professor of International Relations, City St George's, University of London",
-          "date": "2026-10-26",
-          "title": "Israeli election: why nobody has been talking about Palestinian statehood",
-          "url": "https://theconversation.com/israeli-election-why-nobody-has-been-talking-about-palestinian-statehood-294888"
+          "source": "Carbon Brief",
+          "author": "Carbon Brief Staff",
+          "date": "2026-10-28",
+          "title": "UK budget 2026: Key climate and energy announcements",
+          "url": "https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements"
         }
-      ],
-      "brief": {
-        "what": "Polls have closed in the Israeli election, and vote counting is currently underway. Exit polls suggest that neither veteran Prime Minister Benjamin Netanyahu nor former military chief Gadi Eisenkot is on track to secure a majority.",
-        "who": "Benjamin Netanyahu, the veteran Prime Minister, and Gadi Eisenkot, a former military chief, are the primary figures identified as failing to secure a majority.",
-        "context": "The election follows a period of political uncertainty in Israel, with voters heading to the polls to determine the future leadership of the country.",
-        "why": "The article states that exit polls indicate no clear winner, preventing either major candidate from achieving the necessary majority to form a government.",
-        "next": "The article doesn't say."
-      }
+      ]
     },
     {
       "topic": "markets",
       "importance": 2,
-      "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
+      "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
+      "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
       "date": "2026-10-28",
       "author": "Colby Smith",
-      "summary": "The Federal Reserve is widely expected to maintain current interest rates in its upcoming policy decision. This announcement arrives shortly before the midterm elections.",
+      "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
       "also": [
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-10-27",
           "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections",
-          "url": "https://www.foxbusiness.com/economy/federal-reserve-expected-hold-interest-rates-steady-midterm-elections-week-away",
-          "note": "Fox Business frames the story by specifically noting the timing of the decision relative to the midterm elections."
-        }
-      ],
-      "brief": {
-        "what": "The Federal Reserve is anticipated to keep interest rates steady during its latest policy meeting. This decision comes just days ahead of the midterm elections.",
-        "who": "The Federal Reserve, the central bank of the United States, is the primary actor responsible for setting interest rate policy.",
-        "context": "The central bank manages monetary policy, which influences economic activity and inflation levels through interest rate adjustments.",
-        "why": "The article does not explicitly state the reasoning behind the expected decision, noting only that the central bank is widely expected to hold rates steady.",
-        "next": "The Federal Reserve will release its official interest rate decision today."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-26",
-      "author": "Heather Haddon",
-      "summary": "DoorDash is currently in advanced negotiations to acquire its delivery competitor Instacart. The potential transaction could be finalized as early as this week.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-10-26",
-          "title": "DoorDash in advanced talks to acquire Instacart in potential $17B deal: report",
-          "url": "https://www.foxbusiness.com/retail/doordash-advanced-talks-acquire-instacart-potential-17b-deal-report",
-          "note": "Fox Business and the New York Post both explicitly include the $17 billion valuation figure directly in their headlines, whereas the Wall Street Journal headline focuses on the status of the talks."
+          "url": "https://www.foxbusiness.com/economy/federal-reserve-expected-hold-interest-rates-steady-midterm-elections-week-away"
         },
         {
           "source": "New York Post",
-          "author": "Reuters",
-          "date": "2026-10-26",
-          "title": "DoorDash in talks to buy delivery rival Instacart in $17B deal: report",
-          "url": "https://nypost.com/2026/10/26/business/doordash-in-talks-to-buy-instacart-in-17b-deal-report/"
-        }
-      ],
-      "brief": {
-        "what": "DoorDash is in advanced talks to acquire rival delivery service Instacart. The deal, which could be completed as soon as this week, would value Instacart at approximately $17 billion.",
-        "who": "DoorDash and Instacart are the two primary companies involved in the acquisition discussions.",
-        "context": "The two companies are major competitors within the delivery services sector.",
-        "why": "The article does not specify the strategic rationale behind the acquisition talks.",
-        "next": "The deal could be completed as soon as this week."
-      },
-      "numbers": [
-        {
-          "figure": "$17 billion",
-          "what": "valuation of Instacart in the potential deal"
+          "author": "Taylor Herzlich",
+          "date": "2026-10-28",
+          "title": "Fed holds interest rates steady – but investors bet on December rate hike",
+          "url": "https://nypost.com/2026/10/28/business/fed-holds-interest-rates-steady-but-investors-bet-on-december-rate-hike/"
         }
       ]
     },
     {
       "topic": "markets",
       "importance": 2,
+      "title": "Fed holds interest rates steady in last decision before midterms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+      "date": "2026-10-28",
+      "author": "Gaya Gupta",
+      "summary": "Fed chair Kevin Warsh said politics played no role in pause of interest rate hikes, despite inflation remaining above 3% The US Federal Reserve left interest rates unchanged on Wednesday during its last board meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20…",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Colby Smith",
+          "date": "2026-10-28",
+          "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
+          "url": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html"
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-28",
+          "title": "Federal Reserve makes interest rate decision ahead of midterms",
+          "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-28",
+      "author": null,
+      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Jason Horowitz",
+          "date": "2026-10-29",
+          "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
+          "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html"
+        },
+        {
+          "source": "The New York Times",
+          "author": "Jonathan Wolfe",
+          "date": "2026-10-28",
+          "title": "What We Know About the Deadly Train Crash in Spain",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html"
+        },
+        {
+          "source": "The New York Times",
+          "author": "Jason Horowitz, José Bautista and Carlos Barragán",
+          "date": "2026-10-28",
+          "title": "Spain Train Crash Kills at Least 68",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "At least 10 dead in crash between 2 trains in Spain",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+          "source": "NPR",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Israel's election result is messy - here's why",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-28",
+      "author": null,
+      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "David M. Halbfinger, Leila Medina and Rebecca Suner",
+          "date": "2026-10-29",
+          "title": "How Israel’s Election Could End",
+          "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html"
+        },
+        {
+          "source": "The New York Times",
+          "author": "Katrin Bennhold",
+          "date": "2026-10-29",
+          "title": "What to Make of Israel’s Ambiguous Election",
+          "url": "https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html"
+        },
+        {
+          "source": "The New York Times",
+          "author": "Aaron Boxerman",
+          "date": "2026-10-28",
+          "title": "Netanyahu Didn’t Win Israel’s Election. But He’s Far From Out.",
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Legal powerhouse Weil Gotshal set to liquidate after 95 years",
+      "source": "City AM",
+      "url": "https://www.cityam.com/legal-powerhouse-weil-gotshal-votes-to-liquidate-after-95-years/",
+      "date": "2026-10-28",
+      "author": "Maria Ward-Brennan",
+      "summary": "Weil, Gotshal and Manges has told its partners the firm should be wound down, in a move that will bring an end to one of the US’s most storied legal firms. Weil has seen an exodus of partners across the US and London in recent months, including former corporate co-managing partner Michael Hickey and private [...]",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Alexander Gladstone",
+          "date": "2026-10-29",
+          "title": "Weil Gotshal Says It Is Shutting Its Doors",
+          "url": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f"
+        },
+        {
+          "source": "Wall Street Journal",
+          "author": "Alexander Gladstone",
+          "date": "2026-10-29",
+          "title": "Weil Gotshal Says It Is Shutting Its Doors",
+          "url": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f"
+        },
+        {
+          "source": "The New York Times",
+          "author": "Lauren Hirsch",
+          "date": "2026-10-29",
+          "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+          "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "‘What breathing space?’ Top economist and Labour MP debate the Budget",
+      "source": "City AM",
+      "url": "https://www.cityam.com/top-economist-and-labour-mp-debate-the-budget-with-city-am/",
+      "date": "2026-10-29",
+      "author": "Christian May",
+      "summary": "Moments after John Healey sat down in the Commons, the City AM studio was filling up with guests to chew over what we’d just heard. Our columnist Helen Thomas, aka Blonde Money, joined Editor Christian May and Comment Editor Alys Denby to discuss the economic context and political impact, before it fell to Labour’s…",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Eshe Nelson",
+          "date": "2026-10-28",
+          "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs",
+          "url": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-29",
+      "author": "Farhan Rafid",
+      "summary": "Oil prices declined as traders reacted to reports of a letter from U.S. Vice President JD Vance to Iranian officials aimed at reviving peace negotiations.",
+      "also": [
+        {
+          "source": "Bloomberg",
+          "author": "Kanoko Matsuyama, Lorelei Smillie and Charles Gorrivan",
+          "date": "2026-10-28",
+          "title": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+          "note": "Bloomberg's headline describes the oil price movement as a slide and characterizes the diplomatic signals as tentative."
+        }
+      ],
+      "brief": {
+        "what": "Oil prices experienced a downward trend as market traders began to weigh the potential outcomes of new diplomatic communications between the United States and Iran. This specific market movement followed reports that a formal letter was sent to Iranian officials regarding the possibility of reviving peace negotiations between the two countries.",
+        "who": "The primary actors involved in this diplomatic development are U.S. Vice President JD Vance, who initiated the correspondence, and the secretary of Iran’s Supreme National Security Council, who was the designated recipient of the letter. The Wall Street Journal acted as the reporting entity that first disclosed the existence of the communication.",
+        "context": "This diplomatic move serves as the essential background for current market volatility, as the reporting on the attempt to restart high-level peace discussions between the two nations has influenced trader sentiment. The outreach represents a significant shift in the geopolitical environment that participants in the oil market are currently monitoring.",
+        "why": "The shift in oil prices happened because traders are currently assessing the significance of the U.S. effort to revive peace negotiations; the market is reacting to the possibility that these diplomatic efforts could change the global energy landscape. According to the report, the price drop is a direct result of traders weighing these signs of diplomacy.",
+        "next": "The article doesn't say."
+      },
+      "earlier": [
+        {
+          "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+          "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
+          "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Oil Prices Fall as Traders Weigh IEA Reserve Releases, Hormuz Risks",
+          "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-iea-reserve-releases-hormuz-risks-f8d24d7b?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "North Korea fires more than 10 missiles toward Sea of Japan",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/north-korea-missile-salvo-wonsan-sea-of-japan",
+      "date": "2026-10-29",
+      "author": "Clement Charpentreau",
+      "summary": "North Korea fired more than 10 short-range ballistic missiles from the Wonsan area toward the Sea of Japan… The post North Korea fires more than 10 missiles toward Sea of Japan appeared first on AeroTime .",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-10-29",
+          "title": "North Korea fires missiles as row over landmine blast intensifies",
+          "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "topic": "environment",
+      "importance": 2,
+      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "date": "2026-10-28",
+      "author": "Sara Sneath",
+      "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump said his administration was “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texas, on Tuesday…",
+      "also": [
+        {
+          "source": "NPR",
+          "author": "The Associated Press",
+          "date": "2026-10-28",
+          "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+          "url": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions"
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-10-27",
+          "title": "Trump announces end of Biden-era methane rule, citing $45B in savings",
+          "url": "https://www.foxbusiness.com/politics/trump-announces-end-biden-era-methane-rule-citing-45b-savings"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Boeing sees demand for nearly 3,000 freighters as cargo traffic doubles by 2045",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/boeing-air-cargo-forecast-2045-freighter-demand",
+      "date": "2026-10-28",
+      "author": "Stephen Pope",
+      "summary": "Air cargo traffic is expected to double by 2045, creating demand for nearly 3,000 new and converted freighters… The post Boeing sees demand for nearly 3,000 freighters as cargo traffic doubles by 2045 appeared first on AeroTime .",
+      "also": [
+        {
+          "source": "Simple Flying",
+          "author": "Louis Hardiman",
+          "date": "2026-10-28",
+          "title": "Boeing Expects Cargo Traffic To Double As Emissions Regulations Cut Freighter Options",
+          "url": "https://simpleflying.com/boeing-expects-cargo-traffic-to-double-as-emissions-regulations-cut-freighter-options/"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
       "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
       "date": "2026-10-27",
       "author": "Aruni Soni",
-      "summary": "General Motors is transitioning its stock listing from the New York Stock Exchange to the Nasdaq. The move aligns the automaker with the technology-focused exchange after over a century on the NYSE.",
+      "summary": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies.",
       "also": [
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-10-27",
           "title": "General Motors to move stock listing from NYSE to Nasdaq in technology-focused shift",
-          "url": "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
-          "note": "Fox Business frames the move specifically as a technology-focused shift, emphasizing the strategic intent behind the exchange change."
+          "url": "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift"
         }
-      ],
-      "brief": {
-        "what": "General Motors is moving its stock listing to the Nasdaq after maintaining a presence on the New York Stock Exchange for more than 100 years.",
-        "who": "General Motors is the automaker executing the transfer of its listing.",
-        "context": "The New York Stock Exchange has historically hosted many traditional industrial companies, while the Nasdaq is widely recognized as the primary exchange for technology-focused firms.",
-        "why": "The company is shifting its listing to the Nasdaq to align itself with the technology companies that populate that exchange.",
-        "next": "The article doesn't say."
-      }
+      ]
     },
     {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "topic": "world",
+      "importance": 1,
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-25",
+      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-29",
       "author": null,
-      "summary": "SpaceX CEO Elon Musk confirmed that the company restricted Starlink internet access in Ukraine, citing violations of terms of service regarding offensive military drone strikes. The service has since been restored following intervention from US President Donald Trump.",
+      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
       "also": [
         {
-          "source": "AeroTime",
-          "author": "Ian Molyneaux",
-          "date": "2026-10-25",
-          "title": "Elon Musk says Ukraine ‘violated Starlink terms’ as full speed service returns",
-          "url": "https://www.aerotime.aero/articles/elon-musk-ukraine-violated-starlink-terms-full-speed-service-returns",
-          "note": "AeroTime frames the story by highlighting Musk's specific accusation of a terms violation and the return of full-speed service."
-        }
-      ],
-      "brief": {
-        "what": "SpaceX restricted Ukraine's access to the Starlink satellite network, claiming the military used the civilian service for offensive drone strikes in violation of terms. Following pressure from President Trump, the service was restored, allowing drones to operate at speeds exceeding 400km/h.",
-        "who": "Elon Musk, CEO of SpaceX; President Donald Trump; and Ukrainian officials including presidential adviser Serhii Beskrestnov and President Volodymyr Zelensky.",
-        "context": "Ukraine relies on Starlink for battlefield coordination and Starshield for real-time drone targeting. The restriction occurred amid diplomatic tensions between Washington and Kyiv regarding Ukrainian strikes on Russian oil infrastructure.",
-        "why": "Musk stated that Starlink is a civilian service and should not be used for offensive strikes that invite retaliation. Ukrainian officials disputed the technical feasibility of using commercial Starlink for deep strikes, noting inherent speed limitations.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "70-90km/h",
-          "what": "speed restriction for drones operating via Starlink"
-        },
-        {
-          "figure": "43-56mph",
-          "what": "speed restriction for drones operating via Starlink"
-        },
-        {
-          "figure": "400km/h",
-          "what": "speed drones can reach with stable connection"
-        },
-        {
-          "figure": "161km/h",
-          "what": "speed threshold where connection previously cut out"
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-10-29",
+          "title": "Hello Kitty gets caught up in Japan-China spat",
+          "url": "https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "topic": "aerospace",
-      "importance": 2,
+      "importance": 1,
+      "title": "Taiwan's Deputy Foreign Minister Responds to Pakistan's Airspace U-Turn",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-29/insight-with-haslinda-amin-10-29-2026-video",
+      "date": "2026-10-29",
+      "author": null,
+      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "SpaceX Supplier STMicroelectronics Forecasts Strong Sales on AI, Satellite Boost",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-29",
+      "author": "Mauro Orru",
+      "summary": "The European chip maker—which counts SpaceX among its clients—said its gross margin should increase to about 36.4% from 33.9% last year.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Clostridium perfringens Delta toxin targets CD9 to drive NEC and brain injury",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-11211-1",
+      "date": "2026-10-28",
+      "author": "Shimeng Zhang",
+      "summary": "Researchers have identified a specific bacterial toxin and its host receptor that drive both intestinal necrosis and brain injury in preterm infants. The discovery of the Delta toxin–CD9 axis provides a new target for treating necrotizing enterocolitis.",
+      "also": [],
+      "brief": {
+        "what": "Researchers identified that Delta toxin from the bacterium Clostridium perfringens is a primary driver of necrotizing enterocolitis (NEC) and associated brain injury. The study found that 58% of infants with severe NEC showed evidence of Delta toxin exposure, which correlates with systemic inflammation and blood-brain barrier dysfunction.",
+        "who": "The study was conducted by researchers analyzing faecal and serum samples from preterm infants, utilizing mouse models and CRISPR screening to identify host-pathogen interactions.",
+        "context": "NEC is a lethal gastrointestinal emergency in preterm infants that frequently causes long-term neurodevelopmental impairment. While the gut microbiome has long been implicated in the disease, the specific microbial factors and the mechanism linking gut pathology to brain damage remained undefined.",
+        "why": "The article states that Delta toxin targets the CD9 receptor on macrophages, activating inflammasome signaling and pyroptosis. This process triggers a rapid inflammatory cascade that compromises the blood-brain barrier and drives neuroinflammation. Researchers found that ablating the CD9 receptor or using a neutralizing monoclonal antibody protected against the disease.",
+        "next": "The findings validate the Delta toxin–CD9 axis as a therapeutic target for a subset of NEC cases."
+      },
+      "numbers": [
+        {
+          "figure": "56%",
+          "what": "prevalence of C. perfringens in patients with NEC"
+        },
+        {
+          "figure": "18%",
+          "what": "prevalence of C. perfringens in infants without NEC"
+        },
+        {
+          "figure": "58%",
+          "what": "patients with severe NEC showing Delta toxin exposure"
+        },
+        {
+          "figure": "0%",
+          "what": "infants without NEC showing Delta toxin exposure"
+        },
+        {
+          "figure": ">0.3",
+          "what": "Evans index indicating ventricular enlargement"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "BYD Profit Jumps on Strong Exports but Misses Estimates",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/byd-profit-jumps-on-robust-exports-but-misses-estimates-1ea63067?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-29",
+      "author": "Jiahui Huang",
+      "summary": "BYD reported a 28% rise in third-quarter net profit, missing estimates as the electric-vehicle giant expanded overseas to offset slowing demand in China.",
+      "also": [],
+      "brief": {
+        "what": "BYD reported that its net profit rose 28% during the third quarter, though the result missed estimates. The world’s top electric-vehicle seller achieved this growth by pushing ahead with its overseas expansion to maintain its financial trajectory despite missing analyst expectations.",
+        "who": "The primary actor is BYD, recognized as the world’s top electric-vehicle seller, which is currently managing its operations across both its home market and new international territories.",
+        "context": "The company is operating against a backdrop of slowing demand in its home market of China, which has necessitated a strategic shift in focus toward global exports and international sales.",
+        "why": "The profit increase was driven by BYD's decision to push ahead with overseas expansion, a move intended to offset the impact of cooling demand within the Chinese market.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "28%",
+          "what": "increase in third-quarter net profit"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "European oil majors lift buybacks as Iran war drives bumper profits",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5ded8d57-46f5-406c-a4ce-e58415b8d4ad?syn-25a6b1a6=1",
+      "date": "2026-10-29",
+      "author": null,
+      "summary": "Shell, TotalEnergies and Repsol report surge in third-quarter earnings as refining margins soar",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Cosco Profit Jumps Most in Two Years as Turmoil Supports Rates",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/cosco-profit-jumps-most-in-two-years-as-turmoil-supports-rates",
+      "date": "2026-10-29",
+      "author": "Rachel Yeo",
+      "summary": "Cosco Shipping Holdings Co. earnings jumped the most in two years as persistent geopolitical disruptions rerouted trade routes, tying up more of its vessels for longer while container rates surged.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
       "title": "Airlines Are Touting Fancy Suites and Fast Wi-Fi. Why’s It Taking So Long?",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/lifestyle/travel/the-frustrating-wait-for-the-fancy-suites-and-fast-wi-fi-airlines-are-hyping-e16f570c?mod=pls_whats_news_us_business_f",
       "date": "2026-10-28",
       "author": "Dawn Gilbertson",
-      "summary": "Airlines are struggling to deliver on promised passenger experience upgrades, including new lounges and seatback entertainment systems. Travelers are advised to temper their expectations regarding these service improvements.",
-      "also": [],
-      "brief": {
-        "what": "Airlines are facing delays in rolling out promised cabin upgrades and amenities such as enhanced lounges and seatback screens.",
-        "who": "Airlines are the primary actors responsible for the implementation of these passenger experience enhancements.",
-        "context": "The industry has frequently marketed premium cabin features and technological improvements to travelers, but the actual deployment of these upgrades is lagging behind expectations.",
-        "why": "The article suggests that travelers should curb their enthusiasm for these promised upgrades due to the ongoing delays in their execution.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 2,
-      "title": "Barn owls’ ancestors made a transatlantic flight",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03385-5",
-      "date": "2026-10-27",
-      "author": null,
-      "summary": "A new DNA study indicates that the ancestors of barn owls in the Americas originated from Eurasia and migrated across the Atlantic Ocean. The research suggests these populations trace their genetic roots back to the Caribbean.",
-      "also": [],
-      "brief": {
-        "what": "Genetic research reveals that barn owls (genus Tyto) currently residing in the Americas are descendants of ancestors that migrated from Eurasia across the Atlantic Ocean. The study identifies the Caribbean as the primary point of origin for these populations.",
-        "who": "The study focuses on the evolutionary history of the genus Tyto, specifically the barn owl populations found throughout the Americas.",
-        "context": "The findings provide new insights into the migration patterns and evolutionary history of barn owls, challenging previous understandings of how these birds populated the Americas.",
-        "why": "The conclusion is based on a DNA study that analyzed the genetic origins of barn owls to trace their ancestral migration routes.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Revered NASA spacecraft is about to perish in flames — astronomers are mourning",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03461-w",
-      "date": "2026-10-27",
-      "author": "Jenna Ahart",
-      "summary": "NASA's Neil Gehrels Swift Observatory is set to re-enter Earth's atmosphere and burn up after a failed rescue mission to boost its orbit. The spacecraft concludes a 22-year career that included identifying nearly 2,000 gamma-ray bursts.",
-      "also": [],
-      "brief": {
-        "what": "NASA has officially ended science operations for the Neil Gehrels Swift Observatory, which is expected to burn up in Earth's atmosphere following a failed orbital boost mission. The spacecraft, which identified nearly 2,000 gamma-ray bursts over its 22-year lifespan, lost the ability to lock onto targets after drifting too low.",
-        "who": "The primary actors include NASA, which managed the observatory and the failed rescue attempt, and the science operations team led by Caryl Gronwall at The Pennsylvania State University.",
-        "context": "Launched to study gamma-ray bursts, the observatory expanded its mission to include observations of black holes, supernovae, and comets. It provided critical data on neutron-star collisions, which are responsible for synthesizing heavy elements like gold and platinum.",
-        "why": "The mission ended because the spacecraft's altitude decayed over time, and a July rescue mission failed when the servicing spacecraft began spinning uncontrollably, preventing the necessary orbital adjustment.",
-        "next": "The observatory is predicted to re-enter the atmosphere on 2 November, with most of the structure burning up and minor debris potentially impacting the ocean."
-      },
-      "numbers": [
-        {
-          "figure": "almost 22 years",
-          "what": "time spent in orbit by the observatory"
-        },
-        {
-          "figure": "almost 2,000",
-          "what": "number of gamma-ray bursts identified by Swift"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Regular spaceplane flights planned in project",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-27",
-      "author": null,
-      "summary": "A new agreement has been reached to facilitate regular spaceplane flights departing from Cornwall. This development marks a potential shift toward routine operations for spaceplane technology in the region.",
-      "also": [],
-      "brief": {
-        "what": "An agreement has been established to enable regular spaceplane flights to take off from Cornwall. This project aims to transition spaceplane operations into a more routine service model.",
-        "who": "The project involves stakeholders coordinating the use of Cornwall as a launch site for spaceplane activities.",
-        "context": "Cornwall has been positioning itself as a hub for space-related activities, and this agreement represents a step toward utilizing the location for regular spaceplane flight operations.",
-        "why": "The agreement was reached to facilitate the operational requirements for regular spaceplane flights from the region.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Boeing Turnaround Shows Progress but Commercial Unit Sputters",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/boeing-turnaround-shows-progress-but-commercial-unit-sputters-6b3e2e05?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-27",
-      "author": "Drew FitzGerald",
-      "summary": "Boeing reported a narrowed quarterly loss of $116 million as total revenue increased by 4%. Despite this overall progress, the company's commercial aircraft unit continues to face operational challenges.",
-      "also": [],
-      "brief": {
-        "what": "Boeing narrowed its quarterly loss to $116 million, a significant improvement from the $5.34 billion loss recorded during the same period last year. Total revenue for the company rose 4% to reach $24.19 billion.",
-        "who": "Boeing is the primary actor, reporting its financial performance across its business units.",
-        "context": "The company is currently navigating a turnaround effort while managing performance issues within its commercial aircraft division.",
-        "why": "The article attributes the financial results to a mix of overall progress in the company's turnaround strategy alongside ongoing struggles in the commercial unit.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$24.19 billion",
-          "what": "total revenue reported by Boeing"
-        },
-        {
-          "figure": "$116 million",
-          "what": "overall quarterly loss"
-        },
-        {
-          "figure": "$5.34 billion",
-          "what": "loss reported in the prior year"
-        },
-        {
-          "figure": "4%",
-          "what": "growth in total revenue"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Deutsche Bank Sees Goals on Track as Corporate Division Offsets Investment Bank",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/deutsche-bank-on-track-to-reach-2026-goals-after-earnings-revenue-rise-bd0eb5f6?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-28",
-      "author": "Michael Hennessey",
-      "summary": "Deutsche Bank reported a rise in third-quarter profit as strong performance in its corporate and retail divisions balanced out a downturn in investment banking.",
-      "also": [],
-      "brief": {
-        "what": "Deutsche Bank achieved an increase in third-quarter profit, driven by revenue growth within its corporate and retail banking segments.",
-        "who": "Deutsche Bank is the primary actor, functioning as a global financial institution.",
-        "context": "The bank's diversified business model allowed its corporate and retail divisions to compensate for a decline in its investment banking operations.",
-        "why": "The bank reported that the corporate and retail divisions successfully offset the revenue decline experienced by the investment bank.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Ambani’s $130bn Jio soars in India’s biggest listing",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/32f2864d-c122-4d83-b0c5-8d2f1fcc63bd?syn-25a6b1a6=1",
-      "date": "2026-10-28",
-      "author": null,
-      "summary": "Reliance Industries' telecoms unit, Jio, has completed India's largest initial public offering, raising $3.2 billion. The listing achieved a valuation of $108 billion, providing a boost to the local stock market.",
-      "also": [],
-      "brief": {
-        "what": "Jio, the telecoms arm of Ambani’s business, successfully raised $3.2 billion through India's largest-ever stock market listing. The company debuted with a valuation of $108 billion.",
-        "who": "Ambani is the primary figure behind the business, which is valued at $130 billion.",
-        "context": "The listing occurred during a period where the Indian stock market faced significant pressure due to the ongoing war in Iran.",
-        "why": "The successful IPO provided a sense of relief to the broader stock market, which had been negatively impacted by geopolitical instability.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$130bn",
-          "what": "total value of Ambani's Jio business"
-        },
-        {
-          "figure": "$108bn",
-          "what": "valuation of the telecoms business at listing"
-        },
-        {
-          "figure": "$3.2bn",
-          "what": "capital raised in the initial public offering"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Ambani looks to pull off India’s biggest IPO",
-          "url": "https://www.ft.com/content/94f983a8-aa6b-4153-8796-f0b46b046ed0?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Israeli Markets Slide Across Board on Election Stalemate Concern",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-markets-slide-across-board-on-election-stalemate-concern",
-      "date": "2026-10-28",
-      "author": "Selcuk Gokoluk",
-      "summary": "Israeli financial assets experienced a broad decline as election results indicated a potential political stalemate. The lack of a clear path for any party to form a government has triggered market uncertainty.",
-      "also": [],
-      "brief": {
-        "what": "Israeli assets slid across the board following a tight election that resulted in a political stalemate. No single party currently holds a clear path toward forming a government.",
-        "who": "Israeli political parties and market participants.",
-        "context": "The country is facing a period of political instability after election results failed to produce a decisive outcome, leaving the formation of a new government in question.",
-        "why": "The market decline is attributed to concerns over the election stalemate and the resulting uncertainty regarding the formation of a government.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "A Punishing Housing Market Is Squeezing Renters",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
-      "date": "2026-10-28",
-      "author": "Sydney Ember",
-      "summary": "Rising mortgage rates and a decline in residential construction are strengthening the position of landlords in the housing market. These factors are contributing to increased pressure on renters.",
-      "also": [],
-      "brief": {
-        "what": "The residential housing market is experiencing renewed pressure as higher mortgage rates and slowing construction activity shift leverage back to landlords.",
-        "who": "Landlords are the primary beneficiaries of the current market conditions, while renters are facing increased financial strain.",
-        "context": "The housing sector is currently navigating a period of constrained supply and elevated borrowing costs, which impacts the broader rental landscape.",
-        "why": "According to the report, the combination of higher mortgage rates and a slowdown in residential construction is responsible for giving landlords the upper hand.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Turkey Cancels License of Brokerage at Heart of Fund Crisis",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/turkey-cancels-license-of-brokerage-at-heart-of-fund-crisis",
-      "date": "2026-10-28",
-      "author": "Tugce Ozsoy",
-      "summary": "Turkish market authorities have revoked the license of Tera Yatirim Menkul Degerler and halted its stock trading. This action marks a significant step in the ongoing dismantling of the brokerage firm central to the nation's fund crisis.",
-      "also": [],
-      "brief": {
-        "what": "Turkey’s market regulators have officially canceled the operating license of Tera Yatirim Menkul Degerler and suspended all trading of the firm's stock.",
-        "who": "Tera Yatirim Menkul Degerler is the brokerage firm being dismantled, while Turkish market authorities are the regulators executing the license cancellation.",
-        "context": "The brokerage firm was identified as being at the center of a broader fund crisis currently affecting the Turkish financial sector.",
-        "why": "The authorities are dismantling the firm as part of their response to the ongoing fund crisis.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "Turkey Shuts Down Three Brokerage Firms With Ties to Fund Crisis",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-21/turkey-shuts-down-three-brokerage-firms-with-ties-to-fund-crisis",
-          "source": "Bloomberg",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Oil Is the Real Risk for Another Week: Market Analysis",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-28/oil-is-the-real-risk-for-another-week-3-minutes-mliv-video",
-      "date": "2026-10-28",
-      "author": null,
-      "summary": "Bloomberg analysts discuss the primary market themes for investors, highlighting oil as a significant risk factor for the coming week.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Market analysts Anna Edwards, Guy Johnson, Tom Mackenzie, and Mark Cudmore reviewed the key themes currently impacting investors and analysts.",
-        "who": "The Bloomberg team, including Anna Edwards, Guy Johnson, Tom Mackenzie, and Mark Cudmore, presented the analysis on the program \"Bloomberg: The Opening Trade.\"",
-        "context": "The discussion serves as a briefing for market participants regarding the prevailing risks and trends influencing financial markets.",
-        "why": "The analysts identified oil as the real risk for the upcoming week, framing it as a central theme for market participants to monitor.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "European banks boost profits but fail to match Wall Street boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b12e4896-5c72-460c-b1c4-df433e5e8ca9?syn-25a6b1a6=1",
-      "date": "2026-10-28",
-      "author": null,
-      "summary": "European banks are reporting increased profits driven by strong corporate banking and wealth management, though they continue to trail the performance of their Wall Street counterparts.",
-      "also": [],
-      "brief": {
-        "what": "European lenders have seen a boost in profitability, supported by robust activity in corporate and investment banking sectors alongside increased investments from wealthy clients.",
-        "who": "European banks are the primary actors, with Wall Street firms serving as the benchmark for comparative performance.",
-        "context": "The financial sector is currently navigating a landscape where investment banking and wealth management services are key drivers of revenue.",
-        "why": "Profitability has risen due to resilient corporate banking activity and the strategic contributions of wealthy client investments.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Jio’s Blockbuster I.P.O. Gives India’s Investors a Lift",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
-      "date": "2026-10-28",
-      "author": "Alex Travelli",
-      "summary": "Jio Platforms shares experienced a significant surge during their initial day of public trading. The market debut occurs amid ongoing scrutiny regarding the company's long-term growth trajectory and a leadership transition.",
-      "also": [],
-      "brief": {
-        "what": "Jio Platforms shares saw a strong performance on their first day of trading, marking a successful initial public offering. The positive market reception comes despite lingering investor concerns regarding the firm's future growth potential.",
-        "who": "Jio Platforms is the telecom firm undergoing a leadership transition to a new generation of management.",
-        "context": "The company is navigating a shift in leadership while simultaneously addressing market skepticism about its ability to sustain growth in the competitive telecommunications sector.",
-        "why": "The article notes that questions are mounting about the firm's growth prospects as a new generation takes charge of the company.",
-        "next": "The article doesn't say."
-      }
+      "summary": "Travelers should curb their enthusiasm for promised upgrades to everything from lounges to seatback screens.",
+      "also": []
     },
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
       "source": "SpaceNews",
-      "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-      "date": "2026-10-27",
-      "author": "Sandra Erwin",
-      "summary": "Ukrainian startup Himera and Danish manufacturer GomSpace have launched an experimental satellite to test technology for a sovereign communications constellation. The project aims to reduce Ukraine's reliance on external providers following recent service disruptions.",
-      "also": [],
-      "brief": {
-        "what": "Himera and GomSpace have begun orbital testing of the Obria Nano satellite, which was launched via a SpaceX rideshare mission. The companies intend to use data from these tests to design a satellite constellation that provides independent communications coverage for Ukraine.",
-        "who": "Himera, a Ukrainian defense technology startup, and GomSpace, a Danish satellite manufacturer, are the primary partners. The initiative is supported by European efforts to bolster Ukraine's sovereign communications infrastructure.",
-        "context": "Ukraine has relied heavily on SpaceX's Starlink and Starshield services for military operations since 2022. Recent connectivity restrictions, which impacted drone operations and military command networks, have prompted Ukraine to seek alternative, domestically controlled communications solutions.",
-        "why": "According to Himera CEO Misha Rudominski, the project aims to establish an independent network to strengthen strategic security and decrease dependence on external providers. This follows recent disputes regarding service limitations imposed on Starlink and Starshield.",
-        "next": "The companies will continue orbital testing to inform the design of a future constellation, with long-term goals of manufacturing satellites and ground terminals domestically."
-      }
+      "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+      "date": "2026-10-28",
+      "author": "Flexell Space",
+      "summary": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells…",
+      "also": []
     },
     {
-      "topic": "markets",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Can an investor be too big to care about ethics?",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b0e32e1b-20f2-46f1-a931-6b1acfeb242e?syn-25a6b1a6=1",
-      "date": "2026-10-28",
-      "author": null,
-      "summary": "Norway is drafting new investment guidelines for its $2.3tn sovereign wealth fund. The proposals aim to clarify the ethical standards governing the fund's massive global portfolio.",
-      "also": [],
-      "brief": {
-        "what": "The Norwegian government is preparing formal proposals to dictate how its $2.3tn sovereign wealth fund should allocate capital. These guidelines are intended to address the ethical considerations associated with managing such a substantial investment vehicle.",
-        "who": "The Norwegian government, which manages the sovereign wealth fund.",
-        "context": "Sovereign wealth funds are state-owned investment vehicles that manage a country's surplus capital, often requiring a balance between financial returns and national values.",
-        "why": "The government is seeking to establish a framework for how the fund should invest, balancing its massive scale with ethical responsibilities.",
-        "next": "The government will release the formal proposals for the fund's investment strategy."
-      },
-      "numbers": [
+      "title": "Asia Pacific airlines end five-month passenger decline as cargo demand climbs",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/asia-pacific-airlines-end-five-month-passenger-decline-as-cargo-demand-climbs",
+      "date": "2026-10-29",
+      "author": "Jean Carmela Lim",
+      "summary": "International passenger numbers at Asia Pacific airlines rose slightly in September 2026, ending five consecutive months of year-on-year… The post Asia Pacific airlines end five-month passenger decline as cargo demand climbs appeared first on AeroTime .",
+      "also": []
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "Hasan Piker Sues Scott Jennings",
+      "source": "Reason",
+      "url": "https://reason.com/volokh/2026/10/27/hasan-piker-sues-scott-jennings/",
+      "date": "2026-10-27",
+      "author": "Eugene Volokh",
+      "summary": "From the complaint in Piker v. Jennings; of course, this is just Piker's side of the story—I expect we'll get… The post Hasan Piker Sues Scott Jennings appeared first on Reason Magazine.",
+      "also": [
         {
-          "figure": "$2.3tn",
-          "what": "total value of Norway's sovereign wealth fund"
+          "source": "New York Post",
+          "author": "Emily Lang",
+          "date": "2026-10-28",
+          "title": "Far-left streamer Hasan Piker sues conservative CNN pundit Scott Jennings for $73M",
+          "url": "https://nypost.com/2026/10/28/media/far-left-hasan-piker-sues-conservative-scott-jennings-for-73m-decries-pro-lynching-characterization/"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "world",
       "importance": 1,
-      "title": "What’s behind housing, healthcare, education, and childcare inflation?",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/op-eds/4781143/housing-healthcare-education-childcare-inflation/",
+      "title": "How much income Americans need to retire comfortably in every state",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/economy/how-much-income-americans-need-retire-comfortably-every-state",
       "date": "2026-10-28",
-      "author": "James Rogan",
-      "summary": "While overall inflation is trending toward the Federal Reserve's target, specific sectors like housing, healthcare, and education are experiencing significant price growth. These increases are outpacing wage growth due to deliberate political and social choices.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "The U.S. economy is seeing an annual inflation rate of 3%, with most economists expecting Federal Reserve tightening to reach a 2% target. However, housing, healthcare, childcare, and higher education costs are rising significantly faster than wages.",
-        "who": "The Federal Reserve, which manages monetary policy to control inflation, and U.S. voters, whose political and social choices are identified as the drivers of sector-specific inflation.",
-        "context": "While general inflation remains controlled and food costs have remained stable at 2% over the last two decades, specific segments of the economy face persistent price pressures that diverge from broader trends.",
-        "why": "The article states that inflation in housing, healthcare, childcare, and higher education is driven by deliberate political and social choices made by voters rather than general economic forces.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
+      "author": null,
+      "summary": "MoneyLion's analysis reveals the annual income needed to retire comfortably in all 50 states, ranging from $40,627 to $64,504 amid inflation.",
+      "also": [
         {
-          "figure": "3%",
-          "what": "annual inflation rate"
-        },
-        {
-          "figure": "2%",
-          "what": "Federal Reserve inflation target"
-        },
-        {
-          "figure": "2%",
-          "what": "average inflation rate for food consumed at home"
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-10-28",
+          "title": "How much income Americans need to retire comfortably in every state",
+          "url": "https://nypost.com/2026/10/28/business/how-much-income-americans-need-to-retire-comfortably-in-every-state/"
         }
       ]
     },
     {
       "topic": "science",
       "importance": 1,
-      "title": "AI maths advances raise fears over security of global encryption",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/694dbd7b-7096-47fe-b134-5275a1fb7b87?syn-25a6b1a6=1",
-      "date": "2026-10-28",
-      "author": null,
-      "summary": "Advancements in artificial intelligence's mathematical capabilities are prompting a re-evaluation of cybersecurity strategies. These developments are shifting focus beyond the long-standing concerns regarding quantum computing threats.",
-      "also": [],
-      "brief": {
-        "what": "The increasing mathematical proficiency of artificial intelligence is compelling organizations to reconsider their cybersecurity preparations. This shift moves the focus away from the previously dominant concern of quantum computing threats.",
-        "who": "The article identifies AI as the primary driver of this new mathematical capability.",
-        "context": "Cybersecurity planning has historically been dominated by the potential risks posed by quantum computing, which could theoretically break current encryption standards.",
-        "why": "The article states that AI's growing mathematical prowess is forcing a rethink of security preparations.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "IBM links two quantum chips in key step toward bigger computers",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/ibm-links-two-quantum-chips-key-step-toward-bigger-computers",
-      "date": "2026-10-27",
-      "author": "Adrian Cho",
-      "summary": "IBM has successfully connected two quantum chips using superconducting cables, marking a technical milestone in the development of larger quantum computing systems.",
-      "also": [],
-      "brief": {
-        "what": "IBM researchers have demonstrated a method to link quantum bits across separate chips by utilizing superconducting cables. This development represents a critical step toward scaling up the capacity of quantum computers.",
-        "who": "IBM is the primary actor leading this research into quantum chip interconnectivity.",
-        "context": "Quantum computers rely on quantum bits, or qubits, to perform complex calculations. Scaling these systems has historically been difficult due to the physical limitations of housing many qubits on a single chip.",
-        "why": "The research aims to overcome current hardware constraints by enabling modular connectivity between chips, though the article notes that further improvements to the technology are still required.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "In an AI blow-up, would insurance pay out?",
+      "title": "Ignore AI and ask for that pay rise",
       "source": "The Economist",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
-      "date": "2026-10-27",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
+      "date": "2026-10-29",
       "author": null,
-      "summary": "Credit default swaps are seeing a resurgence in popularity as investors grow increasingly concerned about the potential for a widespread debt crisis.",
-      "also": [],
-      "brief": {
-        "what": "Credit default swaps have returned to prominence among market participants. This trend is driven by rising anxieties regarding a possible debt disaster.",
-        "who": "Investors and market participants are the primary actors utilizing these financial instruments.",
-        "context": "Credit default swaps are financial derivatives that allow investors to hedge against the risk of a borrower defaulting on their debt obligations.",
-        "why": "The article states that these instruments are back in vogue specifically due to growing fears surrounding a debt disaster.",
-        "next": "The article doesn't say."
-      }
+      "summary": "Fear of a technological revolution may be suppressing wages",
+      "also": []
     },
     {
       "topic": "science",
       "importance": 1,
-      "title": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
-      "date": "2026-10-27",
-      "author": "Sara Reardon",
-      "summary": "A new study indicates that survivors of the 2004 Indian Ocean tsunami face a higher long-term risk of developing obesity and heart disease. The findings contribute to research suggesting that severe trauma can have lasting negative impacts on physical health.",
-      "also": [],
-      "brief": {
-        "what": "Research has linked the traumatic experience of the 2004 Indian Ocean tsunami to an increased prevalence of obesity and heart disease among survivors years later.",
-        "who": "The study is reported by Science (AAAS), focusing on the long-term health outcomes of tsunami victims.",
-        "context": "This research adds to a growing body of evidence examining how significant traumatic events can influence physiological health outcomes decades after the initial incident.",
-        "why": "The study suggests that the physiological stress of such traumatic experiences can negatively impact health over the long term.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Methane emissions remain flat even as biggest US oil region opens the tap",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03388-2",
-      "date": "2026-10-27",
+      "title": "Alphabet spells out more AI capex, China+1 doesn’t add up",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f499d3e6-dca1-4595-9fdf-8479122ca412?syn-25a6b1a6=1",
+      "date": "2026-10-29",
       "author": null,
-      "summary": "Satellite monitoring indicates that methane emissions in the Permian Basin have remained flat despite a tripling of oil and gas production since 2018. This suggests potential progress in industry efforts to control leaks of the potent greenhouse gas.",
-      "also": [],
-      "brief": {
-        "what": "Satellite data reveals that methane emissions from the Permian Basin have not increased since 2018, even though regional oil and gas production has tripled. This indicates that the industry may be successfully mitigating leaks of this potent greenhouse gas.",
-        "who": "Researchers N. Dadheech and A. J. Turner, who published their findings in Geophysical Research Letters.",
-        "context": "Methane is a significant contributor to climate change, responsible for an estimated 30% of human-caused global warming. The Permian Basin is a major fossil-fuel infrastructure hub where actual yearly methane emissions have been found to be more than twice as high as regulator estimates.",
-        "why": "The stability in emissions despite increased production suggests the industry has made progress toward controlling methane leaks, according to the research findings.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "30%",
-          "what": "estimated contribution to human-caused global warming"
-        }
-      ]
+      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+      "also": []
     },
     {
-      "topic": "business",
+      "topic": "science",
       "importance": 1,
-      "title": "On this day: the birth of Bernie Ecclestone",
-      "source": "City AM",
-      "url": "https://www.cityam.com/on-this-day-the-birth-of-bernie-ecclestone/",
+      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "source": "Science (AAAS)",
+      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
       "date": "2026-10-28",
-      "author": "Eliot Wilson",
-      "summary": "Bernie Ecclestone, the architect of modern Formula 1, celebrates his 96th birthday as his legacy of commercializing the sport and revolutionizing its safety standards is reviewed. His career spanned from team ownership to controlling the sport's global television rights and commercial management.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Bernie Ecclestone transformed Formula 1 into a lucrative global spectacle by centralizing commercial rights, establishing the Formula One Constructors’ Association (FOCA), and securing the Concorde Agreement. His tenure, which lasted until 2017, saw the sport evolve from a dangerous, fragmented pursuit into a highly regulated, safety-conscious, and commercially driven enterprise.",
-        "who": "Bernie Ecclestone, the central figure who managed teams and eventually controlled the sport's commercial operations, alongside key associates like Max Mosley and rivals like FISA president Jean-Marie Balestre.",
-        "context": "The sport was historically dominated by independent 'garagistes' and faced extreme safety risks, with multiple driver fatalities occurring in the 1950s and 1960s. Ecclestone navigated these challenges by leveraging his business acumen to gain control over television rights and team management.",
-        "why": "Ecclestone’s actions were driven by an instinctive ability to identify profit opportunities and a desire to shift power from governing bodies to the teams. He viewed the sport as a business requiring professional management and stable, long-term commercial agreements.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "£2bn",
-          "what": "estimated net worth of Bernie Ecclestone"
-        },
-        {
-          "figure": "£650m",
-          "what": "back taxes and penalties paid to HMRC"
-        },
-        {
-          "figure": "$15m",
-          "what": "sale price received for the Brabham team"
-        },
-        {
-          "figure": "£1m",
-          "what": "political donation made to the Labour party"
-        },
-        {
-          "figure": "14 cars",
-          "what": "number of vehicles in the San Marino Grand Prix field"
-        }
-      ]
+      "author": "Tom Howarth",
+      "summary": "The result, one of three major claims from OpenAI, raises questions about sharing of AI-generated work",
+      "also": []
+    },
+    {
+      "topic": "culture",
+      "importance": 1,
+      "title": "Will digital technology strike the right chord with musicians?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4836eaaa-dfd3-412e-a3c8-7c11b38f28e4?syn-25a6b1a6=1",
+      "date": "2026-10-29",
+      "author": null,
+      "summary": "Musical instruments will always benefit from technical innovations. The challenge is to do it well",
+      "also": []
     }
   ]
 }
