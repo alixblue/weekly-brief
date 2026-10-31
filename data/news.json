@@ -1,292 +1,177 @@
 {
-  "generated": "2026-10-30",
-  "window": "2026-10-23 to 2026-10-30",
+  "generated": "2026-10-31",
+  "window": "2026-10-24 to 2026-10-31",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-10-30",
-    "label": "Fri 30 Oct · change on the day",
+    "asof": "2026-10-31",
+    "label": "Sat 31 Oct · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,720.39",
-        "change": "-0.30%"
+        "value": "7,580.07",
+        "change": "-1.82%"
       },
       {
         "name": "Dow",
-        "value": "52,342.56",
-        "change": "-0.25%"
+        "value": "51,770.31",
+        "change": "-1.09%"
       },
       {
         "name": "Nasdaq",
-        "value": "26,184.724",
-        "change": "-1.38%"
+        "value": "25,436.999",
+        "change": "-2.86%"
       },
       {
         "name": "CAC 40",
-        "value": "7,985.44",
-        "change": "+0.19%"
+        "value": "7,969.42",
+        "change": "-0.01%"
       },
       {
         "name": "DAX",
-        "value": "25,901.01",
-        "change": "-0.53%"
+        "value": "25,818.21",
+        "change": "-0.85%"
       },
       {
         "name": "Brent oil",
-        "value": "$117.69",
-        "change": "+2.45%"
+        "value": "$113.43",
+        "change": "UNCH"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.912%",
-        "change": "-0.08 pt"
+        "value": "4.933%",
+        "change": "-0.06 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.12",
-        "change": "+0.1968%"
+        "value": "1.1158",
+        "change": "UNCH"
       }
     ]
   },
   "week": [
     {
-      "text": "Major oil companies including ExxonMobil, Chevron, and BP reported significant profit growth driven by refining margins and global supply constraints, even as the Trump administration proposes rolling back methane regulations for the industry.",
+      "text": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
       "urls": [
-        "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-        "https://www.wsj.com/business/earnings/bp-slashes-net-debt-as-earnings-soar-ba241a33?mod=pls_whats_news_us_business_f",
-        "https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1",
-        "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
-        "https://www.wsj.com/business/energy-oil/exxonmobil-xom-chevron-cvx-3q-earnings-report-2026-stock-1d890682?mod=pls_whats_news_us_business_f",
-        "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes"
+        "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "Tech giants and AI-related firms faced a massive market sell-off as investors questioned the financial sustainability of high AI spending, while DoorDash announced a $17 billion acquisition of Instacart.",
+      "text": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
       "urls": [
-        "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-        "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
-        "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-        "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd?mod=pls_whats_news_us_business_f",
-        "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=pls_whats_news_us_business_f",
-        "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai"
+        "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane"
       ]
     },
     {
-      "text": "Central bank leadership is in transition as the Federal Reserve holds interest rates steady before the midterms, while Christine Lagarde prepares to step down from the European Central Bank.",
+      "text": "The deal combines the country’s largest restaurant delivery service with its biggest online grocery platform.",
       "urls": [
-        "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+        "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html"
+      ]
+    },
+    {
+      "text": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "text": "European Central Bank President Christine Lagarde will resign nine months early to pursue freedom of speech on global affairs. Her departure allows for a successor to be appointed before potential political shifts in France.",
+      "urls": [
         "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
       ]
-    },
-    {
-      "text": "Two separate helicopter crashes resulted in fatalities in Oregon and Bosnia, prompting investigations into the causes of the incidents.",
-      "urls": [
-        "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
-        "https://www.aerotime.aero/articles/four-killed-in-italian-army-chinook-crash-bosnia-eufor"
-      ]
-    },
-    {
-      "text": "Regulators are increasing scrutiny on corporate practices, with the FTC investigating algorithmic pricing at major travel and gig companies, and Utah filing criminal charges against the prediction market Kalshi.",
-      "urls": [
-        "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
-        "https://reason.com/2026/10/29/utah-files-criminal-charges-against-kalshi-co-founders/"
-      ]
     }
   ],
-  "watch": [
-    {
-      "date": "2026-11-01",
-      "when": "",
-      "label": "Philippine Airlines adjusts flight timings for end of Daylight Saving Time",
-      "url": "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak"
-    }
-  ],
+  "watch": [],
   "items": [
     {
-      "topic": "environment",
+      "topic": "world",
       "importance": 3,
-      "title": "Trump administration wants to remove regulations on a super planet-heating gas",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-      "date": "2026-10-28",
-      "author": "Julia Simon",
-      "summary": "The Trump administration is proposing to roll back Biden-era regulations aimed at curbing methane emissions from the oil and gas industry. The move seeks to reduce production costs and encourage domestic drilling, though critics argue it may waste sellable product and hinder leak detection.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "The Editorial Board",
-          "date": "2026-10-29",
-          "title": "Opinion | Trump Scores on Methane Regulation",
-          "url": "https://www.wsj.com/opinion/trump-lubbock-texas-oil-drilling-epa-lee-zeldin-13b85d0d?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the rollback as a political victory for the administration."
-        },
-        {
-          "source": "National Review",
-          "author": "The Editors",
-          "date": "2026-10-29",
-          "title": "Trump’s Rollback of Methane Regulations Is Welcome",
-          "url": "https://www.nationalreview.com/2026/10/trumps-rollback-of-methane-regulations-is-welcome/",
-          "note": "The National Review frames the deregulation as a positive and welcome development."
-        }
-      ],
-      "brief": {
-        "what": "The Trump administration announced plans to scale back 2023 EPA regulations on methane emissions from oil and gas drilling sites. This includes eliminating the 'Methane Super Emitter Program,' which utilizes third-party monitoring to detect large leaks, and loosening requirements for marginal oil wells.",
-        "who": "The Trump administration and EPA Administrator Lee Zeldin are leading the rollback, supported by the American Petroleum Institute. They are opposed by environmental groups like the Environmental Defense Fund, represented by Jon Goldstein, who argue that capturing methane is economically beneficial.",
-        "context": "Methane is a potent greenhouse gas, and the 2023 rules were designed to mitigate its environmental impact. The industry previously opposed these regulations, citing compliance challenges, while the administration claims the revision will lower production costs and boost domestic energy output.",
-        "why": "President Trump stated the revision would save the industry billions in production costs and spur drilling. EPA Administrator Lee Zeldin claimed the previous rules destructively targeted the economy, while industry representatives seek a more 'workable approach' to regulation.",
-        "next": "The EPA plans to hold a public comment period of at least 45 days, including a public hearing, following the publication of the proposed changes in the Federal Register."
-      },
-      "numbers": [
-        {
-          "figure": "80 times",
-          "what": "planet-warming potential of methane versus carbon dioxide"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 3,
-      "title": "Fed holds interest rates steady in last decision before midterms",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
-      "date": "2026-10-28",
-      "author": "Gaya Gupta",
-      "summary": "The Federal Reserve has maintained current interest rates in its final meeting before the midterm elections, despite inflation remaining above 3%. The decision reflects a wait-and-see approach as officials monitor economic data and global supply shocks.",
+      "title": "Binance's $6.3bn crypto hack biggest in history",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-30",
+      "author": null,
+      "summary": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Colby Smith",
-          "date": "2026-10-28",
-          "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
-          "url": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
-          "note": "The New York Times frames the story as a preview of the decision, whereas The Guardian reports on the outcome."
+          "author": "Jonathan Wolfe",
+          "date": "2026-10-30",
+          "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+          "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html"
         },
         {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-10-28",
-          "title": "Federal Reserve makes interest rate decision ahead of midterms",
-          "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026",
-          "note": "Fox Business highlights the political timing of the decision in relation to the upcoming midterms."
-        }
-      ],
-      "brief": {
-        "what": "The Federal Reserve held interest rates steady at a range of 3.75% to 4% during its final meeting before the midterm elections. While inflation rose to 3.7% in September, the central bank opted for a pause to evaluate incoming economic information.",
-        "who": "Fed Chair Kevin Warsh led the decision, while board members Christopher Waller and Nicholas Economides provided perspective on policy timing and the limitations of rate hikes against supply-driven inflation.",
-        "context": "The Fed is balancing its mandate for price stability against inflation driven by global supply shocks, specifically rising oil prices due to the conflict in the Middle East. The decision occurs amid intense political scrutiny regarding the economy's impact on upcoming congressional elections.",
-        "why": "Chair Warsh stated that politics played no role in the decision, emphasizing that the board is focused on data-driven policy. Experts suggest the pause avoids radical action during an election period where the economy would not have time to adjust to policy shifts.",
-        "next": "The Fed plans to reduce its annual interest-rate-setting meetings to seven in 2027 and six in 2028, while most economists still anticipate one additional rate hike before the end of the year."
-      },
-      "numbers": [
-        {
-          "figure": "3.75% to 4%",
-          "what": "current range of interest rates"
+          "source": "The New York Times",
+          "author": "Ron Lieber and Tara Siegel Bernard",
+          "date": "2026-10-30",
+          "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+          "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html"
         },
         {
-          "figure": "3.7%",
-          "what": "annualized inflation rate in September"
-        },
-        {
-          "figure": "$117 a barrel",
-          "what": "peak price of oil traded this week"
-        },
-        {
-          "figure": "2%",
-          "what": "Federal Reserve target inflation rate"
-        },
-        {
-          "figure": "2 out of 12",
-          "what": "board members voting against the pause"
+          "source": "The New York Times",
+          "author": "David Yaffe-Bellany and Ryan Mac",
+          "date": "2026-10-30",
+          "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+          "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 3,
-      "title": "Watch: Why Australia's mushroom murderer may now die in prison",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30",
-      "author": null,
-      "summary": "An Australian court has rejected Erin Patterson's appeal against her triple-murder conviction while simultaneously extending her prison sentence. Judges ruled that the original 33-year non-parole period was insufficient.",
+      "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+      "date": "2026-10-28",
+      "author": "Julia Simon",
+      "summary": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Victoria Kim",
-          "date": "2026-10-30",
-          "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
-          "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
-          "note": "The New York Times focuses on the rejection of the appeal, while Al Jazeera highlights the specific moniker used to describe the defendant."
+          "source": "Wall Street Journal",
+          "author": "The Editorial Board",
+          "date": "2026-10-29",
+          "title": "Opinion | Trump Scores on Methane Regulation",
+          "url": "https://www.wsj.com/opinion/trump-lubbock-texas-oil-drilling-epa-lee-zeldin-13b85d0d?mod=pls_whats_news_us_business_f"
         },
         {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-10-30",
-          "title": "Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal",
-          "url": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss"
-        }
-      ],
-      "brief": {
-        "what": "Erin Patterson lost her appeal to overturn a triple-murder conviction at Victoria's Court of Appeal. Additionally, the prosecution successfully argued that her original 33-year non-parole sentence was insufficient, leading to a judicial agreement to increase the penalty.",
-        "who": "Erin Patterson is the convicted individual, while the prosecution and the judges at Victoria's Court of Appeal are the legal actors involved in the sentencing decision.",
-        "context": "The case involves a triple-murder conviction that has been subject to appeals from both the defendant and the prosecution regarding the severity of the sentence.",
-        "why": "The prosecution appealed the original sentence because they deemed the 33-year non-parole period to be insufficient for the crimes committed.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "33 years",
-          "what": "initial non-parole period for triple-murder conviction"
+          "source": "National Review",
+          "author": "The Editors",
+          "date": "2026-10-29",
+          "title": "Trump’s Rollback of Methane Regulations Is Welcome",
+          "url": "https://www.nationalreview.com/2026/10/trumps-rollback-of-methane-regulations-is-welcome/"
         }
       ]
     },
     {
-      "topic": "business",
-      "importance": 2,
+      "topic": "world",
+      "importance": 3,
       "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
       "date": "2026-10-29",
       "author": "Emmy Martin and Lauren McCarthy",
-      "summary": "DoorDash has announced an agreement to acquire Instacart in a transaction valued at $17 billion. This merger combines the leading restaurant delivery service with the largest online grocery platform in the United States.",
+      "summary": "The deal combines the country’s largest restaurant delivery service with its biggest online grocery platform.",
       "also": [
         {
           "source": "Wall Street Journal",
           "author": "Heather Haddon",
           "date": "2026-10-29",
           "title": "How CEO Tony Xu Led DoorDash to Delivery Dominance",
-          "url": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses on the leadership role of CEO Tony Xu in its alternative headline."
+          "url": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f"
         },
         {
           "source": "Wall Street Journal",
           "author": "Colin Kellaher",
           "date": "2026-10-29",
           "title": "DoorDash to Buy Instacart for $17 Billion",
-          "url": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal's second headline mirrors the primary report of the acquisition price."
+          "url": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f"
         },
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-10-29",
-          "title": "DoorDash strikes $17B deal for rival Instacart in bets on grocery delivery",
-          "url": "https://www.foxbusiness.com/markets/doordash-strikes-17b-deal-rival-instacart-bets-grocery-delivery",
-          "note": "Fox Business frames the deal as a strategic bet specifically targeting the grocery delivery market."
-        }
-      ],
-      "brief": {
-        "what": "DoorDash is set to acquire Instacart for $17 billion, effectively consolidating the nation's largest restaurant delivery service and its biggest online grocery platform.",
-        "who": "DoorDash, the acquiring restaurant delivery service, and Instacart, the target online grocery platform.",
-        "context": "The deal represents a significant consolidation within the delivery sector, bringing together two major players that have historically dominated separate segments of the market.",
-        "why": "The acquisition is intended to combine the country’s largest restaurant delivery service with its biggest online grocery platform.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$17 billion",
-          "what": "total value of the acquisition deal"
+          "title": "DoorDash strikes $17B deal for rival Instacart in bet on grocery delivery",
+          "url": "https://www.foxbusiness.com/markets/doordash-strikes-17b-deal-rival-instacart-bets-grocery-delivery"
         }
       ],
       "earlier": [
@@ -299,59 +184,28 @@
       ]
     },
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 2,
       "title": "The South West reacts to Budget announcements",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-29",
       "author": null,
-      "summary": "Chancellor John Healey's first Budget introduces energy bill support, business rate relief, and a minimum wage increase, drawing mixed reactions from regional business leaders. The policy package includes tax adjustments for landlords and farmers alongside new housing support schemes.",
+      "summary": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
       "also": [
         {
           "source": "Carbon Brief",
           "author": "Carbon Brief Staff",
           "date": "2026-10-28",
           "title": "UK budget 2026: Key climate and energy announcements",
-          "url": "https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements",
-          "note": "Carbon Brief focuses specifically on the environmental and energy-related implications of the fiscal policy."
+          "url": "https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements"
         },
         {
           "source": "The Telegraph",
           "author": "Matt Oliver",
           "date": "2026-10-28",
           "title": "Budget 2026: Key points at a glance",
-          "url": "https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance/",
-          "note": "The Telegraph frames the story as a high-level summary of the primary policy points."
-        }
-      ],
-      "brief": {
-        "what": "The UK government announced a series of fiscal measures including a £100 energy payment for households in council tax bands A to D, a VAT cut on electricity, and a freeze on fuel duty. Business rates thresholds were raised to £18,000, while the legal minimum wage is set to rise by 3.9%.",
-        "who": "Chancellor John Healey introduced the measures, while regional representatives like Toby Parkins of the Cornwall Chamber of Commerce and Sue Jewell of the South East Cornwall Tourism Association provided industry feedback.",
-        "context": "The Budget serves as the government's primary fiscal statement, impacting regional economic development, agricultural succession planning, and the housing market through new landlord taxes and first-time buyer incentives.",
-        "why": "The government aims to provide household energy relief and business stability, though critics like James Kittow argue the lack of agricultural tax relief ignores the needs of the rural economy, and Andrea Drew warns that increased landlord taxes may exacerbate housing shortages.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "3.9%",
-          "what": "increase in the legal minimum wage"
-        },
-        {
-          "figure": "£18,000",
-          "what": "new threshold for business rates exemption"
-        },
-        {
-          "figure": "£100",
-          "what": "one-off household energy payment"
-        },
-        {
-          "figure": "£2.5m",
-          "what": "value of farming assets subject to tax"
-        },
-        {
-          "figure": "20%",
-          "what": "inheritance tax rate on farming assets"
+          "url": "https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance/"
         }
       ]
     },
@@ -363,7 +217,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
       "date": "2026-10-29",
       "author": "Phillip Inman and Graeme Wearden",
-      "summary": "European Central Bank President Christine Lagarde is stepping down nine months early to regain the freedom to speak publicly on global affairs. Her departure initiates a search for a successor as the eurozone navigates weak growth and high inflation.",
+      "summary": "European Central Bank President Christine Lagarde will resign nine months early to pursue freedom of speech on global affairs. Her departure allows for a successor to be appointed before potential political shifts in France.",
       "also": [
         {
           "source": "The New York Times",
@@ -371,24 +225,26 @@
           "date": "2026-10-29",
           "title": "Christine Lagarde to Step Down as President of European Central Bank",
           "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
-          "note": "The New York Times headline focuses strictly on the resignation event without mentioning the specific motivation of 'freedom of speech'."
+          "note": {
+            "The New York Times": "The headline provides a straightforward report of the resignation without including Lagarde's specific reasoning about freedom of speech."
+          }
         }
       ],
       "brief": {
-        "what": "Christine Lagarde announced she will resign as president of the European Central Bank next February, nine months ahead of schedule. The decision follows the ECB's choice to maintain its key deposit rate at 2.5% while inflation reached 3.8%.",
-        "who": "Christine Lagarde is the outgoing president of the European Central Bank, while the European Council is responsible for appointing her successor.",
-        "context": "The ECB is tasked with setting monetary policy across the eurozone, a role that requires strict neutrality. Lagarde, a former IMF managing director, is reportedly a candidate to lead the World Economic Forum.",
-        "why": "Lagarde stated that the rules of neutrality governing her position prevented her from speaking freely about global issues and confronting what she described as the misrepresentation of truth. Analysts suggest the timing may also be influenced by French President Emmanuel Macron's desire to secure a successor before potential shifts in French political leadership.",
-        "next": "The European Council has begun the process to identify a successor, with several central bank and investment bank leaders cited as potential candidates."
+        "what": "Christine Lagarde announced her resignation as President of the European Central Bank effective next February, nine months earlier than planned. The announcement coincided with the ECB's decision to maintain the key deposit rate at 2.5% while inflation reached 3.8%.",
+        "who": "Lagarde, the former IMF head, is the main actor; French President Emmanuel Macron is cited as a political influence behind the timing.",
+        "context": "Serving since 2019, Lagarde has navigated the eurozone through the pandemic and various global conflicts. She is currently tipped as a potential leader for the World Economic Forum following Klaus Schwab's departure.",
+        "why": "Lagarde claims she wants \"freedom of speech\" to address global affairs and \"misrepresentation of the truth\" without the constraints of central bank neutrality. Economists suggest the timing helps President Macron appoint a successor before potential shifts in French domestic politics.",
+        "next": "The European Council will appoint a successor from a pool of candidates including Klaas Knot and Nadia Calviño to ensure an orderly transition."
       },
       "numbers": [
         {
           "figure": "2.5%",
-          "what": "key deposit rate maintained by the ECB"
+          "what": "ECB key deposit rate"
         },
         {
           "figure": "3.8%",
-          "what": "inflation rate recorded last month"
+          "what": "eurozone inflation rate last month"
         }
       ],
       "earlier": [
@@ -401,201 +257,280 @@
       ]
     },
     {
+      "topic": "business",
+      "importance": 2,
+      "title": "French banks’ rising profits fail to reverse sell-off as political fears bite",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1",
+      "date": "2026-10-31",
+      "author": null,
+      "summary": "BNP Paribas, SocGen and Crédit Agricole reported strong third-quarter earnings but have been hit by investor nerves over political and economic uncertainty",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Bank of England explores easing key limit on riskier mortgage lending",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
+      "date": "2026-10-31",
+      "author": null,
+      "summary": "Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+      "date": "2026-10-31",
+      "author": null,
+      "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-31",
+      "author": null,
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Opinion | An AI Halloween Market Scare",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/opinion/market-scare-ai-binance-nasdaq-google-alphabet-94e31518?mod=pls_whats_news_us_business_f",
+      "date": "2026-10-30",
+      "author": "The Editorial Board",
+      "summary": "Crypto isn’t risk-free after all, as thieves take Binance for $6.3 billion.",
+      "also": []
+    },
+    {
       "topic": "markets",
       "importance": 2,
-      "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+      "title": "Why the Markets Don’t Care About the Midterms",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
+      "date": "2026-10-30",
+      "author": "Jeff Sommer",
+      "summary": "A New York Times columnist argues that financial markets are prioritizing economic and geopolitical factors over the upcoming midterm elections.",
+      "also": [],
+      "kind": "opinion",
+      "brief": {
+        "what": "The provided text outlines a perspective on why financial markets are currently exhibiting a lack of concern regarding the upcoming midterm elections, suggesting that other global factors are taking precedence. The analysis focuses on the disconnect between political cycles and market movements in the current environment.",
+        "who": "The main actor is a columnist for The New York Times who is responsible for interpreting market trends and explaining the underlying motivations of investors to the readership.",
+        "context": "The background involves a complex international landscape where various economic and technological shifts are occurring simultaneously, creating a high-stakes environment for financial markets.",
+        "why": "The columnist asserts that the markets are far more concerned with the trajectory of inflation and the status of interest rates than with election results. Additionally, the writer claims that the rapid evolution of A.I. and the ongoing war with Iran are significantly more important factors that are currently driving market behavior and investor sentiment.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Cash Isa changes can still foster a ‘nation of investors’",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/c5144486-17f9-40e6-a3d0-7c7e206dd9af?syn-25a6b1a6=1",
+      "date": "2026-10-31",
+      "author": null,
+      "summary": "The behavioural impact of a small incentive to invest in stocks-and-shares Isas could be huge",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Wanted: New Central Bank Chief. Expertise and Political Acumen Required.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
+      "date": "2026-10-31",
+      "author": "Eshe Nelson",
+      "summary": "The looming departure of the European Central Bank’s president, Christine Lagarde, has set in motion a high-stakes search for her successor.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss",
+      "date": "2026-10-31",
+      "author": null,
+      "summary": "Analysts say the seizure of state arsenals, external backing and extensive military evolution has helped the Houthis.",
+      "also": []
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
       "date": "2026-10-30",
       "author": null,
-      "summary": "Major technology companies have lost nearly $900 billion in market value as investors grow concerned over the high costs of artificial intelligence investments. Wall Street is increasingly questioning the financial sustainability of the current AI spending boom.",
+      "summary": "A federal judge dealt McDonald's a legal setback, allowing a lawsuit accusing the fast-food giant of misleading customers about the meat in its McRib sandwich to move forward.",
       "also": [
         {
-          "source": "Bloomberg",
-          "author": "Robert Brand and Rivaldo Jantjies",
-          "date": "2026-10-29",
-          "title": "Tech Rout Deepens as Earnings Stoke AI Reckoning: Markets Wrap",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-          "note": "Bloomberg frames the story as an 'AI reckoning' caused by earnings reports, focusing more on the immediate market reaction to financial results."
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-10-31",
+          "title": "McDonald’s dealt legal setback as judge allows lawsuit over McRib’s ‘lack of rib meat’ to proceed",
+          "url": "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+      "date": "2026-10-30",
+      "author": "Joe Rennison and Aruni Soni",
+      "summary": "The Nasdaq and the S&P 500 had their worst day since June as investors worried about spending on A.I. infrastructure.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-30",
+      "author": null,
+      "summary": "Major US technology stocks experienced significant declines as investors questioned the massive capital expenditures required for artificial intelligence. Despite committing nearly $1 trillion to AI infrastructure, several firms reported earnings that failed to meet market expectations.",
+      "also": [],
+      "brief": {
+        "what": "US tech stocks saw sharp declines, with the Nasdaq index hitting its worst monthly slide since early 2025. Intel shares plummeted 28% and Alphabet lost $500bn in market value as investors reacted to massive capital expenditures in artificial intelligence.",
+        "who": "The primary actors are \"Big Tech\" firms including Alphabet, Intel, Amazon, and Microsoft, as well as market analysts from FHN Financial and XTB who are evaluating the sustainability of current investment levels.",
+        "context": "Major technology companies have significantly ramped up spending on AI infrastructure, such as data centers and servers, with Meta, Alphabet, Oracle, Amazon, and Microsoft committing $800bn for 2026.",
+        "why": "Investors are spooked by \"growing pains\" and the possibility of an AI bubble, as stated by analysts. The article notes that high costs are not yet yielding expected payouts, with Alphabet reporting that AI search summaries are hurting its core advertising revenue and Intel facing a slowdown in the PC market.",
+        "next": "Analysts suggest that if AI stocks continue to struggle through November, it could signal that the AI trade has passed its peak, prompting investors to look for new themes to drive the market."
+      },
+      "numbers": [
+        {
+          "figure": "28%",
+          "what": "drop in Intel shares on Friday"
+        },
+        {
+          "figure": "$800bn",
+          "what": "AI spending committed by five tech firms for 2026"
+        },
+        {
+          "figure": "$500bn",
+          "what": "reduction in Alphabet's market value"
+        },
+        {
+          "figure": "$130bn",
+          "what": "loss in Intel's market value"
         }
       ],
+      "earlier": [
+        {
+          "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
+          "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
+      "date": "2026-10-30",
+      "author": "Avalon Pernell",
+      "summary": "Dermatology-focused biotech Bambusa Therapeutics Inc. saw its shares decline 6.3% in its market debut after raising $168.9 million in a US initial public offering.",
+      "also": [],
       "brief": {
-        "what": "Big Tech companies experienced a significant market rout, shedding nearly $900 billion in value. This decline follows investor concerns regarding the substantial cash burn associated with artificial intelligence initiatives at Google, Amazon, and Meta.",
-        "who": "Google, Amazon, and Meta are the primary technology companies facing scrutiny, while Wall Street investors are the actors driving the market reaction.",
-        "context": "The technology sector has been heavily focused on aggressive capital expenditure to capture the potential of artificial intelligence, leading to increased scrutiny of corporate balance sheets.",
-        "why": "Wall Street is questioning the price of the AI boom due to the high levels of cash burn reported by major tech firms, which has stoked fears about the return on investment for these massive expenditures.",
+        "what": "Bambusa Therapeutics Inc. shares experienced a 6.3% decline during their initial trading session on the US market. This drop followed the company's successful effort to raise $168.9 million through its initial public offering.",
+        "who": "Bambusa Therapeutics Inc. is the primary actor, described as an early-stage biotechnology firm. The company focuses its research and development efforts on treatments for dermatology and various autoimmune diseases.",
+        "context": "The firm entered the public markets via a US initial public offering, a significant financial milestone for an early-stage biotech entity. This move allowed the company to secure $168.9 million in capital from investors before its shares began active trading.",
+        "why": "While the article reports the 6.3% slip in share price, it does not provide specific market drivers or investor sentiments explaining the decline. The focus remains on the contrast between the capital raised and the subsequent dip in valuation during the debut.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "$900bn",
-          "what": "market value lost by technology companies"
+          "figure": "6.3%",
+          "what": "decrease in share price during trading debut"
+        },
+        {
+          "figure": "$168.9 million",
+          "what": "total funds raised in US initial public offering"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Nearly 6 million coffee makers sold at major retailers recalled over burn risk",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/lifestyle/nearly-6-million-coffee-makers-sold-major-retailers-recalled-over-burn-risk",
+      "date": "2026-10-30",
+      "author": null,
+      "summary": "Bodum USA has recalled nearly 6 million French press coffee makers due to a risk of glass carafes breaking and causing burn injuries.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-10-30",
+          "title": "Nearly 6 million coffee makers recalled as cracked glass poses burn risk",
+          "url": "https://nypost.com/2026/10/30/business/nearly-6-million-coffee-makers-recalled-as-cracked-glass-poses-burn-risk/",
+          "note": {
+            "New York Post": "The headline highlights that cracked glass specifically poses the burn risk to consumers."
+          }
+        }
+      ],
+      "brief": {
+        "what": "Bodum USA is recalling 5.9 million French press coffee makers because the glass carafes can break unexpectedly, posing a burn risk. The recall covers 8-cup and 12-cup models sold for $15 to $65 at major retailers including Target, Walmart, and Amazon.",
+        "who": "Bodum USA issued the recall in coordination with the Consumer Product Safety Commission (CPSC), affecting products sold through major physical and online retailers.",
+        "context": "These coffee makers have been sold nationwide since 1974. The recall was prompted by 70 reports of breakage, with 48 of those incidents resulting in burn injuries to consumers.",
+        "why": "According to the CPSC, the carafes can break if the glass is damaged or if a metal spoon is used for stirring. Bodum stated that while the incident rate is extremely low given decades of sales, the recall aims to encourage safer product use.",
+        "next": "Consumers are instructed to stop using metal spoons or utensils in the carafes and should contact Bodum to obtain a plastic stirring spoon and a warning label."
+      },
+      "numbers": [
+        {
+          "figure": "5.9 million",
+          "what": "Bodum French press coffee makers affected"
+        },
+        {
+          "figure": "70",
+          "what": "reports of carafes breaking during use"
+        },
+        {
+          "figure": "48",
+          "what": "reports of burns to consumers"
+        },
+        {
+          "figure": "$15 to $65",
+          "what": "retail price range of the products"
+        },
+        {
+          "figure": "8-cup and 12-cup",
+          "what": "capacities of replaceable glass carafes"
         }
       ]
     },
     {
       "topic": "aerospace",
-      "importance": 2,
-      "title": "Three dead after two helicopters collide midair near Oregon airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30",
-      "author": null,
-      "summary": "Three people died following a midair collision between two helicopters near McMinnville Municipal Airport in Oregon. The incident involved a Robinson R22 and an Airbus helicopter.",
-      "also": [],
-      "brief": {
-        "what": "Two helicopters, a Robinson R22 and an Airbus model, collided midair near McMinnville Municipal Airport, resulting in three fatalities. Both aircraft crashed into a field adjacent to a highway.",
-        "who": "The victims include a flight instructor and a student pilot from Jerry Trimble Helicopters, and the sole occupant of the second aircraft. The FAA and NTSB are leading the investigation.",
-        "context": "The incident occurred near a small airport in Oregon, prompting a response from local law enforcement and federal aviation authorities.",
-        "why": "The cause of the midair collision is currently under investigation by the FAA and NTSB, with Jerry Trimble Helicopters stating they are fully cooperating with officials.",
-        "next": "The FAA and NTSB are conducting an ongoing investigation into the incident."
-      },
-      "numbers": [
-        {
-          "figure": "3",
-          "what": "total number of people killed in collision"
-        },
-        {
-          "figure": "2",
-          "what": "number of helicopters involved in collision"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "BP Slashes Net Debt as Earnings Soar",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/bp-slashes-net-debt-as-earnings-soar-ba241a33?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-30",
-      "author": "Adam Whittaker",
-      "summary": "BP reported a significant surge in third-quarter earnings and cash flow, allowing the company to reduce its net debt more rapidly than anticipated.",
-      "also": [],
-      "brief": {
-        "what": "BP experienced a nearly fourfold increase in profit alongside a jump in cash flow during the third quarter. This financial performance enabled the company to accelerate its net debt reduction efforts.",
-        "who": "BP, a British energy major.",
-        "context": "The company has been focused on managing its balance sheet and debt levels amidst fluctuating energy market conditions.",
-        "why": "The company's profit growth and increased cash flow provided the necessary capital to pay down debt faster than market expectations.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "A.I. Stocks Wobble, but Broader Market Is Holding On",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-      "date": "2026-10-30",
-      "author": "Joe Rennison and Aruni Soni",
-      "summary": "The S&P 500 is trending toward a minor monthly decline as high-performing technology stocks experience a pullback. Despite this volatility in the tech sector, the broader market remains resilient.",
-      "also": [],
-      "brief": {
-        "what": "The S&P 500 is currently positioned for a slight monthly loss. This downturn follows a period where specific technology stocks, which previously propelled the index to record highs, have faced a more significant decline.",
-        "who": "The S&P 500 index and the technology companies that comprise its leading components.",
-        "context": "The market has recently experienced a shift where the tech stocks that previously drove the index to repeated new highs are now seeing a deeper slide.",
-        "why": "The article attributes the current market state to a wobble in A.I.-related stocks, even as the broader market maintains its position.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "S&P 500",
-          "what": "the stock market index tracking performance"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "ExxonMobil and Chevron post bumper profits and warn on diesel supplies",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1",
-      "date": "2026-10-30",
-      "author": null,
-      "summary": "ExxonMobil and Chevron have reported significant profit increases driven by rising refining margins. The companies have also issued warnings regarding potential constraints in diesel supplies.",
-      "also": [],
-      "brief": {
-        "what": "ExxonMobil and Chevron reported bumper profits as refining margins soared. The companies also issued warnings regarding the future availability of diesel supplies.",
-        "who": "ExxonMobil and Chevron are the primary US oil groups involved in the report.",
-        "context": "The energy sector is currently navigating volatile market conditions influenced by geopolitical tensions.",
-        "why": "The article attributes the soaring refining margins to Donald Trump’s war in Iran.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
-      "date": "2026-10-30",
-      "author": "Rebecca F. Elliott and Keith Collins",
-      "summary": "The U.S. oil industry generated over $130 billion in profit during the Iran war, marking a significant increase compared to the previous year.",
-      "also": [],
-      "brief": {
-        "what": "The U.S. oil industry recorded profits exceeding $130 billion throughout the duration of the Iran war. This figure represents nearly triple the earnings reported by domestic oil production and refining businesses during the same timeframe in 2025.",
-        "who": "U.S. oil production and refining businesses.",
-        "context": "The report compares current industry financial performance against the baseline established by the 2025 fiscal period.",
-        "why": "The article does not explicitly state the underlying economic drivers for this profit surge beyond the timeframe of the Iran war.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$130 billion",
-          "what": "profit earned by the U.S. oil industry"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "American Oil Giants See Profits Soar as Wars Crimp Energy Supplies",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/exxonmobil-xom-chevron-cvx-3q-earnings-report-2026-stock-1d890682?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-30",
-      "author": "Collin Eaton",
-      "summary": "ExxonMobil and Chevron reported significant third-quarter earnings growth as global demand for U.S. refined fuel increased. The surge in profitability follows international supply constraints linked to ongoing global conflicts.",
-      "also": [],
-      "brief": {
-        "what": "ExxonMobil and Chevron achieved blockbuster earnings for the third quarter. This financial performance was driven by the global market's increased reliance on U.S. refineries for fuel supplies.",
-        "who": "ExxonMobil and Chevron are the primary energy corporations reporting these financial results.",
-        "context": "The global energy landscape is currently experiencing supply disruptions due to international conflicts, which has shifted demand toward American refinery capacity.",
-        "why": "The companies saw profits soar because the world turned to U.S. refineries to address energy supply shortages caused by wars.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Exxon and Chevron Beat Estimates as Oil Refining Profits Soar",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
-      "date": "2026-10-30",
-      "author": "Kevin Crowley",
-      "summary": "ExxonMobil and Chevron surpassed profit expectations as global energy market volatility pushed refining margins to record levels.",
-      "also": [],
-      "brief": {
-        "what": "ExxonMobil and Chevron both exceeded profit expectations in their latest financial results. The companies benefited significantly from record-high refining profits driven by market instability.",
-        "who": "ExxonMobil Holdings Corp. and Chevron Corp. are the primary energy companies reporting these financial results.",
-        "context": "The energy sector is currently navigating significant geopolitical tensions, specifically conflicts in the Persian Gulf and Russia, which have impacted global energy markets.",
-        "why": "According to the report, the surge in refining results was caused by conflicts in the Persian Gulf and Russia that roiled energy markets.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
       "importance": 1,
       "title": "SpaceX Supplier STMicroelectronics Forecasts Strong Sales on AI, Satellite Boost",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd?mod=pls_whats_news_us_business_f",
       "date": "2026-10-29",
       "author": "Mauro Orru",
-      "summary": "European chip manufacturer STMicroelectronics projects a rise in gross margins driven by demand from clients including SpaceX. The company anticipates growth fueled by artificial intelligence and satellite technology sectors.",
+      "summary": "SpaceX supplier STMicroelectronics expects its gross margin to rise to 36.4% this year, driven by increased demand in the satellite and artificial intelligence sectors.",
       "also": [],
       "brief": {
-        "what": "STMicroelectronics announced a positive financial outlook, forecasting an increase in gross margins to 36.4% compared to the 33.9% recorded last year. This growth is attributed to strong demand within the artificial intelligence and satellite markets.",
-        "who": "STMicroelectronics is a European chip maker that supplies components to various industries, including the aerospace sector through its client SpaceX.",
-        "context": "The company is positioning itself to benefit from the expanding needs of high-tech industries that rely on advanced semiconductor components for satellite operations and AI applications.",
-        "why": "The company expects these gains due to a boost in sales driven by the specific requirements of its AI and satellite-focused client base.",
+        "what": "European semiconductor manufacturer STMicroelectronics has released a financial forecast indicating that its gross margin is expected to increase to approximately 36.4%. This projected figure represents a notable improvement over the 33.9% gross margin recorded by the company during the previous year.",
+        "who": "The primary actor is STMicroelectronics, a prominent European chip maker that maintains a significant business relationship as a supplier for SpaceX. SpaceX is identified as one of the key clients benefiting from the manufacturer's semiconductor components.",
+        "context": "This forecast arrives as the company positions itself within the broader technology and aerospace markets. STMicroelectronics serves as a critical link in the supply chain for advanced satellite technology and artificial intelligence hardware, sectors that are currently seeing significant activity.",
+        "why": "According to the company, the positive outlook and the anticipated boost in sales are driven by increased demand within the artificial intelligence and satellite sectors. The firm expects these specific areas to provide a substantial lift to its overall financial performance.",
         "next": "The article doesn't say."
       },
       "numbers": [
@@ -605,94 +540,66 @@
         },
         {
           "figure": "33.9%",
-          "what": "gross margin reported during the previous year"
+          "what": "gross margin recorded last year"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=pls_whats_news_us_business_f",
+      "title": "Synapse Aviation launches Adaptive TEM for flight risk briefings",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings",
       "date": "2026-10-30",
-      "author": "Isabella Simonetti",
-      "summary": "Amazon reported net income exceeding $20 billion for the third quarter, though the company experienced a significant decline in free cash flow.",
+      "author": "AeroTime Advisory",
+      "summary": "Synapse Aviation has launched Adaptive TEM, a data-driven tool for its Airport Briefing platform that automates and prioritizes flight risk assessments for airline crews.",
       "also": [],
       "brief": {
-        "what": "Amazon achieved net income surpassing $20 billion during the third quarter. Despite this profit milestone, the company saw a sharp plunge in its free cash flow.",
-        "who": "Amazon is the online behemoth reporting these financial results.",
-        "context": "The company's stock price dropped following a miss on Wall Street expectations, even as it recorded its strongest cloud growth in years.",
-        "why": "The article does not explicitly state the reasons for the decline in free cash flow or the market's negative reaction to the earnings report.",
-        "next": "The article doesn't say."
+        "what": "Synapse Aviation launched Adaptive TEM, a data-driven tool that analyzes 300 million data points to provide context-aware threat briefings. The system ranks risks as high, medium, or low and suggests specific mitigations to help crews prioritize safety tasks during flight.",
+        "who": "Synapse Aviation developed the tool for its Airport Briefing platform, utilizing aeronautical data from Lido’s SkyData infrastructure to support airline flight operations, safety management, and training departments.",
+        "context": "Traditional Threat and Error Management (TEM) requires crews to manually aggregate data from fragmented sources like weather reports, NOTAMs, and terrain charts. This manual process is often time-consuming and highly dependent on individual crew experience and available time.",
+        "why": "Synapse Aviation argues that modern aviation lacks \"operational clarity\" despite an abundance of data. The company uses deterministic logic rather than generative AI to ensure all outputs are traceable, aiming to reduce pilot workload and standardize briefing quality across fleets.",
+        "next": "Adaptive TEM is currently available for airlines and aviation operators to request demonstrations, though the company is not accepting applications from individual pilots at this stage."
       },
       "numbers": [
         {
-          "figure": "$20 billion",
-          "what": "net income for the third quarter"
+          "figure": "300 million",
+          "what": "operational data points across airports worldwide"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Yields Too High to Ignore Lure Investors Back to Longer Debt",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/yields-too-high-to-ignore-lure-investors-back-to-long-dated-debt",
+      "title": "FAA ends CE-500 single-pilot exemptions. What will change in the cockpit?",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors",
       "date": "2026-10-30",
-      "author": "George Nixon and Georgia Hall",
-      "summary": "Investors are returning to long-dated government bonds as current yields reach levels that are becoming increasingly attractive.",
-      "also": [],
-      "brief": {
-        "what": "Investors are re-entering the market for long-dated government bonds after a period of poor performance throughout the year.",
-        "who": "Investors are the primary actors identified as shifting their strategy toward longer-term debt.",
-        "context": "Long-dated government bonds experienced significant losses for holders during the earlier part of the year, creating a challenging environment for fixed-income portfolios.",
-        "why": "The article states that investors are returning because yields have risen to a point that is now too high to ignore.",
-        "next": "The article doesn't say."
-      }
+      "author": "Ori Gross",
+      "summary": "AeroTime columnist Ori Gross is an airline pilot, flight instructor, and engineer/developer with a background in airline management.… The post FAA ends CE-500 single-pilot exemptions. What will change in the cockpit? appeared first on AeroTime .",
+      "also": []
     },
     {
-      "topic": "markets",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "What moves hyperscaler stocks?",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e7f0fb01-fc76-4330-9015-e53096585a5a?syn-25a6b1a6=1",
+      "title": "France’s first Falcon 8X Archange spy jet enters military testing",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux",
       "date": "2026-10-30",
-      "author": null,
-      "summary": "The performance of hyperscaler stocks is influenced by various market factors, including the policies of the European Central Bank.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "The article examines the drivers behind the stock performance of hyperscalers, noting the influence of the European Central Bank.",
-        "who": "Hyperscalers are the primary actors, with the European Central Bank identified as a factor affecting their market environment.",
-        "context": "Hyperscalers are large-scale cloud computing providers that manage massive data centers and infrastructure.",
-        "why": "The article suggests that broader monetary policy and central bank actions play a role in the valuation and movement of these technology stocks.",
-        "next": "The article doesn't say."
-      }
+      "author": "Clement Charpentreau",
+      "summary": "The first Dassault Falcon 8X Archange signals intelligence aircraft has landed at Évreux-Fauville Air Base 105, the Normandy… The post France’s first Falcon 8X Archange spy jet enters military testing appeared first on AeroTime .",
+      "also": []
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
+      "title": "US airlines dominate top 10 best reward programs but Flying Blue takes the crown",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue",
       "date": "2026-10-30",
-      "author": null,
-      "summary": "Nvidia-backed neocloud provider Nscale is pursuing a $35 billion initial public offering while navigating significant challenges at its West Virginia data center project. The venture faces hurdles including construction delays, local community opposition, and complex financing risks.",
-      "also": [],
-      "brief": {
-        "what": "Nscale, a neocloud company supported by Nvidia, is preparing for a $35 billion IPO. The firm's growth strategy centers on a massive data center campus in West Virginia, which is currently struggling with construction setbacks, local resistance, and financial uncertainty.",
-        "who": "Nscale is the primary actor, with Nvidia serving as a strategic backer.",
-        "context": "The project represents a significant infrastructure bet within the rapidly expanding artificial intelligence sector, requiring substantial capital and local support to reach operational status.",
-        "why": "The project faces difficulties due to construction complications, opposition from the local community, and broader financing risks associated with such a large-scale infrastructure development.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$35bn",
-          "what": "valuation target for Nscale's initial public offering"
-        }
-      ]
+      "author": "Ian Molyneaux",
+      "summary": "US airlines dominate a new top 10 list of the world’s best reward programs, though none could topple… The post US airlines dominate top 10 best reward programs but Flying Blue takes the crown appeared first on AeroTime .",
+      "also": []
     },
     {
       "topic": "aerospace",
@@ -702,308 +609,63 @@
       "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
       "date": "2026-10-29",
       "author": "SpaceNews Editor",
-      "summary": "Epsilon3 CEO Laura Crabtree discusses strategies for space companies to improve operational efficiency and accelerate testing and certification processes. The conversation is featured on the new SpaceNews podcast, Space Minds.",
-      "also": [],
-      "brief": {
-        "what": "Laura Crabtree, CEO of Epsilon3 and former SpaceX astronaut trainer, appeared on the SpaceNews podcast 'Space Minds' to discuss organizational strategies for space firms. The discussion focused on methods to increase operational speed and remove specific roadblocks related to testing and certification.",
-        "who": "Laura Crabtree, CEO of Epsilon3, and Mike Gruss, the host of the SpaceNews podcast.",
-        "context": "SpaceNews has launched a new audio and video podcast series titled 'Space Minds' to feature interviews with industry leaders, scientists, and founders regarding space technology and opportunities.",
-        "why": "The discussion aims to provide advice on how space companies can better organize themselves to overcome industry-specific challenges in development and certification.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-28",
-      "author": null,
-      "summary": "Russian President Vladimir Putin praised Elon Musk as a \"real genius\" while confirming ongoing communication regarding satellite technology. The discussions aim to prevent orbital interference between SpaceX's Starlink and Russia's Rassvet satellite project.",
-      "also": [],
-      "brief": {
-        "what": "President Vladimir Putin stated that Russia maintains close contact with Elon Musk to ensure that the Rassvet satellite internet project and SpaceX's Starlink do not interfere with each other in orbit. While Starlink has launched approximately 13,000 satellites, Russia's Rassvet project is in its early stages with only a couple of dozen satellites currently in orbit.",
-        "who": "Russian President Vladimir Putin and SpaceX CEO Elon Musk are the primary actors involved in these discussions regarding satellite coordination.",
-        "context": "The dialogue occurs as Russia develops Rassvet as a domestic alternative to Starlink, amid a complex geopolitical environment where Starlink has played a critical role in Ukrainian military operations.",
-        "why": "Putin stated that coordination is necessary to prevent orbital interference between the two satellite constellations, noting that both parties value this cooperation despite broader political tensions.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "13,000",
-          "what": "Starlink satellites launched by SpaceX"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Four killed in Italian Army Chinook crash on EUFOR mission in Bosnia",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor",
-      "date": "2026-10-30",
-      "author": "Clement Charpentreau",
-      "summary": "Four Italian military personnel died and 11 were injured following the crash of an Italian Army CH-47 Chinook helicopter in Bosnia and Herzegovina. The aircraft was participating in a routine training exercise as part of the EUFOR Althea mission.",
-      "also": [],
-      "brief": {
-        "what": "An Italian Army CH-47 Chinook helicopter crashed near Brčko, Bosnia and Herzegovina, resulting in four fatalities and 11 injuries among the 15 people on board. The incident occurred during a routine training flight for the EUFOR Althea peacekeeping mission.",
-        "who": "The Italian Ministry of Defense and EUFOR are the primary organizations involved, with Italian Defense Minister Guido Crosetto overseeing the response and investigation.",
-        "context": "EUFOR Althea, which replaced NATO peacekeeping forces in 2004, has been under Italian command since January 2026. The aircraft involved was an ICH-47F, a customized variant of the Boeing CH-47F assembled by Leonardo.",
-        "why": "The cause of the accident remains under investigation, though the Italian ambassador to Bosnia and Herzegovina suggested the crash occurred during takeoff.",
-        "next": "Italian investigators and EUFOR are conducting separate investigations to determine the cause of the accident."
-      },
-      "numbers": [
-        {
-          "figure": "4",
-          "what": "military personnel killed in the crash"
-        },
-        {
-          "figure": "11",
-          "what": "injured personnel receiving medical treatment"
-        },
-        {
-          "figure": "15",
-          "what": "total people on board the helicopter"
-        },
-        {
-          "figure": "1,200",
-          "what": "personnel serving in the EUFOR Althea mission"
-        },
-        {
-          "figure": "16",
-          "what": "ICH-47F Chinooks ordered by Italian Army"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Boeing and Lufthansa Technik lock in three more years of parts collaboration",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration",
-      "date": "2026-10-30",
-      "author": "Ian Molyneaux",
-      "summary": "Boeing and Lufthansa Technik have extended their Tailored Parts Package agreement for an additional three years to improve parts availability and supply chain efficiency. The deal provides access to over 6,500 Boeing part numbers across all commercial aircraft platforms.",
-      "also": [],
-      "brief": {
-        "what": "Boeing and Lufthansa Technik have renewed their Tailored Parts Package agreement for three years, ensuring continued access to over 6,500 Boeing part numbers. The program allows MRO providers to streamline procurement and inventory management through predictable pricing and managed supply chain execution.",
-        "who": "Boeing Global Services and Lufthansa Technik are the primary parties, represented by executives Dan Abraham and Thomas Boettger.",
-        "context": "The Tailored Parts Package is a program where customers commit to purchasing specific groups of parts, with Boeing overseeing the supply chain. Similar agreements have been established with other industry players, including Turkish Technik, Xiamen Airlines, DAE’s Joramco, and Etihad Engineering.",
-        "why": "Boeing states the program simplifies procurement and helps customers plan costs, while Lufthansa Technik’s Thomas Boettger noted that reliable material access is essential for maintaining aircraft availability and operational efficiency in a demanding market.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "3 years",
-          "what": "duration of the contract extension"
-        },
-        {
-          "figure": "6,500",
-          "what": "number of Boeing part numbers accessible"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "PAL deploys A350-1000 daily on Manila–San Francisco route ahead of year-end peak",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak",
-      "date": "2026-10-30",
-      "author": "Jean Carmela Lim",
-      "summary": "Philippine Airlines has upgraded its Manila to San Francisco route to daily service using its flagship Airbus A350-1000 aircraft. This deployment increases premium seating capacity ahead of the year-end travel peak.",
-      "also": [],
-      "brief": {
-        "what": "Philippine Airlines (PAL) is now operating its Airbus A350-1000 on a daily basis between Manila and San Francisco. The aircraft, which features 382 seats across three classes, replaces previous equipment to provide increased capacity and premium amenities.",
-        "who": "Philippine Airlines is the flag carrier of the Philippines, utilizing the A350-1000 as its flagship long-haul aircraft.",
-        "context": "San Francisco serves as a primary North American gateway for PAL, facilitating travel for the Filipino-American community and providing connections to the broader Asia Pacific region.",
-        "why": "PAL states the deployment is intended to provide daily access to its newest long-haul product and add premium seating capacity in anticipation of the busy year-end holiday travel season. The airline also notes that the A350-1000 offers improved fuel efficiency, operational flexibility, and greater cargo capacity.",
-        "next": "The airline will adjust flight arrival and departure timings on November 1, 2026, to account for the end of Daylight Saving Time in the United States."
-      },
-      "numbers": [
-        {
-          "figure": "382 passengers",
-          "what": "total seating capacity of the A350-1000"
-        },
-        {
-          "figure": "42",
-          "what": "number of Business Class suites"
-        },
-        {
-          "figure": "24",
-          "what": "number of Premium Economy seats"
-        },
-        {
-          "figure": "316",
-          "what": "number of Economy seats"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "FTC orders Delta, Uber and others to hand over data on algorithmic pricing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
-      "date": "2026-10-29",
-      "author": "Heather Timmons in Washington",
-      "summary": "The FTC has launched an inquiry into nine major companies, including Delta, United, and Uber, to investigate the use of algorithmic pricing and loyalty programs. The regulator is demanding data to determine if these firms are unfairly targeting consumers and gig workers with personalized pricing based on personal data.",
-      "also": [],
-      "brief": {
-        "what": "The Federal Trade Commission (FTC) is requiring nine major corporations, including airlines like Delta, United, and JetBlue, and service platforms like Uber and DoorDash, to disclose how they utilize algorithms and loyalty programs to set prices and wages. The regulator aims to scrutinize opaque methodologies that may result in consumers or gig workers being charged or paid differently based on personal histories.",
-        "who": "The FTC, led by chair Andrew Ferguson, is the primary actor, targeting nine major US companies across the airline, ride-share, and retail sectors.",
-        "context": "This inquiry follows a July 2024 Biden administration investigation into surveillance pricing and aligns with broader concerns regarding how personal data, such as browser history or location, influences consumer costs.",
-        "why": "The FTC intends to assess whether pricing variations are based on unfair or deceptive practices, though the agency notes it lacks the authority to impose fines or regulations directly on the airlines involved.",
-        "next": "It remains unclear if the inquiry will lead to substantive changes in consumer law or corporate practices, with some experts skeptical that these studies will result in meaningful rule-making."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Utah Files Criminal Charges Against Kalshi Co-Founders",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/29/utah-files-criminal-charges-against-kalshi-co-founders/",
-      "date": "2026-10-29",
-      "author": "Tosin Akintola",
-      "summary": "Utah Attorney General Derek Brown has filed criminal charges against Kalshi and its co-founders, alleging the prediction market platform illegally accepted wagers from state residents. The action follows a federal court ruling that allowed Utah to enforce its anti-gambling laws against the company.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Associated Press",
-          "date": "2026-10-29",
-          "title": "Utah charges Kalshi’s founders, escalating a war over who can regulate prediction markets",
-          "url": "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
-          "note": "The New York Post frames the story as an escalating war over regulatory authority rather than focusing on the specific criminal charges."
-        }
-      ],
-      "kind": "analysis",
-      "brief": {
-        "what": "Utah officials filed criminal charges against Kalshi, CEO Tarek Mansour, and COO Luana Lopes Lara, including one count of general gambling promotion and 12 counts of online gambling promotion. The charges stem from an undercover investigation where an agent successfully placed wagers totaling $114.87 despite a federal court ruling that Utah's anti-gambling laws apply to the platform.",
-        "who": "Utah Attorney General Derek Brown, Kalshi co-founders Tarek Mansour and Luana Lopes Lara, and the U.S. Commodity Futures Trading Commission (CFTC).",
-        "context": "A U.S. District Court judge previously ruled that federal law did not preempt Utah from enforcing its anti-gambling statutes against Kalshi. The company is currently involved in over 20 legal actions across the country regarding its regulatory status.",
-        "why": "Attorney General Brown claims Kalshi continued to accept bets from Utah residents in violation of state law despite the federal court ruling. Kalshi characterizes the charges as a political overreach intended to force the company to acquiesce to state demands.",
-        "next": "The issue may eventually reach the Supreme Court as various states and the NFL seek clarity on whether the CFTC or individual states hold regulatory authority over prediction markets."
-      },
-      "numbers": [
-        {
-          "figure": "12 counts",
-          "what": "online gambling promotion charges filed"
-        },
-        {
-          "figure": "$114.87",
-          "what": "total amount spent on wagers by an undercover agent"
-        },
-        {
-          "figure": "20",
-          "what": "lawsuits and cease and desist actions pending nationwide"
-        },
-        {
-          "figure": "$20",
-          "what": "amount lost on a single football wager"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "New York Bought an Electric Ferry. The City Can’t Charge It.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
-      "date": "2026-10-30",
-      "author": "Peter Eavis",
-      "summary": "New York City faces significant infrastructure challenges in charging its newly acquired electric ferry. The project highlights broader difficulties for municipalities nationwide attempting to transition to electric maritime transport.",
-      "also": [],
-      "brief": {
-        "what": "New York City has acquired an electric ferry but is currently unable to charge the vessel due to infrastructure limitations. This situation reflects a recurring obstacle for cities across the United States aiming to implement electric ferry fleets to reduce carbon emissions.",
-        "who": "New York City is the primary actor attempting to integrate electric maritime technology into its transit system.",
-        "context": "Municipalities across the country are increasingly looking to electric ferries as a strategy to lower their carbon footprints, yet the transition is proving complex.",
-        "why": "The article states that while cities want to launch electric ferries to cut carbon emissions, they are encountering various challenges during the rollout process.",
-        "next": "The article doesn't say."
-      }
+      "summary": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […] The post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews .",
+      "also": []
     },
     {
       "topic": "science",
       "importance": 1,
-      "title": "Who wrote that paper? AI use spurs debate over scientific authorship",
+      "title": "Early-career researchers’ right to unionize at NIH is upheld, against agency’s petition",
       "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
-      "date": "2026-10-29",
-      "author": "Jeffrey Brainard",
-      "summary": "The scientific community is debating the appropriate standards for authorship and accountability regarding papers generated or assisted by artificial intelligence. Current guidelines may require updates to address the role of machine-written content in academic research.",
-      "also": [],
-      "brief": {
-        "what": "Discussions are emerging regarding the necessity of revising rules that govern credit and responsibility for scientific papers produced with the assistance of artificial intelligence.",
-        "who": "The scientific community is the primary actor involved in evaluating how to attribute authorship for machine-written academic work.",
-        "context": "As AI tools become more integrated into research workflows, existing academic standards for authorship are being challenged, necessitating a potential reboot of current policies.",
-        "why": "The debate is driven by the need to establish clear accountability and credit systems for research papers that incorporate machine-generated content.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-      "date": "2026-10-29",
-      "author": null,
-      "summary": "Google is facing significant market pressure as its search engine performance falters and competitors leverage artificial intelligence to gain market share. The company has seen a $500 billion decline in market valuation amid these mounting challenges.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Google has experienced a $500 billion loss in market value as its core search engine business faces performance issues and increased competition.",
-        "who": "Google is the primary company affected by these market shifts.",
-        "context": "The company is currently navigating a transition where its traditional search engine dominance is being challenged by rivals utilizing artificial intelligence.",
-        "why": "The article states that Google's search engine is sputtering, allowing competitors to gain ground in the evolving technological landscape.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$500bn",
-          "what": "decline in Google's market valuation"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "url": "https://www.science.org/content/article/early-career-researchers-right-unionize-nih-upheld-against-agency-s-petition",
       "date": "2026-10-30",
-      "author": "Ollie Lewis for MetDesk",
-      "summary": "Severe weather systems, including heavy rainfall, cyclones, and typhoons, are causing widespread disruption across Europe, Asia, and the Pacific. Authorities have issued flood warnings as regions face significant infrastructure damage and safety risks.",
-      "also": [],
-      "brief": {
-        "what": "Multiple extreme weather events are impacting global regions, including flooding in Greece and Turkey, Cyclone Arnab in India, and Typhoon In-fa in the Pacific. These storms have caused fatalities, mass evacuations of over 180,000 people, and significant damage to energy and transport infrastructure.",
-        "who": "Authorities in Greece, Turkey, and India are managing emergency responses, while meteorological agencies are tracking the paths of Cyclone Arnab, Typhoon In-fa, and Tropical Storm Vance.",
-        "context": "The events are driven by various atmospheric phenomena, including low-pressure systems in Europe, a cyclone in the Indian Ocean, and multiple super typhoons in the Pacific, which have already impacted the Mariana Islands this year.",
-        "why": "The storms are occurring due to the formation of powerful thunderstorms, low-pressure areas, and tropical cyclone development, which have resulted in heavy rainfall, high wind gusts, and dangerous coastal conditions.",
-        "next": "The systems are expected to continue moving across their respective regions, with some weakening over time while others continue to deliver heavy rain and cause potential landslides."
-      },
-      "numbers": [
-        {
-          "figure": "180,000",
-          "what": "number of people evacuated due to Cyclone Arnab"
-        },
-        {
-          "figure": "150mph",
-          "what": "sustained wind speeds of Typhoon In-fa"
-        },
-        {
-          "figure": "100-150mm",
-          "what": "expected rainfall in central Greece and western Turkey"
-        },
-        {
-          "figure": "85mph",
-          "what": "wind gusts recorded during Cyclone Arnab"
-        },
-        {
-          "figure": "200mm",
-          "what": "rainfall totals in some regions during Cyclone Arnab"
-        }
-      ]
+      "author": "Katie Langin",
+      "summary": "NIH’s arguments opposing the union don’t hold up, ruled a federal entity that oversees labor relations",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Bloomberg Screentime: Streaming, AI & Creators",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+      "date": "2026-10-30",
+      "author": null,
+      "summary": "Entertainment leaders examine how streaming, AI, and the creator economy are reshaping Hollywood and the future of media. Guests include Ted Sarandos, Donna Langley, Ben Affleck, & Conan O'Brien. (Source: Bloomberg)",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Tech Selloff Burns AI Dip-Buyers as Sector Slides for Third Week",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
+      "date": "2026-10-30",
+      "author": "Lu Wang and Jessica Menton",
+      "summary": "The deep selloff in technology stocks delivered a painful reckoning to those who remained all-in on the AI trade as the companies at the center of it tumbled, one after another, and investors rushed back to the defensive stocks they had swept out of vogue.",
+      "also": []
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+      "date": "2026-10-31",
+      "author": "Patrick Greenfield",
+      "summary": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progress Calls are growing for major reforms to UN biodiversity summits as countries fail to deliver on their promises to halt the destruction of the natural world, with…",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Your writing was flagged as AI. What does that actually mean?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "date": "2026-10-31",
+      "author": "Windsor Johnston",
+      "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+      "also": []
     }
   ]
 }

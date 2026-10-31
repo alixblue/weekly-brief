@@ -783,5 +783,21 @@
   "Cyclone": "A large-scale air mass that rotates around a strong center of low atmospheric pressure.",
   "Typhoon": "A mature tropical cyclone that develops in the northwestern part of the Pacific Ocean.",
   "Tropical depression": "An organized system of clouds and thunderstorms with a defined surface circulation and maximum sustained winds of less than 39 mph.",
-  "Super typhoon": "A tropical cyclone that reaches maximum sustained wind speeds of 150 mph or higher."
+  "Super typhoon": "A tropical cyclone that reaches maximum sustained wind speeds of 150 mph or higher.",
+  "deposit rate": "The interest rate a central bank pays on funds that commercial banks park with it overnight.",
+  "neutrality": "The requirement for central bank officials to remain impartial and avoid partisan political involvement or non-mandated commentary.",
+  "Market value": "The total value of a company's shares, calculated by multiplying the current stock price by the total number of outstanding shares.",
+  "AI bubble": "A situation where investor enthusiasm for artificial intelligence drives stock prices to levels that are not supported by actual earnings or revenue.",
+  "Earnings call": "A teleconference in which a public company discusses its financial performance for a specific period with investors and analysts.",
+  "biotech": "A company that uses biological systems or living organisms to develop products, particularly in healthcare and medicine.",
+  "dermatology": "The branch of medicine concerned with the diagnosis and treatment of skin disorders.",
+  "autoimmune diseases": "Conditions in which the body's immune system mistakenly attacks healthy cells.",
+  "recall": "A procedure where a manufacturer requests the return or repair of a product due to safety defects.",
+  "carafe": "The glass vessel used in a coffee maker to hold and serve the brewed liquid.",
+  "Consumer Product Safety Commission": "A federal agency that protects the public from unreasonable risks of injury or death associated with consumer products.",
+  "chip maker": "An organization that specializes in the fabrication of semiconductor components used in various electronic devices.",
+  "Threat and Error Management (TEM)": "A safety framework used by flight crews to anticipate, recognize, and manage potential risks before they escalate.",
+  "NOTAMs": "Notices to Air Missions containing essential information for personnel concerned with flight operations.",
+  "AIRAC cycle": "A standardized system for the regular, periodic update of aeronautical data and charts.",
+  "deterministic evaluation": "A logic-based process where specific inputs always produce the same output, ensuring results are traceable and consistent."
 }
