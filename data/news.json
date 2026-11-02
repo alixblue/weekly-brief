@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-01",
-  "window": "2026-10-25 to 2026-11-01",
+  "generated": "2026-11-02",
+  "window": "2026-10-26 to 2026-11-02",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-10-31",
-    "label": "Sat 31 Oct · change on the day",
+    "asof": "2026-11-02",
+    "label": "Mon 02 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
@@ -24,112 +24,146 @@
       },
       {
         "name": "CAC 40",
-        "value": "7,969.42",
-        "change": "-0.01%"
+        "value": "7,973.57",
+        "change": "+0.05%"
       },
       {
         "name": "DAX",
-        "value": "25,818.21",
-        "change": "-0.85%"
+        "value": "25,792.73",
+        "change": "-0.10%"
       },
       {
         "name": "Brent oil",
-        "value": "$113.43",
-        "change": "UNCH"
+        "value": "$108.60",
+        "change": "-4.26%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.933%",
-        "change": "-0.06 pt"
+        "value": "4.921%",
+        "change": "-0.01 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1158",
-        "change": "UNCH"
+        "value": "1.1214",
+        "change": "+0.5019%"
       }
     ]
   },
   "week": [
     {
-      "text": "DoorDash has agreed to acquire Instacart for $17 billion, merging two major delivery platforms. Meanwhile, investors are showing increased caution regarding the US economy's heavy reliance on artificial intelligence spending.",
+      "text": "A Learjet 60 crashed in Florida, resulting in nine fatalities, with the NTSB launching an investigation into the cause.",
       "urls": [
-        "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-        "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151",
-        "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f"
+        "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+        "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
       ]
     },
     {
-      "text": "European Central Bank President Christine Lagarde is resigning nine months early, prompting a search for a successor with both financial and political expertise. Concurrently, Germany has failed to meet its winter gas storage targets, potentially increasing energy costs for the EU.",
+      "text": "Marvell Technology has agreed to acquire Lumentum in an all-stock deal valued at $115 billion to expand its presence in the AI infrastructure market.",
       "urls": [
-        "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
-        "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
-        "https://www.ft.com/content/99b0bbf1-4604-4e56-bc66-9f49d2814737"
+        "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-115-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
+        "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b"
       ]
     },
     {
-      "text": "Elon Musk has spent over $445 million on US midterm election efforts, leading to calls from some political figures for increased oversight of his companies. Additionally, Binance has recovered 90% of assets stolen in a $6.3 billion cyberattack.",
+      "text": "Ryanair is implementing AI-driven cost-cutting and considering wage freezes to offset a projected €2 billion increase in fuel costs.",
       "urls": [
-        "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
-        "https://www.foxbusiness.com/politics/defund-musk-former-clinton-cabinet-official-urges-democrats-target-spacex-founder",
-        "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o"
+        "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "https://www.cityam.com/ryanair-resorts-to-ai-cost-cutting-to-swallow-higher-jet-fuel-costs/"
       ]
     },
     {
-      "text": "Legal challenges are impacting several major corporations, including a dismissed defamation lawsuit against the Wall Street Journal and a class-action suit allowed against McDonald's regarding its McRib sandwich. Separately, Dollar General is facing a lawsuit from regulators over deceptive pricing practices.",
+      "text": "Alstom shares fell significantly following a profit warning and a plan to reduce debt by €2 billion, driven by production delays for its regional trains.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
-        "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
-        "https://www.wsj.com/business/retail/is-dollar-general-charging-too-much-f8e8717f"
+        "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
+        "https://www.wsj.com/business/earnings/alstom-shares-plunge-after-technical-issues-prompt-guidance-cut-5a070227?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "The UN biodiversity conference in Yerevan concluded with a compromise on finance, while the FDA approved a new $4 million gene therapy for Sanfilippo syndrome. In other news, the scientific community is mourning the death of actor Patrick Stewart.",
+      "text": "COP17 concluded in Yerevan with a warning that current efforts are insufficient to meet 2030 nature protection targets, while nations agreed to voluntary biodiversity finance signals.",
       "urls": [
-        "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
-        "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-        "https://www.nature.com/articles/d41586-026-03543-9"
+        "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
       ]
     }
   ],
   "watch": [
     {
-      "date": "2026-11-19",
+      "date": "2026-11-02",
       "when": "",
-      "label": "Namal Rajapaksa to return to court for bribery charges",
-      "url": "https://www.aerotime.aero/articles/sri-lanka-namal-rajapaksa-airbus-bribery-charges"
+      "label": "Media briefing on Florida jet crash in West Palm Beach",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
     },
     {
-      "date": "2027-01-01",
-      "when": "",
-      "label": "New flight disruption reporting requirements begin",
-      "url": "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs"
+      "date": "2027-04-01",
+      "when": "April",
+      "label": "Ryanair plans to implement potential pay freezes",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "date": "2027-02-01",
-      "when": "",
-      "label": "New DOT flight delay rule takes effect",
-      "url": "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs"
-    },
-    {
-      "date": "2027-02-01",
-      "when": "",
-      "label": "United MileagePlus PlusPoints upgrades transition to dynamic pricing",
-      "url": "https://simpleflying.com/how-many-miles-business-class-with-united-mileageplus-2026/"
+      "date": "2027-03-01",
+      "when": "March 2027",
+      "label": "AirAsia plans to launch Bahrain hub operations",
+      "url": "https://www.aerotime.aero/articles/airasia-appoints-bahrain-board-hub-launch-by-march-2027"
     },
     {
       "date": "2028-01-01",
       "when": "2028",
-      "label": "COP18 biodiversity conference in Quito, Ecuador",
+      "label": "COP18 scheduled to take place in Quito, Ecuador",
       "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
-    },
-    {
-      "date": "2030-01-01",
-      "when": "2030",
-      "label": "Implementation of new Pension Tax Allowance",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo"
     }
   ],
   "items": [
+    {
+      "topic": "aerospace",
+      "importance": 3,
+      "title": "Nine killed as small jet crashes on Florida street",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "A Learjet 60 business jet crashed in a Florida residential area, resulting in nine fatalities. The crew reported severe weather conditions and an emergency descent before the impact.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-01",
+          "title": "Nine killed as business jet crashes in Florida",
+          "url": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
+          "note": "Financial Times focuses on the aircraft type as a business jet, while AeroTime highlights the specific pilot reports of icing and turbulence."
+        },
+        {
+          "source": "AeroTime",
+          "author": "Stephen Pope",
+          "date": "2026-11-02",
+          "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
+          "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence"
+        }
+      ],
+      "brief": {
+        "what": "A Learjet 60 crashed on a six-lane road in Palm Beach County, Florida, killing all nine people on board. The aircraft was traveling from Austin, Texas, to the Bahamas when it experienced a rapid, uncontrolled descent.",
+        "who": "The Federal Aviation Administration and National Transportation Safety Board are investigating, while Florida Governor Ron DeSantis and Transportation Secretary Sean Duffy are coordinating the local response.",
+        "context": "The crash occurred near the Mar-a-Lago resort during a period of reported thunderstorms. The impact caused significant damage to local infrastructure, including water lines, and forced the evacuation of 600 residents.",
+        "why": "Cockpit audio indicates the crew was struggling with moderate turbulence, icing, and precipitation. The pilots declared an emergency after entering an overspeed condition during a rapid descent.",
+        "next": "The National Transportation Safety Board will conduct an investigation into the cause of the crash."
+      },
+      "numbers": [
+        {
+          "figure": "10,000ft",
+          "what": "rate of descent per minute"
+        },
+        {
+          "figure": "20,000ft",
+          "what": "rate of descent per minute in overspeed"
+        },
+        {
+          "figure": "600",
+          "what": "local residents evacuated from nearby community"
+        },
+        {
+          "figure": "30 days",
+          "what": "estimated time until road re-opens"
+        }
+      ]
+    },
     {
       "topic": "markets",
       "importance": 3,
@@ -138,7 +172,7 @@
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-01",
       "author": null,
-      "summary": "Binance has successfully recovered 90% of the $6.3 billion in assets stolen during a massive cyberattack. The exchange is using its own corporate treasury to ensure users are fully protected from the financial impact.",
+      "summary": "Binance has successfully restored 90% of the $6.3 billion in assets stolen during a massive cyberattack. The exchange is using its own corporate treasury to ensure users do not suffer financial losses from the incident.",
       "also": [
         {
           "source": "The New York Times",
@@ -146,7 +180,7 @@
           "date": "2026-10-31",
           "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
           "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-          "note": "The New York Times focuses on the attribution to North Korean hackers rather than the recovery efforts."
+          "note": "The New York Times focuses on the FBI's attribution to North Korea and the broader context of state-sponsored heists."
         },
         {
           "source": "The New York Times",
@@ -154,15 +188,15 @@
           "date": "2026-10-31",
           "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
           "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
-          "note": "The New York Times' second headline emphasizes the scale of the loss rather than the company's remediation progress."
+          "note": "The New York Times provides a general overview of the hack's scale and key facts for readers."
         }
       ],
       "brief": {
-        "what": "Binance has restored 90% of the $6.3 billion in assets lost during a major security breach, with plans to cover the remaining 10% using its corporate treasury. The exchange has resumed withdrawals on several networks after temporarily suspending them to manage the crisis.",
-        "who": "Binance, the world's largest cryptocurrency exchange, is the primary actor, while the FBI has identified North Korean state-backed hackers, specifically the Lazarus Group, as the perpetrators.",
-        "context": "The incident is considered the largest cryptocurrency hack in history, surpassing a $1.5 billion heist on the Bybit exchange in 2025. The FBI and US Secret Service are actively collaborating with the exchange to trace and freeze the stolen funds.",
-        "why": "Binance stated it is absorbing the financial impact to protect its users. The FBI attributes the attack to North Korean hackers who utilized sophisticated methods, including a self-destruct mechanism, to obscure their activities.",
-        "next": "The investigation into the breach, which involved multiple points of compromise, remains ongoing."
+        "what": "Binance has recovered and replaced 90% of the $6.3 billion stolen during a recent cyberattack, with plans to cover the remaining 10% using its corporate treasury. The exchange has restored withdrawals and is working with law enforcement to trace the stolen funds.",
+        "who": "Binance, the world's largest cryptocurrency exchange, is the primary victim, while the FBI has identified North Korean state-backed hackers as the responsible party.",
+        "context": "The hack is considered the largest in history, surpassing a $1.5 billion heist at Bybit in 2025. The FBI links the attack to the Lazarus Group, a North Korean unit known for sophisticated cyber heists.",
+        "why": "Binance stated it is absorbing the financial impact to protect its users. The FBI claims the attack involved converting stolen assets into Ethereum and using decentralized finance services to hide the trail.",
+        "next": "The investigation remains ongoing as Binance works with the US Secret Service and intelligence firms to freeze and recover the remaining stolen assets."
       },
       "numbers": [
         {
@@ -183,7 +217,7 @@
         },
         {
           "figure": "$1.5bn",
-          "what": "value of the previous record heist on Bybit"
+          "what": "value of previous record heist at Bybit"
         }
       ],
       "earlier": [
@@ -196,14 +230,217 @@
       ]
     },
     {
-      "topic": "culture",
+      "topic": "business",
       "importance": 3,
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "Ryanair is considering a temporary wage freeze and expects airfares to rise by double-digits next summer to offset a projected €2bn increase in fuel costs. The airline also plans to slow hiring and increase the use of artificial intelligence as it navigates rising operational expenses.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-02",
+          "title": "Ryanair to freeze pay and cut hiring as €2bn jet fuel hit looms",
+          "url": "https://www.ft.com/content/bf77c756-cbc8-4d91-afce-b1de6d84dd30?syn-25a6b1a6=1",
+          "note": "The Financial Times headline emphasizes the specific €2bn fuel cost impact and the decision to cut hiring alongside the pay freeze."
+        }
+      ],
+      "brief": {
+        "what": "Ryanair announced potential pay freezes and double-digit airfare increases to mitigate a €2bn rise in fuel costs. The company also reported a 16% drop in pre-tax profits to €2.4bn, driven by a 15% jump in fuel expenses.",
+        "who": "Ryanair CEO Michael O'Leary is leading the cost-cutting strategy, while the union Unite, representing staff, disputes the feasibility of pay freezes due to existing multi-year agreements.",
+        "context": "The airline industry is facing significant cost pressures due to the US-Israel war with Iran, which has disrupted the supply of refined fuel products and increased global competition for aviation fuel.",
+        "why": "Ryanair attributes these measures to the sharp rise in fuel prices, which it expects to remain high well into 2027, and the need to maintain profitability despite rising operational costs.",
+        "next": "Ryanair plans to implement potential pay freezes starting in April and expects short-haul capacity to remain constrained through the early 2030s."
+      },
+      "numbers": [
+        {
+          "figure": "€2bn",
+          "what": "forecasted increase in short-term fuel bill"
+        },
+        {
+          "figure": "16%",
+          "what": "decline in pre-tax profits"
+        },
+        {
+          "figure": "€2.4bn",
+          "what": "pre-tax profits for the six-month period"
+        },
+        {
+          "figure": "15%",
+          "what": "increase in fuel costs"
+        },
+        {
+          "figure": "80%",
+          "what": "portion of fuel bill that was hedged"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Ryanair resorts to AI cost-cutting to swallow higher jet fuel costs",
+      "source": "City AM",
+      "url": "https://www.cityam.com/ryanair-resorts-to-ai-cost-cutting-to-swallow-higher-jet-fuel-costs/",
+      "date": "2026-11-02",
+      "author": "Felix Armstrong",
+      "summary": "Ryanair is implementing AI-driven productivity measures and potential pay freezes to offset a €2bn increase in projected fuel costs. The airline is navigating volatile energy prices as its existing fixed-price fuel contracts begin to expire.",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Adrià Calatayud",
+          "date": "2026-11-02",
+          "title": "Ryanair Looks to Cut Costs to Counter Higher Fuel Bill",
+          "url": "https://www.wsj.com/business/earnings/ryanair-looking-to-cut-costs-to-counter-higher-fuel-bill-00657771?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline focuses more broadly on the general cost-cutting initiative rather than specifically highlighting the use of AI."
+        }
+      ],
+      "brief": {
+        "what": "Ryanair is targeting cost reductions through AI integration, labor agreement reviews, and lower crewing ratios to manage a €2bn rise in fuel expenses. Despite a 16 percent profit dip to €2.4bn, the airline maintains a strong liquidity position with €2.6bn in gross cash.",
+        "who": "Michael O’Leary, Ryanair's chief executive, is leading the cost-cutting strategy to maintain the airline's competitive advantage.",
+        "context": "The airline industry is facing significant pressure from rising energy costs following the start of the Iran war. While Ryanair successfully hedged 80 percent of its fuel for the current year, its protection drops to 25 percent for the upcoming year, leaving it more exposed to market volatility.",
+        "why": "O’Leary stated that the measures are necessary because fixed-price fuel contracts are expiring and energy costs are expected to remain elevated. The airline aims to widen its cost gap against European competitors who are more exposed to expensive financing and lease costs.",
+        "next": "The airline has declined to provide full-year profit targets, citing volatile oil prices and unpredictable booking behaviors."
+      },
+      "numbers": [
+        {
+          "figure": "€2bn",
+          "what": "increase in jet fuel costs"
+        },
+        {
+          "figure": "€2.4bn",
+          "what": "pre-tax profit for six-month period"
+        },
+        {
+          "figure": "€5.5bn",
+          "what": "revenue for six-month period"
+        },
+        {
+          "figure": "125.8m",
+          "what": "number of passengers"
+        },
+        {
+          "figure": "620 aircraft",
+          "what": "total fleet size"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01",
+      "author": null,
+      "summary": "New South Wales police have deployed a heavily armed unit to patrol Sydney's tourist areas and major events following a deadly mass shooting last year. The new Armed Response Command will eventually consist of 250 officers tasked with deterring serious threats.",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-02",
+          "title": "Sydney deploys heavily armed police unit after Bondi attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/sydney-deploys-heavily-armed-police-unit-after-bondi-attack?traffic_source=rss",
+          "note": "Al Jazeera's headline emphasizes the deployment of a 'heavily armed police unit' rather than the broader context of the patrols."
+        }
+      ],
+      "brief": {
+        "what": "The New South Wales police have launched the Armed Response Command (ARC), a unit featuring officers carrying long-arm rifles in public spaces. This deployment follows a December shooting that resulted in 15 deaths and led to 78 charges against the primary suspect.",
+        "who": "The New South Wales police force, led by Detective Superintendent Andrew Evans and Police Minister Yasmin Catley, are implementing the measures, while groups like the Executive Council of Australian Jewry and Amnesty International Australia have expressed differing views on the security shift.",
+        "context": "The initiative follows Australia's worst mass shooting in nearly three decades, which occurred at Bondi Beach during a Hanukkah event. The incident prompted significant government pressure to address antisemitism and public safety concerns.",
+        "why": "Police state the unit is designed to preserve life by preventing, deterring, and responding to serious threats. While Jewish community leaders support the increased security, Amnesty International has raised concerns regarding the potential militarisation of policing and the need for oversight.",
+        "next": "The police operation will continue to scale up until it reaches its full capacity of 250 officers."
+      },
+      "numbers": [
+        {
+          "figure": "250 officers",
+          "what": "total size of the new police operation"
+        },
+        {
+          "figure": "15",
+          "what": "number of people killed in the shooting"
+        },
+        {
+          "figure": "78",
+          "what": "number of offences charged against the suspect"
+        },
+        {
+          "figure": "40",
+          "what": "counts of attempted murder charged"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/opec-allies-keep-output-steady-while-gulf-shipping-remains-under-threat-c1d14171?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-01",
+      "author": "Giulia Petroni",
+      "summary": "OPEC and its allies have decided to maintain current crude oil production levels as regional shipping routes face ongoing disruptions. The group's output remains constrained below prewar levels.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Reuters",
+          "date": "2026-11-01",
+          "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+          "url": "https://nypost.com/2026/11/01/business/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027/",
+          "note": "The New York Post headline focuses on the specific timeline of December targets and the future outlook for 2027."
+        }
+      ],
+      "brief": {
+        "what": "OPEC and its allies have maintained their current crude oil production levels. The group's output continues to track below prewar levels as key shipping routes remain disrupted.",
+        "who": "OPEC and its allies, the coalition responsible for setting collective crude production targets.",
+        "context": "Global oil markets are currently navigating supply constraints caused by regional conflicts and the resulting instability in critical maritime shipping lanes.",
+        "why": "The decision to keep output steady reflects the ongoing impact of shipping route disruptions on the group's ability to normalize production levels.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "date": "2026-11-02",
+      "author": "Brittney Melton",
+      "summary": "Democratic Representative Haley Stevens has endorsed GOP Senate candidate Mike Rogers in Michigan, while Gulf states prepare for potential U.S. military action against Iran. These developments occur as the nation approaches the midterm elections.",
+      "also": [
+        {
+          "source": "Reason",
+          "author": "Robby Soave",
+          "date": "2026-11-01",
+          "title": "Haley Stevens Endorses Mike Rogers, Spurns Leftist Abdul El-Sayed",
+          "url": "https://reason.com/2026/11/01/haley-stevens-endorses-mike-rogers-spurns-leftist-abdul-el-sayed/",
+          "note": "Reason frames the story by emphasizing the ideological conflict, specifically labeling the Democratic nominee as a 'Leftist' and characterizing the endorsement as 'spurning' him."
+        }
+      ],
+      "brief": {
+        "what": "Representative Haley Stevens broke with her party to endorse Republican Mike Rogers for the Michigan Senate seat, citing concerns over Democratic nominee Abdul El-Sayed's associations. Simultaneously, Gulf nations are bracing for potential U.S. military action against Iran following the midterm elections, with Qatar leading diplomatic efforts to prevent escalation.",
+        "who": "Representative Haley Stevens, GOP Senate candidate Mike Rogers, Democratic nominee Abdul El-Sayed, and the nation of Qatar.",
+        "context": "The political landscape is shifting ahead of the midterms, with internal Democratic friction in Michigan and heightened geopolitical tensions in the Middle East regarding Iran.",
+        "why": "Stevens stated her endorsement was driven by El-Sayed's ties to political streamer Hasan Piker and a perceived failure to reassure key voter demographics. The regional tension regarding Iran stems from discussions between the U.S. and Israel regarding potential military strikes.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "10 points",
+          "what": "margin by which Trump won districts two years ago"
+        }
+      ]
+    },
+    {
+      "topic": "culture",
+      "importance": 2,
       "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03543-9",
       "date": "2026-10-30",
       "author": "Mohana Basu",
-      "summary": "The scientific community is mourning the death of actor Patrick Stewart, whose portrayal of Captain Jean-Luc Picard in Star Trek: The Next Generation served as a significant inspiration for leadership and ethics in research.",
+      "summary": "The scientific community is mourning the death of actor Patrick Stewart, whose portrayal of Captain Jean-Luc Picard in Star Trek served as a model for leadership and ethics among researchers.",
       "also": [
         {
           "source": "Reason",
@@ -211,229 +448,56 @@
           "date": "2026-10-31",
           "title": "Sir Patrick Stewart, RIP",
           "url": "https://reason.com/volokh/2026/10/31/sir-patrick-stewart-rip/",
-          "note": "Reason's headline frames the event as a direct obituary notice for the actor, whereas Nature focuses on the character's influence on the scientific community."
+          "note": "Reason frames the story as a direct obituary notice for the actor."
         }
       ],
       "brief": {
-        "what": "Actor Patrick Stewart, known for his iconic role as Captain Jean-Luc Picard in the Star Trek franchise, has passed away. Researchers and scientists are reflecting on how his character's leadership style—characterized by consultation, kindness, and intellectual curiosity—influenced their own professional approaches and career paths.",
+        "what": "Actor Patrick Stewart, famous for his role as Captain Jean-Luc Picard in Star Trek: The Next Generation, has died. Researchers and scientists are reflecting on how his character's leadership style, characterized by consultation and kindness, influenced their own professional approaches.",
         "who": "Patrick Stewart, the late actor; Sarah Bickerton, a public-policy researcher; and Tracy Drain, a flight systems engineer at NASA’s Jet Propulsion Laboratory.",
-        "context": "Patrick Stewart played Captain Jean-Luc Picard in Star Trek: The Next Generation from 1987 to 1994 and in subsequent films. The character is widely cited by professionals in science and engineering as a model for effective, inclusive leadership.",
-        "why": "Scientists report that Picard's fictional leadership style, which prioritized asking questions and valuing input from all crew members regardless of rank, resonated with their own values regarding collaboration and the pursuit of knowledge for the betterment of humanity.",
+        "context": "Patrick Stewart portrayed Captain Picard from 1987 to 1994 in the television series and subsequent films. The character is widely cited by scientists as an archetype for collaborative and inclusive leadership in research environments.",
+        "why": "Scientists report that Picard’s character resonated with them because he modeled how to be even-keeled, respectful, and supportive of crew members regardless of rank, which many have adopted as a personal leadership philosophy.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "business",
-      "importance": 3,
-      "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+      "topic": "world",
+      "importance": 2,
+      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-      "date": "2026-10-29",
-      "author": "Emmy Martin and Lauren McCarthy",
-      "summary": "DoorDash has announced an agreement to acquire Instacart in a transaction valued at $17 billion. The merger combines the nation's leading restaurant delivery service with its largest online grocery platform.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Heather Haddon",
-          "date": "2026-10-29",
-          "title": "How CEO Tony Xu Led DoorDash to Delivery Dominance",
-          "url": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses on CEO Tony Xu's leadership in one headline, while the other mirrors the merger announcement."
-        },
-        {
-          "source": "Wall Street Journal",
-          "author": "Colin Kellaher",
-          "date": "2026-10-29",
-          "title": "DoorDash to Buy Instacart for $17 Billion",
-          "url": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f",
-          "note": "Fox Business frames the deal specifically as a strategic bet on the grocery delivery market."
-        },
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-10-29",
-          "title": "DoorDash strikes $17B deal for rival Instacart in bet on grocery delivery",
-          "url": "https://www.foxbusiness.com/markets/doordash-strikes-17b-deal-rival-instacart-bets-grocery-delivery"
-        }
-      ],
+      "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "date": "2026-11-02",
+      "author": "Motoko Rich",
+      "summary": "Pope Leo XIV travels via commercial airlines rather than utilizing a private jet. This practice distinguishes his travel habits from those of American presidents.",
+      "also": [],
       "brief": {
-        "what": "DoorDash is set to acquire Instacart for $17 billion, creating a unified entity that merges the country's largest restaurant delivery service with its biggest online grocery platform.",
-        "who": "DoorDash, the acquiring restaurant delivery service, and Instacart, the online grocery platform being purchased.",
-        "context": "The deal represents a significant consolidation within the delivery sector, bringing together two major players that have dominated their respective niches of restaurant and grocery logistics.",
-        "why": "The article does not explicitly state the strategic rationale behind the acquisition beyond the combination of the two delivery giants.",
+        "what": "Pope Leo XIV eschews the use of a private jet for his travels, opting instead to fly on commercial airlines.",
+        "who": "Pope Leo XIV is the primary subject, contrasted against the travel practices of American presidents.",
+        "context": "While heads of state often utilize dedicated government or private aircraft for security and logistical reasons, the Pope maintains a practice of using commercial aviation.",
+        "why": "The article notes that the Pope does not possess a private jet, necessitating the use of commercial flights.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Canada backs a rival to Starlink but a $2bn debt battle threatens its plans",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/782eb2df-b89b-4ab5-9d9e-930ae5f80989?syn-25a6b1a6=1",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "Telesat is seeking to challenge Starlink's market dominance but faces a significant $2 billion debt hurdle. The company remains dependent on Elon Musk's rockets to launch its satellite constellation.",
+      "also": [],
+      "brief": {
+        "what": "Telesat is attempting to compete with Starlink in the satellite market while managing a $2 billion debt load. Despite this rivalry, the company must rely on Elon Musk's rockets to deploy its infrastructure.",
+        "who": "Telesat, a satellite operator, and Elon Musk, the owner of the rocket launch provider.",
+        "context": "Telesat is positioning itself as a competitor to Starlink, which currently maintains a dominant position in the satellite industry.",
+        "why": "The company requires external launch services to get its satellite constellation off the ground, creating a dependency on its competitor.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "$17 billion",
-          "what": "the total value of the acquisition deal"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
-          "url": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-10-26"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-29",
-      "author": null,
-      "summary": "Chancellor John Healey has unveiled a new Budget featuring energy bill support, fuel duty extensions, and adjustments to savings and wage policies. The measures aim to provide cost-of-living relief while introducing tax changes for savers and landlords.",
-      "also": [
-        {
-          "source": "Carbon Brief",
-          "author": "Carbon Brief Staff",
-          "date": "2026-10-28",
-          "title": "UK budget 2026: Key climate and energy announcements",
-          "url": "https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements",
-          "note": "Carbon Brief focuses specifically on the climate and energy-related implications of the fiscal announcements."
-        },
-        {
-          "source": "The Telegraph",
-          "author": "Matt Oliver",
-          "date": "2026-10-28",
-          "title": "Budget 2026: Key points at a glance",
-          "url": "https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance/",
-          "note": "The Telegraph frames the story as a comprehensive list of key points for quick reader reference."
-        }
-      ],
-      "brief": {
-        "what": "The 2026 Budget introduces a £100 energy payment for specific council tax bands, extends fuel duty cuts to July, and increases the National Living Wage to £13.21 per hour. It also implements tax hikes on savings interest and modifies Isa allowances, while scrapping gas standing charges in most of the UK.",
-        "who": "Chancellor John Healey, who presented the Budget, and the Treasury, which manages the fiscal policy and economic forecasts.",
-        "context": "The UK is experiencing rising cost-of-living pressures, with energy bills expected to increase significantly in January and motor fuel prices remaining high due to the ongoing impact of the Iran war.",
-        "why": "The government claims these measures provide 'breathing space' for families facing rising costs, though the Office for Budget Responsibility warns that tax changes for landlords could lead to higher rents.",
-        "next": "The government plans to extend electricity standing charge reforms later and implement the new Pension Tax Allowance by 2030."
-      },
-      "numbers": [
-        {
-          "figure": "£100",
-          "what": "one-off Household Energy Payment for eligible households"
-        },
-        {
-          "figure": "£2,100",
-          "what": "forecasted typical annual energy bill in January"
-        },
-        {
-          "figure": "£13.21",
-          "what": "new hourly National Living Wage for workers 21+"
-        },
-        {
-          "figure": "24%",
-          "what": "new savings tax rate for basic rate taxpayers"
-        },
-        {
-          "figure": "2.5%",
-          "what": "deposit required for new-build homes under equity scheme"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-          "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01",
-      "author": null,
-      "summary": "A US judge has dismissed a $10 billion defamation lawsuit filed by Donald Trump against The Wall Street Journal regarding a report on a letter allegedly written to Jeffrey Epstein. The court ruled the suit lacked evidence of actual malice and violated First Amendment protections for the press.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Katie Robertson",
-          "date": "2026-10-31",
-          "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
-          "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
-          "note": "The New York Times highlights the specific dollar amount of the suit in its headline."
-        },
-        {
-          "source": "NPR",
-          "author": "The Associated Press",
-          "date": "2026-11-01",
-          "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-          "note": "NPR emphasizes the judge's descriptive language regarding the merit of the lawsuit."
-        }
-      ],
-      "brief": {
-        "what": "Judge Darrin Gayles dismissed a $10 billion defamation lawsuit against Dow Jones and Rupert Murdoch with prejudice, meaning it cannot be refiled. The suit alleged the newspaper defamed Donald Trump by reporting on a 2003 birthday letter he allegedly sent to Jeffrey Epstein.",
-        "who": "Donald Trump, the plaintiff; Dow Jones and Rupert Murdoch, the defendants; and Judge Darrin Gayles, who presided over the case.",
-        "context": "The lawsuit stemmed from a Wall Street Journal investigation into a birthday book for Jeffrey Epstein that contained a letter bearing Trump's name. Trump denied writing the letter, which included suggestive language and a drawing, and claimed the publication was libelous.",
-        "why": "Judge Gayles ruled that Trump's team failed to prove 'actual malice,' a legal standard requiring evidence that the publisher knew the information was false or acted with reckless disregard for the truth. The judge stated the lawsuit attempted to 'manufacture flaws' in the newspaper's investigation and contradicted First Amendment press freedoms.",
-        "next": "The case is closed with prejudice, preventing any further legal action on this specific claim."
-      },
-      "numbers": [
-        {
-          "figure": "$10 billion",
-          "what": "damages sought in the refiled lawsuit"
-        },
-        {
-          "figure": "$20 billion",
-          "what": "damages sought in the initial lawsuit"
-        },
-        {
-          "figure": "£7.4bn",
-          "what": "approximate value of the lawsuit in pounds"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
-      "date": "2026-10-29",
-      "author": "Phillip Inman and Graeme Wearden",
-      "summary": "European Central Bank President Christine Lagarde is resigning nine months early to regain her freedom of speech regarding global affairs. She departs as the eurozone faces challenges with weak economic growth and inflation.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Eshe Nelson",
-          "date": "2026-10-29",
-          "title": "Christine Lagarde to Step Down as President of European Central Bank",
-          "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
-          "note": "The New York Times headline focuses strictly on the resignation event without mentioning the stated motivation of freedom of speech."
-        }
-      ],
-      "brief": {
-        "what": "Christine Lagarde announced she will step down as president of the European Central Bank next February, nine months ahead of schedule. The decision follows the bank's choice to maintain its key deposit rate at 2.5% while inflation reached 3.8%.",
-        "who": "Christine Lagarde is the outgoing ECB president; the European Council is responsible for appointing her successor, with potential candidates including Klaas Knot, Pablo Hernández de Cos, Joachim Nagel, and Nadia Calviño.",
-        "context": "The ECB is responsible for setting monetary policy across the eurozone, a role that requires strict neutrality. Lagarde, a former IMF managing director, has been linked to a potential leadership role at the World Economic Forum.",
-        "why": "Lagarde stated that the rules of neutrality governing her position prevented her from speaking freely about global financial and economic affairs. She expressed a desire to confront what she described as the misrepresentation of truth.",
-        "next": "A process to identify a successor has begun, with French President Emmanuel Macron calling for an orderly transition before the next French presidential election."
-      },
-      "numbers": [
-        {
-          "figure": "2.5%",
-          "what": "key deposit rate maintained by the ECB"
-        },
-        {
-          "figure": "3.8%",
-          "what": "inflation rate recorded last month"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Christine Lagarde to Step Down as President of European Central Bank",
-          "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
-          "source": "The New York Times",
-          "date": "2026-10-29"
+          "figure": "$2bn",
+          "what": "debt burden threatening the company's plans"
         }
       ]
     },
@@ -445,7 +509,7 @@
       "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
       "date": "2026-10-31",
       "author": "Carbon Brief Staff",
-      "summary": "Nations at the COP17 biodiversity conference in Yerevan completed a global review warning that nature loss targets for 2030 are currently off track. The summit concluded with a compromise on biodiversity finance, allowing countries to voluntarily signal interest in becoming donor nations before the next COP.",
+      "summary": "Nations at the COP17 biodiversity conference in Yerevan concluded a global review warning that current efforts are insufficient to meet 2030 nature protection targets. The summit reached a delicate compromise on biodiversity finance, allowing countries to voluntarily signal interest in becoming donor nations before the next COP.",
       "also": [
         {
           "source": "The New York Times",
@@ -453,24 +517,24 @@
           "date": "2026-10-31",
           "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
           "url": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
-          "note": "The New York Times headline focuses on the location and event name, whereas Carbon Brief emphasizes the specific outcomes and agreements reached."
+          "note": "The New York Times headline focuses on the location and the event itself, whereas Carbon Brief emphasizes the specific outcomes and agreements reached."
         }
       ],
       "brief": {
-        "what": "Delegates at COP17 completed a global review confirming that 2030 nature loss targets will not be met without accelerated action. The conference reached a compromise on resource mobilization, establishing a process for countries to voluntarily signal interest in contributing to biodiversity finance before COP18.",
-        "who": "The JUSCANZ bloc of developed countries led the push to broaden the contributor base, while emerging economies like China, Saudi Arabia, and India resisted mandatory reclassification.",
-        "context": "The Kunming-Montreal Global Biodiversity Framework, established in 2022, aims to reverse nature loss by 2030. Finance has been a point of contention, as developed nations failed to meet previous funding commitments of at least $20bn annually.",
-        "why": "The deadlock occurred because developed countries sought to expand the list of nations responsible for providing finance, while developing nations argued that historical responsibilities and sovereign debt burdens should be prioritized over income-based status.",
-        "next": "Countries will hold bilateral, confidential consultations regarding donor status before COP18, which is scheduled to take place in Quito, Ecuador, in 2028."
+        "what": "COP17 concluded with a global review stating that 2030 nature loss reversal targets will not be met without accelerated action. Negotiations centered on closing a significant biodiversity finance gap, ultimately resulting in a compromise that invites countries to voluntarily signal interest in contributing to nature protection funds.",
+        "who": "The JUSCANZ bloc of developed countries led the push to broaden the contributor base, while emerging economies like China, Saudi Arabia, and India faced pressure to increase their financial obligations.",
+        "context": "The Kunming-Montreal Global Biodiversity Framework, established in 2022, serves as the primary international agreement for nature protection. COP17 marked the halfway point toward the 2030 deadline, following a previous summit in Colombia that struggled with procedural delays.",
+        "why": "Finance was the primary point of discord because developed nations failed to meet previous funding commitments, leading to debates over whether emerging economies should now share the burden of financing global biodiversity efforts.",
+        "next": "Countries will hold bilateral, confidential consultations regarding potential donor status before COP18, which is scheduled to take place in Quito, Ecuador, in 2028."
       },
       "numbers": [
         {
           "figure": "23 targets",
-          "what": "goals to be met by 2030"
+          "what": "goals to reverse nature loss by 2030"
         },
         {
           "figure": "$20bn a year",
-          "what": "funding commitment for nature by 2025"
+          "what": "annual funding commitment for nature by 2025"
         },
         {
           "figure": "27%",
@@ -478,350 +542,375 @@
         },
         {
           "figure": "$200bn per year",
-          "what": "resource mobilization goal by 2030"
+          "what": "target for biodiversity finance by 2030"
         }
       ]
     },
     {
       "topic": "markets",
       "importance": 2,
-      "title": "Serbia’s Banks Urged to Scrutinize Money Flows Amid Power Shift",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/serbia-s-banks-urged-to-scrutinize-money-flows-amid-power-shift",
-      "date": "2026-11-01",
-      "author": "Misha Savic",
-      "summary": "A student-led movement in Serbia is calling on financial institutions to increase oversight of capital outflows during the current government transition.",
+      "title": "Alstom shares tumble 28% after train maker cuts profit forecast",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "Alstom shares fell 28% following a significant profit warning and the announcement of a plan to reduce debt by €2 billion. This marks the second major profit warning issued under the leadership of CEO Martin Sion.",
       "also": [],
       "brief": {
-        "what": "A student-led movement in Serbia is pressuring banks to enhance their scrutiny of capital flows leaving the country. This request comes as the movement prepares to assume power following the results of last month's election.",
-        "who": "The student-led movement, which is poised to take control of the government, and Serbia's banking sector.",
-        "context": "The nation is currently undergoing a political transition period following a recent election, leading to concerns regarding the movement of capital out of the country.",
-        "why": "The movement is urging banks to increase oversight to ensure transparency and security during the shift in government power.",
+        "what": "Alstom shares plummeted 28% after the French train manufacturer issued a profit warning and unveiled a strategy to reduce its debt by €2 billion. This development represents the second major profit warning since Martin Sion took over as chief.",
+        "who": "Alstom, the French train manufacturer, and its chief Martin Sion.",
+        "context": "The company is currently navigating financial challenges, leading to this latest effort to restructure its balance sheet and address investor concerns regarding profitability.",
+        "why": "The company issued the warning and debt reduction plan as part of a broader effort to stabilize its financial position under new leadership.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "28%",
+          "what": "decline in Alstom share price"
+        },
+        {
+          "figure": "€2bn",
+          "what": "amount of debt the company plans to cut"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Fed May Need 4 or 5 Rate Hikes in Total , Economist Dutta Says",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-02/fed-may-need-total-of-4-or-5-rate-hikes-economist-dutta-video",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "Neil Dutta, head of US economic research at Renaissance Macro Research, expects a change to the Federal Reserve’s inflation expectations in early 2027 and sees the need for a total of 4 or 5 interest-rate hikes from the central bank. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Marriott Beats as US Demand Helps Boost Outlook; Shares Rise",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/marriott-beats-as-us-demand-helps-boost-outlook-shares-rise",
+      "date": "2026-11-02",
+      "author": "Patrick Clark",
+      "summary": "Marriott International reported third-quarter earnings that surpassed analyst expectations, driven by a surge in bookings at its US hotel properties. The company's strong performance has led to an improved financial outlook.",
+      "also": [],
+      "brief": {
+        "what": "Marriott International Inc. exceeded third-quarter earnings expectations as demand for its US hotels increased. This growth in bookings has prompted the company to raise its financial outlook.",
+        "who": "Marriott International Inc. is the primary actor, reporting its quarterly financial results.",
+        "context": "The company operates a global portfolio of hotel brands and relies on travel demand to drive its revenue and earnings performance.",
+        "why": "The positive results were attributed to a surge in bookings across the company's US hotel locations.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "markets",
-      "importance": 2,
-      "title": "China’s Top Regulators to Address Global Bankers at HK Summit",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-s-top-regulators-to-address-global-bankers-at-hk-summit",
-      "date": "2026-11-01",
-      "author": "Kiuyan Wong",
-      "summary": "Senior Chinese regulators are set to address global banking leaders at a summit in Hong Kong. The event provides a platform to discuss Beijing's policy priorities during a period of uneven economic growth.",
+      "topic": "business",
+      "importance": 1,
+      "title": "Estee Lauder Posts Higher Profit, Sales as Turnaround Bears Fruit",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/retail/estee-lauder-posts-higher-profit-sales-as-turnaround-bears-fruit-14072a3f?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-02",
+      "author": "Connor Hart",
+      "summary": "The Estee Lauder Companies reported growth in both profit and sales for its fiscal first quarter. The results indicate that the company's ongoing turnaround strategy is yielding positive outcomes.",
       "also": [],
       "brief": {
-        "what": "Senior Chinese regulators will speak to major global bankers at a summit in Hong Kong this week. The discussions are expected to focus on Beijing's policy priorities in the context of uneven economic growth.",
-        "who": "Senior Chinese regulators and global banking leaders are the primary participants, with the event occurring ahead of a planned meeting between Presidents Donald Trump and Xi Jinping.",
-        "context": "The summit takes place as China navigates economic challenges and prepares for high-level diplomatic engagement between the U.S. and Chinese heads of state later this month.",
-        "why": "The regulators are attending to offer insight into Beijing's policy priorities amid the current economic climate.",
+        "what": "The Estee Lauder Companies announced an increase in both profit and sales during its fiscal first quarter. These results reflect the progress of the company's current turnaround efforts.",
+        "who": "The Estee Lauder Companies is the primary entity reporting these financial results.",
+        "context": "The company is currently executing a turnaround strategy aimed at improving its financial performance.",
+        "why": "The company stated that the reported growth is a result of its turnaround strategy beginning to bear fruit.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "markets",
-      "importance": 2,
-      "title": "China to Convene Meeting on Supporting Stock Market, Reports Say",
+      "topic": "world",
+      "importance": 1,
+      "title": "Trump Says He May Become ‘Mr. Veto’ if Democrats Win Midterms",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-      "date": "2026-11-01",
-      "author": "Bloomberg News",
-      "summary": "Chinese financial regulators are set to convene a meeting to discuss implementing tools aimed at supporting the nation's capital market. The discussion will involve both the central bank and the securities regulator.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-02/the-pulse-11-2-2026-video",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "Former President Donald Trump indicated he might frequently use his veto power if Democrats secure victories in the upcoming midterm elections. This potential strategy suggests a confrontational approach to future legislative agendas.",
       "also": [],
       "brief": {
-        "what": "China’s central bank and its securities regulator are scheduled to hold a meeting to deliberate on the deployment of tools intended to support the country's capital market.",
-        "who": "The People's Bank of China and the nation's securities regulator are the primary actors organizing the meeting.",
-        "context": "The meeting follows reports from local media regarding government efforts to stabilize or bolster the domestic financial environment.",
-        "why": "The meeting is being convened to discuss the use of specific tools designed to support the capital market.",
+        "what": "Donald Trump stated he may adopt the title of 'Mr. Veto' to block legislation should Democrats win the midterm elections. This stance highlights a potential shift toward increased executive obstructionism in the legislative process.",
+        "who": "Donald Trump, the former US President, is the primary actor articulating this potential political strategy.",
+        "context": "The statement comes as political discourse intensifies regarding the balance of power between the executive and legislative branches ahead of the midterm elections.",
+        "why": "Trump suggests this approach as a mechanism to counter Democratic legislative goals if they gain control of Congress.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "markets",
-      "importance": 2,
-      "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
+      "date": "2026-11-02",
+      "author": "The Associated Press",
+      "summary": "A Learjet 60 carrying nine people crashed in Palm Beach County, Florida, after the pilot reported severe icing and turbulence. All passengers and crew were killed in the incident, which occurred while the aircraft was en route from Austin to the Bahamas.",
+      "also": [],
+      "brief": {
+        "what": "A private Learjet 60 crashed in Greenacres, Florida, killing all nine people on board after entering a rapid, uncontrolled descent. The aircraft was traveling from Austin, Texas, to the Bahamas when it encountered severe icing and turbulence, leading to a descent rate that reached 30,000 feet per minute.",
+        "who": "The National Transportation Safety Board (NTSB) is leading the investigation, supported by the Federal Aviation Administration (FAA) and Transportation Secretary Sean Duffy.",
+        "context": "The aircraft was cruising at 35,000 feet when the pilot reported deteriorating weather conditions, including ice accumulation and turbulence. Despite declaring an emergency, the crew was unable to recover the aircraft from its steep dive before it struck the ground near a busy roadway.",
+        "why": "Aviation safety expert Steve Arroyo suggested that icing and turbulence may have caused the plane to stall, though the NTSB is currently investigating all potential factors, including pilot response and mechanical performance.",
+        "next": "The NTSB is conducting an on-site investigation, and a media briefing is scheduled for Monday in West Palm Beach."
+      },
+      "numbers": [
+        {
+          "figure": "9",
+          "what": "people who died aboard the business jet"
+        },
+        {
+          "figure": "30,000 feet per minute",
+          "what": "maximum rate of descent recorded before impact"
+        },
+        {
+          "figure": "600",
+          "what": "people evacuated from a nearby mobile home community"
+        },
+        {
+          "figure": "700 feet",
+          "what": "vertical displacement caused by turbulence"
+        },
+        {
+          "figure": "45,000",
+          "what": "population of the city where the crash occurred"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Serbia shuts down bank favoured by Russians",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce?syn-25a6b1a6=1",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "Alta Bank has been shut down in Serbia following allegations that it facilitated large-scale capital flight after the election loss of former president Aleksandar Vučić.",
+      "also": [],
+      "brief": {
+        "what": "Serbian authorities have closed Alta Bank due to suspicions that the institution was used to wire significant amounts of money out of the country.",
+        "who": "The primary actor is Alta Bank, which is accused of illicit financial activity following the political defeat of former president Aleksandar Vučić.",
+        "context": "The closure follows the electoral loss of Aleksandar Vučić, a period often associated with shifts in national financial oversight and political stability.",
+        "why": "The bank was shut down because it is suspected of wiring large amounts of money out of the country after the election loss of the former president.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
-      "date": "2026-11-01",
-      "author": "Peter Eavis, Jenny Gross and Choe Sang-Hun",
-      "summary": "South Korean shipping firm Sinokor has secured a dominant position in Persian Gulf oil transport. The company's market share grew significantly following a strategic investment made prior to the conflict in Iran.",
+      "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
+      "date": "2026-11-02",
+      "author": "Humza Jilani",
+      "summary": "Gulf nations like Saudi Arabia and the United Arab Emirates are experiencing a significant decline in economic growth due to regional conflict. This instability threatens their ongoing efforts to diversify away from energy dependence.",
       "also": [],
       "brief": {
-        "what": "Sinokor, a South Korean company, currently controls approximately half of all tanker transits moving through the Strait of Hormuz. This market dominance was established after the firm made a significant strategic bet on shipping capacity immediately preceding the start of the war in Iran.",
-        "who": "Sinokor is the primary actor, identified as a South Korean company that has successfully captured a major portion of the regional oil trade.",
-        "context": "The Strait of Hormuz is a critical maritime chokepoint for global oil shipments, and the ongoing conflict in Iran has fundamentally altered the logistics and risk profiles of energy transport in the region.",
-        "why": "The company's current market position is the result of a deliberate strategic investment made just before the outbreak of the war in Iran, which allowed them to capitalize on shifting trade dynamics.",
+        "what": "Saudi Arabia and the United Arab Emirates have seen their economic growth plunge over the past year. This downturn complicates the strategic shift these nations are attempting to make to reduce their reliance on energy exports.",
+        "who": "Saudi Arabia and the United Arab Emirates are the primary nations affected by the regional strife.",
+        "context": "These Gulf states have been actively working to rebalance their economies to move beyond a traditional dependence on energy markets.",
+        "why": "The article attributes the economic decline to a year of strife and war in Iran, which has disrupted the stability required for these nations to pursue their economic diversification goals.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Germany fails to meet winter gas storage target",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/99b0bbf1-4604-4e56-bc66-9f49d2814737?syn-25a6b1a6=1",
-      "date": "2026-11-01",
-      "author": null,
-      "summary": "Germany has failed to reach its winter gas storage target, a development that may increase energy costs for other European Union nations. The country will now be required to increase its reliance on spot market purchases to meet demand.",
+      "topic": "business",
+      "importance": 1,
+      "title": "Marvell to Buy Lumentum for $115 Billion in All-Stock AI Deal",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-115-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-02",
+      "author": "Connor Hart",
+      "summary": "Marvell Technology has agreed to acquire Lumentum in an all-stock transaction valued at approximately $115 billion. The merger aims to consolidate two significant players within the artificial intelligence infrastructure sector.",
       "also": [],
       "brief": {
-        "what": "Germany missed its established winter gas storage target, forcing the nation to secure additional supplies through the spot market. This shift in procurement strategy is expected to exert upward pressure on energy prices across the broader European Union.",
-        "who": "Germany, as the bloc’s largest economy, is the primary actor responsible for the storage shortfall.",
-        "context": "European nations have been working to build gas reserves to ensure energy security during the winter months, a process that relies on meeting specific storage capacity milestones.",
-        "why": "The failure to meet the target necessitates increased spot market activity, which the Financial Times notes could lead to rising prices for other EU member states.",
+        "what": "Marvell Technology is set to acquire Lumentum in an all-stock transaction valued at $115 billion, a figure that includes the assumption of debt. This strategic combination unites two companies identified as key enablers of artificial intelligence growth.",
+        "who": "Marvell Technology and Lumentum are the two companies involved in the merger agreement.",
+        "context": "The deal represents a significant consolidation within the technology sector, specifically targeting the infrastructure and components required to support the rapid expansion of artificial intelligence capabilities.",
+        "why": "The companies are merging to combine their respective positions as two of the fastest-growing enablers of artificial intelligence technology.",
         "next": "The article doesn't say."
-      }
+      },
+      "numbers": [
+        {
+          "figure": "$115 billion",
+          "what": "total value of the all-stock merger deal"
+        }
+      ]
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+      "title": "Oracle Is Offering $10 Billion of High-Grade Dollar Bonds",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
-      "date": "2026-11-01",
-      "author": "Abhishek Vishnoi and Winnie Hsu",
-      "summary": "Asian stock markets with high exposure to artificial intelligence are bracing for potential shifts in US policy following the midterm elections. The results could significantly impact the tech sector, clean energy, and defense industries.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+      "date": "2026-11-02",
+      "author": "Brian Smith",
+      "summary": "Oracle Corp. has launched a $10 billion sale of investment-grade bonds. This move follows the company's recent announcement regarding its capital-raising strategy.",
       "also": [],
       "brief": {
-        "what": "Asian markets heavily invested in artificial intelligence are preparing for policy volatility stemming from the upcoming US midterm elections. The election outcome is expected to influence trade dynamics and specific sectors including defense and clean energy.",
-        "who": "Asian stock markets and US policymakers.",
-        "context": "The US midterm elections serve as a political event that can alter national policy, which in turn affects international trade and sector-specific performance in global markets.",
-        "why": "The article states that the election outcome acts as a policy wildcard that could reshape the tech trade and various industrial sectors.",
+        "what": "Oracle Corp. initiated a $10 billion sale of US investment-grade bonds on Monday. This issuance aligns with the company's stated plan to conduct $20 billion in additional capital raises over the coming years.",
+        "who": "Oracle Corp. is the issuer of the debt.",
+        "context": "The company previously signaled its intent to manage its capital structure through a series of debt offerings.",
+        "why": "The sale follows the company's announcement last week regarding its multi-year capital-raising strategy.",
         "next": "The article doesn't say."
-      }
+      },
+      "numbers": [
+        {
+          "figure": "$10 billion",
+          "what": "value of the investment grade bond sale"
+        },
+        {
+          "figure": "$20 billion",
+          "what": "additional capital raises planned over several years"
+        }
+      ]
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-01",
-      "author": "Gunjan Banerji",
-      "summary": "Investors and tech executives are seeking financial protection for their significant capital allocations within the artificial-intelligence sector. This trend reflects growing caution regarding the massive market bets placed on AI technology.",
+      "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+      "date": "2026-11-02",
+      "author": "Joe Rennison",
+      "summary": "U.S. stock market futures trended upward on Monday following a period of significant volatility in the technology sector. Investors remain cautious as they prepare for potential ongoing instability in the financial markets.",
       "also": [],
       "brief": {
-        "what": "Investors, traders, and tech executives are actively seeking insurance and high-stakes protection for their investments in the artificial-intelligence sector.",
-        "who": "Investors, traders, and tech executives are the primary actors involved in seeking these financial safeguards.",
-        "context": "Trillions of dollars are currently invested in the artificial-intelligence trade, representing one of the largest market bets in history.",
-        "why": "The article indicates that participants are hunting for protection due to the massive scale of capital currently riding on the artificial-intelligence trade.",
+        "what": "Futures for U.S. stock markets rose on Monday, indicating a potential rebound in share prices before the official start of trading. This movement follows a recent sell-off within the technology sector that has left investors bracing for continued market volatility.",
+        "who": "Investors are the primary actors monitoring these market fluctuations.",
+        "context": "The market is reacting to a recent sell-off in technology stocks, which has heightened concerns regarding broader financial stability.",
+        "why": "The article does not explicitly state the cause of the volatility beyond referencing the recent tech sell-off.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
-      "date": "2026-10-31",
-      "author": "Nick Robins-Early, Andrew Witherspoon, Will Craft, Alvaro Dominguez, and Daniel Wolfe",
-      "summary": "Elon Musk has become the largest single-cycle political donor in modern US history, funneling at least $445.77 million into Republican-aligned political action committees. This spending, which increased by $200 million in the final two months of the campaign, aims to influence congressional control.",
-      "also": [],
-      "brief": {
-        "what": "Elon Musk has donated at least $445.77 million to Republican-aligned political action committees (Pacs) during the current midterm election cycle. This record-breaking expenditure includes $216 million directed to his own America Pac and $168 million to the Senate Leadership Fund.",
-        "who": "Elon Musk, the CEO of SpaceX and Tesla, is the primary actor, utilizing his personal wealth to support Republican candidates and the Trump administration.",
-        "context": "Musk previously contributed nearly $300 million to the 2024 presidential campaign. His current spending targets 43 House and Senate races, utilizing digital ads, television commercials, and mailers to influence voters.",
-        "why": "The article states Musk seeks to help the Trump administration retain control of Congress, noting that he has benefited from the administration's lax policies toward regulating artificial intelligence and technology.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$445.77m",
-          "what": "total donations to Republican-aligned political groups"
-        },
-        {
-          "figure": "$216m",
-          "what": "contribution to his own America Pac"
-        },
-        {
-          "figure": "$200m",
-          "what": "increase in spending during final two months"
-        },
-        {
-          "figure": "$168m",
-          "what": "contribution to the Senate Leadership Fund"
-        },
-        {
-          "figure": "839",
-          "what": "independent expenditures made in House races"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Is Dollar General Charging Too Much?",
+      "title": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/is-dollar-general-charging-too-much-f8e8717f?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-31",
-      "author": "Hanna Krueger",
-      "summary": "Federal and state regulators have initiated a lawsuit against discount retailer Dollar General over allegations of deceptive pricing practices. Customers reported that the prices charged at checkout frequently exceeded the amounts displayed on store shelves.",
+      "url": "https://www.wsj.com/business/earnings/alstom-shares-plunge-after-technical-issues-prompt-guidance-cut-5a070227?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-02",
+      "author": "Sarah Sloat",
+      "summary": "Alstom shares fell following a guidance cut triggered by production delays for its Coradia Max regional trains. Technical issues identified during the first quarter have hindered the platform's manufacturing timeline.",
       "also": [],
       "brief": {
-        "what": "Federal and state regulators are suing Dollar General following consumer complaints regarding price discrepancies. The lawsuit alleges that the retailer consistently charges customers more at the register than the prices advertised on shelf labels.",
-        "who": "Federal and state regulators are the plaintiffs, while Dollar General is the defendant discount retailer facing these legal actions.",
-        "context": "The legal action stems from recurring reports by shoppers who identified mismatches between shelf-marked prices and final transaction totals.",
-        "why": "The lawsuit was filed because regulators are responding to customer complaints about the retailer's pricing accuracy and transparency at the point of sale.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
-      "date": "2026-10-31",
-      "author": null,
-      "summary": "Investors are reducing their growth expectations as concerns mount regarding the US economy's heavy reliance on artificial intelligence spending. This shift has prompted a return to bonds following a prolonged sell-off period.",
-      "also": [],
-      "brief": {
-        "what": "Investors are scaling back growth bets due to anxieties surrounding the US economy's exposure to AI-related expenditures. This sentiment has triggered a pivot back toward bonds after a sustained period of selling.",
-        "who": "Investors are the primary actors adjusting their portfolios in response to market volatility.",
-        "context": "The market is reacting to a perceived over-reliance on technology spending, which has historically driven recent growth trends.",
-        "why": "The shift is driven by rising concerns that the current level of investment in artificial intelligence may be unsustainable or overly concentrated within the tech sector.",
+        "what": "Alstom reported that technical issues with its Coradia Max high-capacity regional trains caused production delays during the first quarter. Consequently, the company lowered its financial guidance, leading to a sharp decline in its share price.",
+        "who": "Alstom, a French train manufacturer, is the primary actor responsible for the production of the Coradia Max platform.",
+        "context": "The company is currently managing the manufacturing rollout of its high-capacity regional train platform, which has now encountered technical setbacks.",
+        "why": "The guidance cut and subsequent market reaction were prompted by technical complications that surfaced during the first quarter, delaying the production schedule for the Coradia Max trains.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "Sri Lankan lawmaker faces 24 charges in Airbus bribery case",
+      "title": "AirAsia appoints Bahrain board, cautiously plans hub launch by March 2027",
       "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/sri-lanka-namal-rajapaksa-airbus-bribery-charges",
-      "date": "2026-10-31",
-      "author": "Stephen Pope",
-      "summary": "Sri Lankan lawmaker Namal Rajapaksa faces 24 charges regarding an alleged $1 million bribe linked to a 2013 SriLankan Airlines aircraft order. The case stems from a broader corruption investigation involving Airbus that resulted in a multi-billion dollar global settlement.",
+      "url": "https://www.aerotime.aero/articles/airasia-appoints-bahrain-board-hub-launch-by-march-2027",
+      "date": "2026-11-02",
+      "author": "Ian Molyneaux",
+      "summary": "AirAsia has appointed a new seven-person board for its Bahrain hub and is targeting a launch of operations by March 2027. The airline remains committed to the project despite previous delays caused by regional airspace restrictions.",
       "also": [],
       "brief": {
-        "what": "Namal Rajapaksa has been formally charged with 24 counts related to a 100 million rupee ($1 million) bribe connected to a 2013 order for ten Airbus aircraft. The indictment also names other individuals and a private company, alleging that illicit funds were funneled through overseas accounts.",
-        "who": "Namal Rajapaksa, a Sri Lankan lawmaker, is the primary defendant, while SriLankan Airlines is the national carrier involved in the original 2013 procurement deal.",
-        "context": "The charges follow a global corruption investigation into Airbus, which in 2020 agreed to pay $3.9 billion to resolve bribery and export-control cases in the US, France, and the UK. SriLankan Airlines has previously sought $1 billion in damages and the cancellation of its A350-900 order.",
-        "why": "Prosecutors allege that money from the aircraft transaction was laundered through overseas companies before reaching Rajapaksa. Rajapaksa has denied any wrongdoing regarding the allegations.",
-        "next": "The High Court ordered Rajapaksa to return to court on November 19."
-      },
-      "numbers": [
-        {
-          "figure": "$3.9 billion",
-          "what": "total settlement paid by Airbus to resolve bribery cases"
-        },
-        {
-          "figure": "$1 billion",
-          "what": "damages sought by SriLankan Airlines from Airbus"
-        },
-        {
-          "figure": "$19 million",
-          "what": "advance payments SriLankan Airlines demanded returned"
-        },
-        {
-          "figure": "100 million rupee",
-          "what": "alleged bribe amount linked to aircraft purchase"
-        },
-        {
-          "figure": "$800,000",
-          "what": "transfer amount from a Singapore account to Sabre Vision Holdings"
-        }
-      ]
+        "what": "AirAsia has reaffirmed its commitment to establishing a strategic hub in Bahrain by appointing a seven-person board of directors. The airline now aims to commence flights by March 2027, following previous delays caused by regional conflict and airspace restrictions.",
+        "who": "AirAsia Group is the primary actor, with Tony Fernandes, CEO of Capital A and Advisor to the group, leading the strategic vision. The new board is chaired by Serra Kirdar and includes six other non-executive directors.",
+        "context": "The airline originally planned to launch the Bahrain hub in 2026 to connect Asia with the Middle East, Europe, and Australia. The project also includes developing MRO capabilities through Asia Digital Engineering and expanding logistics operations via its arm, Teleport.",
+        "why": "According to Tony Fernandes, the hub is strategically important as a gateway connecting Asean with the Middle East and Europe. While geopolitical instability necessitated adjustments to the original timeline, the group maintains that its long-term commitment to the region remains unchanged.",
+        "next": "AirAsia plans to monitor regional developments closely while scaling up freighter capacity and preparing for the March 2027 launch."
+      }
     },
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "Passenger rights group sues DOT over rule shifting flight delay costs to travelers",
+      "title": "US allows Boeing to work with Belarus’ Belavia, CEO claims",
       "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs",
-      "date": "2026-10-31",
-      "author": "Stephen Pope",
-      "summary": "FlyersRights has filed a lawsuit against the US Department of Transportation, challenging a new rule that reclassifies 10 types of flight disruptions as outside airline control. The group argues this shift unfairly reduces passenger access to airline-provided amenities like meals and lodging during delays.",
+      "url": "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo",
+      "date": "2026-11-02",
+      "author": "Ian Molyneaux",
+      "summary": "The US Department of Commerce has granted Boeing authorization to provide spare parts, software, and potential aircraft sales to Belarus’ national carrier, Belavia. This development follows a broader easing of US sanctions on the airline that began in September 2025.",
       "also": [],
       "brief": {
-        "what": "FlyersRights is suing the US Department of Transportation (DOT) over a rule that reclassifies 10 specific disruption types, such as unscheduled maintenance and cybersecurity attacks, as outside an airline's control. The group contends this change improperly shifts the financial burden of meals, hotels, and transportation from carriers to passengers.",
-        "who": "FlyersRights, an airline passenger advocacy group, and the US Department of Transportation.",
-        "context": "The DOT claims these exclusions were mandated by the FAA Reauthorization Act of 2024. The rule, which modifies how airlines report delay causes, was initially published in September 2026 and is currently scheduled to take effect in February 2027.",
-        "why": "FlyersRights argues the DOT exceeded its congressional authority and bypassed the required public notice-and-comment process. The group asserts that reporting classifications should not dictate an airline's responsibility to assist stranded travelers.",
-        "next": "The rule is set to take effect on February 1, 2027, with revised reporting requirements covering flights beginning January 1, 2027."
+        "what": "The US Department of Commerce has authorized Boeing to supply Belavia with spare parts, components, and software for its 22-aircraft fleet. This agreement also permits the airline to enter negotiations for direct aircraft purchases from the manufacturer.",
+        "who": "Belavia CEO Igor Cherginets announced the agreement, which follows a 2025 easing of US sanctions on the airline by the Trump administration after Belarus released 52 political prisoners.",
+        "context": "Belavia had been subject to strict US and EU sanctions since 2021, including placement on the US Treasury’s Specially Designated Nationals list in 2023, which prohibited the airline from accessing Western-built aircraft or maintenance services.",
+        "why": "The US government eased these restrictions following diplomatic engagement between the Trump administration and President Aleksandr Lukashenko, which resulted in the release of political prisoners. However, industry observers express concern that these parts could potentially be diverted to Russia, which remains under heavy aviation sanctions.",
+        "next": "Boeing and the US Department of Commerce have been contacted for comment, but further details on the implementation of these sales remain undisclosed."
       },
       "numbers": [
         {
-          "figure": "10",
-          "what": "types of flight disruptions moved out of the airline-controlled catego"
+          "figure": "22 aircraft",
+          "what": "total size of the Belavia fleet"
+        },
+        {
+          "figure": "12 Boeing aircraft",
+          "what": "number of Boeing units in Belavia fleet"
+        },
+        {
+          "figure": "52 political prisoners",
+          "what": "number of individuals released by Belarus"
         }
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "science",
       "importance": 1,
-      "title": "Three killed in midair helicopter collision at Oregon airport",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville",
-      "date": "2026-10-31",
-      "author": "Stephen Pope",
-      "summary": "Three people died following a midair collision between two helicopters near an uncontrolled airport in Oregon. The incident involved a flight school Robinson R22 and an Airbus AS350B3.",
-      "also": [],
-      "brief": {
-        "what": "A Robinson R22 and an Airbus AS350B3 collided in midair near McMinnville Municipal Airport, resulting in three fatalities. The Robinson was conducting an instructional flight, while the Airbus was on a post-maintenance check flight.",
-        "who": "The Yamhill County Sheriff’s Office confirmed the deaths, while NTSB Air Safety Investigator Grant Mills is leading the investigation into the incident.",
-        "context": "McMinnville Municipal Airport is an uncontrolled field, meaning it lacks a control tower and relies on pilots communicating their positions via a shared radio frequency.",
-        "why": "The NTSB is currently investigating the circumstances of the collision, which occurred approximately 500 feet above the ground.",
-        "next": "The NTSB expects to issue a preliminary report in about 30 days."
-      },
-      "numbers": [
-        {
-          "figure": "3",
-          "what": "total number of people killed in collision"
-        },
-        {
-          "figure": "500 feet",
-          "what": "altitude of helicopters at time of collision"
-        },
-        {
-          "figure": "1 mile",
-          "what": "distance of collision site from airport"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Three dead after two helicopters collide midair near Oregon airport",
-          "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Cash Isa changes can still foster a ‘nation of investors’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c5144486-17f9-40e6-a3d0-7c7e206dd9af?syn-25a6b1a6=1",
-      "date": "2026-10-31",
-      "author": null,
-      "summary": "Small incentives for investing in stocks-and-shares Isas may significantly influence individual financial behavior. These changes aim to encourage a broader culture of retail investment.",
+      "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03507-z",
+      "date": "2026-11-02",
+      "author": "David Silverberg",
+      "summary": "A new book chronicles the historical rise and eventual scientific debunking of race as a biological category. The work highlights how flawed research was used to justify social hierarchies before being corrected by rigorous empirical study.",
       "also": [],
       "kind": "analysis",
       "brief": {
-        "what": "The article suggests that even minor incentives for investing in stocks-and-shares Isas could have a substantial behavioral impact on the public. This shift is intended to foster a 'nation of investors' by encouraging participation in equity markets.",
-        "who": "Individual savers and investors are the primary actors affected by these potential policy incentives.",
-        "context": "Individual Savings Accounts (Isas) are tax-advantaged investment vehicles used in the UK to encourage personal saving and investment. The discussion centers on how policy adjustments can shift public engagement with financial markets.",
-        "why": "The article argues that small incentives can drive significant behavioral changes, potentially increasing the number of people who invest in stocks and shares.",
+        "what": "The book 'The Ends of Race' by Geoffrey Galt Harpham details the history of 19th-century 'race science,' which attempted to categorize humans into fixed biological species using methods like skull measurement. The narrative tracks the transition from these oppressive theories to the eventual scientific consensus that race is not a biological reality.",
+        "who": "Geoffrey Galt Harpham, a humanities scholar and author; historical figures such as Josiah Nott, Samuel George Morton, and Carl Linnaeus, whose work contributed to early racial taxonomies; and W. E. B. Du Bois, who later reframed race as a social identity.",
+        "context": "Early race theorists sought to establish racial hierarchies to provide cover for racism and justify institutions like chattel slavery. These theories were eventually challenged by scholars starting in 1900, leading to the discrediting of biological race.",
+        "why": "Harpham argues that these inaccurate theories were sustained by political and social ends, specifically to benefit enslavers. The eventual rejection of these ideas is presented as a triumph of scientific self-correction.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "markets",
+      "topic": "business",
       "importance": 1,
-      "title": "Wanted: New Central Bank Chief. Expertise and Political Acumen Required.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
-      "date": "2026-10-31",
-      "author": "Eshe Nelson",
-      "summary": "The European Central Bank has initiated a search for a successor to President Christine Lagarde. The process requires candidates to possess both deep financial expertise and significant political acumen.",
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "Marvell Technology has announced an all-stock acquisition of data centre component manufacturer Lumentum. The deal is valued at $115 billion and aims to establish a dominant position in the artificial intelligence connectivity market.",
       "also": [],
       "brief": {
-        "what": "The European Central Bank is beginning the search for a new president to replace Christine Lagarde, who is set to depart the institution.",
-        "who": "Christine Lagarde, the outgoing president of the European Central Bank.",
-        "context": "The European Central Bank is responsible for monetary policy within the eurozone, making the selection of its leadership a high-stakes process for global financial stability.",
-        "why": "The search is underway because of the looming departure of the current president, Christine Lagarde.",
+        "what": "Marvell Technology is acquiring data centre component maker Lumentum in an all-stock transaction valued at $115 billion. The companies stated that this merger is intended to create a leader in AI connectivity.",
+        "who": "Marvell Technology and Lumentum are the primary companies involved in the transaction.",
+        "context": "The acquisition reflects the ongoing consolidation and strategic investment within the Silicon Valley technology sector, specifically targeting the infrastructure required to support artificial intelligence.",
+        "why": "The companies stated the deal would create a leader in AI connectivity, positioning the combined entity to better serve the growing demands of data centre infrastructure.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$115bn",
+          "what": "total value of the all-stock acquisition deal"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Hackers are running riot with AI. Its makers want to cash in",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+      "date": "2026-11-01",
+      "author": null,
+      "summary": "OpenAI and Anthropic are identifying significant commercial opportunities within the cybersecurity sector. Both firms are positioning their artificial intelligence technologies to address emerging digital security challenges.",
+      "also": [],
+      "brief": {
+        "what": "OpenAI and Anthropic are pursuing new business opportunities in the cybersecurity market. The companies are leveraging their AI capabilities to address the growing threat of hackers utilizing artificial intelligence.",
+        "who": "OpenAI and Anthropic are the primary companies developing AI models for cybersecurity applications.",
+        "context": "The cybersecurity landscape is evolving as malicious actors increasingly employ AI tools to conduct attacks, prompting developers to seek defensive solutions.",
+        "why": "The companies are targeting this sector because they view the current cybersecurity environment as a significant commercial opportunity for their AI products.",
         "next": "The article doesn't say."
       }
     },
@@ -833,7 +922,7 @@
       "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
       "date": "2026-10-30",
       "author": null,
-      "summary": "A federal judge has allowed a class action lawsuit to proceed against McDonald's, which alleges the company misleads customers regarding the meat content of its McRib sandwich. The court rejected a motion to dismiss claims of consumer deception and fraud.",
+      "summary": "A federal judge has allowed a class action lawsuit against McDonald's to proceed, which alleges the company misled customers regarding the meat content of its McRib sandwich. The plaintiffs claim the sandwich's marketing falsely implies the presence of rib meat.",
       "also": [
         {
           "source": "New York Post",
@@ -841,15 +930,15 @@
           "date": "2026-10-31",
           "title": "McDonald’s dealt legal setback as judge allows lawsuit over McRib’s ‘lack of rib meat’ to proceed",
           "url": "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
-          "note": "The New York Post headline specifically highlights the 'lack of rib meat' allegation as the core focus of the legal setback."
+          "note": "The New York Post headline specifically highlights the 'lack of rib meat' allegation, whereas the Fox Business headline focuses on the legal setback for the corporation."
         }
       ],
       "brief": {
-        "what": "U.S. District Judge April Perry ruled that a class action lawsuit against McDonald's can move forward, allowing claims of fraud and consumer deception to proceed. The plaintiffs allege the McRib is marketed to resemble a rack of ribs despite containing no actual rib meat.",
-        "who": "The plaintiffs are four consumers who filed the suit, while McDonald's is the defendant. Judge April Perry is the presiding federal judge.",
-        "context": "The McRib, introduced in 1981, is a periodic limited-time menu item. McDonald's maintains that its marketing is not misleading and that its ingredient lists clearly identify pork as the primary component.",
-        "why": "The judge determined it was premature to dismiss the case, noting that consumer surveys suggest a significant portion of the public expects rib meat in the sandwich. McDonald's argues that its trademarked name does not imply specific cuts of meat and that it uses 100% pork.",
-        "next": "The case will proceed to further litigation regarding the deception and fraud claims."
+        "what": "U.S. District Judge April Perry denied McDonald's motion to dismiss a class action lawsuit, allowing claims of consumer deception and fraud to move forward. The plaintiffs argue the McRib's name and appearance mislead consumers into believing it contains actual rib meat, despite the patty being made of other pork products.",
+        "who": "The main actors are McDonald's, which denies the allegations, and the four consumers who filed the lawsuit in December.",
+        "context": "The McRib, introduced in 1981, is a limited-time menu item. McDonald's maintains that its ingredient lists clearly identify pork as the primary ingredient and that the name does not deceive reasonable consumers.",
+        "why": "The judge ruled it is currently too early to determine that consumers could not reasonably expect rib meat, citing consumer surveys provided by the plaintiffs that indicated a significant portion of customers expected rib meat in the product.",
+        "next": "The lawsuit will proceed to further legal stages to determine if the company engaged in deceptive advertising."
       },
       "numbers": [
         {
@@ -858,7 +947,7 @@
         },
         {
           "figure": "67%",
-          "what": "respondents who considered rib meat important to their purchasing deci"
+          "what": "respondents who considered rib meat important to their purchase"
         },
         {
           "figure": "45,000",
@@ -871,183 +960,43 @@
       ]
     },
     {
-      "topic": "business",
-      "importance": 1,
-      "title": "'Defund Musk': Former Clinton Cabinet official urges Democrats to target SpaceX founder",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/politics/defund-musk-former-clinton-cabinet-official-urges-democrats-target-spacex-founder",
-      "date": "2026-10-31",
-      "author": null,
-      "summary": "Former Labor Secretary Robert Reich has urged Democrats to investigate Elon Musk and prepare for the potential nationalization of SpaceX and Starlink. Reich argues that Musk wields excessive political and economic power, while Musk has dismissed the proposal as criminal.",
-      "also": [],
-      "brief": {
-        "what": "Robert Reich, a former Clinton-era Labor Secretary, has called for Democrats to target Elon Musk's companies, specifically SpaceX and Starlink, for potential nationalization. Reich claims that 75% of Musk's wealth is derived from taxpayer-funded Department of Defense contracts, though he provided no evidence for this figure.",
-        "who": "Robert Reich, the former Labor Secretary who initiated the call for government intervention, and Elon Musk, the founder of SpaceX who publicly rejected the proposal as a crime.",
-        "context": "The comments were made during a podcast episode ahead of midterm elections, where control of Congress remains a central focus. SpaceX currently holds significant federal contracts with agencies including NASA and the Pentagon.",
-        "why": "Reich contends that Musk possesses too much political and economic power, suggesting that his companies should be converted into public corporations to prevent such concentration of influence. Musk responded on X by stating that stealing companies is a serious crime and suggesting imprisonment for Reich.",
-        "next": "Reich suggests that if Democrats regain control of Congress and the White House, they should initiate oversight hearings and begin laying the groundwork for a government takeover."
-      },
-      "numbers": [
-        {
-          "figure": "75%",
-          "what": "portion of wealth Reich claims depends on taxpayers"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "SpaceX Supplier STMicroelectronics Forecasts Strong Sales on AI, Satellite Boost",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd?mod=pls_whats_news_us_business_f",
-      "date": "2026-10-29",
-      "author": "Mauro Orru",
-      "summary": "European chip manufacturer STMicroelectronics projects a rise in gross margins driven by demand from clients including SpaceX. The company anticipates growth fueled by artificial intelligence and satellite technology sectors.",
-      "also": [],
-      "brief": {
-        "what": "STMicroelectronics announced a positive financial outlook, forecasting an increase in gross margins to 36.4% compared to the 33.9% recorded last year. This growth is attributed to strong demand within the artificial intelligence and satellite markets.",
-        "who": "STMicroelectronics is a European chip maker that supplies components to various industries, including the aerospace sector through its client SpaceX.",
-        "context": "The company is positioning itself to benefit from the expanding needs of the satellite and AI industries, which require specialized semiconductor technology.",
-        "why": "The company expects stronger sales performance due to a boost from AI and satellite-related business opportunities.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "36.4%",
-          "what": "projected gross margin for the company"
-        },
-        {
-          "figure": "33.9%",
-          "what": "gross margin reported during the previous year"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Synapse Aviation launches Adaptive TEM for flight risk briefings",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings",
-      "date": "2026-10-30",
-      "author": "AeroTime Advisory",
-      "summary": "Threat and Error Management (TEM) has long been a cornerstone of flight safety. It asks crews to anticipate… The post Synapse Aviation launches Adaptive TEM for flight risk briefings appeared first on AeroTime .",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "'Rok' solid recognition for Slovenian space scientist",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01",
-      "author": null,
-      "summary": "Two employees at the Armagh Observatory and Planetarium have had asteroids officially named after them in recognition of their contributions to space science and meteorology. The naming process is overseen by the International Astronomical Union, which allows discoverers to name asteroids once their orbits are confirmed.",
-      "also": [],
-      "brief": {
-        "what": "Dr. Rok Nežič and Shane Kelly have had asteroids named in their honor, specifically (20560) Nežič and (7050) Shanekelly. The Armagh Observatory and Planetarium plans to install a new LED dome to display these asteroids and their respective orbits.",
-        "who": "Dr. Rok Nežič, a tours and outreach officer, and Shane Kelly, the principal meteorological observer at Armagh Observatory and Planetarium, are the two individuals honored.",
-        "context": "The International Astronomical Union governs the naming of small solar system bodies. Asteroids are typically named by their discoverers once their orbital paths are sufficiently mapped.",
-        "why": "The honors recognize the individuals' contributions to the institution, with Nežič noted for his space and climate physics research and Kelly for his extensive meteorological data collection spanning 27 years.",
-        "next": "The institution plans to feature the asteroids in a new LED dome display."
-      },
-      "numbers": [
-        {
-          "figure": "10.9km",
-          "what": "diameter of the asteroid named after Dr. Rok Nežič"
-        },
-        {
-          "figure": "15.6km",
-          "what": "diameter of the asteroid named after Shane Kelly"
-        },
-        {
-          "figure": "29",
-          "what": "total asteroids with a connection to the Armagh Observatory and Planet"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "How Many Miles Does It Take To Fly Business Class With United MileagePlus In 2026?",
-      "source": "Simple Flying",
-      "url": "https://simpleflying.com/how-many-miles-business-class-with-united-mileageplus-2026/",
-      "date": "2026-11-01",
-      "author": "Brandon Shaw",
-      "summary": "United MileagePlus uses dynamic pricing for business class awards, meaning there is no fixed mileage cost for a Polaris seat. Cardholders and Premier members can access exclusive inventory and receive percentage-based discounts, though availability remains capacity-controlled.",
-      "also": [],
-      "brief": {
-        "what": "United Airlines utilizes dynamic pricing for its MileagePlus program, resulting in variable costs for Polaris business class seats rather than a fixed award chart. While baseline Saver Award seats start at 80,000 miles, costs fluctuate based on demand and inventory. Cardholders and Premier members gain access to exclusive Saver inventory and receive discounts of 10% to 15% on eligible flights.",
-        "who": "United Airlines manages the MileagePlus loyalty program, while MileagePlus members, including Premier status holders and credit cardholders, utilize these benefits to access premium cabin inventory.",
-        "context": "United's loyalty program shifted toward dynamic pricing, where award costs are determined by market factors rather than static tables. The airline recently expanded access to previously restricted Polaris Saver inventory to include all credit and debit cardholders.",
-        "why": "United implemented these changes to provide tiered benefits to cardholders and frequent flyers, though the airline emphasizes that these figures are illustrative examples rather than guaranteed rates.",
-        "next": "The fixed-price chart for PlusPoints upgrades is scheduled to transition to dynamic pricing starting February 1, 2027."
-      },
-      "numbers": [
-        {
-          "figure": "80,000 miles",
-          "what": "baseline price for Polaris Saver Award seats"
-        },
-        {
-          "figure": "200,000 miles",
-          "what": "upper range example for a Polaris seat"
-        },
-        {
-          "figure": "15%",
-          "what": "maximum discount for Premier status cardholders"
-        },
-        {
-          "figure": "10%",
-          "what": "minimum discount for primary cardholders"
-        },
-        {
-          "figure": "40",
-          "what": "PlusPoints required for long-haul economy-to-Polaris upgrades"
-        }
-      ]
-    },
-    {
       "topic": "world",
       "importance": 1,
-      "title": "The Sudden Death of an Nvidia AI Prodigy Leaves Behind Bitter Accusations",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/the-sudden-death-of-an-nvidia-ai-prodigy-leaves-behind-bitter-accusations-57ee23ec?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-01",
-      "author": "Zusha Elinson",
-      "summary": "Authorities have concluded there was no foul play in the death of a 32-year-old Nvidia AI prodigy. Despite this, supporters in Silicon Valley and Bangladesh continue to question the circumstances surrounding the case.",
+      "title": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
+      "date": "2026-11-02",
+      "author": "George Chidi in Kill Devil Hills, North Carolina",
+      "summary": "Residents of North Carolina's Outer Banks are facing economic hardship and infrastructure failures due to recurring flooding, which is impacting local political support. The region's congressional race has become the most expensive in U.S. history amid these ongoing environmental challenges.",
       "also": [],
+      "kind": "analysis",
       "brief": {
-        "what": "Authorities have officially found no evidence of foul play regarding the death of a 32-year-old Nvidia AI prodigy. The investigation into the individual's passing has reached this conclusion, though the case remains a subject of intense scrutiny.",
-        "who": "The deceased individual was a 32-year-old AI prodigy formerly associated with Nvidia, while authorities are the entities responsible for the investigation.",
-        "context": "The individual's death has sparked significant debate and skepticism within both the Silicon Valley technology sector and the person's home country of Bangladesh.",
-        "why": "Supporters refuse to let the case close, maintaining doubts despite the official findings released by the authorities.",
+        "what": "Infrastructure damage, specifically to Highway 12, has caused significant logistical and economic disruption for residents of North Carolina's Outer Banks. Despite a $101m federal relief package, residents report that the lack of a long-term plan for coastal erosion is fueling frustration, even as the congressional district race reaches record-breaking spending of $52m.",
+        "who": "Aida Havel, a local candidate and resident; Don Davis, the incumbent Democratic congressman; and Laurie Buckhout, the Republican challenger.",
+        "context": "The Outer Banks are part of a congressional district that was recently redrawn by the state legislature to favor Republican voters, increasing the district's partisan lean from one point to approximately 10 points in favor of Republicans.",
+        "why": "Residents attribute the crisis to climate change and inadequate government response, noting that the road outages are destroying the local tourism-based economy. Activists suggest that while flooding is a concern, many voters remain focused on traditional partisan issues like individual freedom and taxes.",
         "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "How one family gave a critical boost to gene therapy research",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-      "date": "2026-11-01",
-      "author": "Sydney Lupkin",
-      "summary": "The FDA has approved a gene therapy for Sanfilippo syndrome, a rare inherited disease, following years of research funded by patient families and foundations. The treatment, known as Fayuvi, is priced at nearly $4 million.",
-      "also": [],
-      "brief": {
-        "what": "The FDA approved Fayuvi, a gene therapy for Sanfilippo syndrome, a rare metabolic disorder. The treatment, which costs nearly $4 million, was developed after years of research supported by patient families and foundations.",
-        "who": "The O'Neill family, researcher Haiyan Fu, and the biotech company Ultragenyx are the primary actors who advanced the therapy from early research to commercial approval.",
-        "context": "Sanfilippo syndrome is a rare inherited disease where a faulty gene prevents the breakdown of heparin sulfate, leading to severe neurological degeneration. Patients typically do not survive past their teens.",
-        "why": "The research was sustained by patient foundations when funding was scarce, and the O'Neill family raised significant capital through viral crowdfunding. Ultragenyx later acquired the rights and submitted data to the FDA.",
-        "next": "Ultragenyx states it is committed to ensuring patients receive the treatment regardless of logistical or location-based barriers."
       },
       "numbers": [
         {
-          "figure": "nearly $4 million",
-          "what": "price of the Fayuvi gene therapy treatment"
+          "figure": "$52m",
+          "what": "total campaign spending in the congressional race"
         },
         {
-          "figure": "$2 million",
-          "what": "funds raised by the Saving Eliza video"
+          "figure": "$101m",
+          "what": "federal relief package announced by Fema"
+        },
+        {
+          "figure": "15ft",
+          "what": "annual rate of shoreline movement"
+        },
+        {
+          "figure": "6,300 votes",
+          "what": "margin of victory in the previous election"
+        },
+        {
+          "figure": "3%",
+          "what": "current percentage of Black farmers in North Carolina"
         }
       ]
     }
