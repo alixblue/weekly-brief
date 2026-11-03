@@ -1,769 +1,444 @@
 {
-  "generated": "2026-11-02",
-  "window": "2026-10-26 to 2026-11-02",
+  "generated": "2026-11-03",
+  "window": "2026-10-27 to 2026-11-03",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-02",
-    "label": "Mon 02 Nov · change on the day",
+    "asof": "2026-11-03",
+    "label": "Tue 03 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,580.07",
-        "change": "-1.82%"
+        "value": "7,541.40",
+        "change": "-0.51%"
       },
       {
         "name": "Dow",
-        "value": "51,770.31",
-        "change": "-1.09%"
+        "value": "51,983.98",
+        "change": "+0.41%"
       },
       {
         "name": "Nasdaq",
-        "value": "25,436.999",
-        "change": "-2.86%"
+        "value": "25,164.363",
+        "change": "-1.07%"
       },
       {
         "name": "CAC 40",
-        "value": "7,973.57",
-        "change": "+0.05%"
+        "value": "8,031.91",
+        "change": "-0.20%"
       },
       {
         "name": "DAX",
-        "value": "25,792.73",
-        "change": "-0.10%"
+        "value": "25,818.97",
+        "change": "-0.62%"
       },
       {
         "name": "Brent oil",
-        "value": "$108.60",
-        "change": "-4.26%"
+        "value": "$105.06",
+        "change": "+0.28%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.921%",
-        "change": "-0.01 pt"
+        "value": "4.929%",
+        "change": "+0.04 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1214",
-        "change": "+0.5019%"
+        "value": "1.1177",
+        "change": "-0.0715%"
       }
     ]
   },
   "week": [
     {
-      "text": "A Learjet 60 crashed in Florida, resulting in nine fatalities, with the NTSB launching an investigation into the cause.",
+      "text": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-        "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
+        "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "Marvell Technology has agreed to acquire Lumentum in an all-stock deal valued at $115 billion to expand its presence in the AI infrastructure market.",
+      "text": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
       "urls": [
-        "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-115-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
-        "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b"
+        "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "Ryanair is implementing AI-driven cost-cutting and considering wage freezes to offset a projected €2 billion increase in fuel costs.",
+      "text": "Virgin Media O2 is planning to cut thousands of jobs to reduce costs as it manages £27.2bn in liabilities and faces intensifying competition. The company is also reportedly nearing a deal to use BT's fibre network, which could lead to a cessation of its own infrastructure investment.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-        "https://www.cityam.com/ryanair-resorts-to-ai-cost-cutting-to-swallow-higher-jet-fuel-costs/"
+        "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "Alstom shares fell significantly following a profit warning and a plan to reduce debt by €2 billion, driven by production delays for its regional trains.",
+      "text": "Fox CEO Lachlan Murdoch said that a recent decline in ratings at Fox News isn’t indicative of a deeper problem at the network.",
       "urls": [
-        "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
-        "https://www.wsj.com/business/earnings/alstom-shares-plunge-after-technical-issues-prompt-guidance-cut-5a070227?mod=pls_whats_news_us_business_f"
+        "https://www.wsj.com/business/earnings/fox-q1-earnings-report-2027-73ef3b55?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "COP17 concluded in Yerevan with a warning that current efforts are insufficient to meet 2030 nature protection targets, while nations agreed to voluntary biodiversity finance signals.",
+      "text": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
       "urls": [
-        "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
+        "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "watch": [
-    {
-      "date": "2026-11-02",
-      "when": "",
-      "label": "Media briefing on Florida jet crash in West Palm Beach",
-      "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
-    },
-    {
-      "date": "2027-04-01",
-      "when": "April",
-      "label": "Ryanair plans to implement potential pay freezes",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "date": "2027-03-01",
-      "when": "March 2027",
-      "label": "AirAsia plans to launch Bahrain hub operations",
-      "url": "https://www.aerotime.aero/articles/airasia-appoints-bahrain-board-hub-launch-by-march-2027"
-    },
-    {
-      "date": "2028-01-01",
-      "when": "2028",
-      "label": "COP18 scheduled to take place in Quito, Ecuador",
-      "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
-    }
-  ],
+  "watch": [],
   "items": [
     {
-      "topic": "aerospace",
+      "topic": "world",
       "importance": 3,
-      "title": "Nine killed as small jet crashes on Florida street",
+      "title": "Binance's $6.3bn crypto hack biggest in history",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-30",
       "author": null,
-      "summary": "A Learjet 60 business jet crashed in a Florida residential area, resulting in nine fatalities. The crew reported severe weather conditions and an emergency descent before the impact.",
+      "summary": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
       "also": [
         {
-          "source": "Financial Times",
+          "source": "The Guardian",
+          "author": "Dan Milmo and Kalyeena Makortoff",
+          "date": "2026-10-30",
+          "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+        },
+        {
+          "source": "City AM",
+          "author": "Tim Focas",
+          "date": "2026-11-03",
+          "title": "The Binance hack exposes crypto’s biggest communications problem",
+          "url": "https://www.cityam.com/the-binance-hack-exposes-cryptos-biggest-communications-problem/"
+        },
+        {
+          "source": "Fox Business",
           "author": null,
-          "date": "2026-11-01",
-          "title": "Nine killed as business jet crashes in Florida",
-          "url": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
-          "note": "Financial Times focuses on the aircraft type as a business jet, while AeroTime highlights the specific pilot reports of icing and turbulence."
-        },
-        {
-          "source": "AeroTime",
-          "author": "Stephen Pope",
-          "date": "2026-11-02",
-          "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
-          "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence"
-        }
-      ],
-      "brief": {
-        "what": "A Learjet 60 crashed on a six-lane road in Palm Beach County, Florida, killing all nine people on board. The aircraft was traveling from Austin, Texas, to the Bahamas when it experienced a rapid, uncontrolled descent.",
-        "who": "The Federal Aviation Administration and National Transportation Safety Board are investigating, while Florida Governor Ron DeSantis and Transportation Secretary Sean Duffy are coordinating the local response.",
-        "context": "The crash occurred near the Mar-a-Lago resort during a period of reported thunderstorms. The impact caused significant damage to local infrastructure, including water lines, and forced the evacuation of 600 residents.",
-        "why": "Cockpit audio indicates the crew was struggling with moderate turbulence, icing, and precipitation. The pilots declared an emergency after entering an overspeed condition during a rapid descent.",
-        "next": "The National Transportation Safety Board will conduct an investigation into the cause of the crash."
-      },
-      "numbers": [
-        {
-          "figure": "10,000ft",
-          "what": "rate of descent per minute"
-        },
-        {
-          "figure": "20,000ft",
-          "what": "rate of descent per minute in overspeed"
-        },
-        {
-          "figure": "600",
-          "what": "local residents evacuated from nearby community"
-        },
-        {
-          "figure": "30 days",
-          "what": "estimated time until road re-opens"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 3,
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01",
-      "author": null,
-      "summary": "Binance has successfully restored 90% of the $6.3 billion in assets stolen during a massive cyberattack. The exchange is using its own corporate treasury to ensure users do not suffer financial losses from the incident.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Pranav Baskar",
-          "date": "2026-10-31",
-          "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-          "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-          "note": "The New York Times focuses on the FBI's attribution to North Korea and the broader context of state-sponsored heists."
-        },
-        {
-          "source": "The New York Times",
-          "author": "Jonathan Wolfe",
-          "date": "2026-10-31",
-          "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
-          "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
-          "note": "The New York Times provides a general overview of the hack's scale and key facts for readers."
-        }
-      ],
-      "brief": {
-        "what": "Binance has recovered and replaced 90% of the $6.3 billion stolen during a recent cyberattack, with plans to cover the remaining 10% using its corporate treasury. The exchange has restored withdrawals and is working with law enforcement to trace the stolen funds.",
-        "who": "Binance, the world's largest cryptocurrency exchange, is the primary victim, while the FBI has identified North Korean state-backed hackers as the responsible party.",
-        "context": "The hack is considered the largest in history, surpassing a $1.5 billion heist at Bybit in 2025. The FBI links the attack to the Lazarus Group, a North Korean unit known for sophisticated cyber heists.",
-        "why": "Binance stated it is absorbing the financial impact to protect its users. The FBI claims the attack involved converting stolen assets into Ethereum and using decentralized finance services to hide the trail.",
-        "next": "The investigation remains ongoing as Binance works with the US Secret Service and intelligence firms to freeze and recover the remaining stolen assets."
-      },
-      "numbers": [
-        {
-          "figure": "$6.3bn",
-          "what": "total value of assets stolen in the hack"
-        },
-        {
-          "figure": "90%",
-          "what": "portion of stolen assets covered by Binance"
-        },
-        {
-          "figure": "$6.34bn",
-          "what": "company funds set aside to cover losses"
-        },
-        {
-          "figure": "$3bn",
-          "what": "value of stolen assets frozen by the company"
-        },
-        {
-          "figure": "$1.5bn",
-          "what": "value of previous record heist at Bybit"
+          "date": "2026-10-29",
+          "title": "Thieves make off with $6.3B from Binance: 'Biggest hack in history'",
+          "url": "https://www.foxbusiness.com/technology/binance-says-security-incident-had-estimated-6-3b-impact-3b-assets-frozen"
         }
       ],
       "earlier": [
         {
-          "title": "Binance's $6.3bn crypto hack biggest in history",
-          "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "date": "2026-10-30"
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 3,
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03",
+      "author": null,
+      "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+      "also": [
+        {
+          "source": "AeroTime",
+          "author": "Clement Charpentreau",
+          "date": "2026-11-03",
+          "title": "Two helicopters collide near Mount Everest, killing passenger",
+          "url": "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-03",
+          "title": "Two helicopters crash near Everest base camp, killing Indian tourist",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-03",
+          "title": "One dead after two helicopters collide near Mount Everest in Nepal",
+          "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 3,
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01",
       "author": null,
-      "summary": "Ryanair is considering a temporary wage freeze and expects airfares to rise by double-digits next summer to offset a projected €2bn increase in fuel costs. The airline also plans to slow hiring and increase the use of artificial intelligence as it navigates rising operational expenses.",
+      "summary": "Virgin Media O2 is planning to cut thousands of jobs to reduce costs as it manages £27.2bn in liabilities and faces intensifying competition. The company is also reportedly nearing a deal to use BT's fibre network, which could lead to a cessation of its own infrastructure investment.",
       "also": [
         {
           "source": "Financial Times",
           "author": null,
-          "date": "2026-11-02",
-          "title": "Ryanair to freeze pay and cut hiring as €2bn jet fuel hit looms",
-          "url": "https://www.ft.com/content/bf77c756-cbc8-4d91-afce-b1de6d84dd30?syn-25a6b1a6=1",
-          "note": "The Financial Times headline emphasizes the specific €2bn fuel cost impact and the decision to cut hiring alongside the pay freeze."
+          "date": "2026-11-03",
+          "title": "Virgin Media O2 to cut thousands of jobs",
+          "url": "https://www.ft.com/content/4c0292f4-ca11-45f7-9da8-147fba2e0158",
+          "note": {
+            "Financial Times": "The Financial Times headline focuses exclusively on the job cuts, omitting the specific mention of cost reduction included in the BBC's framing."
+          }
         }
       ],
       "brief": {
-        "what": "Ryanair announced potential pay freezes and double-digit airfare increases to mitigate a €2bn rise in fuel costs. The company also reported a 16% drop in pre-tax profits to €2.4bn, driven by a 15% jump in fuel expenses.",
-        "who": "Ryanair CEO Michael O'Leary is leading the cost-cutting strategy, while the union Unite, representing staff, disputes the feasibility of pay freezes due to existing multi-year agreements.",
-        "context": "The airline industry is facing significant cost pressures due to the US-Israel war with Iran, which has disrupted the supply of refined fuel products and increased global competition for aviation fuel.",
-        "why": "Ryanair attributes these measures to the sharp rise in fuel prices, which it expects to remain high well into 2027, and the need to maintain profitability despite rising operational costs.",
-        "next": "Ryanair plans to implement potential pay freezes starting in April and expects short-haul capacity to remain constrained through the early 2030s."
+        "what": "Virgin Media O2 is preparing to cut thousands of jobs from its 16,000-strong workforce as part of a cost-saving initiative. The company is also reportedly close to a deal to use rival BT’s fibre network, which would likely lead to a halt in its own fibre infrastructure investment.",
+        "who": "The main actors include Virgin Media O2, its rival BT, the union Prospect, and the Competition Markets Authority (CMA), which is currently reviewing the firm's acquisition of Netomnia.",
+        "context": "The telecommunications provider is navigating a challenging market defined by £27.2bn in liabilities and fierce competition from 'altnets' like Hyperoptic. Meanwhile, BT has moved to acquire TalkTalk, a deal Virgin Media O2 has publicly opposed as a market 'stitch-up.'",
+        "why": "According to the article, the redundancies are necessary to reduce costs amid high debt levels and a tougher competitive landscape. The union Prospect expressed disappointment, stating it will work to mitigate the impact on staff through retraining and redeployment.",
+        "next": "The company is expected to announce its results and fibre strategy on Tuesday, while the CMA will issue a final decision on the Netomnia deal in December."
       },
       "numbers": [
         {
-          "figure": "€2bn",
-          "what": "forecasted increase in short-term fuel bill"
+          "figure": "£27.2bn",
+          "what": "total liabilities on the balance sheet"
         },
         {
-          "figure": "16%",
-          "what": "decline in pre-tax profits"
+          "figure": "16,000-strong workforce",
+          "what": "total number of employees at the firm"
         },
         {
-          "figure": "€2.4bn",
-          "what": "pre-tax profits for the six-month period"
+          "figure": "£45.9bn",
+          "what": "total value of assets held"
         },
         {
-          "figure": "15%",
-          "what": "increase in fuel costs"
-        },
-        {
-          "figure": "80%",
-          "what": "portion of fuel bill that was hedged"
+          "figure": "7%",
+          "what": "jump in BT share price"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 2,
-      "title": "Ryanair resorts to AI cost-cutting to swallow higher jet fuel costs",
-      "source": "City AM",
-      "url": "https://www.cityam.com/ryanair-resorts-to-ai-cost-cutting-to-swallow-higher-jet-fuel-costs/",
+      "title": "Fox Profit Increases as World Cup, Election Boost Ad Sales",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/fox-q1-earnings-report-2027-73ef3b55?mod=pls_whats_news_us_business_f",
       "date": "2026-11-02",
-      "author": "Felix Armstrong",
-      "summary": "Ryanair is implementing AI-driven productivity measures and potential pay freezes to offset a €2bn increase in projected fuel costs. The airline is navigating volatile energy prices as its existing fixed-price fuel contracts begin to expire.",
+      "author": "Joe Flint",
+      "summary": "Fox CEO Lachlan Murdoch said that a recent decline in ratings at Fox News isn’t indicative of a deeper problem at the network.",
       "also": [
         {
-          "source": "Wall Street Journal",
-          "author": "Adrià Calatayud",
+          "source": "New York Post",
+          "author": "Alexandra Steigrad",
           "date": "2026-11-02",
-          "title": "Ryanair Looks to Cut Costs to Counter Higher Fuel Bill",
-          "url": "https://www.wsj.com/business/earnings/ryanair-looking-to-cut-costs-to-counter-higher-fuel-bill-00657771?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal headline focuses more broadly on the general cost-cutting initiative rather than specifically highlighting the use of AI."
-        }
-      ],
-      "brief": {
-        "what": "Ryanair is targeting cost reductions through AI integration, labor agreement reviews, and lower crewing ratios to manage a €2bn rise in fuel expenses. Despite a 16 percent profit dip to €2.4bn, the airline maintains a strong liquidity position with €2.6bn in gross cash.",
-        "who": "Michael O’Leary, Ryanair's chief executive, is leading the cost-cutting strategy to maintain the airline's competitive advantage.",
-        "context": "The airline industry is facing significant pressure from rising energy costs following the start of the Iran war. While Ryanair successfully hedged 80 percent of its fuel for the current year, its protection drops to 25 percent for the upcoming year, leaving it more exposed to market volatility.",
-        "why": "O’Leary stated that the measures are necessary because fixed-price fuel contracts are expiring and energy costs are expected to remain elevated. The airline aims to widen its cost gap against European competitors who are more exposed to expensive financing and lease costs.",
-        "next": "The airline has declined to provide full-year profit targets, citing volatile oil prices and unpredictable booking behaviors."
-      },
-      "numbers": [
-        {
-          "figure": "€2bn",
-          "what": "increase in jet fuel costs"
-        },
-        {
-          "figure": "€2.4bn",
-          "what": "pre-tax profit for six-month period"
-        },
-        {
-          "figure": "€5.5bn",
-          "what": "revenue for six-month period"
-        },
-        {
-          "figure": "125.8m",
-          "what": "number of passengers"
-        },
-        {
-          "figure": "620 aircraft",
-          "what": "total fleet size"
+          "title": "Fox’s quarterly profits surge as World Cup, midterms bolster ad sales",
+          "url": "https://nypost.com/2026/11/02/media/foxs-quarterly-profits-surge-as-world-cup-midterms-bolster-ad-sales/"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03",
       "author": null,
-      "summary": "New South Wales police have deployed a heavily armed unit to patrol Sydney's tourist areas and major events following a deadly mass shooting last year. The new Armed Response Command will eventually consist of 250 officers tasked with deterring serious threats.",
+      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
       "also": [
         {
           "source": "Al Jazeera",
           "author": null,
-          "date": "2026-11-02",
-          "title": "Sydney deploys heavily armed police unit after Bondi attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/sydney-deploys-heavily-armed-police-unit-after-bondi-attack?traffic_source=rss",
-          "note": "Al Jazeera's headline emphasizes the deployment of a 'heavily armed police unit' rather than the broader context of the patrols."
-        }
-      ],
-      "brief": {
-        "what": "The New South Wales police have launched the Armed Response Command (ARC), a unit featuring officers carrying long-arm rifles in public spaces. This deployment follows a December shooting that resulted in 15 deaths and led to 78 charges against the primary suspect.",
-        "who": "The New South Wales police force, led by Detective Superintendent Andrew Evans and Police Minister Yasmin Catley, are implementing the measures, while groups like the Executive Council of Australian Jewry and Amnesty International Australia have expressed differing views on the security shift.",
-        "context": "The initiative follows Australia's worst mass shooting in nearly three decades, which occurred at Bondi Beach during a Hanukkah event. The incident prompted significant government pressure to address antisemitism and public safety concerns.",
-        "why": "Police state the unit is designed to preserve life by preventing, deterring, and responding to serious threats. While Jewish community leaders support the increased security, Amnesty International has raised concerns regarding the potential militarisation of policing and the need for oversight.",
-        "next": "The police operation will continue to scale up until it reaches its full capacity of 250 officers."
-      },
-      "numbers": [
-        {
-          "figure": "250 officers",
-          "what": "total size of the new police operation"
-        },
-        {
-          "figure": "15",
-          "what": "number of people killed in the shooting"
-        },
-        {
-          "figure": "78",
-          "what": "number of offences charged against the suspect"
-        },
-        {
-          "figure": "40",
-          "what": "counts of attempted murder charged"
+          "date": "2026-11-03",
+          "title": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper",
+          "url": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "world",
       "importance": 2,
-      "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+      "title": "Drax unveils £20bn plans for new data centre – powered by burning wood",
+      "source": "City AM",
+      "url": "https://www.cityam.com/drax-unveils-20bn-plans-for-new-data-centre-powered-by-burning-wood/",
+      "date": "2026-11-03",
+      "author": "Simon Hunt",
+      "summary": "Energy company Drax has unveiled plans to build a new data centre at the site of its North Yorkshire power plant, which uses wood as fuel. The FTSE 250 firm’s biomass plant is predominantly powered by wood pellets, but also uses straw and sunflower pellets. The company said it intends to use surplus energy capacity…",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-03",
+          "title": "Drax lands Brookfield backing for biomass-powered data centre",
+          "url": "https://www.ft.com/content/0ba9fcaf-38f7-4921-8a1e-98ede639651e?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Lufthansa Turns Cautious on Outlook as Fuel Costs Weigh",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/opec-allies-keep-output-steady-while-gulf-shipping-remains-under-threat-c1d14171?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-01",
-      "author": "Giulia Petroni",
-      "summary": "OPEC and its allies have decided to maintain current crude oil production levels as regional shipping routes face ongoing disruptions. The group's output remains constrained below prewar levels.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Reuters",
-          "date": "2026-11-01",
-          "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
-          "url": "https://nypost.com/2026/11/01/business/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027/",
-          "note": "The New York Post headline focuses on the specific timeline of December targets and the future outlook for 2027."
-        }
-      ],
-      "brief": {
-        "what": "OPEC and its allies have maintained their current crude oil production levels. The group's output continues to track below prewar levels as key shipping routes remain disrupted.",
-        "who": "OPEC and its allies, the coalition responsible for setting collective crude production targets.",
-        "context": "Global oil markets are currently navigating supply constraints caused by regional conflicts and the resulting instability in critical maritime shipping lanes.",
-        "why": "The decision to keep output steady reflects the ongoing impact of shipping route disruptions on the group's ability to normalize production levels.",
-        "next": "The article doesn't say."
-      }
+      "url": "https://www.wsj.com/business/earnings/lufthansa-posts-higher-profit-despite-increase-in-fuel-costs-f6700a8c?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-03",
+      "author": "Adrià Calatayud",
+      "summary": "The German airline faced increased fuel prices since the summer, but said strong demand and cost discipline lifted its profit in the third quarter.",
+      "also": []
     },
     {
-      "topic": "world",
-      "importance": 2,
-      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-      "date": "2026-11-02",
-      "author": "Brittney Melton",
-      "summary": "Democratic Representative Haley Stevens has endorsed GOP Senate candidate Mike Rogers in Michigan, while Gulf states prepare for potential U.S. military action against Iran. These developments occur as the nation approaches the midterm elections.",
-      "also": [
-        {
-          "source": "Reason",
-          "author": "Robby Soave",
-          "date": "2026-11-01",
-          "title": "Haley Stevens Endorses Mike Rogers, Spurns Leftist Abdul El-Sayed",
-          "url": "https://reason.com/2026/11/01/haley-stevens-endorses-mike-rogers-spurns-leftist-abdul-el-sayed/",
-          "note": "Reason frames the story by emphasizing the ideological conflict, specifically labeling the Democratic nominee as a 'Leftist' and characterizing the endorsement as 'spurning' him."
-        }
-      ],
-      "brief": {
-        "what": "Representative Haley Stevens broke with her party to endorse Republican Mike Rogers for the Michigan Senate seat, citing concerns over Democratic nominee Abdul El-Sayed's associations. Simultaneously, Gulf nations are bracing for potential U.S. military action against Iran following the midterm elections, with Qatar leading diplomatic efforts to prevent escalation.",
-        "who": "Representative Haley Stevens, GOP Senate candidate Mike Rogers, Democratic nominee Abdul El-Sayed, and the nation of Qatar.",
-        "context": "The political landscape is shifting ahead of the midterms, with internal Democratic friction in Michigan and heightened geopolitical tensions in the Middle East regarding Iran.",
-        "why": "Stevens stated her endorsement was driven by El-Sayed's ties to political streamer Hasan Piker and a perceived failure to reassure key voter demographics. The regional tension regarding Iran stems from discussions between the U.S. and Israel regarding potential military strikes.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "10 points",
-          "what": "margin by which Trump won districts two years ago"
-        }
-      ]
-    },
-    {
-      "topic": "culture",
-      "importance": 2,
-      "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03543-9",
-      "date": "2026-10-30",
-      "author": "Mohana Basu",
-      "summary": "The scientific community is mourning the death of actor Patrick Stewart, whose portrayal of Captain Jean-Luc Picard in Star Trek served as a model for leadership and ethics among researchers.",
-      "also": [
-        {
-          "source": "Reason",
-          "author": "Ilya Somin",
-          "date": "2026-10-31",
-          "title": "Sir Patrick Stewart, RIP",
-          "url": "https://reason.com/volokh/2026/10/31/sir-patrick-stewart-rip/",
-          "note": "Reason frames the story as a direct obituary notice for the actor."
-        }
-      ],
-      "brief": {
-        "what": "Actor Patrick Stewart, famous for his role as Captain Jean-Luc Picard in Star Trek: The Next Generation, has died. Researchers and scientists are reflecting on how his character's leadership style, characterized by consultation and kindness, influenced their own professional approaches.",
-        "who": "Patrick Stewart, the late actor; Sarah Bickerton, a public-policy researcher; and Tracy Drain, a flight systems engineer at NASA’s Jet Propulsion Laboratory.",
-        "context": "Patrick Stewart portrayed Captain Picard from 1987 to 1994 in the television series and subsequent films. The character is widely cited by scientists as an archetype for collaborative and inclusive leadership in research environments.",
-        "why": "Scientists report that Picard’s character resonated with them because he modeled how to be even-keeled, respectful, and supportive of crew members regardless of rank, which many have adopted as a personal leadership philosophy.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "world",
+      "topic": "aerospace",
       "importance": 2,
       "title": "Up in the Clouds With the Pope, It’s Still Commercial",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
       "date": "2026-11-02",
       "author": "Motoko Rich",
-      "summary": "Pope Leo XIV travels via commercial airlines rather than utilizing a private jet. This practice distinguishes his travel habits from those of American presidents.",
-      "also": [],
-      "brief": {
-        "what": "Pope Leo XIV eschews the use of a private jet for his travels, opting instead to fly on commercial airlines.",
-        "who": "Pope Leo XIV is the primary subject, contrasted against the travel practices of American presidents.",
-        "context": "While heads of state often utilize dedicated government or private aircraft for security and logistical reasons, the Pope maintains a practice of using commercial aviation.",
-        "why": "The article notes that the Pope does not possess a private jet, necessitating the use of commercial flights.",
-        "next": "The article doesn't say."
-      }
+      "summary": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
+      "also": []
     },
     {
-      "topic": "aerospace",
+      "topic": "business",
       "importance": 2,
-      "title": "Canada backs a rival to Starlink but a $2bn debt battle threatens its plans",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/782eb2df-b89b-4ab5-9d9e-930ae5f80989?syn-25a6b1a6=1",
-      "date": "2026-11-02",
-      "author": null,
-      "summary": "Telesat is seeking to challenge Starlink's market dominance but faces a significant $2 billion debt hurdle. The company remains dependent on Elon Musk's rockets to launch its satellite constellation.",
+      "title": "Keurig Dr Pepper Posts Higher Profit, Sales",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/keurig-dr-pepper-posts-higher-3q-profit-sales-9f8453bc?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-03",
+      "author": "Connor Hart",
+      "summary": "The beverage company reported a third-quarter profit attributable to common shareholders of $810 million, or 59 cents a share, compared with $662 million, or 49 cents a share, a year earlier.",
       "also": [],
-      "brief": {
-        "what": "Telesat is attempting to compete with Starlink in the satellite market while managing a $2 billion debt load. Despite this rivalry, the company must rely on Elon Musk's rockets to deploy its infrastructure.",
-        "who": "Telesat, a satellite operator, and Elon Musk, the owner of the rocket launch provider.",
-        "context": "Telesat is positioning itself as a competitor to Starlink, which currently maintains a dominant position in the satellite industry.",
-        "why": "The company requires external launch services to get its satellite constellation off the ground, creating a dependency on its competitor.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
+      "earlier": [
         {
-          "figure": "$2bn",
-          "what": "debt burden threatening the company's plans"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 2,
-      "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
-      "date": "2026-10-31",
-      "author": "Carbon Brief Staff",
-      "summary": "Nations at the COP17 biodiversity conference in Yerevan concluded a global review warning that current efforts are insufficient to meet 2030 nature protection targets. The summit reached a delicate compromise on biodiversity finance, allowing countries to voluntarily signal interest in becoming donor nations before the next COP.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Catrin Einhorn",
-          "date": "2026-10-31",
-          "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
-          "url": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
-          "note": "The New York Times headline focuses on the location and the event itself, whereas Carbon Brief emphasizes the specific outcomes and agreements reached."
-        }
-      ],
-      "brief": {
-        "what": "COP17 concluded with a global review stating that 2030 nature loss reversal targets will not be met without accelerated action. Negotiations centered on closing a significant biodiversity finance gap, ultimately resulting in a compromise that invites countries to voluntarily signal interest in contributing to nature protection funds.",
-        "who": "The JUSCANZ bloc of developed countries led the push to broaden the contributor base, while emerging economies like China, Saudi Arabia, and India faced pressure to increase their financial obligations.",
-        "context": "The Kunming-Montreal Global Biodiversity Framework, established in 2022, serves as the primary international agreement for nature protection. COP17 marked the halfway point toward the 2030 deadline, following a previous summit in Colombia that struggled with procedural delays.",
-        "why": "Finance was the primary point of discord because developed nations failed to meet previous funding commitments, leading to debates over whether emerging economies should now share the burden of financing global biodiversity efforts.",
-        "next": "Countries will hold bilateral, confidential consultations regarding potential donor status before COP18, which is scheduled to take place in Quito, Ecuador, in 2028."
-      },
-      "numbers": [
-        {
-          "figure": "23 targets",
-          "what": "goals to reverse nature loss by 2030"
-        },
-        {
-          "figure": "$20bn a year",
-          "what": "annual funding commitment for nature by 2025"
-        },
-        {
-          "figure": "27%",
-          "what": "decline in environmental funding for 2026-30"
-        },
-        {
-          "figure": "$200bn per year",
-          "what": "target for biodiversity finance by 2030"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Alstom shares tumble 28% after train maker cuts profit forecast",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
-      "date": "2026-11-02",
-      "author": null,
-      "summary": "Alstom shares fell 28% following a significant profit warning and the announcement of a plan to reduce debt by €2 billion. This marks the second major profit warning issued under the leadership of CEO Martin Sion.",
-      "also": [],
-      "brief": {
-        "what": "Alstom shares plummeted 28% after the French train manufacturer issued a profit warning and unveiled a strategy to reduce its debt by €2 billion. This development represents the second major profit warning since Martin Sion took over as chief.",
-        "who": "Alstom, the French train manufacturer, and its chief Martin Sion.",
-        "context": "The company is currently navigating financial challenges, leading to this latest effort to restructure its balance sheet and address investor concerns regarding profitability.",
-        "why": "The company issued the warning and debt reduction plan as part of a broader effort to stabilize its financial position under new leadership.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "28%",
-          "what": "decline in Alstom share price"
-        },
-        {
-          "figure": "€2bn",
-          "what": "amount of debt the company plans to cut"
+          "title": "Estee Lauder Posts Higher Profit, Sales as Turnaround Bears Fruit",
+          "url": "https://www.wsj.com/business/retail/estee-lauder-posts-higher-profit-sales-as-turnaround-bears-fruit-14072a3f?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-02"
         }
       ]
     },
     {
       "topic": "business",
-      "importance": 1,
-      "title": "Fed May Need 4 or 5 Rate Hikes in Total , Economist Dutta Says",
+      "importance": 2,
+      "title": "DuPont Swings to a Profit and Lifts Outlook",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/dupont-swings-to-a-profit-and-lifts-outlook-e941091d?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-03",
+      "author": "Connor Hart",
+      "summary": "DuPont swung to a third-quarter profit of $123 million, or 91 cents a share, from a loss of $123 million, or 88 cents a share, a year earlier.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+      "date": "2026-11-03",
+      "author": "Lisa Friedman",
+      "summary": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Europe’s Junk Market Sees Another Loan Pulled as Iqony Axes Deal",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-02/fed-may-need-total-of-4-or-5-rate-hikes-economist-dutta-video",
-      "date": "2026-11-02",
-      "author": null,
-      "summary": "Neil Dutta, head of US economic research at Renaissance Macro Research, expects a change to the Federal Reserve’s inflation expectations in early 2027 and sees the need for a total of 4 or 5 interest-rate hikes from the central bank. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/europe-s-junk-market-sees-another-loan-pulled-as-iqony-axes-deal",
+      "date": "2026-11-03",
+      "author": "Claire Ruckin and Eleanor Duncan",
+      "summary": "Banks marketing a €550 million ($616 million) loan refinancing for European energy infrastructure and services company Iqony have pulled the deal after failing to garner enough investor interest amid wider market turmoil.",
       "also": []
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Marriott Beats as US Demand Helps Boost Outlook; Shares Rise",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/marriott-beats-as-us-demand-helps-boost-outlook-shares-rise",
-      "date": "2026-11-02",
-      "author": "Patrick Clark",
-      "summary": "Marriott International reported third-quarter earnings that surpassed analyst expectations, driven by a surge in bookings at its US hotel properties. The company's strong performance has led to an improved financial outlook.",
-      "also": [],
-      "brief": {
-        "what": "Marriott International Inc. exceeded third-quarter earnings expectations as demand for its US hotels increased. This growth in bookings has prompted the company to raise its financial outlook.",
-        "who": "Marriott International Inc. is the primary actor, reporting its quarterly financial results.",
-        "context": "The company operates a global portfolio of hotel brands and relies on travel demand to drive its revenue and earnings performance.",
-        "why": "The positive results were attributed to a surge in bookings across the company's US hotel locations.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Estee Lauder Posts Higher Profit, Sales as Turnaround Bears Fruit",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/estee-lauder-posts-higher-profit-sales-as-turnaround-bears-fruit-14072a3f?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-02",
-      "author": "Connor Hart",
-      "summary": "The Estee Lauder Companies reported growth in both profit and sales for its fiscal first quarter. The results indicate that the company's ongoing turnaround strategy is yielding positive outcomes.",
-      "also": [],
-      "brief": {
-        "what": "The Estee Lauder Companies announced an increase in both profit and sales during its fiscal first quarter. These results reflect the progress of the company's current turnaround efforts.",
-        "who": "The Estee Lauder Companies is the primary entity reporting these financial results.",
-        "context": "The company is currently executing a turnaround strategy aimed at improving its financial performance.",
-        "why": "The company stated that the reported growth is a result of its turnaround strategy beginning to bear fruit.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "Trump Says He May Become ‘Mr. Veto’ if Democrats Win Midterms",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-02/the-pulse-11-2-2026-video",
-      "date": "2026-11-02",
-      "author": null,
-      "summary": "Former President Donald Trump indicated he might frequently use his veto power if Democrats secure victories in the upcoming midterm elections. This potential strategy suggests a confrontational approach to future legislative agendas.",
-      "also": [],
-      "brief": {
-        "what": "Donald Trump stated he may adopt the title of 'Mr. Veto' to block legislation should Democrats win the midterm elections. This stance highlights a potential shift toward increased executive obstructionism in the legislative process.",
-        "who": "Donald Trump, the former US President, is the primary actor articulating this potential political strategy.",
-        "context": "The statement comes as political discourse intensifies regarding the balance of power between the executive and legislative branches ahead of the midterm elections.",
-        "why": "Trump suggests this approach as a mechanism to counter Democratic legislative goals if they gain control of Congress.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
-      "date": "2026-11-02",
-      "author": "The Associated Press",
-      "summary": "A Learjet 60 carrying nine people crashed in Palm Beach County, Florida, after the pilot reported severe icing and turbulence. All passengers and crew were killed in the incident, which occurred while the aircraft was en route from Austin to the Bahamas.",
-      "also": [],
-      "brief": {
-        "what": "A private Learjet 60 crashed in Greenacres, Florida, killing all nine people on board after entering a rapid, uncontrolled descent. The aircraft was traveling from Austin, Texas, to the Bahamas when it encountered severe icing and turbulence, leading to a descent rate that reached 30,000 feet per minute.",
-        "who": "The National Transportation Safety Board (NTSB) is leading the investigation, supported by the Federal Aviation Administration (FAA) and Transportation Secretary Sean Duffy.",
-        "context": "The aircraft was cruising at 35,000 feet when the pilot reported deteriorating weather conditions, including ice accumulation and turbulence. Despite declaring an emergency, the crew was unable to recover the aircraft from its steep dive before it struck the ground near a busy roadway.",
-        "why": "Aviation safety expert Steve Arroyo suggested that icing and turbulence may have caused the plane to stall, though the NTSB is currently investigating all potential factors, including pilot response and mechanical performance.",
-        "next": "The NTSB is conducting an on-site investigation, and a media briefing is scheduled for Monday in West Palm Beach."
-      },
-      "numbers": [
-        {
-          "figure": "9",
-          "what": "people who died aboard the business jet"
-        },
-        {
-          "figure": "30,000 feet per minute",
-          "what": "maximum rate of descent recorded before impact"
-        },
-        {
-          "figure": "600",
-          "what": "people evacuated from a nearby mobile home community"
-        },
-        {
-          "figure": "700 feet",
-          "what": "vertical displacement caused by turbulence"
-        },
-        {
-          "figure": "45,000",
-          "what": "population of the city where the crash occurred"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Serbia shuts down bank favoured by Russians",
+      "title": "German car parts giant Schaeffler axes 3,500 jobs",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce?syn-25a6b1a6=1",
-      "date": "2026-11-02",
+      "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
+      "date": "2026-11-03",
       "author": null,
-      "summary": "Alta Bank has been shut down in Serbia following allegations that it facilitated large-scale capital flight after the election loss of former president Aleksandar Vučić.",
-      "also": [],
-      "brief": {
-        "what": "Serbian authorities have closed Alta Bank due to suspicions that the institution was used to wire significant amounts of money out of the country.",
-        "who": "The primary actor is Alta Bank, which is accused of illicit financial activity following the political defeat of former president Aleksandar Vučić.",
-        "context": "The closure follows the electoral loss of Aleksandar Vučić, a period often associated with shifts in national financial oversight and political stability.",
-        "why": "The bank was shut down because it is suspected of wiring large amounts of money out of the country after the election loss of the former president.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-      "date": "2026-11-02",
-      "author": "Humza Jilani",
-      "summary": "Gulf nations like Saudi Arabia and the United Arab Emirates are experiencing a significant decline in economic growth due to regional conflict. This instability threatens their ongoing efforts to diversify away from energy dependence.",
-      "also": [],
-      "brief": {
-        "what": "Saudi Arabia and the United Arab Emirates have seen their economic growth plunge over the past year. This downturn complicates the strategic shift these nations are attempting to make to reduce their reliance on energy exports.",
-        "who": "Saudi Arabia and the United Arab Emirates are the primary nations affected by the regional strife.",
-        "context": "These Gulf states have been actively working to rebalance their economies to move beyond a traditional dependence on energy markets.",
-        "why": "The article attributes the economic decline to a year of strife and war in Iran, which has disrupted the stability required for these nations to pursue their economic diversification goals.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Marvell to Buy Lumentum for $115 Billion in All-Stock AI Deal",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-115-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-02",
-      "author": "Connor Hart",
-      "summary": "Marvell Technology has agreed to acquire Lumentum in an all-stock transaction valued at approximately $115 billion. The merger aims to consolidate two significant players within the artificial intelligence infrastructure sector.",
-      "also": [],
-      "brief": {
-        "what": "Marvell Technology is set to acquire Lumentum in an all-stock transaction valued at $115 billion, a figure that includes the assumption of debt. This strategic combination unites two companies identified as key enablers of artificial intelligence growth.",
-        "who": "Marvell Technology and Lumentum are the two companies involved in the merger agreement.",
-        "context": "The deal represents a significant consolidation within the technology sector, specifically targeting the infrastructure and components required to support the rapid expansion of artificial intelligence capabilities.",
-        "why": "The companies are merging to combine their respective positions as two of the fastest-growing enablers of artificial intelligence technology.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$115 billion",
-          "what": "total value of the all-stock merger deal"
-        }
-      ]
+      "summary": "Automotive supplier to close four sites in Germany as crisis engulfing country’s flagship industry deepens",
+      "also": []
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Oracle Is Offering $10 Billion of High-Grade Dollar Bonds",
+      "title": "JPM’s Michele Tells US Treasury ‘Get Rid of the 20-Year’",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/jpm-s-michele-tells-us-treasury-get-rid-of-the-20-year-video",
+      "date": "2026-11-03",
+      "author": null,
+      "summary": "Bob Michele, global head of fixed income at JPMorgan Asset Management, offers guidance to the US Treasury ahead of the November 2026 quarterly refunding announcement. He says the equity market “is going to go through some of its demons” to the benefit of the bond market and provides his outlook for bond yields. He…",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Major Hedge Funds Mostly Lose in ‘Nowhere to Hide’ October",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/major-hedge-funds-mostly-lose-in-nowhere-to-hide-october",
+      "date": "2026-11-03",
+      "author": "Nishant Kumar and David Ramli",
+      "summary": "Many of the world’s biggest hedge funds extended their losses last month, as a sell off in technology stocks, a government bond meltdown and Brazil’s shock election combined to deliver widespread volatility and one of the broadest declines since the coronavirus pandemic.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "US Election Day Kicks Off: Stocks Slip, Oil Rebounds",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-opening-trade-11-03-2026-video",
+      "date": "2026-11-03",
+      "author": null,
+      "summary": "US stock futures fell as oil prices rebounded on worries that America and Iran remain far apart on a peace deal, adding to subdued risk sentiment before voting starts in the midterm elections. S&P 500 contracts slipped 0.2%. Brent crude rose 1.7% to above $106 a barrel, with Reuters reporting that significant…",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "A new threat to the New York-based stock exchanges",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/21cb314f-47d3-4d83-ba8a-e70c018eb80c?syn-25a6b1a6=1",
+      "date": "2026-11-03",
+      "author": null,
+      "summary": "Texas Stock Exchange tries to join the big leagues",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "How to Expand Reliable, Flexible Access to Space",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
       "date": "2026-11-02",
-      "author": "Brian Smith",
-      "summary": "Oracle Corp. has launched a $10 billion sale of investment-grade bonds. This move follows the company's recent announcement regarding its capital-raising strategy.",
-      "also": [],
-      "brief": {
-        "what": "Oracle Corp. initiated a $10 billion sale of US investment-grade bonds on Monday. This issuance aligns with the company's stated plan to conduct $20 billion in additional capital raises over the coming years.",
-        "who": "Oracle Corp. is the issuer of the debt.",
-        "context": "The company previously signaled its intent to manage its capital structure through a series of debt offerings.",
-        "why": "The sale follows the company's announcement last week regarding its multi-year capital-raising strategy.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
+      "author": "Exolaunch",
+      "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews .",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Saab AI agent controls Gripen E autonomously in BVR combat scenarios",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/saab-in-house-ai-gripen-e-flight-tests",
+      "date": "2026-11-03",
+      "author": "Clement Charpentreau",
+      "summary": "Saab has flight-tested artificial intelligence (AI) agents developed entirely in-house on a Gripen E fighter, with one agent… The post Saab AI agent controls Gripen E autonomously in BVR combat scenarios appeared first on AeroTime .",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Lufthansa Group’s efficiency measures help boost third-quarter profits",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/lufthansa-groups-third-quarter-profits-2026",
+      "date": "2026-11-03",
+      "author": "Ian Molyneaux",
+      "summary": "Lufthansa Group has posted third-quarter profits thanks in part to efficiency measures the company took earlier in the… The post Lufthansa Group’s efficiency measures help boost third-quarter profits appeared first on AeroTime .",
+      "also": []
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/lifestyle/thousands-blood-pressure-medication-bottles-recalled-nationwide-pills-fail-quality-test",
+      "date": "2026-11-02",
+      "author": null,
+      "summary": "The nationwide recall affects thousands of bottles of prescription blood pressure tablets from two lots, both with an expiration date of May 31, 2027.",
+      "also": [
         {
-          "figure": "$10 billion",
-          "what": "value of the investment grade bond sale"
-        },
-        {
-          "figure": "$20 billion",
-          "what": "additional capital raises planned over several years"
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-11-03",
+          "title": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test",
+          "url": "https://nypost.com/2026/11/03/business/macleods-pharma-usa-recalls-thousands-of-blood-pressure-medication-after-pills-fail-quality-test/"
         }
       ]
     },
@@ -775,230 +450,104 @@
       "url": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
       "date": "2026-11-02",
       "author": "Joe Rennison",
-      "summary": "U.S. stock market futures trended upward on Monday following a period of significant volatility in the technology sector. Investors remain cautious as they prepare for potential ongoing instability in the financial markets.",
-      "also": [],
-      "brief": {
-        "what": "Futures for U.S. stock markets rose on Monday, indicating a potential rebound in share prices before the official start of trading. This movement follows a recent sell-off within the technology sector that has left investors bracing for continued market volatility.",
-        "who": "Investors are the primary actors monitoring these market fluctuations.",
-        "context": "The market is reacting to a recent sell-off in technology stocks, which has heightened concerns regarding broader financial stability.",
-        "why": "The article does not explicitly state the cause of the volatility beyond referencing the recent tech sell-off.",
-        "next": "The article doesn't say."
-      }
+      "summary": "U.S. stock markets dipped on Monday after a rocky end on Friday, and investors face more uncertainty this week.",
+      "also": []
     },
     {
-      "topic": "business",
+      "topic": "environment",
       "importance": 1,
-      "title": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/alstom-shares-plunge-after-technical-issues-prompt-guidance-cut-5a070227?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-02",
-      "author": "Sarah Sloat",
-      "summary": "Alstom shares fell following a guidance cut triggered by production delays for its Coradia Max regional trains. Technical issues identified during the first quarter have hindered the platform's manufacturing timeline.",
-      "also": [],
-      "brief": {
-        "what": "Alstom reported that technical issues with its Coradia Max high-capacity regional trains caused production delays during the first quarter. Consequently, the company lowered its financial guidance, leading to a sharp decline in its share price.",
-        "who": "Alstom, a French train manufacturer, is the primary actor responsible for the production of the Coradia Max platform.",
-        "context": "The company is currently managing the manufacturing rollout of its high-capacity regional train platform, which has now encountered technical setbacks.",
-        "why": "The guidance cut and subsequent market reaction were prompted by technical complications that surfaced during the first quarter, delaying the production schedule for the Coradia Max trains.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "AirAsia appoints Bahrain board, cautiously plans hub launch by March 2027",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/airasia-appoints-bahrain-board-hub-launch-by-march-2027",
-      "date": "2026-11-02",
-      "author": "Ian Molyneaux",
-      "summary": "AirAsia has appointed a new seven-person board for its Bahrain hub and is targeting a launch of operations by March 2027. The airline remains committed to the project despite previous delays caused by regional airspace restrictions.",
-      "also": [],
-      "brief": {
-        "what": "AirAsia has reaffirmed its commitment to establishing a strategic hub in Bahrain by appointing a seven-person board of directors. The airline now aims to commence flights by March 2027, following previous delays caused by regional conflict and airspace restrictions.",
-        "who": "AirAsia Group is the primary actor, with Tony Fernandes, CEO of Capital A and Advisor to the group, leading the strategic vision. The new board is chaired by Serra Kirdar and includes six other non-executive directors.",
-        "context": "The airline originally planned to launch the Bahrain hub in 2026 to connect Asia with the Middle East, Europe, and Australia. The project also includes developing MRO capabilities through Asia Digital Engineering and expanding logistics operations via its arm, Teleport.",
-        "why": "According to Tony Fernandes, the hub is strategically important as a gateway connecting Asean with the Middle East and Europe. While geopolitical instability necessitated adjustments to the original timeline, the group maintains that its long-term commitment to the region remains unchanged.",
-        "next": "AirAsia plans to monitor regional developments closely while scaling up freighter capacity and preparing for the March 2027 launch."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "US allows Boeing to work with Belarus’ Belavia, CEO claims",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo",
-      "date": "2026-11-02",
-      "author": "Ian Molyneaux",
-      "summary": "The US Department of Commerce has granted Boeing authorization to provide spare parts, software, and potential aircraft sales to Belarus’ national carrier, Belavia. This development follows a broader easing of US sanctions on the airline that began in September 2025.",
-      "also": [],
-      "brief": {
-        "what": "The US Department of Commerce has authorized Boeing to supply Belavia with spare parts, components, and software for its 22-aircraft fleet. This agreement also permits the airline to enter negotiations for direct aircraft purchases from the manufacturer.",
-        "who": "Belavia CEO Igor Cherginets announced the agreement, which follows a 2025 easing of US sanctions on the airline by the Trump administration after Belarus released 52 political prisoners.",
-        "context": "Belavia had been subject to strict US and EU sanctions since 2021, including placement on the US Treasury’s Specially Designated Nationals list in 2023, which prohibited the airline from accessing Western-built aircraft or maintenance services.",
-        "why": "The US government eased these restrictions following diplomatic engagement between the Trump administration and President Aleksandr Lukashenko, which resulted in the release of political prisoners. However, industry observers express concern that these parts could potentially be diverted to Russia, which remains under heavy aviation sanctions.",
-        "next": "Boeing and the US Department of Commerce have been contacted for comment, but further details on the implementation of these sales remain undisclosed."
-      },
-      "numbers": [
+      "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
+      "date": "2026-10-31",
+      "author": "Carbon Brief Staff",
+      "summary": "Countries have completed the first “global review” of their progress towards reversing nature loss by 2030 at the COP17 biodiversity… The post COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan appeared first on Carbon Brief .",
+      "also": [
         {
-          "figure": "22 aircraft",
-          "what": "total size of the Belavia fleet"
-        },
-        {
-          "figure": "12 Boeing aircraft",
-          "what": "number of Boeing units in Belavia fleet"
-        },
-        {
-          "figure": "52 political prisoners",
-          "what": "number of individuals released by Belarus"
+          "source": "The New York Times",
+          "author": "Catrin Einhorn",
+          "date": "2026-10-31",
+          "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
+          "url": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html"
         }
       ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "United CEO says Boom’s Overture supersonic jet will miss service-entry target",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/united-ceo-boom-overture-supersonic-jet-delay",
+      "date": "2026-11-02",
+      "author": "Stephen Pope",
+      "summary": "United Airlines CEO Scott Kirby says Boom Supersonic will miss its 2029 entry-into-service target for the Overture airliner,… The post United CEO says Boom’s Overture supersonic jet will miss service-entry target appeared first on AeroTime .",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "NetJets plans major headquarters expansion, 800 additional jobs",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs",
+      "date": "2026-11-02",
+      "author": "Stephen Pope",
+      "summary": "NetJets plans to expand its global headquarters in Columbus, Ohio, by more than 365,000 square feet and grow… The post NetJets plans major headquarters expansion, 800 additional jobs appeared first on AeroTime .",
+      "also": []
     },
     {
       "topic": "science",
       "importance": 1,
-      "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
+      "title": "Research bonuses need clear and fair rules",
       "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03507-z",
-      "date": "2026-11-02",
-      "author": "David Silverberg",
-      "summary": "A new book chronicles the historical rise and eventual scientific debunking of race as a biological category. The work highlights how flawed research was used to justify social hierarchies before being corrected by rigorous empirical study.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "The book 'The Ends of Race' by Geoffrey Galt Harpham details the history of 19th-century 'race science,' which attempted to categorize humans into fixed biological species using methods like skull measurement. The narrative tracks the transition from these oppressive theories to the eventual scientific consensus that race is not a biological reality.",
-        "who": "Geoffrey Galt Harpham, a humanities scholar and author; historical figures such as Josiah Nott, Samuel George Morton, and Carl Linnaeus, whose work contributed to early racial taxonomies; and W. E. B. Du Bois, who later reframed race as a social identity.",
-        "context": "Early race theorists sought to establish racial hierarchies to provide cover for racism and justify institutions like chattel slavery. These theories were eventually challenged by scholars starting in 1900, leading to the discrediting of biological race.",
-        "why": "Harpham argues that these inaccurate theories were sustained by political and social ends, specifically to benefit enslavers. The eventual rejection of these ideas is presented as a triumph of scientific self-correction.",
-        "next": "The article doesn't say."
-      }
+      "url": "https://www.nature.com/articles/d41586-026-03562-6",
+      "date": "2026-11-03",
+      "author": "Xianjun Xiao",
+      "summary": "Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03562-6 Research bonuses need clear and fair rules",
+      "also": []
     },
     {
-      "topic": "business",
+      "topic": "science",
       "importance": 1,
-      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "title": "Universities must measure learning, both with and without AI assistance",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03559-1",
+      "date": "2026-11-03",
+      "author": "Christoph Trattner",
+      "summary": "Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03559-1 Universities must measure learning, both with and without AI assistance",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Will AI grant reviews make science more conservative?",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03340-4",
+      "date": "2026-11-03",
+      "author": "Elliot Yates",
+      "summary": "Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03340-4 Researchers are questioning whether outsourcing decisions about research funding to artificial intelligence will reduce scientific novelty.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Marshall Wace hit as hedge funds suffer in October’s AI rout",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
-      "date": "2026-11-02",
+      "url": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
+      "date": "2026-11-03",
       "author": null,
-      "summary": "Marvell Technology has announced an all-stock acquisition of data centre component manufacturer Lumentum. The deal is valued at $115 billion and aims to establish a dominant position in the artificial intelligence connectivity market.",
-      "also": [],
-      "brief": {
-        "what": "Marvell Technology is acquiring data centre component maker Lumentum in an all-stock transaction valued at $115 billion. The companies stated that this merger is intended to create a leader in AI connectivity.",
-        "who": "Marvell Technology and Lumentum are the primary companies involved in the transaction.",
-        "context": "The acquisition reflects the ongoing consolidation and strategic investment within the Silicon Valley technology sector, specifically targeting the infrastructure required to support artificial intelligence.",
-        "why": "The companies stated the deal would create a leader in AI connectivity, positioning the combined entity to better serve the growing demands of data centre infrastructure.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$115bn",
-          "what": "total value of the all-stock acquisition deal"
-        }
-      ]
+      "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
+      "also": []
     },
     {
-      "topic": "business",
+      "topic": "culture",
       "importance": 1,
-      "title": "Hackers are running riot with AI. Its makers want to cash in",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-      "date": "2026-11-01",
-      "author": null,
-      "summary": "OpenAI and Anthropic are identifying significant commercial opportunities within the cybersecurity sector. Both firms are positioning their artificial intelligence technologies to address emerging digital security challenges.",
-      "also": [],
-      "brief": {
-        "what": "OpenAI and Anthropic are pursuing new business opportunities in the cybersecurity market. The companies are leveraging their AI capabilities to address the growing threat of hackers utilizing artificial intelligence.",
-        "who": "OpenAI and Anthropic are the primary companies developing AI models for cybersecurity applications.",
-        "context": "The cybersecurity landscape is evolving as malicious actors increasingly employ AI tools to conduct attacks, prompting developers to seek defensive solutions.",
-        "why": "The companies are targeting this sector because they view the current cybersecurity environment as a significant commercial opportunity for their AI products.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
-      "date": "2026-10-30",
-      "author": null,
-      "summary": "A federal judge has allowed a class action lawsuit against McDonald's to proceed, which alleges the company misled customers regarding the meat content of its McRib sandwich. The plaintiffs claim the sandwich's marketing falsely implies the presence of rib meat.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Fox Business",
-          "date": "2026-10-31",
-          "title": "McDonald’s dealt legal setback as judge allows lawsuit over McRib’s ‘lack of rib meat’ to proceed",
-          "url": "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
-          "note": "The New York Post headline specifically highlights the 'lack of rib meat' allegation, whereas the Fox Business headline focuses on the legal setback for the corporation."
-        }
-      ],
-      "brief": {
-        "what": "U.S. District Judge April Perry denied McDonald's motion to dismiss a class action lawsuit, allowing claims of consumer deception and fraud to move forward. The plaintiffs argue the McRib's name and appearance mislead consumers into believing it contains actual rib meat, despite the patty being made of other pork products.",
-        "who": "The main actors are McDonald's, which denies the allegations, and the four consumers who filed the lawsuit in December.",
-        "context": "The McRib, introduced in 1981, is a limited-time menu item. McDonald's maintains that its ingredient lists clearly identify pork as the primary ingredient and that the name does not deceive reasonable consumers.",
-        "why": "The judge ruled it is currently too early to determine that consumers could not reasonably expect rib meat, citing consumer surveys provided by the plaintiffs that indicated a significant portion of customers expected rib meat in the product.",
-        "next": "The lawsuit will proceed to further legal stages to determine if the company engaged in deceptive advertising."
-      },
-      "numbers": [
-        {
-          "figure": "72%",
-          "what": "respondents who expected the McRib to contain rib meat"
-        },
-        {
-          "figure": "67%",
-          "what": "respondents who considered rib meat important to their purchase"
-        },
-        {
-          "figure": "45,000",
-          "what": "McDonald's restaurants worldwide"
-        },
-        {
-          "figure": "14,000",
-          "what": "McDonald's restaurants in the U.S."
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
-      "date": "2026-11-02",
-      "author": "George Chidi in Kill Devil Hills, North Carolina",
-      "summary": "Residents of North Carolina's Outer Banks are facing economic hardship and infrastructure failures due to recurring flooding, which is impacting local political support. The region's congressional race has become the most expensive in U.S. history amid these ongoing environmental challenges.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Infrastructure damage, specifically to Highway 12, has caused significant logistical and economic disruption for residents of North Carolina's Outer Banks. Despite a $101m federal relief package, residents report that the lack of a long-term plan for coastal erosion is fueling frustration, even as the congressional district race reaches record-breaking spending of $52m.",
-        "who": "Aida Havel, a local candidate and resident; Don Davis, the incumbent Democratic congressman; and Laurie Buckhout, the Republican challenger.",
-        "context": "The Outer Banks are part of a congressional district that was recently redrawn by the state legislature to favor Republican voters, increasing the district's partisan lean from one point to approximately 10 points in favor of Republicans.",
-        "why": "Residents attribute the crisis to climate change and inadequate government response, noting that the road outages are destroying the local tourism-based economy. Activists suggest that while flooding is a concern, many voters remain focused on traditional partisan issues like individual freedom and taxes.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$52m",
-          "what": "total campaign spending in the congressional race"
-        },
-        {
-          "figure": "$101m",
-          "what": "federal relief package announced by Fema"
-        },
-        {
-          "figure": "15ft",
-          "what": "annual rate of shoreline movement"
-        },
-        {
-          "figure": "6,300 votes",
-          "what": "margin of victory in the previous election"
-        },
-        {
-          "figure": "3%",
-          "what": "current percentage of Black farmers in North Carolina"
-        }
-      ]
+      "title": "Football Australia sued by players over Socceroos and Matildas pay",
+      "source": "City AM",
+      "url": "https://www.cityam.com/football-australia-sued-by-players-over-socceroos-and-matildas-pay/",
+      "date": "2026-11-03",
+      "author": "Frank Dalleres",
+      "summary": "Australia’s men’s and women’s national football teams, the Socceroos and Matildas, are suing their football association in a seven-figure pay dispute. The claim is being brought by the player union Professional Footballers Australia against governing body Football Australia and has reached the New South Wales Supreme…",
+      "also": []
     }
   ]
 }
