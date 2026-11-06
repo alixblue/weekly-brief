@@ -1,203 +1,491 @@
 {
-  "generated": "2026-11-04",
-  "window": "2026-10-28 to 2026-11-04",
+  "generated": "2026-11-06",
+  "window": "2026-10-30 to 2026-11-06",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-04",
-    "label": "Wed 04 Nov · change on the day",
+    "asof": "2026-11-06",
+    "label": "Fri 06 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,568.92",
-        "change": "+0.36%"
+        "value": "7,353.73",
+        "change": "-4.36%"
       },
       {
         "name": "Dow",
-        "value": "51,786.72",
-        "change": "-0.38%"
+        "value": "51,523.06",
+        "change": "-3.44%"
       },
       {
         "name": "Nasdaq",
-        "value": "25,372.009",
-        "change": "+0.83%"
+        "value": "24,314.997",
+        "change": "-5.52%"
       },
       {
         "name": "CAC 40",
-        "value": "8,157.39",
-        "change": "+1.71%"
+        "value": "8,073.62",
+        "change": "-1.61%"
       },
       {
         "name": "DAX",
-        "value": "26,278.85",
-        "change": "+1.60%"
+        "value": "25,754.54",
+        "change": "-2.17%"
       },
       {
         "name": "Brent oil",
-        "value": "$101.83",
-        "change": "-1.71%"
+        "value": "$98.15",
+        "change": "-0.14%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.929%",
-        "change": "-0.02 pt"
+        "value": "4.868%",
+        "change": "+0.03 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1261",
-        "change": "+0.6075%"
+        "value": "1.1174",
+        "change": "-0.3922%"
       }
     ]
   },
   "week": [
     {
-      "text": "The Democratic Party secured control of both the House and Senate in the 2026 midterm elections, prompting market volatility and a decline in shares for companies associated with Republican-aligned figures like Elon Musk.",
+      "text": "The Bank of England raised interest rates to 4% to combat inflation, while airlines like IAG and Qantas warn that rising fuel costs and geopolitical instability may lead to higher passenger fares.",
       "urls": [
-        "https://www.washingtonexaminer.com/news/campaigns/4791815/takeaways-2026-midterm-elections/",
-        "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-        "https://www.bloomberg.com/news/videos/2026-11-04/the-pulse-11-4-2026-video",
-        "https://www.wsj.com/business/shares-in-elon-musks-spacex-tesla-fall-premarket-after-democrats-sweep-midterms-a10325e6?mod=pls_whats_news_us_business_f",
-        "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-        "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
-        "https://www.bloomberg.com/news/articles/2026-11-04/european-bank-stocks-bounce-back-as-midterms-ease-uncertainty",
-        "https://www.bloomberg.com/news/articles/2026-11-04/ukraine-bonds-jump-as-democrat-win-seen-helping-defense-efforts",
-        "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video"
+        "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+        "https://www.cityam.com/soaring-fuel-costs-hit-profit-at-british-airways-owner-iag/",
+        "https://www.cityam.com/a-rate-rise-is-the-right-decision-but-stop-blaming-iran/",
+        "https://www.wsj.com/business/energy-oil/qantas-expects-2-63-billion-first-half-fuel-bill-amid-elevated-oil-prices-b4657da0?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "Canva is restructuring its operations with a 22% workforce reduction due to slowing growth and AI integration costs, while Accenture has pledged to correct a report containing AI-generated hallucinations.",
+      "text": "Global stock markets experienced a significant sell-off following US midterm election results, with investors fearing stricter AI and tech regulations.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-        "https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1"
+        "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "https://www.telegraph.co.uk/business/2026/11/05/nasdaq-us-midterm-elections-ai-tech-musk-tesla-spacex/"
       ]
     },
     {
-      "text": "A helicopter collision in Nepal resulted in one fatality, and authorities are investigating bomb threats targeting seven flights across Europe.",
+      "text": "European aviation authorities are investigating a series of hoax bomb threats targeting multiple airports and airlines, while a separate helicopter collision in Nepal resulted in one fatality.",
       "urls": [
-        "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche",
-        "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+        "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche"
       ]
     },
     {
-      "text": "The Australian government is defending a social media ban for children under 16 in court, while the Bank of England faces pressure to raise interest rates amid persistent global inflation.",
+      "text": "Moderna reported a return to quarterly profitability and raised its full-year outlook, while Bombardier increased its 2026 cash flow forecast due to record service performance.",
       "urls": [
-        "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court",
-        "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
+        "https://www.wsj.com/health/moderna-lifts-full-year-outlook-swings-to-quarterly-profit-d05bf4b3?mod=pls_whats_news_us_business_f",
+        "https://www.ft.com/content/05ce7a1d-0d7e-434a-bcea-e8239dcde17a?syn-25a6b1a6=1",
+        "https://www.aerotime.aero/articles/bombardier-2026-cash-flow-forecast-services-record"
       ]
     },
     {
-      "text": "Scientific research faces challenges including funding uncertainty in Europe, high costs for AI tools for early-career researchers, and biodiversity loss linked to rural depopulation.",
+      "text": "New scientific research has uncovered prehistoric cave art in Spain and provided new insights into the migration patterns that spread Germanic and Celtic languages across Europe.",
       "urls": [
-        "https://www.science.org/content/article/european-scientists-face-uncertainty-pandemic-recovery-fund-winds-down",
-        "https://www.science.org/content/article/early-career-scientists-cost-ai-can-be-problem",
-        "https://www.nature.com/articles/d41586-026-03505-1"
+        "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
+        "https://www.nature.com/articles/d41586-026-03585-z"
       ]
     }
   ],
   "watch": [
     {
-      "date": "2026-11-04",
-      "when": "Late 2026",
-      "label": "Bank of England interest rate decision",
-      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
+      "date": "2026-11-06",
+      "when": "",
+      "label": "Labor Department to release jobs report",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
     },
     {
-      "date": "2027-01-04",
-      "when": "Early 2027",
-      "label": "Potential further Bank of England rate hike",
-      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
+      "date": "2026-11-08",
+      "when": "",
+      "label": "President Herzog to name candidate to form Israeli government",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss"
     },
     {
-      "date": "2027-02-04",
-      "when": "Coming months",
-      "label": "Verdict on Australian social media ban for under 16s",
-      "url": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court"
+      "date": "2029-07-01",
+      "when": "",
+      "label": "HMRC powers to deduct tax debts from bank accounts become effective",
+      "url": "https://www.cityam.com/hmrc-bank-account-raid-powers-spark-concern-over-burden-of-proof/"
     }
   ],
   "items": [
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 3,
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05",
       "author": null,
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "summary": "The Bank of England has raised interest rates to 4% to combat inflation driven by rising global oil prices. Officials signaled that further hikes may be necessary unless the conflict in the Middle East is resolved.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Amelia Nierenberg",
-          "date": "2026-11-04",
-          "title": "Bomb Threats Disrupt Several Flights Across Europe",
-          "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 3,
-      "title": "Takeaways from the 2026 midterm elections",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4791815/takeaways-2026-midterm-elections/",
-      "date": "2026-11-04",
-      "author": "David Zimmermann",
-      "summary": "The Democratic Party secured control of both the House and Senate in the 2026 midterm elections, marking a significant shift in congressional power. The results included several historic gubernatorial victories and a loss of Republican majorities in both chambers.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Katrin Bennhold",
-          "date": "2026-11-04",
-          "title": "Democrats Win Big",
-          "url": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
-          "note": "The New York Times frames the story as a 'big win' for Democrats."
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-04",
-          "title": "Democrats win control of House and Senate: Key US midterms takeaways",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
-          "note": "Al Jazeera emphasizes the shift in control of Congress and includes photographic coverage of the celebrations."
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-04",
-          "title": "Photos: US Democrats celebrate winning control of Congress",
-          "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
-          "note": "Al Jazeera's second headline focuses specifically on the celebratory aspect of the Democratic victory."
+          "author": "Eshe Nelson",
+          "date": "2026-11-05",
+          "title": "Bank of England Raises Rates for First Time in Three Years",
+          "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+          "note": "The New York Times headline focuses specifically on the Bank of England's action, whereas the BBC highlights the duration since the last increase."
         }
       ],
       "brief": {
-        "what": "Democrats won control of both the House and Senate, securing 222 seats in the House and 54 seats in the Senate. The election cycle saw significant shifts, including Democratic gubernatorial wins in Texas, Ohio, and Georgia.",
-        "who": "The main actors include President Donald Trump, incoming House Speaker Hakeem Jeffries, and various candidates such as Josh Turek, Annie Andrews, Gina Hinojosa, and Keisha Lance Bottoms.",
-        "context": "The election followed a period marked by the Iran war and rising costs, which the Washington Examiner reports undermined the agenda of President Donald Trump.",
-        "why": "The Washington Examiner attributes the results to a rejection of President Trump’s agenda and a massive blue wave that surprised the White House.",
-        "next": "President Trump has expressed his intent to use his veto power for any Democrat-led bill that may cross his desk during his final two years in office."
+        "what": "The Bank of England increased its base interest rate from 3.75% to 4%, marking the first hike in over three years. This decision aims to curb inflation, which reached 3.5% in the year to September 2026, largely due to energy price volatility.",
+        "who": "The Bank of England's rate-setting committee, led by Governor Andrew Bailey, implemented the policy, while UK Finance provided data on the impact to mortgage holders.",
+        "context": "The UK economy is facing inflationary pressure primarily linked to the US-Iran war and its subsequent impact on global oil and fuel prices. The Bank of England uses the base rate to influence borrowing costs for mortgages and loans.",
+        "why": "Governor Andrew Bailey stated the hike is necessary to lean against upward pressure on inflation caused by energy costs. The committee remains divided on future policy, with some members viewing this as a risk-management measure while others anticipate further increases.",
+        "next": "The Bank expects inflation to peak at 4.9% next year and does not anticipate a return to the 2% target until 2028, with future rate decisions remaining conditional on the trajectory of the Middle East conflict."
       },
       "numbers": [
         {
-          "figure": "222 seats",
-          "what": "number of House seats secured by Democrats"
+          "figure": "4%",
+          "what": "new base interest rate"
         },
         {
-          "figure": "54 seats",
-          "what": "number of Senate seats secured by Democrats"
+          "figure": "3.5%",
+          "what": "price increase in the year to September 2026"
         },
         {
-          "figure": "218-seat",
-          "what": "threshold required for a House majority"
+          "figure": "4.9%",
+          "what": "expected peak inflation rate in mid-2027"
         },
         {
-          "figure": "4 points",
-          "what": "margin of victory for Josh Turek in Iowa"
+          "figure": "510,000",
+          "what": "number of tracker mortgage-holders affected"
+        },
+        {
+          "figure": "2%",
+          "what": "Bank of England inflation target"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 3,
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05",
+      "author": null,
+      "summary": "At least 21 aircraft and multiple European airports were targeted by malicious bomb threats, prompting diversions and fighter jet escorts. Authorities have deemed the threats hoaxes, with no explosives discovered during security screenings.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-06",
+          "title": "New wave of bomb threats targets Irish media and EU flights",
+          "url": "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1",
+          "note": "Financial Times frames the story by highlighting the broader impact on both media outlets and aviation."
+        },
+        {
+          "source": "AeroTime",
+          "author": "Clement Charpentreau",
+          "date": "2026-11-05",
+          "title": "Bomb threats hit at least 25 European flights, trigger fighter escorts",
+          "url": "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions",
+          "note": "AeroTime focuses specifically on the operational impact, noting the count of 25 flights and the use of fighter escorts."
+        }
+      ],
+      "brief": {
+        "what": "A series of bomb threats targeted at least 21 aircraft and several European airports, marking the second such wave of incidents in a week. While some flights were diverted or escorted by military fighter jets, all threats were assessed as hoaxes and no explosives were found.",
+        "who": "The incidents involved various European airlines, including Aer Lingus, Ryanair, and Wizz Air, with UK Transport Secretary Heidi Alexander and airport authorities coordinating security responses.",
+        "context": "Aviation security protocols require authorities to treat all bomb threats as credible, often resulting in diversions and police presence. Experts warn that frequent hoax threats risk creating complacency or serving as a tactic for deniable disruption.",
+        "why": "Some threats were signed by a group calling themselves 'Fighters of the Male State,' though authorities have not confirmed the source or whether the incidents are coordinated. UK officials described the warnings as malicious hoaxes.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "21 aircraft",
+          "what": "number of planes targeted by bomb threats"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 3,
+      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05",
+      "author": null,
+      "summary": "More than 20 aircraft across Europe have been targeted by fake bomb threats in a series of malicious hoaxes. This marks the second such incident occurring within a single week.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Jonathan Wolfe and Leo Sands",
+          "date": "2026-11-06",
+          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+          "note": "The New York Times headlines focus on the broader impact of the threats on passengers and the disruption to European flight operations."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Josephine de La Bruyère and Amelia Nierenberg",
+          "date": "2026-11-05",
+          "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html"
+        },
+        {
+          "source": "The New York Times",
+          "author": "Josephine de La Bruyère and Amelia Nierenberg",
+          "date": "2026-11-05",
+          "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html"
+        }
+      ],
+      "brief": {
+        "what": "Over 20 aircraft operating across Europe were subjected to fake bomb threats, marking the second wave of such incidents within one week. BBC Verify is currently analyzing communication logs to determine how air traffic control handles these malicious hoaxes.",
+        "who": "BBC Verify is investigating the incident, while the UK government has characterized the events as a malicious hoax.",
+        "context": "This is the second time this week that European flights have been targeted by coordinated bomb threats, causing significant disruption to air travel.",
+        "why": "The UK government has officially labeled the series of incidents as a malicious hoax.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "20 aircraft",
+          "what": "number of planes targeted by threats"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06",
+      "author": null,
+      "summary": "Global stock markets plummeted as investors sold off major tech shares, driven by concerns that US midterm election results will lead to stricter AI regulation and slower data center development. The sell-off wiped trillions of dollars from market values, impacting indices across the US, Asia, and Europe.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "The New York Times",
+          "date": "2026-11-06",
+          "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
+          "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+          "note": "The New York Times emphasizes the specific link between AI spending fears and the sell-off."
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-06",
+          "title": "Global tech stocks plunge over fears of AI curbs in US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+          "note": "Al Jazeera focuses specifically on the impact of potential US AI curbs on global tech stocks."
+        }
+      ],
+      "brief": {
+        "what": "Global equity markets experienced a sharp decline following US midterm election results that handed Democrats control of Congress. The Nasdaq fell 5.5%, losing $2.5tn in value, while Asian and European markets also saw significant drops, including a 6% decline in Japan's Nikkei and a 6% drop in South Korea's Kospi.",
+        "who": "Major tech firms including Apple, Nvidia, and Tesla, alongside Elon Musk's SpaceX, saw significant valuation losses. Democrat lawmakers, who campaigned on restricting data center growth, now hold control of the US Senate and House of Representatives.",
+        "context": "Investors are reacting to potential regulatory headwinds for AI and uncertainty regarding the return on investment for massive capital expenditures in the sector. The market is also grappling with a growing public and political backlash against the environmental and social impacts of data centers.",
+        "why": "According to Dan Coatsworth of AJ Bell, investors fear that Democratic influence will slow data center roll-outs and increase sector regulation. Additionally, there is skepticism regarding whether current high spending on AI will yield future profitability.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$2.5tn",
+          "what": "market value lost by the Nasdaq index"
+        },
+        {
+          "figure": "$300bn",
+          "what": "market value lost by SpaceX and Tesla"
+        },
+        {
+          "figure": "5.5%",
+          "what": "decline of the tech-heavy Nasdaq share index"
+        },
+        {
+          "figure": "6%",
+          "what": "decline of Japan's Nikkei share index"
+        },
+        {
+          "figure": "4.6%",
+          "what": "Nasdaq index growth since the start of the year"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Soaring fuel costs hit profit at British Airways owner IAG",
+      "source": "City AM",
+      "url": "https://www.cityam.com/soaring-fuel-costs-hit-profit-at-british-airways-owner-iag/",
+      "date": "2026-11-06",
+      "author": "Felix Armstrong",
+      "summary": "British Airways owner IAG reported a 16 percent drop in pre-tax profit as rising jet fuel costs, driven by geopolitical instability, impacted its bottom line. The company warns that reduced hedging capacity may lead to higher passenger fares in the coming year.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-06",
+          "title": "British Airways owner warns of higher fares next year as fuel costs rise",
+          "url": "https://www.ft.com/content/f48913d1-2cfe-42ef-8c67-17ed95e12bdd?syn-25a6b1a6=1",
+          "note": "The Financial Times headline emphasizes the potential for higher passenger fares next year, whereas City AM focuses on the immediate impact on IAG's profit."
+        }
+      ],
+      "brief": {
+        "what": "IAG reported a pre-tax profit of €3bn, a 16 percent decrease attributed to a significant rise in jet fuel prices. Fuel costs, including emissions charges, reached €6.4bn, marking a 19 percent increase compared to the previous year.",
+        "who": "IAG, the parent company of British Airways, Vueling, and Aer Lingus, led by CEO Luis Gallego.",
+        "context": "Airlines have historically used hedging to protect against energy price volatility, but IAG's ability to secure fixed-price contracts is declining, with hedged requirements dropping from 70 percent this year to 45 percent for 2027.",
+        "why": "IAG attributes the profit hit to the closure of the Strait of Hormuz and the resulting disruption to oil exports and commodity prices following the outbreak of war in the Middle East.",
+        "next": "IAG and other carriers warn that rising fuel costs may force airlines to increase passenger fares next year."
+      },
+      "numbers": [
+        {
+          "figure": "€6.4bn",
+          "what": "total spend on fuel costs including emissions"
+        },
+        {
+          "figure": "16 per cent",
+          "what": "decline in pre-tax profit"
+        },
+        {
+          "figure": "19 per cent",
+          "what": "surge in fuel costs since last year"
+        },
+        {
+          "figure": "4.5 per cent",
+          "what": "growth in third quarter revenue"
+        },
+        {
+          "figure": "10 per cent",
+          "what": "increase in dividend per share"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-06",
+      "author": "Patrick George",
+      "summary": "Tesla is winding down production of its Cybertruck following a significant decline in consumer demand. The stainless steel vehicle, initially marketed as an EV disrupter, failed to maintain its early momentum.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-06",
+          "title": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
+          "url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
+          "note": "Financial Times frames the story by highlighting a strategic pivot toward robotics and AI, whereas the Wall Street Journal focuses on sales performance."
+        },
+        {
+          "source": "New York Post",
+          "author": "Reuters",
+          "date": "2026-11-06",
+          "title": "Tesla to wind down Cybertruck production at Texas factory as it struggles to win appeal",
+          "url": "https://nypost.com/2026/11/06/business/tesla-to-wind-down-cybertruck-production-at-texas-factory-as-it-struggles-to-win-appeal/",
+          "note": "New York Post emphasizes the specific location of the production wind-down at the Texas factory and the vehicle's struggle to gain broader appeal."
+        }
+      ],
+      "brief": {
+        "what": "Tesla is ending production of the Cybertruck after demand for the stainless steel vehicle evaporated following its initial launch hype.",
+        "who": "Tesla is the manufacturer responsible for the vehicle's development and subsequent production wind-down.",
+        "context": "The Cybertruck was originally positioned as a disruptive force within the electric vehicle market, relying on a unique stainless steel design to capture consumer interest.",
+        "why": "The article states that demand for the truck evaporated after the initial hype surrounding the vehicle's release subsided.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Bombardier raises 2026 cash flow forecast above $1.3B as services hit record",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/bombardier-2026-cash-flow-forecast-services-record",
+      "date": "2026-11-05",
+      "author": "Clement Charpentreau",
+      "summary": "Bombardier has increased its 2026 free cash flow forecast to over $1.3 billion, driven by record-breaking performance in its services division. Despite a slight dip in net income, the company reported revenue growth and maintained its full-year delivery targets.",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Adriano Marchese",
+          "date": "2026-11-05",
+          "title": "Bombardier Raises Free 2026 Cash Flow Outlook as Profit Slips",
+          "url": "https://www.wsj.com/business/earnings/bombardier-raises-free-2026-cash-flow-outlook-as-profit-slips-847b5393?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the story by highlighting the decline in profit alongside the raised cash flow outlook."
+        }
+      ],
+      "brief": {
+        "what": "Bombardier raised its 2026 free cash flow outlook to over $1.3 billion following a strong third quarter where services revenue grew 19% to $701 million. Total quarterly revenue reached $2.37 billion, and the company maintained its full-year guidance of over $10 billion in revenue and 157 aircraft deliveries.",
+        "who": "Bombardier, led by President and CEO Éric Martel, is the primary actor, with Saab and NATO mentioned as partners in defense-related aircraft programs.",
+        "context": "The company is navigating a complex environment involving defense contract negotiations for the Global 6500 platform and recent trade-related political pressure in the United States.",
+        "why": "The improved cash flow forecast is attributed to the record performance of the services business, which offset a decline in quarterly net income to $81 million and a slight decrease in aircraft deliveries.",
+        "next": "Bombardier must deliver at least 69 jets in the fourth quarter to meet its annual target of 157 aircraft."
+      },
+      "numbers": [
+        {
+          "figure": "$1.3 billion",
+          "what": "raised 2026 free cash flow forecast"
+        },
+        {
+          "figure": "$701 million",
+          "what": "record quarterly services business revenue"
+        },
+        {
+          "figure": "$2.37 billion",
+          "what": "third-quarter total revenue"
+        },
+        {
+          "figure": "$22.2 billion",
+          "what": "total order backlog"
+        },
+        {
+          "figure": "1.7",
+          "what": "unit book-to-bill ratio"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+      "date": "2026-11-06",
+      "author": "Brittney Melton",
+      "summary": "A federal judge has temporarily halted construction of a 250-foot arch in Washington, D.C., while the Labor Department prepares to release a new jobs report following a significant stock market decline.",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-06",
+          "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+          "note": "Al Jazeera focuses specifically on the judicial halt of the arch in Washington, D.C., omitting the broader economic context provided by NPR."
+        }
+      ],
+      "brief": {
+        "what": "A federal judge issued a 14-day injunction stopping construction of a 250-foot arch in Washington, D.C., citing concerns from local governments. Simultaneously, the Labor Department is set to release a jobs report following a market downturn where the Nasdaq fell over 5%, losing $2 trillion in value.",
+        "who": "District Court Judge Tanya Chutkan, who issued the injunction; the D.C. and Virginia governments, who requested the halt; and the Labor Department, which is releasing employment data.",
+        "context": "The arch was planned for Memorial Circle, a site connecting the Lincoln Memorial to Arlington National Cemetery. The market volatility follows investor concerns regarding potential Democratic-led regulation of the AI industry.",
+        "why": "Judge Chutkan scrutinized the administration's national security justifications for the arch and agreed with local governments that construction would cause them harm. The market drop was driven by fears that an incoming Democratic Congress might crack down on AI and data centers.",
+        "next": "The construction halt is effective for 14 days, and the Labor Department's jobs report is expected today."
+      },
+      "numbers": [
+        {
+          "figure": "250-foot",
+          "what": "height of the planned arch"
+        },
+        {
+          "figure": "14 days",
+          "what": "duration of the construction halt"
+        },
+        {
+          "figure": "more than 5%",
+          "what": "drop in the tech-heavy Nasdaq"
+        },
+        {
+          "figure": "more than $2 trillion",
+          "what": "market value wiped out from Nasdaq"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
       "title": "Two helicopters collide near Mount Everest, killing passenger",
       "source": "AeroTime",
       "url": "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche",
@@ -211,15 +499,15 @@
           "date": "2026-11-03",
           "title": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
           "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
-          "note": "The New York Times headline emphasizes the specific casualty count of one dead and three injured, whereas AeroTime focuses on the collision event itself."
+          "note": "The New York Times headline specifies the exact number of casualties, whereas AeroTime focuses on the collision event itself."
         }
       ],
       "brief": {
         "what": "Two AS350 single-engine helicopters, operated by Air Dynasty Heli Service and Fishtail Air, collided at the Pheriche helipad in Nepal. The incident resulted in one death and three injuries, including both pilots.",
-        "who": "The Civil Aviation Authority of Nepal (CAAN) is overseeing the investigation, while the Solukhumbu District Police Office is managing the site and victim recovery.",
-        "context": "Pheriche is a critical hub for helicopter operations in the Khumbu region, which lacks road access and relies on air transport for supplies and medical evacuations. This accident occurs during the peak autumn trekking season and follows a 2025 government report highlighting systemic safety oversight failures in Nepal's aviation sector.",
-        "why": "The cause of the collision remains undetermined, and an official investigation is currently underway to identify the factors that led to the impact.",
-        "next": "The victim's body will be transferred to Kathmandu for a post-mortem examination, while the injured have been evacuated for medical treatment."
+        "who": "The Civil Aviation Authority of Nepal (CAAN) is overseeing the investigation, while the Solukhumbu District Police Office is managing the immediate response and victim identification.",
+        "context": "Pheriche is a critical hub in the Khumbu region, where helicopters are essential for transport due to a lack of road infrastructure. Nepal has faced ongoing scrutiny regarding aviation safety, with a 2025 government report highlighting 40 crashes and 92 fatalities over six decades of operations.",
+        "why": "The cause of the collision remains undetermined, and an official investigation is currently underway to identify the factors leading to the impact.",
+        "next": "The victim's body will be transferred to Kathmandu for a post-mortem examination, and the three injured individuals have been evacuated for medical treatment."
       },
       "numbers": [
         {
@@ -249,773 +537,616 @@
       ]
     },
     {
-      "topic": "markets",
-      "importance": 2,
-      "title": "How the Stock Market Is Reacting to the Midterm Elections",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-      "date": "2026-11-04",
-      "author": "Sui-Lee Wee, Aruni Soni and Eshe Nelson",
-      "summary": "Global markets experienced initial volatility following midterm election results before recovering as investors evaluated the shifting political landscape in Washington.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-03",
-          "title": "What the midterm elections could mean for markets, debt",
-          "url": "https://www.foxbusiness.com/politics/what-midterm-elections-could-mean-markets-debt",
-          "note": "Fox Business frames the story by explicitly linking the election outcomes to broader concerns regarding national debt."
-        }
-      ],
-      "brief": {
-        "what": "Global markets initially declined as early midterm election results emerged, but subsequently traded higher as investors adjusted their outlook based on the shifting balance of power in Washington.",
-        "who": "Global investors and market participants.",
-        "context": "The market reaction occurred in the immediate aftermath of the midterm elections as the political composition of Washington began to change.",
-        "why": "According to the report, markets moved as investors assessed the potential policy implications resulting from the shift in the balance of power.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
-          "source": "Bloomberg",
-          "date": "2026-11-01"
-        },
-        {
-          "title": "Why the Markets Don’t Care About the Midterms",
-          "url": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
-          "source": "The New York Times",
-          "date": "2026-10-30"
-        }
-      ]
-    },
-    {
       "topic": "world",
       "importance": 2,
-      "title": "Democrats Sweep House and Senate in Midterm Rebuke of Trump",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-pulse-11-4-2026-video",
-      "date": "2026-11-04",
-      "author": null,
-      "summary": "Democrats have secured control of both the House and Senate following the midterm elections. This shift in legislative power represents a significant political rebuke of President Trump.",
-      "also": [
-        {
-          "source": "Reason",
-          "author": "Eric Boehm",
-          "date": "2026-11-04",
-          "title": "Trump Enters His George W. Bush Era as Democrats Sweep House and Senate",
-          "url": "https://reason.com/2026/11/03/trump-enters-his-george-w-bush-era-as-democrats-sweep-house-and-senate/",
-          "note": "Reason frames the story by comparing the current political moment to the end of the George W. Bush presidency."
-        }
-      ],
-      "brief": {
-        "what": "The Democratic Party has successfully swept both the House of Representatives and the Senate in the recent midterm elections. This outcome marks a major shift in the legislative landscape of the United States.",
-        "who": "The Democratic Party, which gained control of both chambers, and President Trump, whose administration faces a rebuke through these election results.",
-        "context": "Midterm elections occur halfway through a president's four-year term and often serve as a referendum on the incumbent's performance and party leadership.",
-        "why": "The article characterizes the election results as a rebuke of President Trump's policies and leadership style.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "Trump Says He May Become ‘Mr. Veto’ if Democrats Win Midterms",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-02/the-pulse-11-2-2026-video",
-          "source": "Bloomberg",
-          "date": "2026-11-02"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Shares in Elon Musk’s SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/shares-in-elon-musks-spacex-tesla-fall-premarket-after-democrats-sweep-midterms-a10325e6?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-04",
-      "author": "Joe Stonor",
-      "summary": "Shares in SpaceX and Tesla declined during premarket trading following the Democratic sweep in the midterm elections. The results marked a significant financial setback for Republican candidates supported by Elon Musk.",
-      "also": [
-        {
-          "source": "Bloomberg",
-          "author": "Jordan Fitzgerald and Subrat Patnaik",
-          "date": "2026-11-04",
-          "title": "Musk’s Tesla, SpaceX Slide as Democrats Sweep Congress",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
-          "note": "Bloomberg frames the story by specifically highlighting the slide of both Tesla and SpaceX in the context of the Democratic sweep of Congress."
-        }
-      ],
-      "brief": {
-        "what": "Shares of SpaceX and Tesla experienced a sharp premarket decline following the midterm election results. The Democratic sweep resulted in a defeat for Republican candidates who had received hundreds of millions of dollars in backing from Elon Musk.",
-        "who": "Elon Musk, who supported Republican candidates, and the Democratic candidates who won the midterm elections.",
-        "context": "The market reaction follows the conclusion of the midterm elections, which saw a shift in political power that impacted candidates aligned with Musk's financial interests.",
-        "why": "The article attributes the market decline to the Democratic sweep in the midterm elections, which resulted in the defeat of Republican candidates supported by Musk.",
-        "next": "The article doesn't say."
-      },
-      "earlier": [
-        {
-          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04",
-      "author": null,
-      "summary": "Canva is restructuring its operations, resulting in the departure or reassignment of 22% of its workforce. The company cited slowing growth and rising costs associated with integrating artificial intelligence as primary drivers for the decision.",
-      "also": [
-        {
-          "source": "City AM",
-          "author": "Saskia Koopman",
-          "date": "2026-11-04",
-          "title": "Canva announces sweeping job cuts after ‘hardest year yet’",
-          "url": "https://www.cityam.com/canva-announces-sweeping-job-cuts-after-hardest-year-yet/",
-          "note": "City AM uses the word 'sweeping' to emphasize the scale of the job cuts compared to the BBC's 'major' framing."
-        }
-      ],
-      "brief": {
-        "what": "Canva announced a major business restructuring affecting 22% of its employees, totaling 1,271 individuals. The company is also shifting its operational focus by centralizing more product teams in Sydney and mandating a hybrid office attendance policy.",
-        "who": "CEO and co-founder Melanie Perkins is leading the restructuring, while investors Blackbird Ventures and Airtree have reportedly downgraded the firm's valuation.",
-        "context": "The company has experienced its first decade of slowing growth and faces pressure from the high costs of incorporating artificial intelligence into its design platforms.",
-        "why": "CEO Melanie Perkins described the move as the hardest moment in the company's history, citing the need to adapt to new technology and address slowing growth. The firm also faced internal and external valuation downgrades amid rising expenses related to AI product rollouts.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "22%",
-          "what": "percentage of the workforce affected by the shake up"
-        },
-        {
-          "figure": "1,271",
-          "what": "number of people facing job losses, role changes, or relocation"
-        },
-        {
-          "figure": "A$49bn",
-          "what": "reported downgraded valuation of the company"
-        },
-        {
-          "figure": "37",
-          "what": "number of countries where the company has staff"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "How America voted in maps and charts",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04",
-      "author": null,
-      "summary": "The Democratic Party has secured control of both the Senate and the House of Representatives following unexpected gains in the US midterms. Significant shifts in voter support, particularly among Hispanic voters and women, contributed to the party's widespread success across multiple states.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Katrin Bennhold",
-          "date": "2026-11-03",
-          "title": "America Votes",
-          "url": "https://www.nytimes.com/2026/11/02/world/midterm-elections-questions-trump-fifa.html",
-          "note": "The New York Times headline 'America Votes' frames the event as a broad national participation process rather than focusing on the specific Democratic victory."
-        }
-      ],
-      "brief": {
-        "what": "The Democratic Party achieved a major victory in the US midterms, winning control of both the Senate and the House of Representatives. The party saw unexpected wins in states like South Carolina and Kansas, while successfully defending key districts in Florida despite Republican redistricting efforts.",
-        "who": "The Democratic Party and the Republican Party are the primary political actors, with specific mentions of candidates Angie Nixon and Ashley Moody.",
-        "context": "The election results follow a period where Republicans attempted to redraw district boundaries in Florida to favor their party, specifically targeting districts previously won by Kamala Harris.",
-        "why": "Voter turnout among women and a shift in support from Hispanic voters were key drivers of the Democratic performance. Additionally, polls indicate that the economy was the primary concern for voters, with a majority believing Donald Trump's policies negatively impacted economic conditions.",
-        "next": "The final size of the Democratic majority in the House remains to be seen as vote counting continues."
-      },
-      "numbers": [
-        {
-          "figure": "55%",
-          "what": "Hispanic voters backing Democratic candidate Angie Nixon"
-        },
-        {
-          "figure": "44%",
-          "what": "Hispanic voters backing Republican candidate Ashley Moody"
-        },
-        {
-          "figure": "9 points",
-          "what": "Texas vote share shift towards Democrats"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Australian government defends social media ban for under 16s in court",
+      "title": "Israel’s President Herzog to name candidate to form government on Sunday",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss",
-      "date": "2026-11-04",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+      "date": "2026-11-06",
       "author": null,
-      "summary": "The Australian government is defending its national ban on social media for children under 16 against a legal challenge from Reddit and a rights group. The court's decision could influence similar legislative efforts currently being explored in other nations.",
+      "summary": "Israeli President Isaac Herzog is set to name a candidate to form a new government on Sunday following consultations with parliament. Opposition leader Gadi Eisenkot holds a majority of lawmaker endorsements over incumbent Prime Minister Benjamin Netanyahu.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Victoria Kim",
-          "date": "2026-11-03",
-          "title": "Australian Court Hears Challenge to Social Media Ban",
-          "url": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
-          "note": "The New York Times frames the story by highlighting the legal challenge itself rather than the government's defense."
+          "author": "Aaron Boxerman",
+          "date": "2026-11-04",
+          "title": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+          "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+          "note": "The New York Times headline focuses on the specific individuals involved in the negotiation process rather than the upcoming deadline for the presidential decision."
         }
       ],
       "brief": {
-        "what": "The Australian government is defending its ban on social media for users under 16 in the country's highest court. The policy, which has already resulted in the closure of five million accounts, faces a legal challenge from Reddit and the Digital Freedom Project, who argue the law is disproportionate and infringes on political communication rights.",
-        "who": "The Australian government, Reddit, and the Sydney-based Digital Freedom Project are the primary parties involved in the legal proceedings.",
-        "context": "Australia became the first nation to enforce such a ban last year, prompting other countries like the UK and France to consider similar restrictions. Platforms face fines of up to 49.5 million Australian dollars for non-compliance.",
-        "why": "Government lawyers argue the ban is necessary to protect children from risks like depression and anxiety, while challengers claim the measure is over-broad and ill-targeted.",
-        "next": "The court is expected to deliver its verdict in the coming months."
+        "what": "President Isaac Herzog will select a candidate to form a government by Sunday after 67 lawmakers endorsed opposition leader Gadi Eisenkot, compared to 46 for Prime Minister Benjamin Netanyahu. Despite the endorsements, Herzog noted mutual vetoes between political blocs complicate the formation of a stable coalition.",
+        "who": "President Isaac Herzog is the arbiter of the process, while Gadi Eisenkot and Benjamin Netanyahu are the primary candidates vying for the mandate to lead the next government.",
+        "context": "The October 27 election resulted in a fragmented parliament where neither candidate secured a clear path to a majority. Netanyahu currently leads a caretaker government while facing allegations of vote tampering, which election officials have dismissed.",
+        "why": "Herzog must choose a candidate because the election failed to produce a clear parliamentary majority, and he is tasked with navigating the complex political divisions and mutual vetoes between parties.",
+        "next": "The chosen candidate will have 28 days to form a government, with a potential 14-day extension; if they fail, Israel may face another election."
       },
       "numbers": [
         {
-          "figure": "49.5 million Australian ",
-          "what": "maximum fine for platforms failing to remove children's accounts"
+          "figure": "67 lawmakers",
+          "what": "number of endorsements for Gadi Eisenkot"
         },
         {
-          "figure": "10",
-          "what": "number of age-restricted social media platforms"
+          "figure": "46 backed",
+          "what": "number of endorsements for Benjamin Netanyahu"
+        },
+        {
+          "figure": "120-seat",
+          "what": "total capacity of the Israeli parliament"
+        },
+        {
+          "figure": "27",
+          "what": "seats won by Likud party"
+        },
+        {
+          "figure": "19 seats",
+          "what": "seats won by parties representing Palestinian minority"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 2,
-      "title": "Outback Steakhouse franchisee files for bankruptcy",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/lifestyle/outback-steakhouse-franchisee-files-bankruptcy",
-      "date": "2026-11-03",
-      "author": null,
-      "summary": "Bloomin' Brands has moved to acquire 61 Outback Steakhouse locations from a major franchisee that filed for Chapter 11 bankruptcy. The parent company plans to act as the stalking-horse bidder for the assets.",
+      "title": "Goldman’s Exclusive Club of Partners Welcomes Its Biggest Class Since 2010",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-05",
+      "author": "Jasmine Li",
+      "summary": "Goldman Sachs has named its largest class of partners since 2010. The bank notably omitted demographic breakdowns regarding gender and race for this group.",
       "also": [
         {
           "source": "New York Post",
-          "author": "Emily Lang",
-          "date": "2026-11-03",
-          "title": "Rising food costs prompt big Outback Steakhouse franchisee to file for bankruptcy",
-          "url": "https://nypost.com/2026/11/03/business/rising-food-costs-prompt-big-outback-steakhouse-franchisee-to-file-for-bankruptcy/",
-          "note": "The New York Post headline explicitly attributes the bankruptcy filing to rising food costs, whereas the Fox Business headline does not mention a cause."
+          "author": "James Franey",
+          "date": "2026-11-05",
+          "title": "Goldman Sachs buries DEI metrics as it names biggest partner class since 2010",
+          "url": "https://nypost.com/2026/11/05/business/goldman-sachs-buries-dei-metrics-as-it-names-biggest-partner-class-since-2010/",
+          "note": "The New York Post headline frames the story by specifically linking the lack of demographic data to the abandonment of DEI metrics."
         }
       ],
       "brief": {
-        "what": "Out West Restaurant Group, a major franchisee of Outback Steakhouse, filed for Chapter 11 bankruptcy in Delaware. Bloomin' Brands, the parent company, has entered an agreement to acquire the 61 affected locations for $26.3 million and is providing $5.5 million in financing to maintain operations during the process.",
-        "who": "Bloomin' Brands is the parent company acting as the stalking-horse bidder, while Out West Restaurant Group is the franchisee filing for bankruptcy.",
-        "context": "Bloomin' Brands operates several restaurant chains, including Carrabba's Italian Grill and Bonefish Grill. The bankruptcy filing specifically concerns locations managed by Out West, which is affiliated with Cerca Trova Restaurant Group.",
-        "why": "The acquisition is intended to bring the franchisee-operated restaurants under Bloomin' Brands' corporate control through a court-supervised sale process.",
-        "next": "The transaction remains subject to bankruptcy court approval, and other potential buyers may seek to exceed the initial offer."
+        "what": "Goldman Sachs announced its largest class of partners since 2010. Unlike in previous years, the firm did not disclose the gender or racial composition of the new partners.",
+        "who": "Goldman Sachs is the primary actor, acting as the financial institution selecting its new partner class.",
+        "context": "The selection of partners represents a significant internal promotion process at the bank, which has previously provided demographic data for such announcements.",
+        "why": "The article does not explicitly state why the bank shifted its disclosure policy regarding the demographic breakdown of the new partner class.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "61 restaurants",
-          "what": "number of Outback Steakhouse locations involved in the bankruptcy"
-        },
-        {
-          "figure": "$26.3 million",
-          "what": "proposed purchase price for the franchisee's assets"
-        },
-        {
-          "figure": "$5.5 million",
-          "what": "interest-free debtor-in-possession financing provided by Bloomin' Bran"
+          "figure": "2010",
+          "what": "the last year with a larger partner class"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "science",
       "importance": 2,
-      "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+      "title": "We used ancient DNA to track the origins and spread of the Germanic and Celtic languages – new research",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
       "date": "2026-11-04",
-      "author": "Ryan Mac",
-      "summary": "SpaceX and Tesla stocks have declined following midterm election results that may lead to increased scrutiny of Elon Musk by Democratic lawmakers. The shift in Congressional control has prompted concerns regarding potential investigations into the billionaire's business interests.",
-      "also": [],
-      "brief": {
-        "what": "SpaceX and Tesla stocks experienced a decline following the midterm election results. This market reaction coincides with signals from Democratic lawmakers regarding their intent to investigate Elon Musk once they assume control of Congress.",
-        "who": "Elon Musk, the world's richest person, is the primary subject of the potential investigations, while Democratic members of Congress are the actors signaling the shift in oversight.",
-        "context": "The political landscape is shifting as Democrats prepare to take control of Congress, creating a new environment for high-profile business leaders who have previously antagonized the party.",
-        "why": "The article states that the market downturn is linked to Musk's history of antagonizing Democrats, who have now signaled their intent to use their new Congressional authority to investigate him.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "The golden age of cheap European flights was good while it lasted",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f0256578-1a7b-41c3-8cca-f3384983b2f2?syn-25a6b1a6=1",
-      "date": "2026-11-04",
-      "author": null,
-      "summary": "Budget airlines face a significant margin squeeze as their limited ability to reduce costs further threatens their business model. This shift signals an end to the era of exceptionally cheap European air travel.",
-      "also": [],
+      "author": "Guus Kroonen, Associate Professor, Scandinavian, Germanic and Indo-European Comparative Linguistics, Leiden University; University of Copenhagen",
+      "summary": "New genetic research using ancient DNA reveals that the spread of Germanic and Celtic languages across Europe was driven by specific prehistoric migration patterns. The findings challenge traditional timelines, suggesting Germanic languages arrived in Scandinavia later than previously assumed.",
+      "also": [
+        {
+          "source": "Nature",
+          "author": "Shamini Bundell",
+          "date": "2026-11-04",
+          "title": "Ancient DNA charts spread of Celtic and Germanic languages",
+          "url": "https://www.nature.com/articles/d41586-026-03582-2",
+          "note": "Nature's headlines focus specifically on the charting and tracing of language spread via genomics, whereas The Conversation emphasizes the use of ancient DNA to solve the riddle of language origins."
+        },
+        {
+          "source": "Nature",
+          "author": "Ewen Callaway",
+          "date": "2026-11-04",
+          "title": "Rise of Germanic and Celtic languages is written in ancient DNA",
+          "url": "https://www.nature.com/articles/d41586-026-03581-3"
+        },
+        {
+          "source": "Nature",
+          "author": "Hugh McColl",
+          "date": "2026-11-04",
+          "title": "Tracing the spread of Celtic languages using ancient genomics",
+          "url": "https://www.nature.com/articles/s41586-026-11198-9"
+        }
+      ],
       "kind": "analysis",
       "brief": {
-        "what": "Budget airlines are confronting a severe margin squeeze that threatens their low-cost operational model. Because these carriers already operate with minimal overhead, they possess less flexibility to cut costs compared to legacy competitors.",
-        "who": "Budget airlines are the primary actors identified as being vulnerable to these tightening financial conditions.",
-        "context": "The European aviation sector has historically benefited from a period of low-cost travel, which is now being challenged by rising financial pressures.",
-        "why": "The article states that the margin squeeze is particularly detrimental to budget airlines because they start with less room to implement further cost-cutting measures.",
+        "what": "Researchers analyzed DNA from thousands of prehistoric Europeans to track the origins of Germanic and Celtic languages. The study indicates that Germanic languages likely arrived in Scandinavia 800 years later than traditionally believed, while Celtic languages spread from Central Europe through the expansion of the Urnfield culture.",
+        "who": "The study was conducted by an international collaboration led by researchers from the University of Copenhagen and Leiden University.",
+        "context": "Historical linguists have long debated how Indo-European languages spread from the Eurasian steppes. While the initial migration 5,000 years ago is widely accepted, the subsequent dispersal of specific language families like Germanic and Celtic remained unclear until the application of ancient genomics.",
+        "why": "The researchers state that ancient DNA allows them to test competing theories by comparing prehistoric population movements with archaeological and linguistic evidence, revealing that languages spread through both migration and cultural contact.",
         "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "European Bank Stocks Bounce Back as Midterms Ease Uncertainty",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-bank-stocks-bounce-back-as-midterms-ease-uncertainty",
-      "date": "2026-11-04",
-      "author": "Levin Stamm",
-      "summary": "European bank stocks rose as the outcome of the US midterm elections reduced market uncertainty. Lower bond yields further supported the upward trend in the region's equity markets.",
-      "also": [],
-      "brief": {
-        "what": "European bank stocks experienced a rally following the US midterm elections. The market gains were driven by the removal of political uncertainty and a decrease in bond yields.",
-        "who": "European bank stocks are the primary actors, with the Democratic party identified as the group whose electoral performance influenced market sentiment.",
-        "context": "Financial markets had been experiencing pressure in recent weeks due to uncertainty surrounding the US midterm elections. Bond yields serve as a key indicator for equity market performance.",
-        "why": "The rally occurred because the landslide victory for Democrats in the US midterms removed uncertainty that had previously weighed on stocks, according to the report.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "McDonald’s Profit Climbs Despite Continued Sluggish Domestic Sales",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/mcdonalds-profit-climbs-despite-continued-sluggish-domestic-sales-ba5eaafe?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-04",
-      "author": "Connor Hart",
-      "summary": "McDonald’s reported increased quarterly profit and revenue, driven by strong international performance that balanced weak domestic sales.",
-      "also": [],
-      "brief": {
-        "what": "McDonald’s achieved growth in both profit and revenue during the most recent quarter. This financial performance was bolstered by solid results across the company's international business segments, which successfully compensated for ongoing sluggish sales within the United States.",
-        "who": "McDonald’s is the primary actor, serving as the global fast-food corporation reporting these financial results.",
-        "context": "The company is navigating a period where domestic market performance remains stagnant, necessitating reliance on international operations to maintain overall growth.",
-        "why": "The reported growth occurred because strong international performance offset the negative impact of continually sluggish sales in the U.S. market.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04",
-      "author": null,
-      "summary": "The Bank of England is expected to raise interest rates to 4% as global inflation pressures from the US-Israel-Iran conflict persist. This shift impacts millions of UK mortgage holders and savers, reversing previous expectations for rate cuts.",
-      "also": [],
-      "brief": {
-        "what": "Policymakers at the Bank of England are anticipated to increase the base rate from 3.75% to 4% to combat rising inflation, which reached 3.5% in September 2026. This move follows global economic instability caused by the US-Israel conflict with Iran, which has driven up energy and fuel costs.",
-        "who": "The Bank of England is the primary actor managing UK monetary policy, while the Office for National Statistics tracks inflation data.",
-        "context": "The Bank of England aims to keep inflation at a 2% target. Previous expectations of rate cuts in 2026 were upended by geopolitical tensions, which have forced central banks globally, including the Federal Reserve and the European Central Bank, to adjust their interest rate strategies.",
-        "why": "The Bank of England raises rates to reduce consumer demand and limit price increases when inflation exceeds its 2% target. Analysts note that the current inflationary pressure is largely driven by sharp rises in global petrol, diesel, and energy prices linked to the conflict in the Middle East.",
-        "next": "Many analysts expect the Bank of England to raise rates at the November meeting and potentially again early next year."
       },
       "numbers": [
         {
-          "figure": "4%",
-          "what": "expected Bank of England base rate"
-        },
-        {
-          "figure": "3.5%",
-          "what": "UK inflation rate in September 2026"
-        },
-        {
-          "figure": "5.96%",
-          "what": "average two-year fixed residential mortgage rate"
-        },
-        {
-          "figure": "2.58%",
-          "what": "average easy access savings account rate"
-        },
-        {
-          "figure": "11.1%",
-          "what": "peak UK inflation rate in October 2022"
+          "figure": "700 newly sequenced indi",
+          "what": "number of prehistoric Europeans analyzed"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Starling Bank chief to step down after just two years",
+      "title": "Macquarie has ‘runway’ for growth, says outgoing chief",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/7a017d37-e102-4de3-8b84-a2974c1a2b06?syn-25a6b1a6=1",
-      "date": "2026-11-04",
+      "url": "https://www.ft.com/content/92e29c60-9486-48b6-879b-18084ec1822b?syn-25a6b1a6=1",
+      "date": "2026-11-06",
       "author": null,
-      "summary": "Starling Bank chief executive Raman Bhatia has announced his resignation after serving in the role for two years. The digital bank is now accelerating its succession planning process.",
+      "summary": "Macquarie Group reported a 50% increase in half-year profits, reaching A$2.5 billion as its long-serving chief executive prepares to step down.",
       "also": [],
       "brief": {
-        "what": "Raman Bhatia is stepping down as the chief executive of Starling Bank after two years in the position. The company has initiated succession planning following his decision to leave the fintech firm.",
-        "who": "Raman Bhatia, the outgoing chief executive of Starling Bank.",
-        "context": "Starling Bank is a UK-based digital bank operating within the competitive fintech sector.",
-        "why": "Bhatia informed the board that he no longer wished to lead the fintech company.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Ukraine Bonds Jump as Democrat Win Seen Helping Defense Efforts",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-04/ukraine-bonds-jump-as-democrat-win-seen-helping-defense-efforts",
-      "date": "2026-11-04",
-      "author": "Andras Gergely",
-      "summary": "Ukraine's dollar bonds rose following expectations that a Democratic victory in the US midterm elections would strengthen bilateral ties and support defense initiatives.",
-      "also": [],
-      "brief": {
-        "what": "Ukraine’s dollar-denominated bonds experienced a price increase as investors reacted to the US midterm election results. The market movement reflects a bet that a Democratic win will lead to improved relations between Kyiv and Washington.",
-        "who": "Investors in sovereign debt and the Ukrainian government are the primary actors involved in this market shift.",
-        "context": "The nation is currently engaged in an ongoing conflict, making international defense support a critical factor for its economic and political stability.",
-        "why": "The rally is driven by the market's anticipation that a Democratic victory will bolster defense efforts through enhanced cooperation between the two nations.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Democrats Win in Landslide, US Stock Futures Rebound",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video",
-      "date": "2026-11-04",
-      "author": null,
-      "summary": "US stock futures rebounded following a Democratic sweep of Congress as investors adjusted to the potential shift in the legislative agenda. The market reaction included a decline in the dollar and gains for Treasuries.",
-      "also": [],
-      "brief": {
-        "what": "US stock futures saw a rebound, with S&P 500 futures rising 0.2% and Nasdaq 100 futures gaining 0.3% following a Democratic sweep of Congress. This market movement occurred alongside a falling dollar and rising Treasury prices.",
-        "who": "The Democratic Party, whose electoral success is influencing market sentiment, and President Donald Trump, whose legislative agenda is now expected to face potential constraints.",
-        "context": "Global markets are reacting to the political shift in Congress, which investors anticipate will impact the current administration's policy trajectory.",
-        "why": "The market activity is driven by investor bets that the Democratic victory will effectively put the brakes on President Donald Trump’s agenda.",
+        "what": "Macquarie Group announced a 50% jump in half-year profits to A$2.5 billion. This financial milestone coincides with the departure of the firm's chief executive after an eight-year tenure.",
+        "who": "The outgoing chief executive of Macquarie Group.",
+        "context": "Macquarie Group is often referred to as a 'millionaires factory' due to its historical compensation structures and financial performance.",
+        "why": "The outgoing chief executive stated that the firm has 'runway' for continued growth as he prepares to sign off from his role.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "0.3%",
-          "what": "gain in Nasdaq 100 futures"
+          "figure": "A$2.5bn",
+          "what": "half-year profits"
         },
         {
-          "figure": "0.2%",
-          "what": "rise in S&P 500 futures"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Continental Shares Rise as Tire Maker Bets on Chinese Carmakers to Drive Growth",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/continental-narrows-sales-outlook-after-revenue-slumps-76e2fd8b?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-04",
-      "author": "Aimee Look",
-      "summary": "Continental shares increased following an improved full-year outlook driven by strategic partnerships with Chinese automotive manufacturers.",
-      "also": [],
-      "brief": {
-        "what": "Continental's share price rose after the company issued a more positive outlook for the full year. The German tire manufacturer aims to stabilize its European operations by expanding its business relationships with Chinese carmakers.",
-        "who": "Continental, a German tire manufacturer.",
-        "context": "The company is navigating market conditions by balancing its established European presence with new growth opportunities in the Chinese automotive sector.",
-        "why": "The company brightened its outlook as it looks to steady growth in Europe by forging ties with Chinese car manufacturers.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Pandora’s Shares Jump as Sales Continue to Rise Ahead of Festive Season",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/pandora-lifts-outlook-ahead-of-peak-festive-season-890f46f0?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-04",
-      "author": "Andrea Figueras",
-      "summary": "Pandora shares rose following an acceleration in sales growth as the company prepares for the upcoming festive shopping season. The jeweler reported these gains despite facing a challenging consumer environment.",
-      "also": [],
-      "brief": {
-        "what": "Pandora reported an acceleration in sales growth, leading to an increase in the company's share price. This performance comes as the jeweler enters the critical festive shopping period.",
-        "who": "Pandora, a jewelry company.",
-        "context": "The company is navigating a challenging consumer environment while preparing for its most important sales season of the year.",
-        "why": "The article states that the share price increase was driven by the reported acceleration in sales growth.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
-      "date": "2026-11-03",
-      "author": "Spacemanic",
-      "summary": "Spacemanic and Simera Sense are partnering to integrate the xScape200 dual-use camera into a 16U CubeSat platform. This collaboration aims to provide high-resolution imaging capabilities in a compact, cost-effective satellite solution.",
-      "also": [],
-      "brief": {
-        "what": "Czech firm Spacemanic and Belgian company Simera Sense have announced a partnership to offer a complete dual-use satellite mission solution. By integrating the xScape200 camera into a 16U CubeSat platform, the companies aim to provide high-resolution imaging that avoids the high costs and power requirements of larger spacecraft.",
-        "who": "Spacemanic, a satellite platform and deployer manufacturer, and Simera Sense, an optical technology provider.",
-        "context": "The industry is increasingly focused on low SWaP (Size, Weight, and Power) solutions to enable constellation growth and repeatable deployment without the need for massive, expensive satellite architectures.",
-        "why": "The companies state this collaboration simplifies the path from payload integration to launch by allowing the satellite structure to be shaped specifically around the camera, rather than forcing components into standard form factors.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "16U",
-          "what": "size capacity of the CubeSat platform"
-        },
-        {
-          "figure": "12U",
-          "what": "form factor of the xScape200 camera"
+          "figure": "50%",
+          "what": "increase in half-year profits"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "IndiGo explores large regional jet order with Embraer: Reuters",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters",
-      "date": "2026-11-04",
-      "author": "Ian Molyneaux",
-      "summary": "IndiGo is reportedly in early-stage discussions with Embraer for an order of up to 150 regional jets. The potential deal follows previous evaluations of various aircraft manufacturers to expand the airline's regional fleet.",
-      "also": [],
-      "brief": {
-        "what": "IndiGo is exploring a potential order for 100 regional jets from Embraer, with an option for 50 additional aircraft. While discussions are ongoing, no final decisions have been made regarding the specific aircraft type or the final order volume.",
-        "who": "IndiGo, India's largest airline, is the primary actor, with Embraer serving as the potential supplier.",
-        "context": "IndiGo currently operates ATR72-600s and has previously engaged in discussions with ATR, Airbus, and Embraer regarding fleet expansion. Embraer has also signed a Memorandum of Understanding with Adani Defense and Aerospace to potentially establish a Final Assembly Line for the E175 in India.",
-        "why": "The interest in regional jets is driven by the expectation that India will become the largest regional aircraft market over the next decade, supported by the expansion of localized air connectivity.",
-        "next": "The article states that talks are at an early stage with no guarantees of a deal."
-      },
-      "numbers": [
-        {
-          "figure": "100 regional jets",
-          "what": "potential order size for Embraer aircraft"
-        },
-        {
-          "figure": "50 more",
-          "what": "additional option for regional jet orders"
-        }
-      ]
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/lifestyle/thousands-blood-pressure-medication-bottles-recalled-nationwide-pills-fail-quality-test",
-      "date": "2026-11-02",
-      "author": null,
-      "summary": "Macleods Pharma USA has initiated a nationwide recall of specific blood pressure medication lots due to failure to meet federal dissolution quality standards. The recall affects thousands of bottles of Olmesartan Medoxomil, Amlodipine, and Hydrochlorothiazide tablets.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Fox Business",
-          "date": "2026-11-03",
-          "title": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test",
-          "url": "https://nypost.com/2026/11/03/business/macleods-pharma-usa-recalls-thousands-of-blood-pressure-medication-after-pills-fail-quality-test/",
-          "note": "New York Post: The headline is identical to the Fox Business coverage."
-        }
-      ],
-      "brief": {
-        "what": "Macleods Pharma USA is recalling 3,528 30-count bottles and 216 90-count bottles of blood pressure medication after the pills failed dissolution specifications. This Class II recall indicates that while the medication may cause temporary or reversible adverse health consequences, the risk of serious harm is considered remote.",
-        "who": "Macleods Pharma USA is the manufacturer initiating the recall, while the U.S. Food and Drug Administration (FDA) is the regulatory body overseeing the classification and reporting of the quality failure.",
-        "context": "This action follows a similar recall in September involving 13,567 bottles of chlorthalidone tablets by India-based Inventia Healthcare Ltd. due to comparable dissolution testing failures.",
-        "why": "The FDA stated the recall was necessary because the medication failed to dissolve as required during quality testing, leading to a violation of federal standards.",
-        "next": "The recall remains ongoing, and consumers are advised to check their prescription bottles for the specified lot numbers and National Drug Codes to determine if their medication is affected."
-      },
-      "numbers": [
-        {
-          "figure": "3,528",
-          "what": "30-count bottles of recalled medication"
-        },
-        {
-          "figure": "216",
-          "what": "90-count bottles of recalled medication"
-        },
-        {
-          "figure": "13,567",
-          "what": "bottles of chlorthalidone tablets recalled by Inventia Healthcare"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "When humans disappear, biodiversity takes a surprising turn",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03505-1",
-      "date": "2026-11-04",
-      "author": "Emma Marris",
-      "summary": "Contrary to the assumption that nature thrives when humans leave, research indicates that rural depopulation can lead to significant biodiversity loss. Many ecosystems rely on human-managed disturbances, such as traditional farming and woodland thinning, to maintain diverse habitats.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Studies in Japan and Europe show that biodiversity declines both in areas with growing human populations and in areas experiencing rural abandonment. Researchers found that many species depend on 'satoyama' landscapes or traditional agricultural practices that provide specific ecological niches through regular, low-intensity human disturbance.",
-        "who": "Ecologist Kei Uchida and environmental social scientist Peter Matanle led the research, which examined thousands of species across various landscapes to understand the impact of demographic shifts on ecosystems.",
-        "context": "As global populations shift toward urban centers, rural areas are emptying, leaving behind landscapes that were historically maintained by human activity like grazing, mowing, and forest thinning. When these activities cease, habitats become fragmented or overgrown, leading to the loss of species that rely on these managed environments.",
-        "why": "Researchers state that biodiversity falls because abandoned landscapes lose necessary irrigation, food sources, and open habitats. Matanle notes that simply leaving land alone is often insufficient for conservation, as many species require the 'mosaic' of habitats created by human interaction.",
-        "next": "Conservation officials are being urged to consider recruiting and supporting people to remain as active, permanent participants in these ecosystems to maintain biodiversity."
-      },
-      "numbers": [
-        {
-          "figure": "8.2 billion",
-          "what": "total global human population"
-        },
-        {
-          "figure": "58%",
-          "what": "decline in European farmland bird populations"
-        },
-        {
-          "figure": "19%",
-          "what": "percentage of global population living in rural areas"
-        },
-        {
-          "figure": "90%",
-          "what": "decrease in semi-natural grasslands in some Swedish regions"
-        },
-        {
-          "figure": "8.6%",
-          "what": "percentage of Japan's population classified as rural in 2025"
-        }
-      ]
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "European scientists face uncertainty as pandemic recovery fund winds down",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/european-scientists-face-uncertainty-pandemic-recovery-fund-winds-down",
-      "date": "2026-11-03",
-      "author": "Manuela Callari",
-      "summary": "European researchers are expressing concern over the future of scientific funding as the European Union's pandemic recovery fund concludes. Over €55 billion has been allocated to research and innovation initiatives through this mechanism.",
-      "also": [],
-      "brief": {
-        "what": "The European Union's pandemic recovery fund, which has directed more than €55 billion toward research and innovation, is winding down. This conclusion has created significant uncertainty among the scientific community regarding the long-term sustainability of these investments.",
-        "who": "European scientists and researchers are the primary actors concerned about the potential loss of financial support.",
-        "context": "The funding was part of a broader EU recovery effort initiated in response to the pandemic to bolster various sectors, including science and technology.",
-        "why": "Researchers worry that the financial support provided by the recovery fund will not be sustained once the program officially ends.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "€55 billion",
-          "what": "total funding allocated to research and innovation"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Are we ready for an AI bust?",
+      "title": "Singapore Airlines unveils biggest double bed in the sky in premium fightback",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
-      "date": "2026-11-04",
+      "url": "https://www.ft.com/content/50dd4644-2e89-4011-af15-9bd2a2bd388b?syn-25a6b1a6=1",
+      "date": "2026-11-06",
       "author": null,
-      "summary": "The current surge in investment and financial engineering related to artificial intelligence may lead to significant negative consequences when the cycle concludes. Prolonged market expansion increases the potential severity of a subsequent downturn.",
+      "summary": "Singapore Airlines is upgrading its first and business class cabins to better compete for premium passengers. The carrier is introducing new features, including the largest double bed available in the sky.",
       "also": [],
-      "kind": "analysis",
       "brief": {
-        "what": "The article warns that the ongoing investment surge and associated financial engineering in the artificial intelligence sector could result in a substantial negative impact when the trend eventually reverses.",
-        "who": "The Financial Times serves as the primary commentator on the potential risks of the current market cycle.",
-        "context": "The commentary addresses the risks inherent in prolonged periods of high investment and complex financial structuring within the technology sector.",
-        "why": "The author suggests that the longer these investment trends and financial engineering practices persist, the greater the eventual fallout will be.",
+        "what": "Singapore Airlines is launching a premium cabin upgrade, featuring the largest double bed in the sky, to regain market share in the luxury travel segment.",
+        "who": "Singapore Airlines is the primary actor, positioning itself against competitors to attract high-end travelers.",
+        "context": "The airline is responding to a loss of ground to rival carriers by focusing on product differentiation in its first and business class offerings.",
+        "why": "The carrier is pushing to attract upmarket passengers after experiencing increased competition from other airlines.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Accenture accused of publishing AI paper littered with AI hallucinations",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1",
-      "date": "2026-11-04",
-      "author": null,
-      "summary": "Accenture has pledged to revise a recent report after facing accusations that it contained AI-generated hallucinations. The consultancy firm attributed the inaccuracies to human error.",
+      "title": "Qantas Expects $2.63 Billion First-Half Fuel Bill Amid Elevated Oil Prices",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/qantas-expects-2-63-billion-first-half-fuel-bill-amid-elevated-oil-prices-b4657da0?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-05",
+      "author": "David Winning",
+      "summary": "Qantas projects a $2.63 billion fuel bill for the first half of the year as oil prices remain elevated. The airline plans to manage these costs by adjusting capacity and ticket pricing.",
       "also": [],
       "brief": {
-        "what": "Accenture is moving to correct a published report following allegations that the document was filled with AI hallucinations. The firm stated that the errors were the result of human oversight rather than a failure of the underlying technology.",
-        "who": "Accenture is the consultancy firm responsible for the report and the subsequent commitment to issue corrections.",
-        "context": "The incident highlights ongoing concerns regarding the reliability of generative AI tools in professional reporting and the potential for these systems to produce factually incorrect information.",
-        "why": "Accenture claims that the problems within the report were caused by human error during the production process.",
-        "next": "The firm will correct the report."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "For early-career scientists, the cost of AI can be a problem",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/early-career-scientists-cost-ai-can-be-problem",
-      "date": "2026-11-03",
-      "author": "Tom Howarth",
-      "summary": "Early-career researchers face significant financial barriers to accessing artificial intelligence tools, creating disparities in scientific capability. While some institutions provide subsidized access, many scientists are forced to pay for these resources personally or forgo them entirely.",
-      "also": [],
-      "brief": {
-        "what": "Early-career scientists are encountering unequal access to essential artificial intelligence tools, with some researchers receiving them at little cost while others must pay out of pocket or operate without them.",
-        "who": "Early-career scientists are the primary group affected by these financial hurdles.",
-        "context": "Artificial intelligence has become an increasingly vital component of modern research, yet the cost of these tools is creating a divide in the scientific community.",
-        "why": "The article indicates that the disparity exists because institutional support for AI tools is inconsistent, leaving some researchers to navigate the financial burden individually.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Biotech firms are meant to pay to use Earth’s genetic data. They’re not.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03554-6",
-      "date": "2026-11-03",
-      "author": "James Dinneen",
-      "summary": "A UN-backed initiative designed to collect revenue from biotechnology firms using genetic data has raised only a fraction of its target. While estimates suggest the fund could generate $1 billion annually, participation remains minimal among the thousands of eligible companies.",
-      "also": [],
-      "brief": {
-        "what": "The Cali Fund, established in 2024 to share profits from digital genetic sequence information, has struggled to gain traction, collecting only US$10,588 from five companies. Although experts estimate the fund could realistically raise $1 billion annually from 20,000 eligible firms, voluntary participation has been negligible.",
-        "who": "The UN manages the fund, while biotechnology firms and AI biology companies are the primary entities expected to contribute. Microbiologist Amber Scholz and economist Agata Makowska-Curran have highlighted the gap between the fund's potential and its current performance.",
-        "context": "The fund aims to address 'biopiracy' concerns, where wealthy nations profit from genetic resources sourced from biodiversity-rich, low-resource countries. It is part of a broader global effort to mobilize $200 billion annually for biodiversity conservation by 2030.",
-        "why": "Participation is voluntary, leading to a significant shortfall. Advocates argue that companies utilizing public genetic data for private profit, such as AI-driven drug developers, have a moral and economic obligation to support the conservation of the resources they exploit.",
+        "what": "Qantas anticipates a $2.63 billion fuel expenditure for the first half of the year due to high oil prices. To mitigate this financial impact, the carrier is actively adjusting its flight capacity and fare structures.",
+        "who": "Qantas, the airline managing the rising operational costs.",
+        "context": "Airlines are sensitive to fluctuations in global oil prices, which represent a significant portion of their operating expenses.",
+        "why": "The airline is responding to elevated oil prices by changing fares, adjusting capacity, and attempting to lock in lower fuel prices opportunistically.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "$1 billion",
-          "what": "estimated annual revenue potential for the fund"
-        },
-        {
-          "figure": "$3.6 billion",
-          "what": "potential annual revenue if all eligible firms contribute"
-        },
-        {
-          "figure": "US$10,588",
-          "what": "total contributions collected by the fund so far"
-        },
-        {
-          "figure": "20,000 companies",
-          "what": "number of firms considered large enough to contribute"
-        },
-        {
-          "figure": "0.1%",
-          "what": "percentage of revenue suggested for firm contributions"
+          "figure": "$2.63 billion",
+          "what": "projected fuel bill for the first half"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 1,
-      "title": "Walrus tusks carved in Bali are being illegally sold as Native American art, investigation finds",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/walrus-tusks-carved-bali-are-being-illegally-sold-native-american-art-investigation",
-      "date": "2026-11-03",
-      "author": "Rachel Nuwer",
-      "summary": "An investigation has uncovered an illicit trade involving walrus tusks carved in Bali that are being fraudulently marketed as authentic Native American art. This practice threatens both walrus populations and the economic livelihoods of Indigenous artisans.",
+      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+      "date": "2026-11-05",
+      "author": "Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera",
+      "summary": "A senior adviser to Argentine President Javier Milei reportedly assisted Flávio Bolsonaro at an airport following his defeat in the Brazilian presidential election. The meeting was confirmed by three individuals involved in the operation.",
       "also": [],
       "brief": {
-        "what": "An investigation revealed that walrus tusks carved in Bali are being illegally sold under the guise of Native American art. This illicit trade potentially endangers walrus populations and undermines the market for legitimate Indigenous-made goods.",
-        "who": "The investigation highlights the role of illicit traders and the impact on Indigenous artists.",
-        "context": "The trade involves the misrepresentation of carved walrus tusks, which are being falsely attributed to Native American creators to deceive buyers.",
-        "why": "The article states this trade is occurring because of a potentially massive illicit market that exploits both the animals and the cultural identity of Indigenous artists.",
+        "what": "A top adviser to Argentine President Javier Milei met with Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an airport in Argentina. This encounter was reportedly part of an operation to assist Bolsonaro following his election loss.",
+        "who": "Flávio Bolsonaro, the defeated Brazilian presidential candidate, and a top adviser to Argentine President Javier Milei.",
+        "context": "The report highlights political connections between the Argentine administration and the family of the former Brazilian president.",
+        "why": "The meeting occurred as part of an operation to assist Bolsonaro, according to three people involved in the process.",
         "next": "The article doesn't say."
       }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Moderna Lifts Full-Year Outlook, Swings to Quarterly Profit",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/health/moderna-lifts-full-year-outlook-swings-to-quarterly-profit-d05bf4b3?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-06",
+      "author": "Connor Hart",
+      "summary": "Moderna has raised its full-year revenue growth forecast to a range of 15% to 25% and reported a return to quarterly profitability. The company previously anticipated growth of up to 10% for the year.",
+      "also": [],
+      "brief": {
+        "what": "Moderna announced an improved financial outlook, projecting total revenue growth between 15% and 25% for the year. This upward revision follows a previous forecast that capped growth at 10%.",
+        "who": "Moderna, a biopharmaceutical company.",
+        "context": "The company is adjusting its financial expectations following a shift to quarterly profit.",
+        "why": "The article does not specify the reasons behind the improved financial performance or the revised outlook.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "15% to 25%",
+          "what": "expected total annual revenue growth"
+        },
+        {
+          "figure": "10%",
+          "what": "previous outlook for annual revenue growth"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "DuPont Swings to a Profit and Lifts Outlook",
+          "url": "https://www.wsj.com/business/earnings/dupont-swings-to-a-profit-and-lifts-outlook-e941091d?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Oil’s Plunge Below $100 Doesn’t Mean Markets Are Out of Jeopardy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/oil-s-plunge-below-100-doesn-t-mean-markets-are-out-of-jeopardy",
+      "date": "2026-11-06",
+      "author": "Alex Longley",
+      "summary": "Oil prices have fallen below $100 per barrel as traders reduce bets on conflict escalation. Despite this decline, market uncertainty remains high as peace is not guaranteed.",
+      "also": [],
+      "brief": {
+        "what": "Oil prices dropped below the $100 mark as traders adjusted their positions following a reduction in bets regarding conflict escalation. While this price movement suggests a cooling of immediate fears, the market remains in a state of potential jeopardy.",
+        "who": "Traders are the primary actors responsible for unwinding positions in response to shifting geopolitical expectations.",
+        "context": "The market is currently reacting to the perceived risk of conflict escalation, which has previously driven oil prices higher.",
+        "why": "The decline occurred because traders unwound bets on conflict escalation, though the article notes that peace remains far from certain.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$100",
+          "what": "price threshold for oil per barrel"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Bangkok’s prime property market is poised for change",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/71295123-1211-4088-a77d-8140a8175788",
+      "date": "2026-11-06",
+      "author": null,
+      "summary": "The opening of a new residential skyscraper in Bangkok signals a potential shift for the city's prime property market. Despite facing development challenges, the project represents a new chapter for the capital's real estate sector.",
+      "also": [],
+      "brief": {
+        "what": "A new residential skyscraper has opened on the Park Lane of Bangkok, marking a significant development for the city's prime property market.",
+        "who": "The developers behind the new residential skyscraper in the Thai capital.",
+        "context": "Bangkok's real estate sector is undergoing a transition, with this specific project serving as a focal point for the city's evolving property landscape.",
+        "why": "The project is described as a moment for a city ready for a new chapter, despite the difficulties encountered during its development.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Moderna swings to profit as momentum for cancer vaccine builds",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/05ce7a1d-0d7e-434a-bcea-e8239dcde17a?syn-25a6b1a6=1",
+      "date": "2026-11-06",
+      "author": null,
+      "summary": "Moderna has returned to profitability while seeing increased momentum for its cancer vaccine development. The company continues to lead performance metrics within the S&P 500 index.",
+      "also": [],
+      "brief": {
+        "what": "Moderna has shifted to a profitable position, supported by growing interest and progress in its cancer vaccine pipeline.",
+        "who": "Moderna, a biotechnology company.",
+        "context": "The company has maintained its status as the strongest performer in the S&P 500 over the last year.",
+        "why": "The article attributes the positive financial shift to the building momentum surrounding the company's cancer vaccine program.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Coinbase Bear Morgan Stanley Says Earnings Recovery Less Certain",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/coinbase-bear-morgan-stanley-says-earnings-recovery-less-certain",
+      "date": "2026-11-06",
+      "author": "Monique Mulima",
+      "summary": "Morgan Stanley has downgraded its outlook for Coinbase Global Inc., citing reduced confidence in the company's earnings recovery.",
+      "also": [],
+      "brief": {
+        "what": "Morgan Stanley has lowered its revenue estimates for Coinbase Global Inc. and expressed increased skepticism regarding the company's potential for an earnings recovery.",
+        "who": "Morgan Stanley acts as a financial analyst firm issuing a bearish outlook, while Coinbase Global Inc. is the cryptocurrency exchange subject to the revised projections.",
+        "context": "Coinbase is facing a growing list of market analysts who are skeptical of its financial performance, leading to a shift in sentiment among institutional observers.",
+        "why": "Morgan Stanley stated that confidence in the company's earnings recovery has deteriorated, prompting the firm to slash its revenue estimates.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "KKR Is Said to Seek More Banks for Logisteed IPO in Japan",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/kkr-is-said-to-seek-more-banks-for-logisteed-ipo-in-japan",
+      "date": "2026-11-06",
+      "author": "Julia Fioretti, Manuel Baigorri and Yasutaka Tamura",
+      "summary": "KKR & Co. is reportedly looking to add more banks to manage the potential initial public offering of Japanese logistics firm Logisteed Holdings Ltd. in Tokyo.",
+      "also": [],
+      "brief": {
+        "what": "Private equity firm KKR & Co. is currently seeking additional banking arrangers to facilitate a potential initial public offering for Logisteed Holdings Ltd. in Tokyo.",
+        "who": "KKR & Co. is the private equity firm managing the process, while Logisteed Holdings Ltd. is the Japanese logistics operator being prepared for the potential public listing.",
+        "context": "Logisteed Holdings Ltd. is a logistics operator based in Japan that is currently under the ownership or management of KKR & Co.",
+        "why": "The firm is seeking additional arrangers to assist with the potential IPO process in the Tokyo market.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Poundland on course for £18m profit despite owner pushing for collapse",
+      "source": "City AM",
+      "url": "https://www.cityam.com/poundland-on-course-for-18m-profit-despite-owner-pushing-for-collapse/",
+      "date": "2026-11-06",
+      "author": "Felix Armstrong",
+      "summary": "Poundland is projected to achieve an £18m profit this year, marking a significant financial turnaround despite its owner, Gordon Brothers, moving to appoint administrators. The retailer's potential return to profitability has sparked criticism over the owner's refusal to accept solvent buyout offers.",
+      "also": [],
+      "brief": {
+        "what": "Poundland is on track for an £18m profit, a major recovery from the previous year's £85.2m loss. Despite this performance, owner Gordon Brothers has filed a notice to appoint administrators, citing the business as challenged and vulnerable.",
+        "who": "Gordon Brothers is the US investment firm and owner of Poundland, while Barry Williams serves as the retailer's managing director. Other key figures include founder Steve Smith and various bidders like Martin Property Group.",
+        "context": "Gordon Brothers acquired the retailer from Pepco and has been managing a restructuring process. The firm recently rejected solvent acquisition offers, leading to concerns from politicians and suppliers regarding the potential collapse of the 600-store chain.",
+        "why": "Gordon Brothers claims the business remains vulnerable to future trading downturns despite management's turnaround efforts. Conversely, critics and founder Steve Smith argue the company is performing well and that the administration filing is unnecessary given existing solvent purchase offers.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "£18m",
+          "what": "unaudited profit for the year to September"
+        },
+        {
+          "figure": "£85.2m",
+          "what": "pre-tax loss in the previous year"
+        },
+        {
+          "figure": "£30m",
+          "what": "value of a loan bought from Pepco"
+        },
+        {
+          "figure": "12,000",
+          "what": "number of staff employed by Poundland"
+        },
+        {
+          "figure": "600",
+          "what": "number of stores operated by Poundland"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "A rate rise is the right decision, but stop blaming Iran",
+      "source": "City AM",
+      "url": "https://www.cityam.com/a-rate-rise-is-the-right-decision-but-stop-blaming-iran/",
+      "date": "2026-11-06",
+      "author": "Emmanuel Igwe",
+      "summary": "The Bank of England has unanimously raised interest rates to four per cent, citing concerns over persistent inflation rather than temporary external shocks. The decision aims to curb second-round price effects despite the potential for increased borrowing costs for businesses and households.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "The Bank of England's Monetary Policy Committee voted unanimously to increase the Bank Rate to four per cent. This move reflects a shift in strategy to address persistent inflationary pressures, as the Bank no longer views energy shocks as a temporary blip.",
+        "who": "The Bank of England, led by Governor Andrew Bailey, and the Monetary Policy Committee are the primary actors, with the Treasury and Chancellor facing the resulting fiscal implications.",
+        "context": "The decision follows a period where the Bank previously viewed inflation as driven by external factors like the war in Iran. The economy has shown growth, but businesses are increasingly passing energy costs to consumers, prompting the Bank to act to maintain control over market expectations.",
+        "why": "The Bank acted to prevent second-round effects, such as wage-price spirals and businesses raising prices to protect margins. Emmanuel Igwe argues the government must address root cost issues rather than relying on external blame.",
+        "next": "Markets are pricing in the prospect for up to four more quarter-rate rises by the end of 2027, while the government faces pressure to address energy costs."
+      },
+      "numbers": [
+        {
+          "figure": "68 per cent",
+          "what": "businesses intending to raise prices due to energy shocks"
+        },
+        {
+          "figure": "£15bn",
+          "what": "current fiscal headroom available to the Treasury"
+        },
+        {
+          "figure": "£14bn",
+          "what": "annual increase in government borrowing costs due to inflation"
+        },
+        {
+          "figure": "0.1 percentage point",
+          "what": "reduction in CPI trajectory from the government energy rebate"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "US stocks plummet as Democrat victory sparks investor panic",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/business/2026/11/05/nasdaq-us-midterm-elections-ai-tech-musk-tesla-spacex/",
+      "date": "2026-11-05",
+      "author": "Chris Price",
+      "summary": "Wall Street experienced its worst sell-off in 18 months as a Democrat midterm election victory sparked investor fears of tighter AI and data center regulations. The Nasdaq 100 plunged over 5%, with semiconductor stocks and Elon Musk’s companies leading the decline.",
+      "also": [],
+      "brief": {
+        "what": "US markets suffered a massive sell-off, with the Nasdaq 100 falling over 5% and the Philadelphia Semiconductor Index dropping 12.2%. Investors moved capital into 'safe haven' assets like US Treasuries and gold as the VIX volatility index surged 47%.",
+        "who": "Investors, major tech companies including Nvidia, AMD, and Tesla, and the Democratic Party, whose midterm election victory triggered the market reaction.",
+        "context": "The AI boom has driven significant market growth under the previous administration. However, Democrats have expressed opposition to the rapid expansion of data centers, which are essential infrastructure for AI development.",
+        "why": "Investors fear that Democratic control of Congress will lead to stricter regulations on AI and data centers, potentially slowing industry growth. Analyst Susannah Streeter noted that sentiment around the AI trade remains fragile due to these regulatory concerns.",
+        "next": "Markets are monitoring the regulatory roadmap for potential mergers, such as the proposed deal between Tesla and SpaceX, which analysts now view as facing significant political hurdles."
+      },
+      "numbers": [
+        {
+          "figure": "$3.2tn",
+          "what": "total market value lost on Wall Street"
+        },
+        {
+          "figure": "12.2pc",
+          "what": "decline of the Philadelphia Semiconductor Index"
+        },
+        {
+          "figure": "47pc",
+          "what": "increase in the VIX fear index"
+        },
+        {
+          "figure": "4.48pc",
+          "what": "yield on the 2-year Treasury note"
+        },
+        {
+          "figure": "1.1pc",
+          "what": "increase in gold futures prices"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "HMRC bank account raid powers spark concern over burden of proof",
+      "source": "City AM",
+      "url": "https://www.cityam.com/hmrc-bank-account-raid-powers-spark-concern-over-burden-of-proof/",
+      "date": "2026-11-06",
+      "author": "Rosie Harris-Davison",
+      "summary": "New HMRC powers will allow the tax authority to automatically deduct tax debts directly from personal and corporate bank accounts starting in 2029. Critics warn that these measures raise significant concerns regarding the accuracy of debt calculations and the protection of taxpayers.",
+      "also": [],
+      "brief": {
+        "what": "The government is introducing powers to recover tax debts directly from bank accounts for individuals and companies, targeting those who refuse to engage despite having the means to pay. These measures aim to close a £59.2bn tax gap, with projected revenue reaching £320m by 2031/32.",
+        "who": "Chancellor John Healey introduced the policy, while HMRC will execute the collections. Tax experts at MHA, including James Kipping and Rachel Nutt, have raised concerns regarding the accuracy of debt assessments and the potential for administrative errors.",
+        "context": "Current rules for the direct recovery of debts are limited by high thresholds and the requirement that significant funds remain in the account. The government argues that existing limitations have allowed taxpayers to deliberately ignore demands, making debt collection expensive and lengthy.",
+        "why": "Ministers believe the new powers will ensure fairness and address the tax gap by targeting non-compliant taxpayers who have the means to pay. HMRC maintains that the process will include robust safeguards and only apply after repeated attempts to contact the taxpayer.",
+        "next": "The new powers are scheduled to become effective from July 2029."
+      },
+      "numbers": [
+        {
+          "figure": "£59.2bn",
+          "what": "the total tax gap in the 2024/25 tax year"
+        },
+        {
+          "figure": "£320m",
+          "what": "estimated revenue raised in 2031/32"
+        },
+        {
+          "figure": "£255m",
+          "what": "estimated revenue raised in 2030/31"
+        },
+        {
+          "figure": "£50m",
+          "what": "estimated revenue raised within the first year"
+        },
+        {
+          "figure": "£10,000",
+          "what": "maximum tax debt for companies under new powers"
+        }
+      ]
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Noise pollution is causing potentially massive problems for wildlife across the globe",
+      "source": "Science (AAAS)",
+      "url": "https://www.science.org/content/article/noise-pollution-causing-potentially-massive-problems-wildlife-across-globe",
+      "date": "2026-11-05",
+      "author": "Rodrigo Pérez Ortega",
+      "summary": "A comprehensive analysis reveals that human-made noise pollution is causing widespread harm to wildlife across diverse global ecosystems. This study represents the largest investigation to date into the ecological impacts of anthropogenic sound.",
+      "also": [],
+      "brief": {
+        "what": "The largest analysis conducted to date has identified that human-made noise pollution is negatively impacting wildlife across a variety of ecosystems globally.",
+        "who": "Researchers conducted the study to assess the ecological consequences of anthropogenic sound.",
+        "context": "Noise pollution is increasingly recognized as a significant environmental stressor that affects animal behavior and habitat quality.",
+        "why": "The study was performed to quantify the extent of harm caused by human-generated sounds in natural environments.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-11351-4",
+      "date": "2026-11-05",
+      "author": "Xinyu Chen",
+      "summary": "A new study suggests that integrating hydrogen and its derivatives into China's energy economy could significantly lower the costs of achieving carbon neutrality. This transition pathway may reduce overall costs by trillions while eliminating the need for external oil imports.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Researchers have developed a cost-effective pathway for China to reach carbon neutrality by utilizing hydrogen and its derivatives as green energy carriers. This approach could save $10.7 trillion in transition costs and achieve negative carbon abatement costs of $-6.15/ton.",
+        "who": "The study was conducted by researchers from Huazhong University of Science and Technology, Harvard University, and Shandong University.",
+        "context": "China, as the world's largest CO2 emitter, faces significant challenges in decarbonizing hard-to-abate sectors and managing variable renewable energy sources, while hydrogen deployment currently faces high costs for storage and transportation.",
+        "why": "The authors argue that hydrogen derivatives provide a more affordable and secure decarbonization strategy than relying solely on renewable electrification, as it eliminates external oil import expenses and boosts economic growth.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$10.7 trillion",
+          "what": "reduction in overall energy transition costs"
+        },
+        {
+          "figure": "$-6.15/ton",
+          "what": "negative carbon abatement costs"
+        },
+        {
+          "figure": "29",
+          "what": "provincial regions analyzed for power system operations"
+        },
+        {
+          "figure": "46,000",
+          "what": "transfer routings for hydrogen derivatives"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Firms are racing to protect themselves from AI cyber threats",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
+      "date": "2026-11-05",
+      "author": null,
+      "summary": "Organizations are increasingly prioritizing cybersecurity measures to defend against a rising wave of malicious AI-driven cyberattacks. The current threat landscape suggests that further sophisticated attacks are likely to occur.",
+      "also": [],
+      "brief": {
+        "what": "Hackers have launched a series of devastating cyberattacks, prompting firms to race toward implementing new defensive strategies. The current environment indicates that additional threats are expected to follow.",
+        "who": "Hackers, who are identified as the perpetrators of the recent wave of attacks, and firms, which are the entities currently seeking to protect their infrastructure.",
+        "context": "The rapid evolution of artificial intelligence has introduced new vulnerabilities, leading to a surge in cyber threats that businesses must now address to maintain operational security.",
+        "why": "The article states that hackers have unleashed a devastating wave of attacks, creating an urgent need for companies to bolster their digital defenses against potential future incidents.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "The palaeo cave art that hid in plain sight for 26,000 years",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03585-z",
+      "date": "2026-11-06",
+      "author": "Chris Simms",
+      "summary": "Archaeologists have discovered hundreds of prehistoric rock-art engravings in a Spanish cave system previously thought to be devoid of such findings. The discovery of 280 motifs challenges existing understandings of regional cultural trends and prehistoric populations.",
+      "also": [],
+      "brief": {
+        "what": "Researchers identified 280 Palaeolithic art motifs, including 55 animal depictions, within the Cova de la Font Major in Catalonia. These engravings, which date back approximately 26,000 years, were previously overlooked despite the site being a public museum for decades.",
+        "who": "Archaeologists Josep Maria Vergès Bosch and Míriam Salas-Altès from the Catalan Institute of Human Paleoecology and Social Evolution (IPHES-CERCA) led the study.",
+        "context": "The Cova de la Font Major is a 3.5-kilometre cave system in northeastern Spain that has been open to tourists for roughly seventy years. The region was previously considered to have almost no Palaeolithic art, making this discovery significant for understanding prehistoric human activity.",
+        "why": "The engravings were difficult to detect because they require specific lighting angles to reveal the depressions in the rock. Salas-Altès notes that the sheer quantity of art discovered at the site is exceptional.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "280",
+          "what": "Palaeolithic art motifs studied in the cave"
+        },
+        {
+          "figure": "55",
+          "what": "animal depictions identified within the engravings"
+        },
+        {
+          "figure": "3.5 kilometres",
+          "what": "length of the underground cave passageways"
+        }
+      ]
     }
   ]
 }
