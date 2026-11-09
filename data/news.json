@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-08",
-  "window": "2026-11-01 to 2026-11-08",
+  "generated": "2026-11-09",
+  "window": "2026-11-02 to 2026-11-09",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-07",
-    "label": "Sat 07 Nov · change on the day",
+    "asof": "2026-11-09",
+    "label": "Mon 09 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
@@ -24,99 +24,100 @@
       },
       {
         "name": "CAC 40",
-        "value": "8,139.00",
-        "change": "-0.81%"
+        "value": "8,204.12",
+        "change": "+0.80%"
       },
       {
         "name": "DAX",
-        "value": "25,820.36",
-        "change": "-1.92%"
+        "value": "26,098.35",
+        "change": "+1.08%"
       },
       {
         "name": "Brent oil",
-        "value": "$98.32",
-        "change": "UNCH"
+        "value": "$94.54",
+        "change": "-3.84%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.859%",
-        "change": "+0.02 pt"
+        "value": "4.843%",
+        "change": "-0.02 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1143",
-        "change": "UNCH"
+        "value": "1.1195",
+        "change": "+0.4667%"
       }
     ]
   },
   "week": [
     {
-      "text": "Tesla is winding down Cybertruck production to focus on its Cybercab, while aerospace firms like SpaceX and Blue Origin are expanding their lunar efforts through new NASA contracts.",
+      "text": "Nvidia CEO Jensen Huang is under investigation following an admitted affair with a suspected Chinese intelligence asset, leading to concerns over national security and a projected decline in the company's stock price.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush"
+        "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+        "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "https://www.cityam.com/nvidia-shares-set-to-slide-as-spy-scandal-threatens-ai-recovery/",
+        "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy"
       ]
     },
     {
-      "text": "Global aviation and media sectors are facing a wave of malicious bomb hoaxes, while regional conflicts in the Middle East continue to disrupt airline profitability and drive up global fuel costs.",
+      "text": "European air travel has faced significant disruption due to a series of hoax bomb threats targeting at least 25 flights, while aviation executives warn that new environmental mandates could further threaten the industry's viability.",
       "urls": [
-        "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-        "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1",
-        "https://www.wsj.com/business/energy-oil/qantas-expects-2-63-billion-first-half-fuel-bill-amid-elevated-oil-prices-b4657da0?mod=pls_whats_news_us_business_f",
-        "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a?mod=pls_whats_news_us_business_f"
+        "https://www.cityam.com/british-airways-owner-warns-green-charges-will-kill-aviation-industry-and-hike-fares/",
+        "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+        "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions"
       ]
     },
     {
-      "text": "The Bank of England has raised interest rates to 4% to combat inflation, while US tech stocks show signs of recovery following midterm election uncertainty.",
+      "text": "Major European banks are pursuing consolidation, with Crédit Agricole proposing a merger with Banco BPM and UniCredit signaling an accelerated move to acquire Commerzbank.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-        "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending"
+        "https://www.ft.com/content/5301558f-d31b-4399-ac36-cc790837db1b?syn-25a6b1a6=1",
+        "https://www.wsj.com/business/earnings/unicredit-raises-profit-guidance-as-control-of-commerzbank-nears-ce8ccdc8"
       ]
     },
     {
-      "text": "Delegates have gathered in Turkey for the Cop31 climate summit to negotiate climate finance and fossil fuel transitions, amid a complex landscape of international industrial policy.",
+      "text": "Tesla is shifting its manufacturing focus toward robotics and autonomous vehicles, leading to the planned wind-down of Cybertruck production by mid-2025.",
       "urls": [
-        "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-        "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+        "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
       ]
     },
     {
-      "text": "Fox Corporation has finalized its $22 billion acquisition of Roku, while Anthropic is preparing for an IPO with a target valuation of $1.5 trillion.",
+      "text": "Global climate and economic challenges are intensifying, as the COP31 conference begins amid warnings of a 1.5 °C temperature overshoot and the Bank of England raises interest rates to 4% to combat inflation.",
       "urls": [
-        "https://www.foxbusiness.com/markets/fox-completes-acquisition-streaming-giant-roku",
-        "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1"
+        "https://www.nature.com/articles/d41586-026-03631-w",
+        "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
   "watch": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-18",
       "when": "",
-      "label": "Dana White to meet with President Trump regarding press secretary offer",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+      "label": "Nvidia quarterly earnings report",
+      "url": "https://www.cityam.com/nvidia-shares-set-to-slide-as-spy-scandal-threatens-ai-recovery/"
     },
     {
-      "date": "2026-11-20",
-      "when": "",
-      "label": "UK and EU leaders summit to discuss trade and energy deals",
-      "url": "https://www.cityam.com/nandy-flags-downsides-of-closer-eu-relations/"
+      "date": "2026-12-01",
+      "when": "December",
+      "label": "Federal Reserve interest rate meeting",
+      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
     },
     {
-      "date": "2026-11-26",
-      "when": "Before Thanksgiving",
-      "label": "Anthropic IPO listing",
-      "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1"
+      "date": "2025-06-01",
+      "when": "Mid-2025",
+      "label": "Tesla to cease Cybertruck production",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
     },
     {
-      "date": "2026-12-06",
-      "when": "28 days from Nov 8",
-      "label": "Deadline for Gadi Eisenkot to form Israeli government",
-      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+      "date": "2028-01-01",
+      "when": "2028",
+      "label": "Tesla Roadster production start",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
     },
     {
-      "date": "2028-12-31",
+      "date": "2028-12-01",
       "when": "Late 2028",
-      "label": "Targeted launch for NASA PROMISE rover mission",
+      "label": "NASA PROMISE rover mission launch",
       "url": "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush"
     }
   ],
@@ -124,227 +125,360 @@
     {
       "topic": "business",
       "importance": 3,
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
       "author": null,
-      "summary": "Tesla plans to wind down production of the Cybertruck at its Texas factory next year to prioritize the manufacturing of its self-driving Cybercab. The decision follows disappointing sales figures and a significant decline in annual vehicle deliveries.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Patrick George",
-          "date": "2026-11-06",
-          "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales",
-          "url": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the story by emphasizing the 'polarizing' nature of the vehicle and the specific context of 'slow sales'."
-        },
-        {
-          "source": "The Washington Post",
-          "author": "Victoria Craw",
-          "date": "2026-11-06",
-          "title": "Musk says Tesla will wind down Cybertruck production in Texas",
-          "url": "https://www.washingtonpost.com/business/2026/11/06/musk-says-tesla-will-wind-down-cybertruck-production-texas/",
-          "note": "The Washington Post focuses specifically on the geographic location of the production wind-down at the Texas factory."
-        }
-      ],
+      "summary": "Nvidia CEO Jensen Huang is under internal investigation following reports of an extramarital affair with a woman suspected of being a Chinese intelligence asset. The company maintains that US national security has not been compromised by the relationship.",
+      "also": [],
       "brief": {
-        "what": "Tesla is winding down Cybertruck production at its Texas facility in 2026 to reallocate capacity for the production of its self-driving Cybercab. Sales of the vehicle dropped to 20,237 units in 2025, down from 38,965 the previous year, falling well short of Elon Musk’s initial 250,000 annual sales target.",
-        "who": "Elon Musk, CEO of Tesla, confirmed the production shift, while Wes Morrill, the project's lead engineer, indicated the vehicle is being discontinued.",
-        "context": "The Cybertruck, characterized by its stainless steel, angular design, faced significant development delays and public scrutiny following a 2019 demonstration where its glass shattered. Despite being a passion project for Musk, the vehicle struggled to gain mass-market traction and faced multiple recalls, including one affecting over 46,000 units in 2025.",
-        "why": "Musk stated the decision is intended to make room for building more self-driving Cybercab cars, with lead engineer Wes Morrill noting the Cybertruck served as a technology development platform that now informs the Cybercab.",
-        "next": "Tesla will wind down production next year, though Musk confirmed the existing Cybertruck fleet will remain in operation for a long time."
+        "what": "Nvidia has launched an independent investigation into CEO Jensen Huang after reports surfaced regarding his affair with Alice Huang, a businesswoman suspected by US intelligence of spying for Beijing. While Nvidia states it does not believe national security was compromised, the situation has drawn scrutiny due to the company's central role in the global AI industry and US-China trade tensions.",
+        "who": "Jensen Huang is the CEO and co-founder of Nvidia, a dominant force in AI hardware. Alice Huang is a former executive at Megaspeed who is alleged by US officials to be a Chinese intelligence asset.",
+        "context": "Nvidia is a critical supplier of high-end chips essential for AI development. The US has implemented strict export controls to prevent these technologies from reaching China, creating a complex geopolitical environment for the company.",
+        "why": "The investigation was prompted by reports that Jensen Huang had an affair with a suspected spy, raising concerns among lawmakers about potential national security risks and the integrity of US technology leadership.",
+        "next": "Nvidia's board has expressed confidence in Huang's leadership, and the company is conducting an internal review while continuing its operations."
       },
       "numbers": [
         {
-          "figure": "20,237",
-          "what": "Cybertrucks sold by Tesla in 2025"
+          "figure": "$4.5tn",
+          "what": "current market valuation of Nvidia"
         },
         {
-          "figure": "38,965",
-          "what": "Cybertrucks sold by Tesla in 2024"
+          "figure": "$155bn",
+          "what": "estimated personal fortune of Jensen Huang"
         },
         {
-          "figure": "250,000",
-          "what": "annual Cybertruck sales predicted by Musk"
+          "figure": "$9bn",
+          "what": "estimated value of the Jen-Hsun and Lori Huang Foundation"
         },
         {
-          "figure": "46,000",
-          "what": "Cybertrucks affected by a 2025 recall"
-        },
-        {
-          "figure": "146,000",
-          "what": "orders received for Cybertruck in 2019"
+          "figure": "90%",
+          "what": "share of advanced chips produced by TSMC"
         }
       ]
     },
     {
-      "topic": "culture",
+      "topic": "markets",
       "importance": 3,
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "date": "2026-11-08",
-      "author": "The Associated Press",
-      "summary": "President Donald Trump has offered the White House press secretary position to UFC CEO Dana White. White confirmed he plans to meet with the president to discuss the potential appointment.",
+      "title": "Nvidia’s Stock Price Set to Drop After Investigation Into CEO Jensen Huang",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+      "date": "2026-11-09",
+      "author": "Joe Rennison and Jason Karaian",
+      "summary": "Nvidia's stock price is expected to decline following CEO Jensen Huang's admission of a relationship with a suspected Chinese spy. The company's significant role in the artificial intelligence sector suggests this development could have broad implications for Wall Street.",
       "also": [
         {
-          "source": "The Telegraph",
-          "author": "Chris Price",
-          "date": "2026-11-06",
-          "title": "White House postpones tech boss meeting after AI crash",
-          "url": "https://www.telegraph.co.uk/business/2026/11/06/ai-stocks-rout-data-centres-semiconductors-ftse-100-markets/",
-          "note": "The Telegraph frames the story by linking it to a broader administrative crisis involving a tech meeting cancellation."
+          "source": "Wall Street Journal",
+          "author": "Walden Siew",
+          "date": "2026-11-09",
+          "title": "Jensen Huang Investigation Rocks Nvidia as Board Investigates",
+          "url": "https://www.wsj.com/cfo-journal/jensen-huang-investigation-rocks-nvidia-as-board-investigates-a0581595?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal focuses on the internal board investigation and the CEO's personal apology regarding his infidelity."
         },
         {
-          "source": "Washington Examiner",
-          "author": "Carter Schroppe",
-          "date": "2026-11-08",
-          "title": "Dana White responds to question about Trump’s White House press secretary request",
-          "url": "https://www.washingtonexaminer.com/news/white-house/4796653/dana-white-responds-question-trump-white-house-press-secretary-request/",
-          "note": "Washington Examiner focuses on White's specific response to the request rather than the offer itself."
+          "source": "Bloomberg",
+          "author": "Phil Serafino",
+          "date": "2026-11-09",
+          "title": "Jensen Huang Puts $200 Billion Dent in Nvidia’s Stock Price",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/jensen-huang-puts-200-billion-dent-in-nvidia-s-stock-price",
+          "note": "Bloomberg highlights the specific financial impact by quantifying the $200 billion loss in market capitalization."
+        },
+        {
+          "source": "Wall Street Journal",
+          "author": "Anissa Gardizy",
+          "date": "2026-11-09",
+          "title": "Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff.",
+          "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?mod=pls_whats_news_us_business_f"
+        }
+      ],
+      "brief": {
+        "what": "Nvidia shares are poised to drop after CEO Jensen Huang admitted to a relationship with a suspected Chinese spy. This disclosure has already impacted the company's valuation, resulting in a $200 billion decline in its stock price.",
+        "who": "Jensen Huang, the CEO of chipmaker Nvidia, is the central figure whose personal conduct has triggered the market reaction.",
+        "context": "Nvidia is a major player in the artificial intelligence industry, making its corporate stability and leadership integrity critical to broader market performance.",
+        "why": "The market reaction stems from the significance of Nvidia's size and its central role in the A.I. trade, which causes the CEO's admission to reverberate across Wall Street.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$200 billion",
+          "what": "the reduction in Nvidia's stock market value"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+      "date": "2026-11-09",
+      "author": "Graeme Wearden and Lauren Almeida",
+      "summary": "Nvidia has launched an independent investigation after CEO Jensen Huang admitted to an affair with a woman allegedly linked to Chinese intelligence. The scandal has triggered concerns over national security and potential impacts on the company's stock performance.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Adam Satariano",
+          "date": "2026-11-09",
+          "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+          "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+          "note": "The New York Times focuses on China's official denial of the espionage claims."
         },
         {
           "source": "Al Jazeera",
           "author": null,
-          "date": "2026-11-08",
-          "title": "Trump asks UFC chief Dana White to be White House press secretary",
-          "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
-          "note": "Al Jazeera presents the event as a direct request from the president to the UFC chief."
+          "date": "2026-11-09",
+          "title": "China rejects ‘baseless’ claims it spied on Nvidia boss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
+          "note": "Al Jazeera frames the story around the geopolitical implications and the specific question of why the CEO is at the center of a spy scandal."
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-09",
+          "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+          "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss"
         }
       ],
       "brief": {
-        "what": "President Donald Trump publicly offered the role of White House press secretary to UFC CEO Dana White via social media. White confirmed he will meet with the president to discuss the offer, though he noted he currently holds multiple existing professional responsibilities.",
-        "who": "President Donald Trump, who initiated the offer, and Dana White, the UFC CEO and president of Zuffa Boxing.",
-        "context": "The administration is currently undergoing a major transition following significant Republican losses in the midterm elections and the replacement of the chief of staff. The press secretary position has remained vacant since August, following a brief five-day tenure by a previous appointee.",
-        "why": "Trump stated he wants White to serve as chief spokesperson and bring UFC fighters as assistants to help defend the administration against political opposition. The move follows a period of internal administration instability.",
-        "next": "White plans to meet with President Trump on Monday to discuss the offer."
+        "what": "Nvidia is investigating reports that CEO Jensen Huang was the target of a foreign intelligence effort involving an affair with Alice Huang, a woman allegedly recruited by China's Ministry of State Security. The news follows a 5% drop in pre-market trading and follows previous allegations that Nvidia chips were being diverted to China despite US export controls.",
+        "who": "Jensen Huang, Nvidia CEO; Alice Huang, the woman involved in the alleged honeytrap; and the US government, which is concerned about AI competition with China.",
+        "context": "The incident occurs amid heightened US-China tensions over AI technology and export restrictions. Short-seller Culper Research previously alleged that Nvidia maintained significant business ties in China, a claim the company has faced scrutiny over for months.",
+        "why": "The investigation was launched following reports of the affair and potential national security risks. Analysts suggest the scandal adds uncertainty to the AI sector, while Democratic lawmakers have signaled intentions to investigate the matter.",
+        "next": "Nvidia is conducting an independent investigation, and Congress is expected to launch its own inquiry into the relationship and its implications for national security."
       },
       "numbers": [
         {
-          "figure": "5 days",
-          "what": "duration of the previous press secretary's tenure"
+          "figure": "5%",
+          "what": "expected drop in Nvidia share price"
+        },
+        {
+          "figure": "2.2%",
+          "what": "increase in Japan's Nikkei index"
+        },
+        {
+          "figure": "5%",
+          "what": "surge in Taiwan's TAIEX index"
+        },
+        {
+          "figure": "20%",
+          "what": "estimated portion of Nvidia compute revenues from China"
+        },
+        {
+          "figure": "$186",
+          "what": "closing price of Nvidia shares last Friday"
         }
       ]
     },
     {
       "topic": "aerospace",
-      "importance": 3,
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "author": null,
-      "summary": "More than 20 aircraft across Europe have been targeted by fake bomb threats in a series of malicious hoaxes. This marks the second such incident occurring within a single week.",
+      "importance": 2,
+      "title": "British Airways owner warns green charges will ‘kill’ aviation industry and hike fares",
+      "source": "City AM",
+      "url": "https://www.cityam.com/british-airways-owner-warns-green-charges-will-kill-aviation-industry-and-hike-fares/",
+      "date": "2026-11-09",
+      "author": "Rosie Harris-Davison",
+      "summary": "International Airlines Group CEO Luis Gallego warns that proposed environmental mandates for sustainable aviation fuel will increase passenger fares and disadvantage European carriers against global competitors. The executive argues that current supply shortages make these targets unrealistic and potentially damaging to the industry's viability.",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Jonathan Wolfe and Leo Sands",
-          "date": "2026-11-06",
-          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
-          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-          "note": "The New York Times headlines focus on the resulting passenger frustration and the broader disruption to European travel rather than the technical communication process."
-        },
-        {
-          "source": "The New York Times",
-          "author": "Josephine de La Bruyère and Carlos Barragán",
-          "date": "2026-11-06",
-          "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
-          "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html"
-        },
-        {
-          "source": "The New York Times",
-          "author": "Josephine de La Bruyère and Amelia Nierenberg",
-          "date": "2026-11-05",
-          "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
-          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html"
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-09",
+          "title": "BA parent says onerous green charges will ‘kill’ Europe’s aviation industry",
+          "url": "https://www.ft.com/content/4330a15b-f91d-4095-909f-92617b9caf1e?syn-25a6b1a6=1",
+          "note": "The Financial Times headline emphasizes the 'onerous' nature of the charges, whereas City AM focuses on the warning that the charges will 'kill' the industry."
         }
       ],
       "brief": {
-        "what": "Over 20 aircraft operating across Europe have been subjected to fake bomb threats, marking the second wave of such incidents in one week. The UK government has officially characterized these events as a malicious hoax.",
-        "who": "BBC Verify is investigating the communication process, while the UK government is monitoring the situation.",
-        "context": "The aviation industry is currently managing a series of security disruptions caused by these coordinated fake threats, which have impacted flight operations across the European region.",
-        "why": "The UK government describes the incidents as a malicious hoax, though the specific motivations behind the threats remain under investigation.",
+        "what": "IAG CEO Luis Gallego has criticized planned green fuel mandates, warning they will inflate ticket prices and harm European aviation competitiveness. Current regulations require a 3.7 per cent sustainable aviation fuel (SAF) mix, a figure set to rise to 10 per cent by 2030, despite concerns over supply availability.",
+        "who": "Luis Gallego, CEO of International Airlines Group (IAG), which owns British Airways, Vueling, and Aer Lingus.",
+        "context": "The UK government is consulting on mandates for second and third-generation SAF, which are more expensive than standard alternatives. Meanwhile, IAG recently reported a 16 per cent profit decline to €3bn, citing rising jet fuel costs linked to geopolitical instability in the Middle East.",
+        "why": "Gallego claims that current SAF production is insufficient to meet government mandates, creating a cost disadvantage for European airlines compared to global rivals. He argues that without a level playing field, the industry faces collapse without achieving environmental goals.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "20 aircraft",
-          "what": "number of planes targeted by bomb threats"
+          "figure": "10 per cent",
+          "what": "mandated sustainable aviation fuel mix by the end of the decade"
+        },
+        {
+          "figure": "3.7 per cent",
+          "what": "current required sustainable aviation fuel mix for British airlines"
+        },
+        {
+          "figure": "€3bn",
+          "what": "pre-tax profit for IAG in the nine months to September"
+        },
+        {
+          "figure": "16 per cent",
+          "what": "dip in IAG pre-tax profit"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "title": "Krakow shooting suspect has died in hospital, police say",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
       "author": null,
-      "summary": "Israeli President Isaac Herzog has tasked opposition leader Gadi Eisenkot with forming a new coalition government following an inconclusive election. Eisenkot has 28 days to secure a majority in the 120-seat Knesset.",
+      "summary": "The suspect in a mass shooting that killed nine people in Krakow, Poland, has died in hospital. Authorities are continuing to investigate the motive behind the attack, which involved both a public shooting and the killing of the gunman's family members.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Ephrat Livni and Aaron Boxerman",
-          "date": "2026-11-08",
-          "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-          "note": "The New York Times headlines emphasize the rivalry between Eisenkot and Netanyahu and the strategic goal of ousting the incumbent."
+          "author": "Amelia Nierenberg",
+          "date": "2026-11-09",
+          "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+          "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+          "note": "The New York Times headlines focus more on the rarity of the event in Poland and the public's search for answers regarding the suspect's motivations."
         },
         {
           "source": "The New York Times",
-          "author": "David M. Halbfinger",
-          "date": "2026-11-07",
-          "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-          "note": "NPR's headline highlights the specific choice of the president to bypass Netanyahu in favor of the opposition candidate."
+          "author": "Andrew Higgins",
+          "date": "2026-11-08",
+          "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+          "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html"
         },
         {
-          "source": "NPR",
-          "author": "Tara Neill",
+          "source": "The New York Times",
+          "author": "Andrew Higgins and Carlos Barragán",
           "date": "2026-11-07",
-          "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-          "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+          "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html"
         }
       ],
       "brief": {
-        "what": "President Isaac Herzog has granted Gadi Eisenkot the first opportunity to form a government after neither Eisenkot nor incumbent Prime Minister Benjamin Netanyahu secured a parliamentary majority. Eisenkot received 67 recommendations for the premiership compared to 46 for Netanyahu.",
-        "who": "President Isaac Herzog, who holds the discretion to appoint the candidate most likely to form a coalition; Gadi Eisenkot, the opposition leader tasked with forming the government; and Benjamin Netanyahu, the incumbent Prime Minister.",
-        "context": "Israel's political system requires coalition governments because no party has ever won an outright majority in the 120-seat Knesset. The country experienced a period of extreme instability between 2019 and 2022, resulting in five separate elections.",
-        "why": "Herzog selected Eisenkot after consulting with political parties and determining he had the best chance of building a stable administration. The president urged factions to compromise on campaign promises to avoid further elections.",
-        "next": "Eisenkot has 28 days to form a government, with a potential 14-day extension available."
+        "what": "A 24-year-old gunman who killed six people in Krakow and three family members at his home has died in hospital. The attacker was shot by police within three minutes of beginning his assault in the city's Main Market Square.",
+        "who": "The suspect, a 24-year-old Polish man, and Polish authorities including Prime Minister Donald Tusk and the National Prosecutor's Office.",
+        "context": "The incident is being treated as a rare act of terrorism in Poland, prompting a two-day period of national mourning. The suspect reportedly held a firearms permit and used weapons including AR-15 rifles.",
+        "why": "While officials initially suggested the gunman was inspired by far-right ideologies, the National Prosecutor's Office stated that investigations into his specific motivation remain ongoing.",
+        "next": "Authorities are continuing their investigation into the suspect's motives and the source of his weapons."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Paraguay's former president charged after bank collapse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "author": null,
+      "summary": "Former Paraguayan President Santiago Peña has been charged with breach of trust following the collapse of Ueno Bank. The financial crisis has left millions of citizens unable to access their savings and pensions.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Adam B. Ellick and Laurence Blair",
+          "date": "2026-11-09",
+          "title": "How a Bank Implosion in Paraguay Ensnared a President",
+          "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+          "note": "The New York Times headline frames the story as an 'implosion' that 'ensnared' the president, focusing more on the mechanism of the failure rather than the legal charges."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Adam B. Ellick and Laurence Blair",
+          "date": "2026-11-09",
+          "title": "How a Bank Implosion in Paraguay Ensnared a President",
+          "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html"
+        }
+      ],
+      "brief": {
+        "what": "Former President Santiago Peña was impeached and charged with breach of trust and administration for personal gain after the collapse of Ueno Bank. The failure of the digital bank resulted in three million depositors losing access to their savings and pensions, triggering widespread protests.",
+        "who": "Santiago Peña is the former president facing charges, while his deputy, Pedro Alliana, has been sworn in as interim president. The central bank seized Ueno Bank, which had links to Peña's private business interests.",
+        "context": "The impeachment followed allegations that Peña manipulated regulatory oversight, diverted pension funds, and participated in a cover-up involving the central bank. Peña, who denies all wrongdoing, was stripped of his presidential immunity following the unanimous vote by lawmakers.",
+        "why": "Lawmakers impeached Peña for conflicts of interest and dereliction of duty, citing the bank's collapse as a major corruption scandal. His defense lawyer, Ricardo Preda, characterized the charges as reckless and opportunistic.",
+        "next": "Peña is expected to face further prosecution regarding the bank's collapse, while interim President Alliana has promised that affected citizens will be fully compensated."
       },
       "numbers": [
         {
-          "figure": "28 days",
-          "what": "timeframe to form a new administration"
-        },
-        {
-          "figure": "120-seat",
-          "what": "total capacity of the Israeli parliament"
-        },
-        {
-          "figure": "53 seats",
-          "what": "seats won by Netanyahu's right-wing bloc"
-        },
-        {
-          "figure": "48 seats",
-          "what": "seats won by Eisenkot's centrist bloc"
-        },
-        {
-          "figure": "19 seats",
-          "what": "seats won by two Arab-led alliances"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Israel’s President Herzog to name candidate to form government on Sunday",
-          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
-          "source": "Al Jazeera",
-          "date": "2026-11-06"
+          "figure": "44 out of 45",
+          "what": "senators who voted to impeach Peña"
         }
       ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Nvidia shares set to slide as spy scandal threatens AI recovery",
+      "source": "City AM",
+      "url": "https://www.cityam.com/nvidia-shares-set-to-slide-as-spy-scandal-threatens-ai-recovery/",
+      "date": "2026-11-09",
+      "author": "Saskia Koopman",
+      "summary": "Nvidia shares are facing a sell-off following reports that CEO Jensen Huang is under investigation for alleged ties to a Chinese intelligence asset. The scandal threatens to undermine the company's recent recovery and adds uncertainty to the broader semiconductor sector.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-09",
+          "title": "Nvidia shares slide as it probes alleged Chinese spy scandal",
+          "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+          "note": "The Financial Times frames the story by focusing on the company's active probe into the scandal and the CEO's personal admission."
+        },
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-09",
+          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+          "note": "The Financial Times also highlights the specific nature of the relationship and the CEO's admission as the primary driver of the news."
+        }
+      ],
+      "brief": {
+        "what": "Nvidia shares are trending downward after CEO Jensen Huang admitted to an affair with a woman identified by US authorities as a Chinese intelligence asset. The company has launched an independent investigation into the matter, though it maintains that no confidential information or national security interests have been compromised.",
+        "who": "Jensen Huang, the CEO of Nvidia, is the primary subject of the investigation, while the Nvidia board of directors is overseeing the internal probe.",
+        "context": "This development follows a volatile week for technology stocks, during which the Nasdaq experienced significant losses amid concerns regarding the sustainability of the AI investment boom and potential regulatory hurdles for energy-intensive data centers.",
+        "why": "The sell-off is driven by investor uncertainty regarding leadership stability and potential national security implications, with analysts noting that any cloud over the CEO directly impacts the stock's performance.",
+        "next": "Nvidia is scheduled to report its quarterly earnings in nine days, while the independent investigation into the allegations continues."
+      },
+      "numbers": [
+        {
+          "figure": "5.8 per cent",
+          "what": "decline in Nvidia shares on Germany's Tradegate exchange"
+        },
+        {
+          "figure": "$2.5 trillion",
+          "what": "value wiped from the Nasdaq on Thursday"
+        },
+        {
+          "figure": "22 per cent",
+          "what": "decline of Nvidia shares below their October peak"
+        },
+        {
+          "figure": "6.5 per cent",
+          "what": "jump in shares for Taiwanese chipmaker TSMC"
+        },
+        {
+          "figure": "5.5 per cent",
+          "what": "plunge in the Nasdaq index on Thursday"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Crédit Agricole pitches merger of Italian business with Banco BPM",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5301558f-d31b-4399-ac36-cc790837db1b?syn-25a6b1a6=1",
+      "date": "2026-11-09",
+      "author": null,
+      "summary": "Crédit Agricole has proposed merging its Italian operations with Banco BPM to establish the country's third-largest banking institution. The move comes as part of a broader trend of consolidation within the European financial sector.",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Dominic Chopping",
+          "date": "2026-11-09",
+          "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
+          "url": "https://www.wsj.com/business/deals/credit-agricole-proposes-merger-of-italian-business-with-banco-bpm-d77044a4?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline uses nearly identical phrasing to the Financial Times, focusing on the proposal of the merger."
+        }
+      ],
+      "brief": {
+        "what": "French lender Crédit Agricole is seeking to merge its Italian business with Banco BPM. This strategic combination aims to create Italy’s third-largest bank.",
+        "who": "Crédit Agricole, a French lender, and Banco BPM, an Italian bank, are the primary entities involved in the proposed merger.",
+        "context": "The European banking industry is currently experiencing a flurry of dealmaking activity as institutions look to consolidate their market positions.",
+        "why": "The merger is being pursued to create a larger, more competitive entity within the Italian banking market.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
@@ -354,7 +488,7 @@
       "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05",
       "author": null,
-      "summary": "The Bank of England has raised interest rates to 4% to combat inflation driven by rising global oil prices linked to the US-Iran war. Further rate hikes remain possible depending on the conflict's resolution and future energy costs.",
+      "summary": "The Bank of England has raised interest rates to 4% to combat inflation driven by rising global oil prices. Further increases remain possible depending on the resolution of the US-Iran conflict.",
       "also": [
         {
           "source": "The New York Times",
@@ -362,7 +496,7 @@
           "date": "2026-11-05",
           "title": "Bank of England Raises Rates for First Time in Three Years",
           "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
-          "note": "The New York Times and The Telegraph headlines focus strictly on the timing of the rate hike, whereas the BBC highlights the specific rate level."
+          "note": "The New York Times and The Telegraph headlines focus strictly on the timing of the hike, whereas the BBC highlights the specific rate level and the broader economic context."
         },
         {
           "source": "The Telegraph",
@@ -374,434 +508,60 @@
       ],
       "brief": {
         "what": "The Bank of England increased interest rates from 3.75% to 4%, marking the first hike in over three years. This decision aims to curb inflation, which reached 3.5% in September 2026, primarily due to fuel price volatility.",
-        "who": "Bank of England Governor Andrew Bailey and the rate-setting committee, which voted eight-to-one in favor of the increase.",
-        "context": "The UK economy is facing inflationary pressure from global energy prices exacerbated by the US-Iran war. The Bank of England maintains a 2% inflation target, which it does not expect to reach until 2028.",
-        "why": "Governor Bailey stated the hike is necessary to lean against upward pressure on inflation caused by energy costs. The committee remains divided on the necessity of future hikes, with some members viewing this as a risk-management measure.",
-        "next": "Future rate decisions will remain conditional, heavily dependent on the path of energy prices and the resolution of the conflict in the Middle East."
+        "who": "The Bank of England's rate-setting committee, led by Governor Andrew Bailey, implemented the hike, while UK households face rising borrowing costs.",
+        "context": "The central bank maintains a 2% inflation target, but current projections suggest inflation will not return to this level until 2028. The policy shift is heavily influenced by global energy price pressures stemming from the US-Iran war.",
+        "why": "Governor Bailey stated the hike is necessary to lean against upward pressure on inflation caused by energy costs. The committee remains divided on the necessity of future increases, with some members viewing this as a risk-management measure.",
+        "next": "Future rate decisions remain conditional on the path of energy prices and the resolution of the conflict in the Middle East."
       },
       "numbers": [
         {
           "figure": "4%",
-          "what": "new base interest rate set by the Bank of England"
+          "what": "new base interest rate"
         },
         {
           "figure": "3.5%",
-          "what": "annual price increase in the year to September 2026"
+          "what": "price increase in the year to September 2026"
         },
         {
           "figure": "4.9%",
-          "what": "expected peak for inflation in the middle of next year"
-        },
-        {
-          "figure": "510,000",
-          "what": "number of tracker mortgage-holders facing increased monthly repayments"
+          "what": "expected peak inflation in mid-2027"
         },
         {
           "figure": "6.2%",
-          "what": "potential inflation rate in 2027 under an adverse conflict scenario"
+          "what": "potential inflation in an adverse conflict scenario"
+        },
+        {
+          "figure": "510,000",
+          "what": "number of tracker mortgage-holders affected"
         }
       ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush",
-      "date": "2026-11-07",
-      "author": null,
-      "summary": "NASA has opened a $10 billion contracting framework for private aerospace firms to support the development of a permanent lunar base. The agency also awarded specific contracts to Blue Origin for a new nuclear-powered rover mission.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Fox Business",
-          "date": "2026-11-08",
-          "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
-          "url": "https://nypost.com/2026/11/08/tech/nasa-unveils-10b-moon-base-contract-as-spacex-blue-origin-join-lunar-gold-rush/"
-        }
-      ],
-      "brief": {
-        "what": "NASA announced a new $10 billion Commercial Lunar Payload Services framework to engage private companies in building a permanent lunar base. Additionally, Blue Origin received a $94 million contract, with a $140 million performance option, to deliver the nuclear-powered PROMISE rover to the lunar south pole by 2028.",
-        "who": "NASA is the primary agency, with SpaceX, Blue Origin, Firefly Aerospace, Intuitive Machines, iSpace US, Lockheed Martin, Northrop Grumman, and Voyager Technologies selected as competitors.",
-        "context": "NASA is utilizing commercial partnerships to deliver infrastructure and scientific equipment to the moon's south pole, aiming to establish a sustained human presence that serves as a foundation for future crewed missions to Mars.",
-        "why": "NASA Administrator Jared Isaacman stated the agency is building the Moon Base mission by mission to ensure essential elements are waiting for astronauts upon their arrival.",
-        "next": "NASA is targeting a late-2028 launch for the 18-month PROMISE rover mission."
-      },
-      "numbers": [
-        {
-          "figure": "$10 billion",
-          "what": "maximum combined value of lunar delivery contracts"
-        },
-        {
-          "figure": "$4.2 billion",
-          "what": "increased maximum value of existing CLPS contract"
-        },
-        {
-          "figure": "$1.3 billion",
-          "what": "combined value of six transportation task orders"
-        },
-        {
-          "figure": "$234 million",
-          "what": "total potential value of Blue Origin rover contract"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "US tech stocks recover after selloff spooks investors over AI spending",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
-      "date": "2026-11-03",
-      "author": "Lauren Aratani",
-      "summary": "US tech stocks rebounded on Tuesday following a recent selloff driven by investor concerns over artificial intelligence spending. Major indices saw gains as markets stabilized after midterm election uncertainty.",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-06",
-          "title": "US stocks recover after tech rout",
-          "url": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1",
-          "note": "The Financial Times headline focuses specifically on the tech sector rout rather than the broader AI spending narrative."
-        }
-      ],
-      "kind": "analysis",
-      "brief": {
-        "what": "US tech stocks recovered on Tuesday, with the Nasdaq rising 0.83% and the S&P 500 gaining 0.37%, despite a 0.38% drop in the Dow. This recovery followed a period of volatility where the Nasdaq had fallen 10% from its October peak.",
-        "who": "Investors, major tech companies including Apple, Nvidia, Advanced Micro Devices, Broadcom, and Micron Technology, and the US electorate participating in midterm elections.",
-        "context": "Wall Street experienced a selloff last week due to anxiety over AI infrastructure spending and uncertainty surrounding midterm election outcomes. Historically, markets tend to recover once election results are settled.",
-        "why": "The recovery was driven by a stabilization in tech and AI-related stocks, alongside a decline in oil prices to $103 a barrel, which eased investor concerns. Apple's share price fell 1.9% due to a poor margin forecast, but other chipmakers saw gains.",
-        "next": "Investors are monitoring potential new AI regulations that could emerge if Democrats secure majorities in the House and Senate."
-      },
-      "numbers": [
-        {
-          "figure": "10%",
-          "what": "Nasdaq drop from its 6 October record"
-        },
-        {
-          "figure": "$103 a barrel",
-          "what": "Brent crude global oil benchmark price"
-        },
-        {
-          "figure": "0.83%",
-          "what": "Nasdaq increase for the day"
-        },
-        {
-          "figure": "0.37%",
-          "what": "S&P 500 increase at market closing"
-        },
-        {
-          "figure": "0.38%",
-          "what": "Dow drop on Tuesday"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "Bombardier raises 2026 cash flow forecast above $1.3B as services hit record",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/bombardier-2026-cash-flow-forecast-services-record",
-      "date": "2026-11-05",
-      "author": "Clement Charpentreau",
-      "summary": "Bombardier has increased its 2026 free cash flow forecast to over $1.3 billion, driven by record-breaking performance in its services division. Despite a slight dip in net income, the company reported revenue growth and maintained its full-year delivery targets.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Adriano Marchese",
-          "date": "2026-11-05",
-          "title": "Bombardier Raises Free 2026 Cash Flow Outlook as Profit Slips",
-          "url": "https://www.wsj.com/business/earnings/bombardier-raises-free-2026-cash-flow-outlook-as-profit-slips-847b5393?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal headline emphasizes the decline in profit, whereas AeroTime focuses on the positive cash flow forecast and services growth."
-        }
-      ],
-      "brief": {
-        "what": "Bombardier raised its 2026 free cash flow outlook to over $1.3 billion following a strong third quarter where services revenue hit a record $701 million. While quarterly revenue grew 3% to $2.37 billion, net income fell to $81 million, though adjusted net income rose 41% to $182 million.",
-        "who": "Bombardier, led by President and CEO Éric Martel, is the primary actor, with Saab and NATO appearing as partners in defense programs.",
-        "context": "The company is managing a $22.2 billion backlog and navigating geopolitical trade pressures, including recent threats regarding US production requirements.",
-        "why": "The improved cash flow forecast is attributed to record services revenue and operational efficiency, despite challenges like a $94 million loss on financial instruments.",
-        "next": "Bombardier must deliver at least 69 jets in the fourth quarter to meet its full-year target of 157 aircraft."
-      },
-      "numbers": [
-        {
-          "figure": "$1.3 billion",
-          "what": "raised 2026 free cash flow forecast"
-        },
-        {
-          "figure": "$2.37 billion",
-          "what": "third-quarter revenue"
-        },
-        {
-          "figure": "$22.2 billion",
-          "what": "order backlog as of September 30"
-        },
-        {
-          "figure": "$701 million",
-          "what": "quarterly revenue from services business"
-        },
-        {
-          "figure": "1.7",
-          "what": "unit book-to-bill ratio"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 2,
-      "title": "Who’s who at Cop31: key players at the climate talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-      "date": "2026-11-08",
-      "author": "Fiona Harvey Environment editor",
-      "summary": "The Cop31 climate summit in Antalya, Turkey, begins amid geopolitical tensions and a complex landscape of competing national interests regarding fossil fuels and renewable energy. Key global leaders and ministers are navigating the transition to clean energy while balancing domestic economic pressures and industrial policy.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Chico Harlan",
-          "date": "2026-11-08",
-          "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-          "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-          "note": "The New York Times frames the story as a functional guide to the event rather than a focus on the political tensions and key players."
-        }
-      ],
-      "brief": {
-        "what": "Cop31 is underway in Antalya, Turkey, with Australia leading negotiations and Turkey managing the action agenda. The summit features a diverse group of international actors, including representatives from the UK, China, India, and the EU, all grappling with the tension between fossil fuel reliance and the push for a low-carbon transition.",
-        "who": "Key figures include Australia's Chris Bowen, Turkey's Murat Kurum, the UK's Ed Miliband and Miatta Fahnbulleh, and International Energy Agency head Fatih Birol.",
-        "context": "The summit follows a contentious hosting agreement between Australia and Turkey. It occurs as nations face pressure to reconcile economic growth with climate commitments, amid shifting political landscapes in the US, Europe, and China.",
-        "why": "The summit aims to address the global climate crisis through negotiations on energy transition, deforestation, and waste reduction, though participants face internal conflicts between fossil fuel interests and environmental goals.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "70%",
-          "what": "percentage of electricity supplied by coal in India"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "U.S. economy added 165,000 jobs in October, showing surprising strength",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/11/06/us-economy-added-165000-job-october-strong-gain/",
-      "date": "2026-11-06",
-      "author": "Lauren Kaori Gurley",
-      "summary": "The U.S. labor market demonstrated unexpected resilience by adding 165,000 jobs in October. This growth reflects continued expansion across various industrial sectors.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-06",
-          "title": "US economy adds 165,000 jobs in October, blowing past expectations",
-          "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026",
-          "note": "Fox Business frames the job growth as 'blowing past expectations' to emphasize the positive surprise factor compared to the more neutral tone of the Washington Post."
-        }
-      ],
-      "brief": {
-        "what": "The U.S. economy added 165,000 jobs during the month of October, signaling ongoing strength within the labor market.",
-        "who": "The U.S. labor market is the primary subject of this report.",
-        "context": "The data reflects the current state of employment growth across multiple industries in the United States.",
-        "why": "The labor market continues to add jobs across a number of industries, which the report characterizes as showing new signs of strength.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "165,000",
-          "what": "jobs added to the U.S. economy"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 2,
-      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-      "date": "2026-11-08",
-      "author": "Fiona Harvey Environment editor",
-      "summary": "Delegates from over 190 countries are convening in Turkey for the Cop31 climate summit, which features an unusual power-sharing agreement between Turkey and Australia. The summit aims to address climate finance, the transition away from fossil fuels, and the electrification of the global economy despite the absence of the US administration.",
-      "also": [
-        {
-          "source": "Carbon Brief",
-          "author": "Carbon Brief Staff",
-          "date": "2026-11-02",
-          "title": "Interactive: Who wants what at the COP31 climate change summit",
-          "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
-          "note": "Carbon Brief frames the story by focusing on the specific policy demands and strategic interests of different nations at the summit."
-        }
-      ],
-      "brief": {
-        "what": "Cop31 is taking place in Antalya, Turkey, with Australia presiding over formal negotiations. The summit focuses on climate finance, the 'just transition' for workers, and non-binding roadmaps for electrification and moving away from fossil fuels.",
-        "who": "Turkey is the host, Australia is leading formal negotiations, and Brazil is providing roadmaps for fossil fuel transitions and deforestation, while the US government is notably absent.",
-        "context": "The summit follows the 2015 Paris agreement and the Cop28 resolution to transition away from fossil fuels. It occurs amidst geopolitical tensions, high interest rates, and economic challenges that complicate international climate cooperation.",
-        "why": "The summit is happening to address global heating and the urgent need for developing nations to receive financial support for climate-related disasters and infrastructure adaptation.",
-        "next": "The summit will run for a fortnight to negotiate climate finance, progress on Brazil's roadmaps, and potential expansion of the 'coalition of the willing' regarding fossil fuel transitions."
-      },
-      "numbers": [
-        {
-          "figure": "190 countries",
-          "what": "number of nations participating in climate talks"
-        },
-        {
-          "figure": "1.5C",
-          "what": "temperature rise limit above pre-industrial levels"
-        },
-        {
-          "figure": "12%",
-          "what": "expected decrease in China's oil imports"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/doordash-shareholders-arent-convinced-the-company-can-take-on-amazon-bdb22c70?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-08",
-      "author": "Jinjoo Lee",
-      "summary": "DoorDash stock is facing downward pressure as investors weigh the company's competitive position against Amazon and recent industry consolidation moves. The market remains skeptical of the firm's ability to challenge major rivals in the delivery space.",
-      "also": [],
-      "brief": {
-        "what": "DoorDash stock is currently trading at a discount following news of Instacart's acquisition plans and a strategic partnership between Amazon and Uber Eats.",
-        "who": "DoorDash is the primary subject, while Instacart, Amazon, and Uber Eats are identified as key competitors influencing market sentiment.",
-        "context": "The delivery sector is undergoing significant shifts as major players consolidate and form new alliances to capture market share.",
-        "why": "The article attributes the decline in DoorDash's stock price to investor concerns regarding the company's ability to compete effectively against Amazon and other rivals.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Fox completes acquisition of streaming giant Roku",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/fox-completes-acquisition-streaming-giant-roku",
-      "date": "2026-11-06",
-      "author": null,
-      "summary": "Fox Corp. has finalized its $22 billion acquisition of streaming platform Roku to bolster its digital media presence. The deal integrates Roku’s reach into over 100 million households with Fox’s existing live sports and news programming.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Alexandra Steigrad",
-          "date": "2026-11-06",
-          "title": "Fox completes $22B acquisition of streaming giant Roku",
-          "url": "https://nypost.com/2026/11/06/media/fox-completes-22b-acquisition-of-streaming-giant-roku/",
-          "note": "New York Post includes the specific deal value in its headline, whereas Fox Business focuses on the completion of the acquisition."
-        }
-      ],
-      "brief": {
-        "what": "Fox Corp. completed its $22 billion acquisition of Roku, aiming to combine its live sports and news content with Roku's connected TV platform. The company anticipates achieving $400 million in run-rate cost synergies within two years.",
-        "who": "Lachlan Murdoch, CEO of Fox Corp., and Roku founder Anthony Wood, who will join the Fox board and co-chair the new Fox Digital Platforms division.",
-        "context": "Fox already operates streaming services including Tubi and FOX One. The acquisition is intended to expand Fox's digital footprint and serve a broader base of viewers and advertisers.",
-        "why": "Fox stated the merger creates new opportunities to serve viewers and partners, while Lachlan Murdoch noted the deal advances the company's long-term strategy. Anthony Wood stated the move provides Roku with greater resources and support to continue innovating.",
-        "next": "Roku founder Anthony Wood will join the Fox board and co-chair the newly formed Fox Digital Platforms division alongside Paul Cheesbrough."
-      },
-      "numbers": [
-        {
-          "figure": "$22 billion",
-          "what": "total acquisition price of Roku"
-        },
-        {
-          "figure": "100 million",
-          "what": "number of households reached by Roku"
-        },
-        {
-          "figure": "$400 million",
-          "what": "expected run-rate cost synergies"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Apple saves $2.7bn in taxes by booking profits in Singapore",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
-      "date": "2026-11-08",
-      "author": null,
-      "summary": "Apple has shifted its tax strategy by booking significant profits in Singapore, allowing the company to save $2.7 billion. This move marks Singapore's emergence as the iPhone maker's primary tax shelter, surpassing Ireland.",
-      "also": [],
-      "brief": {
-        "what": "Apple has utilized Singapore to book profits, resulting in $2.7 billion in tax savings. The city-state has now overtaken Ireland as the company's largest tax shelter.",
-        "who": "Apple is the primary actor, identified as the iPhone maker utilizing these tax jurisdictions.",
-        "context": "Multinational corporations often utilize various international jurisdictions to manage their global tax liabilities through profit shifting.",
-        "why": "The article indicates this shift occurred as Singapore became the company's biggest tax shelter according to new disclosures.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$2.7bn",
-          "what": "amount saved by Apple in taxes"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
-      "date": "2026-11-08",
-      "author": "Abhishek Vishnoi and Winnie Hsu",
-      "summary": "Investors are shifting their focus away from the AI sector toward Chinese and Indian equities following the US midterm elections. This rotation is driven by expectations of easing inflation and reduced trade tensions.",
-      "also": [],
-      "brief": {
-        "what": "Investors are pivoting away from the AI trade in favor of Chinese and Indian stocks. This shift follows the US midterm elections and reflects a search for assets that may benefit from cooling inflation and improved trade relations.",
-        "who": "Investors are the primary actors, reevaluating their regional strategies in Asia.",
-        "context": "The AI trade, which previously dominated market sentiment, is currently unraveling, prompting a search for alternative investment opportunities in emerging Asian markets.",
-        "why": "The article states that the shift is occurring because investors are rethinking their Asia playbook in response to the US midterm elections and the potential for easing inflation and trade tensions.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
-      "date": "2026-11-07",
-      "author": "Richard Henderson",
-      "summary": "Australian residential property sales and auction clearance rates have increased, suggesting a potential recovery for the market following a period of decline.",
-      "also": [],
-      "brief": {
-        "what": "Australian home sales and auction clearance rates have climbed, signaling a possible turnaround for the property market. This follows a period of decline driven by rising interest rates throughout the year.",
-        "who": "The Australian property market is the primary subject of this report.",
-        "context": "The property sector has experienced a slump recently, which has been attributed to the impact of rising interest rates.",
-        "why": "The article notes that the rise in sales and clearance rates offers hope for a recovery in a market that had previously slumped due to interest rate hikes.",
-        "next": "The article doesn't say."
-      }
     },
     {
       "topic": "world",
-      "importance": 1,
-      "title": "Bomb threats target media and flights as email warns ‘this is only the beginning’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1",
+      "importance": 2,
+      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
       "date": "2026-11-06",
-      "author": null,
-      "summary": "A wave of bomb threats has targeted media organizations and flights, accompanied by warnings of further escalation. The incidents occur just one week before Dublin hosts two major summits involving 50 European leaders.",
-      "also": [],
-      "brief": {
-        "what": "A campaign of intimidation involving bomb threats has been directed at media outlets and flights. These threats were accompanied by an email warning that the current actions represent only the beginning.",
-        "who": "The threats target media organizations and aviation services, occurring ahead of a gathering of 50 European leaders in Dublin.",
-        "context": "The security incidents are taking place one week before Dublin is scheduled to host two major summits for European leadership.",
-        "why": "The article does not explicitly state the motivation behind the threats, only noting that the intimidation campaign is ongoing.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
+      "author": "Josephine de La Bruyère and Carlos Barragán",
+      "summary": "A series of hoax bomb threats has caused widespread disruption to air travel across Europe over the past week. Passengers at major hubs like Rome, Madrid, and Warsaw have expressed significant frustration regarding the ongoing situation.",
+      "also": [
         {
-          "figure": "50",
-          "what": "European leaders attending two major summits"
+          "source": "Wall Street Journal",
+          "author": "Benjamin Katz",
+          "date": "2026-11-05",
+          "title": "Bomb Threats Cause Diverted Flights, Emergency Landings Across Europe",
+          "url": "https://www.wsj.com/business/airlines/flights-across-europe-diverted-after-bomb-threats-2e860a9c?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline emphasizes the operational consequences of the threats, specifically mentioning diverted flights and emergency landings."
         }
       ],
+      "brief": {
+        "what": "A wave of hoax bomb threats has impacted dozens of flights throughout Europe over the last week. Travelers at airports including Rome, Madrid, and Warsaw have reported feeling more frustrated than fearful due to the resulting travel disruptions.",
+        "who": "Travelers across Europe and airport authorities in cities such as Rome, Madrid, and Warsaw.",
+        "context": "The aviation industry is currently managing a series of security-related disruptions caused by unverified bomb threats targeting flights.",
+        "why": "The article attributes the disruptions to a wave of hoax bomb threats, noting that passengers are experiencing frustration as a result of these incidents.",
+        "next": "The article doesn't say."
+      },
       "earlier": [
         {
           "title": "Seven flights across Europe targeted by suspected bomb threats",
@@ -813,67 +573,549 @@
     },
     {
       "topic": "business",
+      "importance": 2,
+      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+      "date": "2026-11-06",
+      "author": "Jasper Jolly",
+      "summary": "Tesla plans to cease Cybertruck production at its Texas factory by mid-2025 to reallocate manufacturing capacity toward its autonomous Cybercab taxi fleet. This shift reflects Elon Musk's strategic pivot toward artificial intelligence, robotics, and autonomous driving over traditional vehicle model expansion.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Lauren McCarthy",
+          "date": "2026-11-06",
+          "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+          "url": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+          "note": "The New York Times frames the story by highlighting the specific replacement of the Cybertruck with the Cybercab."
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-11-06",
+          "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
+          "url": "https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab",
+          "note": "Fox Business emphasizes the specific location of the production wind-down at the Texas factory."
+        }
+      ],
+      "brief": {
+        "what": "Tesla will wind down Cybertruck production at its Texas Gigafactory by mid-2025 to prioritize the manufacturing of the Cybercab, an autonomous taxi. The company is shifting its focus from traditional consumer vehicle models to robotics, artificial intelligence, and self-driving fleets.",
+        "who": "Elon Musk, the CEO of Tesla, is the primary decision-maker driving this strategic transition.",
+        "context": "The Cybertruck faced significant production challenges and failed to meet its annual sales target of 200,000 units. Tesla has previously discontinued the Model S and Model X due to declining sales, while the company continues to develop the Semi lorry and the Roadster.",
+        "why": "Musk stated the decision is necessary to repurpose the Texas factory for Cybercab production. He previously described the Cybertruck as a project that presented enormous production challenges and noted that the company had effectively dug its own grave with the vehicle's development.",
+        "next": "Tesla will continue ramping up production of the Semi electric lorry and aims to begin production of a road-bound version of the Roadster in 2028, while also utilizing the Texas facility to build the Optimus humanoid robot."
+      },
+      "numbers": [
+        {
+          "figure": "478,000",
+          "what": "combined deliveries of Model 3 and Model Y in the third quarter of 202"
+        },
+        {
+          "figure": "$446m",
+          "what": "donations made by Elon Musk to Republican candidates"
+        },
+        {
+          "figure": "$113bn",
+          "what": "decline in the paper value of Elon Musk's fortune"
+        },
+        {
+          "figure": "11%",
+          "what": "decline in Tesla share price on Thursday"
+        },
+        {
+          "figure": "8,300",
+          "what": "deliveries of other models including Cybertruck in the third quarter o"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales",
+          "url": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Can Nvidia’s boss survive a Chinese-spy controversy?",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
+      "date": "2026-11-09",
+      "author": null,
+      "summary": "Nvidia CEO Jensen Huang faces scrutiny following reports of an alleged relationship with a woman identified as a Chinese spy. The controversy raises questions regarding the leadership stability of the major semiconductor firm.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Patrick Reilly",
+          "date": "2026-11-09",
+          "title": "Trump defends ‘honorable’ Nvidia boss after explosive affair with Chinese ‘spy’ revealed",
+          "url": "https://nypost.com/2026/11/09/us-news/trump-defends-honorable-nvidia-boss-after-explosive-affair-with-chinese-spy-revealed/",
+          "note": "The New York Post frames the story by highlighting Donald Trump's defense of Huang and characterizing the woman as a spy."
+        }
+      ],
+      "brief": {
+        "what": "Nvidia CEO Jensen Huang is at the center of a controversy involving allegations of an affair with a woman described as a Chinese spy.",
+        "who": "Jensen Huang is the CEO of Nvidia, a leading semiconductor company.",
+        "context": "The report links the head of a critical player in the global artificial intelligence and hardware supply chain to a potential national security concern involving foreign intelligence.",
+        "why": "The article states that Huang is caught in a controversy regarding his personal conduct and alleged associations.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "world",
       "importance": 1,
-      "title": "Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink",
+      "title": "Israel After Benjamin Netanyahu",
+      "source": "The Dispatch",
+      "url": "https://thedispatch.com/newsletter/morning/israel-after-benjamin-netanyahu/",
+      "date": "2026-11-09",
+      "author": "Surya Gowda, James P. Sutton, Ross Anderson",
+      "summary": "The Dispatch reports on the ongoing political landscape in Israel following Benjamin Netanyahu's tenure. The article also notes a historical discovery by a teenager in Israel.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Adam Rasgon, Adina Renner, Pablo Robles and Aaron Boxerman",
+          "date": "2026-11-08",
+          "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+          "note": "The New York Times headlines focus specifically on the mechanics of opposition efforts to unseat Netanyahu and the role of Eisenkot, whereas The Dispatch treats the topic as one of several news items in a broader digest."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Ephrat Livni and Aaron Boxerman",
+          "date": "2026-11-08",
+          "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
+        },
+        {
+          "source": "The New York Times",
+          "author": "David M. Halbfinger",
+          "date": "2026-11-07",
+          "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html"
+        }
+      ],
+      "brief": {
+        "what": "The article discusses the political environment in Israel concerning the future of Benjamin Netanyahu's leadership. Separately, it mentions that a 17-year-old American discovered an ancient Egyptian amulet while on a school trip.",
+        "who": "Benjamin Netanyahu, the Prime Minister of Israel, and a 17-year-old American student.",
+        "context": "The piece serves as a daily news digest covering various international events, including political shifts in Israel and unrelated global news items.",
+        "why": "The article provides a summary of current events and political analysis as part of a regular newsletter format.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "3,300-year-old",
+          "what": "age of an Egyptian amulet discovered in Israel"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "NASA unveils $10B moon base contract as SpaceX, Blue Origin join lunar gold rush",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush",
+      "date": "2026-11-07",
+      "author": null,
+      "summary": "NASA has opened a $10 billion contracting framework for private aerospace firms to support the development of a permanent lunar base. The agency also awarded a $94 million contract to Blue Origin for the delivery of a nuclear-powered rover to the moon's south pole.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-11-08",
+          "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
+          "url": "https://nypost.com/2026/11/08/tech/nasa-unveils-10b-moon-base-contract-as-spacex-blue-origin-join-lunar-gold-rush/"
+        }
+      ],
+      "brief": {
+        "what": "NASA has expanded its commercial lunar program by establishing a $10 billion contract ceiling for private companies to deliver infrastructure to the moon. Additionally, Blue Origin secured a $94 million contract to transport the nuclear-powered PROMISE rover to the lunar south pole by 2028.",
+        "who": "NASA is the primary agency, with SpaceX, Blue Origin, Lockheed Martin, Northrop Grumman, and others serving as commercial partners.",
+        "context": "NASA is utilizing the Commercial Lunar Payload Services (CLPS) framework to outsource the delivery of scientific equipment and infrastructure to the moon, aiming to establish a sustained human presence.",
+        "why": "NASA Administrator Jared Isaacman stated the agency is building the moon base mission by mission to ensure infrastructure is waiting for astronauts upon their arrival. The project aims to support long-term lunar operations and provide a foundation for future crewed missions to Mars.",
+        "next": "NASA is targeting a late-2028 launch for the PROMISE rover mission and continues to compete task orders under the new $10 billion framework."
+      },
+      "numbers": [
+        {
+          "figure": "$10 billion",
+          "what": "maximum combined value of the new lunar delivery contract framework"
+        },
+        {
+          "figure": "$4.2 billion",
+          "what": "increased maximum value of the existing CLPS contract"
+        },
+        {
+          "figure": "$1.3 billion",
+          "what": "combined value of six transportation task orders awarded to private fi"
+        },
+        {
+          "figure": "$94 million",
+          "what": "base contract value for Blue Origin to deliver the PROMISE rover"
+        },
+        {
+          "figure": "$140 million",
+          "what": "additional performance-based option available for the PROMISE rover co"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Bomb threats hit at least 25 European flights, trigger fighter escorts",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions",
+      "date": "2026-11-05",
+      "author": "Clement Charpentreau",
+      "summary": "At least 25 passenger flights across Europe were targeted by bomb threats, triggering security inspections and fighter jet escorts. All threats were found to be unfounded, and no explosives were discovered.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Josephine de La Bruyère and Amelia Nierenberg",
+          "date": "2026-11-05",
+          "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+          "note": "The New York Times frames the story by highlighting the impact on passenger experience and the rattling effect of the disruptions."
+        }
+      ],
+      "brief": {
+        "what": "A wave of bomb threats targeted at least 25 commercial flights across Europe, forcing diversions, security inspections, and the deployment of fighter escorts in France, Italy, and Bulgaria. Despite the widespread disruption, authorities confirmed that all threats were unfounded and no explosives were found on any of the aircraft.",
+        "who": "Airlines including Aer Lingus, Finnair, Ryanair, Wizz Air, and LOT Polish Airlines were affected, with national air forces and police agencies managing the security response.",
+        "context": "This incident follows a similar series of threats against Ryanair, Wizz Air, LOT, and SAS flights that occurred two days prior. The EU has activated an aviation-security information-sharing mechanism to coordinate the response among member states and the European Union Aviation Safety Agency.",
+        "why": "Authorities have not yet identified those responsible or determined if the incidents are connected. The threats were assessed by various national police and intelligence services, with many deemed low-credibility or non-specific.",
+        "next": "The investigation has been handed to national authorities, including the Czech police’s National Center Against Terrorism, Extremism, and Cybercrime, while the European Commission continues to work with member states."
+      },
+      "numbers": [
+        {
+          "figure": "25",
+          "what": "passenger flights targeted by bomb threats"
+        },
+        {
+          "figure": "151",
+          "what": "passengers on the diverted Aer Lingus flight"
+        },
+        {
+          "figure": "182",
+          "what": "passengers on the Wizz Air flight to Bucharest"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Emirates’ Clark Says Retirement Plans Derailed by Iran War",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
+      "date": "2026-11-09",
+      "author": "Kateryna Kadabashy",
+      "summary": "Emirates President Tim Clark has postponed his retirement plans due to the ongoing conflict involving Iran. Clark had previously considered stepping down following the airline's record-breaking financial performance earlier this year.",
+      "also": [],
+      "brief": {
+        "what": "Emirates President Tim Clark has delayed his planned retirement due to the outbreak of the Iran war. Clark had been contemplating leaving the airline following a period of record profit achieved earlier this year.",
+        "who": "Tim Clark, the President of Emirates, is the primary actor whose career transition has been impacted by geopolitical instability.",
+        "context": "The airline industry is highly sensitive to regional conflicts, which can disrupt operations, fuel costs, and strategic leadership planning.",
+        "why": "According to Clark, the start of the Iran war served as the catalyst for derailing his intentions to step away from his leadership role.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-07",
-      "author": "Krystal Hur",
-      "summary": "Berkshire Hathaway reported a 28% drop in quarterly net income as investment gains decreased and insurance profits softened. The conglomerate's overall financial performance was impacted by these weaker results across its key segments.",
+      "url": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-09",
+      "author": "Jonathan Weil",
+      "summary": "Boeing is facing increased scrutiny regarding the financial losses associated with its current deal structures. The company's performance is being evaluated as part of a broader market landscape.",
       "also": [],
       "brief": {
-        "what": "Berkshire Hathaway experienced a 28% decline in quarterly net income, driven by a slump in investment gains and reduced profitability within its insurance operations.",
-        "who": "Berkshire Hathaway, a conglomerate holding company.",
-        "context": "The company's earnings are frequently influenced by the performance of its massive investment portfolio and the underwriting results of its insurance subsidiaries.",
-        "why": "The decline was attributed to a slump in investment gains and lower profits reported by the company's insurance operations.",
+        "what": "Boeing is experiencing greater visibility into the financial losses stemming from its existing deals. This development highlights the ongoing fiscal challenges facing the aerospace manufacturer.",
+        "who": "Boeing is the primary actor mentioned in the context of its deal-related financial performance.",
+        "context": "The aerospace industry is currently navigating complex contract environments and financial pressures that impact major manufacturers like Boeing.",
+        "why": "The article indicates that the losses are coming into sharper view, though it does not provide specific causal drivers for this shift in financial transparency.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "US job growth exceeds expectations in October despite economic uncertainty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+      "date": "2026-11-06",
+      "author": "Lauren Aratani in New York",
+      "summary": "The US labor market demonstrated resilience in October by adding 165,000 jobs, surpassing economist expectations despite ongoing inflationary pressures. The unemployment rate dipped to 4.1% as the economy continues to navigate a sluggish but stable 'low-hire, low-fire' environment.",
+      "also": [
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-11-06",
+          "title": "US economy adds 165,000 jobs in October, blowing past expectations",
+          "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026",
+          "note": "Fox Business frames the story by emphasizing the specific job count and highlighting that the data 'blew past' expectations."
+        }
+      ],
+      "brief": {
+        "what": "The US economy added 165,000 jobs in October, while the unemployment rate fell to 4.1%. Additionally, August and September job figures were revised upward by 84,000 positions.",
+        "who": "The Bureau of Labor Statistics (BLS) provided the data, while the US Federal Reserve is expected to consider further interest rate hikes to combat inflation.",
+        "context": "The labor market is currently characterized as 'low-hire, low-fire,' meaning growth is sluggish but layoffs remain minimal. This occurs against a backdrop of high inflation, rising energy costs, and geopolitical instability.",
+        "why": "The report suggests resilience in the labor market despite economic uncertainty. Economists note that while job growth is positive, inflation has outpaced wage growth, leading to public frustration regarding the cost of living.",
+        "next": "Economists expect the Federal Reserve to implement another interest rate hike at their meeting in December."
+      },
+      "numbers": [
+        {
+          "figure": "165,000 jobs",
+          "what": "Number of jobs added to the US economy in October"
+        },
+        {
+          "figure": "4.1%",
+          "what": "The US unemployment rate"
+        },
+        {
+          "figure": "3.1%",
+          "what": "Annualized rate of increase for average hourly earnings"
+        },
+        {
+          "figure": "3.7%",
+          "what": "Annualized inflation rate in September"
+        },
+        {
+          "figure": "3.75%-4%",
+          "what": "Current range of US Federal Reserve interest rates"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
+      "date": "2026-11-08",
+      "author": "Amanda Holpuch",
+      "summary": "Peruvian authorities intercepted three individuals attempting to smuggle over 3,000 tarantulas into Germany. The shipment included specimens from threatened species.",
+      "also": [],
+      "brief": {
+        "what": "The National Forest and Wildlife Service of Peru discovered more than 3,000 tarantulas hidden inside socks at a Peruvian airport. The animals were being transported to Germany by three individuals.",
+        "who": "The National Forest and Wildlife Service of Peru, which reported the incident, and three unnamed individuals who attempted the smuggling.",
+        "context": "The illegal wildlife trade often involves the trafficking of exotic species across international borders, with authorities working to protect threatened populations.",
+        "why": "The article does not explicitly state the motive for the smuggling attempt beyond the act of transporting the animals to Germany.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "28%",
-          "what": "decline in quarterly net income"
+          "figure": "3,000",
+          "what": "tarantulas found in smugglers' socks"
         }
       ]
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+      "title": "ECB Succession Advances as Ministers Look to Pick Trio of Jobs",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
-      "date": "2026-11-07",
-      "author": "Davide Barbuscia",
-      "summary": "Meta Platforms executed a $25 billion corporate bond sale on Election Day, signaling a notable shift in the tech sector's debt financing strategy.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs",
+      "date": "2026-11-09",
+      "author": "Jorge Valero, Alessandra Migliaccio and Kamil Kowalcze",
+      "summary": "Euro-zone governments have begun the process of selecting a new president for the European Central Bank alongside two other key leadership positions. Officials are currently conducting an initial review of potential candidates for the top role.",
       "also": [],
       "brief": {
-        "what": "Meta successfully completed a $25 billion corporate bond sale on Election Day, a move that Bloomberg describes as a significant gamble given the timing.",
-        "who": "Meta Platforms is the primary actor issuing the debt.",
-        "context": "Large-scale corporate debt offerings are typically timed to avoid market volatility, making an Election Day issuance an unconventional strategic choice.",
-        "why": "The sale highlights a shifting landscape for how major technology companies approach debt financing in the current market environment.",
+        "what": "Euro-zone governments are initiating the selection process for the European Central Bank presidency and two additional leadership roles. The process has moved into an initial stocktaking phase to evaluate potential candidates for the top position.",
+        "who": "Euro-zone governments are the primary actors responsible for agreeing on the appointments for these three key jobs.",
+        "context": "The European Central Bank is the central bank for the 19 European Union member states that have adopted the euro. Its leadership is critical for setting monetary policy across the euro area.",
+        "why": "The selection process is advancing as part of a broader effort by governments to reach an agreement on filling three specific leadership vacancies.",
         "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$25 billion",
-          "what": "total value of corporate bonds sold by Meta"
-        }
-      ]
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "KKR Profit Rises on Fee-Related Earnings Growth",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/kkr-profit-rises-on-fee-related-earnings-growth-4a62dcfb?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-09",
+      "author": "Kelly Cloonan",
+      "summary": "KKR reported an increase in quarterly profit driven by growth in fee-related earnings. The rise was supported by higher management fees collected by the firm.",
+      "also": [],
+      "brief": {
+        "what": "KKR announced higher quarterly profits, which the firm attributed to growth in fee-related earnings. This performance was bolstered by an increase in management fees.",
+        "who": "KKR, a global investment firm.",
+        "context": "Investment firms like KKR often rely on management fees as a stable revenue stream, which can fluctuate based on assets under management and fee structures.",
+        "why": "The firm reported that its profit growth was specifically helped by higher management fees.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
-      "date": "2026-11-07",
-      "author": "Emily Forgash",
-      "summary": "Wall Street strategists are viewing the recent stock market decline following the US midterm elections as a strategic buying opportunity. They believe the selloff provides investors with a chance to acquire equities at a discount.",
+      "title": "UniCredit Signals It Is Ready to Bring Forward Merger With Commerzbank",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/unicredit-raises-profit-guidance-as-control-of-commerzbank-nears-ce8ccdc8?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-09",
+      "author": "Michael Hennessey",
+      "summary": "UniCredit has indicated that a potential merger with Commerzbank could be accelerated once the bank secures control of the German lender.",
       "also": [],
       "brief": {
-        "what": "Wall Street strategists are interpreting the post-midterm election stock market selloff as a favorable entry point for investors. They suggest that the recent decline in equity prices offers a discount for those looking to increase their market exposure.",
-        "who": "Wall Street strategists are the primary actors, acting as market analysts providing guidance to investors.",
-        "context": "The market volatility is occurring in the immediate aftermath of the US midterm elections, a period that strategists had previously identified as a potential window for a short-term market correction.",
-        "why": "Strategists anticipated a short-term selloff following the elections, which they believe creates a tactical opportunity to purchase stocks at lower valuations.",
+        "what": "UniCredit announced that the integration of Commerzbank could occur sooner than initially anticipated. The bank is currently working to secure control of the Frankfurt-based lender to facilitate this process.",
+        "who": "UniCredit is the Italian banking group seeking to merge its German operations with Commerzbank.",
+        "context": "UniCredit is pursuing a strategic expansion into the German market by targeting Commerzbank, a major financial institution based in Frankfurt.",
+        "why": "UniCredit signaled that the merger timeline could be brought forward as part of its broader integration strategy once control is established.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "SocGen’s Juckes Sees ‘Less Dollar-Friendly’ Year in 2027",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/socgen-s-juckes-sees-less-dollar-friendly-year-in-2027-video",
+      "date": "2026-11-09",
+      "author": null,
+      "summary": "Societe Generale strategist Kit Juckes anticipates a weaker performance for the US dollar in 2027. However, he advises caution against shorting the currency while the current energy crisis persists.",
+      "also": [],
+      "brief": {
+        "what": "Kit Juckes, the chief FX strategist at Societe Generale, projects that 2027 will be a less favorable year for the US dollar. Despite this long-term outlook, he warns against betting against the currency due to the ongoing energy crisis.",
+        "who": "Kit Juckes, the chief FX strategist at Societe Generale, is the primary source providing this market outlook.",
+        "context": "The commentary was delivered during an appearance on Bloomberg Surveillance, highlighting the intersection of energy market volatility and currency valuation.",
+        "why": "Juckes expresses nervousness about shorting the dollar because of the prevailing energy crisis, which continues to influence market dynamics.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Emirates receives financing for two A350s adopting ‘innovative’ funding approach",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/emirates-airbus-a350-fianancing-shariah",
+      "date": "2026-11-09",
+      "author": "Ian Molyneaux",
+      "summary": "Emirates has secured financing for two Airbus A350-900 aircraft using a new hybrid model that combines French Lease structures with Shariah-compliant banking principles. This innovative approach aims to create a repeatable blueprint for future international aviation funding.",
+      "also": [],
+      "brief": {
+        "what": "Emirates completed a financing deal for two Airbus A350-900 aircraft by merging a French Lease structure with Shariah-compliant banking frameworks. This 12-year transaction was facilitated by Dubai Islamic Bank and Natixis Corporate & Investment Banking.",
+        "who": "Emirates, Dubai Islamic Bank, and Natixis Corporate & Investment Banking are the primary parties involved in the transaction.",
+        "context": "Emirates maintains a diversified long-term financing strategy to support its extensive aircraft order book, utilizing both conventional commercial debt and Islamic finance structures.",
+        "why": "The airline stated this model provides a repeatable blueprint for future international aviation financing by harmonizing distinct frameworks to meet Islamic law requirements while accessing diversified capital pools.",
+        "next": "The airline intends to use this structure as a precedent for future aircraft financing."
+      },
+      "numbers": [
+        {
+          "figure": "12-year",
+          "what": "duration of the Shariah-compliant French Lease transaction"
+        }
+      ]
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03628-5",
+      "date": "2026-11-09",
+      "author": "Eoin McLaughlin",
+      "summary": "The 2026–27 El Niño is projected to be one of the strongest in a century, threatening global health by compounding food insecurity and infectious disease risks. Experts warn that the interaction between climate shocks and existing economic vulnerabilities could lead to widespread humanitarian crises.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "The 2026–27 El Niño is expected to cause severe climate disruptions, potentially triggering 451,000 heat-related deaths and exacerbating food insecurity for millions. The event arrives as global food systems face pressure from ongoing conflicts and supply chain constraints, creating a complex risk environment where local institutional resilience determines the severity of health outcomes.",
+        "who": "The Climate Impact Lab, the World Health Organization (WHO), the UN Food and Agriculture Organization (FAO), and the World Food Programme are the primary organizations assessing and responding to these risks.",
+        "context": "El Niño is a recurring climate cycle characterized by warmer Pacific Ocean waters that cause global droughts or floods. While historically linked to massive economic losses, current concerns focus on how these climate shocks interact with existing food price inflation and infectious disease vulnerabilities.",
+        "why": "The authors argue that the catastrophe risk stems from the interaction between climate shocks and local institutional failures, rather than the strength of the weather event alone. They contend that food shortages and price spikes can force dietary changes that increase human contact with zoonotic disease vectors.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "US$4.1 trillion",
+          "what": "global income loss from the 1982–83 El Niño"
+        },
+        {
+          "figure": "$5.7 trillion",
+          "what": "global income loss from the 1997–98 El Niño"
+        },
+        {
+          "figure": "451,000",
+          "what": "projected extra heat-related deaths associated with this El Niño"
+        },
+        {
+          "figure": "8.8 million",
+          "what": "people targeted for anticipatory assistance by the FAO and World Food "
+        },
+        {
+          "figure": "40%",
+          "what": "maize output reduction in South Africa during the 2015–16 El Niño"
+        }
+      ]
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Carlo Rovelli says fundamental physics is overrated",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03626-7",
+      "date": "2026-11-09",
+      "author": "Chris Stokel-Walker",
+      "summary": "Physicist Carlo Rovelli argues that fundamental physics is overrated and that the search for an ultimate description of reality is a flawed pursuit. He suggests that the world is too complex to be reduced to a single fundamental equation.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Physicist Carlo Rovelli contends that the field of fundamental physics has been oversold, arguing that the pursuit of an 'ultimate' reality is an illusion. He suggests that while high-energy and particle physics are valuable, they do not serve as the root of all other phenomena.",
+        "who": "Carlo Rovelli, a physicist and author of 'On the Equality of All Things', is the primary subject. He references the late Stephen Hawking as an example of a scientist whose dismissal of philosophy contributed to public skepticism toward science.",
+        "context": "Rovelli's perspective is rooted in his work on quantum gravity, which attempts to reconcile quantum mechanics with general relativity. He advocates for 'perspectivalism,' the idea that all physical accounts are relational rather than absolute.",
+        "why": "Rovelli claims that physicists have created problems for the field by pretending to be the 'arbiters of reality,' which has led to a backlash against science. He also criticizes the scientific community for wasting experimental efforts on theories like supersymmetry that were later empirically disproven.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03631-w",
+      "date": "2026-11-09",
+      "author": "James Dinneen",
+      "summary": "The COP31 climate conference has commenced in Turkey following confirmation that global warming will inevitably exceed the 1.5 °C threshold. Delegates are now tasked with discussing strategies to manage this overshoot, including the large-scale removal of carbon dioxide from the atmosphere.",
+      "also": [],
+      "brief": {
+        "what": "The UN COP31 summit in Antalya, Turkey, marks the first meeting since the UN confirmed that surpassing the 1.5 °C warming target is inevitable. Discussions are shifting toward managing the magnitude and duration of this overshoot, specifically through carbon dioxide removal technologies and nature-based solutions.",
+        "who": "The UN, climate scientists, and delegates from participating nations are the primary actors, with organizations like the World Resources Institute and the Natural Resources Defense Council providing policy advocacy.",
+        "context": "The 2015 Paris agreement established the 1.5 °C goal, but current emissions trajectories make this target unreachable without active intervention. Previous summits have focused on emissions cuts, but there is now growing pressure to integrate carbon removal into formal climate policy.",
+        "why": "The UN Environment Programme stated that overshoot is now unavoidable under all plausible trajectories, necessitating a shift in strategy to bring temperatures back down. Experts argue that current consensus-based decision-making processes at COP have failed to produce the necessary progress, leading to calls for reform.",
+        "next": "Parties will debate how to scale up carbon dioxide removal and whether to reform the COP decision-making process to allow for majority voting."
+      },
+      "numbers": [
+        {
+          "figure": "1.5 °C",
+          "what": "headline climate warming limit target"
+        },
+        {
+          "figure": "12 days",
+          "what": "duration of the COP31 conference"
+        },
+        {
+          "figure": "60 countries",
+          "what": "size of a coalition working in parallel to COP"
+        },
+        {
+          "figure": "2.6 and 2.8 °C",
+          "what": "projected warming this century under current policies"
+        }
+      ]
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "AI has transformed maths — this is how we got here",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03627-6",
+      "date": "2026-11-09",
+      "author": "Anil Ananthaswamy",
+      "summary": "A new book by Steven Strogatz and Alex Townsend explores how 'big math' underpins modern technology, from artificial intelligence to medical diagnostics. It traces the historical evolution of mathematical concepts like matrices and Markov chains that now drive global digital infrastructure.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "The book 'Big Math' examines the pervasive role of mathematics in contemporary life, highlighting how historical concepts have evolved into the foundational tools for modern artificial intelligence and data analysis. The authors demonstrate that the manipulation of massive matrices, containing hundreds of billions to trillions of numbers, is central to generative AI.",
+        "who": "Mathematicians Steven Strogatz and Alex Townsend are the authors, while computer scientist Regina Barzilay is featured for her work in applying machine learning to breast cancer detection.",
+        "context": "The text situates modern AI within a long lineage of mathematical development, including ancient Chinese accounting methods, nineteenth-century matrix theory, and mid-twentieth-century social network analysis.",
+        "why": "The authors argue that 'big math' is shaking the foundations of how society works, learns, and heals, necessitating a deeper understanding of the mathematical principles that permeate daily life.",
         "next": "The article doesn't say."
       }
     },
@@ -885,7 +1127,7 @@
       "url": "https://www.foxbusiness.com/retail/millions-ladders-recalled-nationwide-after-numerous-reports-head-injuries-skull-fractures",
       "date": "2026-11-07",
       "author": null,
-      "summary": "The U.S. Consumer Product Safety Commission has recalled over 3.6 million Little Giant ladders due to a locking mechanism failure that poses a significant fall hazard. The recall follows dozens of reports of injuries, including skull fractures and traumatic brain injuries.",
+      "summary": "The U.S. Consumer Product Safety Commission has issued a recall for over 3.6 million Little Giant ladders due to a defect in the locking mechanism that poses a significant fall hazard. The company is providing repair kits and warning labels to address reports of injuries, including skull fractures and traumatic brain injuries.",
       "also": [
         {
           "source": "New York Post",
@@ -893,15 +1135,15 @@
           "date": "2026-11-07",
           "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures",
           "url": "https://nypost.com/2026/11/07/business/millions-of-ladders-recalled-nationwide-after-numerous-reports-of-head-injuries-skull-fractures/",
-          "note": "New York Post: The headline is identical to the Fox Business headline."
+          "note": "The New York Post headline is identical to the Fox Business headline, framing the story with the same focus on the scale of the recall and the severity of the injuries."
         }
       ],
       "brief": {
-        "what": "The U.S. Consumer Product Safety Commission (CPSC) issued a recall for over 3.6 million Little Giant ladders because their 'rapid lock' mechanisms can fail to engage, causing the ladders to retract unexpectedly. This defect has led to 39 reports of malfunctions and 19 injuries, including severe head trauma and bone fractures.",
-        "who": "The U.S. Consumer Product Safety Commission is the regulatory body overseeing the recall, while Little Giant is the manufacturer responsible for providing repair kits and replacements.",
-        "context": "The recall affects 11 different makes and over 130 models of ladders, which were sold at various price points ranging from $100 to $1,000.",
-        "why": "Little Giant states that the rapid locks may fail to fully engage, creating a fall hazard for users. The company is instructing owners to stop using the ladders until supplemental warning labels are applied and the locks are properly maintained.",
-        "next": "Consumers are instructed to stop using the ladders until they receive and apply the repair kit, which includes warning labels and maintenance instructions; the company will offer replacements or refunds if locks remain non-functional after evaluation."
+        "what": "The CPSC is recalling more than 3.6 million Little Giant ladders across 11 makes and 130 models because of a faulty 'rapid lock' mechanism. This defect has led to 39 reports of malfunctions, 19 of which resulted in injuries including skull fractures and traumatic brain injuries.",
+        "who": "The U.S. Consumer Product Safety Commission (CPSC) is overseeing the recall, while Little Giant is the manufacturer responsible for providing repair kits and replacement options to affected consumers.",
+        "context": "The recall addresses a specific mechanical failure where the rapid locks fail to engage, causing the ladder to retract unexpectedly while in use.",
+        "why": "Little Giant stated that the rapid locks can fail to become fully engaged, posing a potential fall hazard to consumers. The company is instructing users to stop using the ladders until they apply new warning labels and follow updated maintenance instructions.",
+        "next": "Consumers are advised to stop using the ladders until they receive and apply the repair kits, which include warning labels and maintenance instructions. If the locks remain non-functional after evaluation, the company will offer a replacement ladder or a refund."
       },
       "numbers": [
         {
@@ -913,242 +1155,35 @@
           "what": "reports of rapid locks malfunctioning"
         },
         {
-          "figure": "25",
-          "what": "reports of ladders retracting unexpectedly"
-        },
-        {
           "figure": "19",
           "what": "reports of injuries resulting from ladder retraction"
         },
         {
-          "figure": "11",
-          "what": "makes of Little Giant ladders involved"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Qantas Expects $2.63 Billion First-Half Fuel Bill Amid Elevated Oil Prices",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/qantas-expects-2-63-billion-first-half-fuel-bill-amid-elevated-oil-prices-b4657da0?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-05",
-      "author": "David Winning",
-      "summary": "Qantas projects a $2.63 billion fuel bill for the first half of the year as it grapples with elevated oil prices. The airline plans to mitigate these costs by adjusting capacity and modifying ticket pricing.",
-      "also": [],
-      "brief": {
-        "what": "Qantas anticipates a $2.63 billion fuel expense for the first half of the year due to sustained high oil prices. To manage this financial pressure, the airline is actively adjusting its flight capacity and fare structures.",
-        "who": "Qantas is the primary actor, managing its operational strategy in response to external energy market conditions.",
-        "context": "Airlines are highly sensitive to fuel price volatility, which often necessitates strategic adjustments to capacity and pricing to maintain profitability.",
-        "why": "The airline is responding to elevated oil prices by opportunistically locking in lower fuel costs and modifying its commercial offerings.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
+          "figure": "130",
+          "what": "models of ladders included in recall"
+        },
         {
-          "figure": "$2.63 billion",
-          "what": "projected fuel bill for the first half"
+          "figure": "$1,000",
+          "what": "maximum price range of affected ladders"
         }
       ]
     },
     {
-      "topic": "world",
+      "topic": "culture",
       "importance": 1,
-      "title": "Nandy flags downsides of closer EU relations",
+      "title": "Women’s football doesn’t need to become men’s football to succeed",
       "source": "City AM",
-      "url": "https://www.cityam.com/nandy-flags-downsides-of-closer-eu-relations/",
+      "url": "https://www.cityam.com/womens-football-doesnt-need-to-become-mens-football-to-succeed/",
       "date": "2026-11-08",
-      "author": "Maurício Alencar",
-      "summary": "Cabinet minister Lisa Nandy has acknowledged potential trade-offs regarding closer ties with the European Union. The government faces pressure as it navigates negotiations on trade, security, and mobility.",
+      "author": "Stephanie McCaffrey",
+      "summary": "Women's football is experiencing consistent growth in investment, interest, and media coverage. However, the pace of development regarding player welfare and specific financial support is lagging behind this overall expansion.",
       "also": [],
-      "brief": {
-        "what": "Culture Secretary Lisa Nandy stated that there are downsides to pursuing closer relations with the European Union, noting that previous promises regarding Brexit benefits have not been realized. The government is currently managing a debate over potential youth mobility schemes and trade access, with upcoming summits expected to address energy markets and food standards.",
-        "who": "Lisa Nandy, the UK Culture Secretary, and Michel Barnier, the former EU Brexit negotiator, are the primary figures discussing the conditions for future UK-EU trade access.",
-        "context": "The UK government is under scrutiny regarding its manifesto commitments to avoid joining the EU customs union or single market while simultaneously seeking to improve trade relations. This follows calls from figures like Andy Burnham for closer integration and warnings from EU officials that trade access is tied to the four freedoms.",
-        "why": "Nandy suggests the government must improve the current situation because the promises made a decade ago regarding Brexit benefits have not been realized for the British public. Barnier asserts that further trade access requires accepting the four freedoms of the single market.",
-        "next": "UK and EU leaders are scheduled to meet for a summit on 20 November to sign off on deals concerning energy markets and food standards."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "We used ancient DNA to track the origins and spread of the Germanic and Celtic languages – new research",
-      "source": "The Conversation",
-      "url": "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
-      "date": "2026-11-04",
-      "author": "Guus Kroonen, Associate Professor, Scandinavian, Germanic and Indo-European Comparative Linguistics, Leiden University; University of Copenhagen",
-      "summary": "Researchers used ancient DNA analysis from over 700 newly sequenced individuals to track the prehistoric migration patterns and linguistic evolution of Germanic and Celtic languages. The findings suggest that these languages spread through a complex combination of population migrations and cultural exchanges rather than single, isolated events.",
-      "also": [
-        {
-          "source": "Nature",
-          "author": "Shamini Bundell",
-          "date": "2026-11-04",
-          "title": "Ancient DNA charts spread of Celtic and Germanic languages",
-          "url": "https://www.nature.com/articles/d41586-026-03582-2",
-          "note": "Nature's headlines focus more specifically on the 'charting' and 'tracing' of language spread via genomics rather than the broader historical context."
-        },
-        {
-          "source": "Nature",
-          "author": "Ewen Callaway",
-          "date": "2026-11-04",
-          "title": "Rise of Germanic and Celtic languages is written in ancient DNA",
-          "url": "https://www.nature.com/articles/d41586-026-03581-3"
-        },
-        {
-          "source": "Nature",
-          "author": "Hugh McColl",
-          "date": "2026-11-04",
-          "title": "Tracing the spread of Celtic languages using ancient genomics",
-          "url": "https://www.nature.com/articles/s41586-026-11198-9"
-        }
-      ],
       "kind": "analysis",
       "brief": {
-        "what": "International researchers analyzed ancient DNA to test theories regarding the dispersal of Germanic and Celtic languages across Europe. The study indicates that Germanic languages likely arrived in Scandinavia 800 years later than previously assumed, while Celtic languages appear to have expanded westward from Central Europe, aligning with the Urnfield culture.",
-        "who": "Researchers from the University of Copenhagen and Leiden University led the international collaboration.",
-        "context": "Historical linguists have long debated how Indo-European languages spread from the Eastern European steppes. This study uses genomic data to refine the timeline of linguistic development in Northern and Western Europe.",
-        "why": "The researchers state that ancient DNA allows for the testing of competing theories by comparing prehistoric population movements with archaeological and linguistic evidence, revealing a history defined by repeated migration and cultural mixture.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "700",
-          "what": "newly sequenced prehistoric individuals analyzed"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
-      "date": "2026-11-05",
-      "author": "Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera",
-      "summary": "A senior adviser to Argentine President Javier Milei reportedly assisted Flávio Bolsonaro at an airport following his defeat in the Brazilian presidential election.",
-      "also": [],
-      "brief": {
-        "what": "A top adviser to President Javier Milei of Argentina met with Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport.",
-        "who": "Flávio Bolsonaro, the defeated Brazilian presidential candidate, and a top adviser to Argentine President Javier Milei.",
-        "context": "The meeting occurred in the aftermath of the Brazilian presidential election, which resulted in the defeat of the Bolsonaro campaign.",
-        "why": "According to three people involved in the operation, the adviser provided assistance to Bolsonaro during his transit through the Argentine airport.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-      "date": "2026-11-06",
-      "author": null,
-      "summary": "Anthropic is moving forward with plans for an initial public offering, aiming for a valuation of $1.5 trillion. The company intends to list its shares before Thanksgiving despite a challenging environment for technology stocks.",
-      "also": [],
-      "brief": {
-        "what": "Anthropic, the developer of the AI model Claude, has announced its intention to proceed with an initial public offering. The company is targeting a valuation of $1.5 trillion for the listing, which is scheduled to occur before Thanksgiving.",
-        "who": "Anthropic, the creator of the Claude AI model, is the primary actor driving the IPO process.",
-        "context": "The planned listing comes amidst a period described as a brutal tech rout, which has created a challenging market environment for technology companies seeking to go public.",
-        "why": "The company is pressing ahead with its listing plans despite the broader market downturn affecting the technology sector.",
-        "next": "The company intends to complete the listing process before the Thanksgiving holiday."
-      },
-      "numbers": [
-        {
-          "figure": "$1.5tn",
-          "what": "target valuation for the company's IPO"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-05",
-      "author": "Joseph Wilkins",
-      "summary": "Emirates Airline reported a significant decline in first-half profit as regional conflict and rising fuel costs impacted operations. The disruption to flight routes caused by the Iran war weighed heavily on the carrier's financial performance.",
-      "also": [],
-      "brief": {
-        "what": "Dubai’s flagship carrier, Emirates Airline, experienced a sharp decrease in its first-half profit. This downturn was driven by the Iran war, which forced the airline to navigate disrupted flight routes and absorb higher jet fuel prices.",
-        "who": "Emirates Airline is the primary entity affected by these regional geopolitical challenges.",
-        "context": "The airline industry is highly sensitive to geopolitical instability, which frequently necessitates costly flight path adjustments and exposes carriers to volatile energy markets.",
-        "why": "According to the report, the profit drop resulted from the Iran war disrupting established air traffic routes and simultaneously driving up the cost of jet fuel.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
-      "date": "2026-11-05",
-      "author": "CesiumAstro",
-      "summary": "CesiumAstro has raised $730 million in Series D financing, pushing its valuation above $4.5 billion to support the development of its new 737-satellite constellation, Synchronicity. The company is also investing $500 million to expand its Austin manufacturing headquarters following the successful launch of its Element-1 satellite.",
-      "also": [],
-      "brief": {
-        "what": "CesiumAstro secured $730 million in Series D funding led by Janus Henderson, bringing its total 2026 capital to over $1.2 billion and its valuation past $4.5 billion. The company unveiled Synchronicity, a 737-satellite AI-enabled constellation, and announced a $500 million investment to expand its Austin manufacturing footprint.",
-        "who": "CesiumAstro CEO Shey Sabripour leads the company, with Janus Henderson serving as the lead investor for the equity round.",
-        "context": "The company is transitioning from a supplier of space technologies to an operator of its own integrated satellite infrastructure, supported by three recent strategic acquisitions in semiconductors, mission software, and AI.",
-        "why": "According to Janus Henderson’s Aaron Schaechterle, the investment addresses an industry inflection point where legacy solutions are no longer equipped for modern customer demands. CesiumAstro aims to leverage its vertical integration to provide more resilient and adaptable connectivity.",
-        "next": "The company plans to deploy the Synchronicity constellation and continue its global expansion, including adding 550 jobs in Austin by 2030."
-      },
-      "numbers": [
-        {
-          "figure": "$730 million",
-          "what": "Series D financing raised"
-        },
-        {
-          "figure": "$4.5 billion",
-          "what": "valuation of the company"
-        },
-        {
-          "figure": "737-satellite",
-          "what": "planned constellation size"
-        },
-        {
-          "figure": "$500 million",
-          "what": "investment to expand Austin headquarters"
-        },
-        {
-          "figure": "$1.2 billion",
-          "what": "total capital announced in 2026"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "AI is coming for managers’ headcount",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682?syn-25a6b1a6=1",
-      "date": "2026-11-08",
-      "author": null,
-      "summary": "Artificial intelligence is increasingly being positioned to impact management roles and overall headcount within organizations. The shift suggests that the traditional pay grade structure for managers may face disruption as automation capabilities expand.",
-      "also": [],
-      "brief": {
-        "what": "Artificial intelligence is emerging as a potential disruptor for management-level positions and corporate headcount. The trend indicates that the traditional pay grades associated with these roles may be subject to future reassessment.",
-        "who": "Managers are the primary group identified as facing potential displacement or structural changes due to the integration of AI.",
-        "context": "The integration of AI into corporate operations is moving beyond entry-level tasks to target higher-level administrative and managerial functions.",
-        "why": "The article suggests that as AI capabilities evolve, the necessity for traditional management headcount and their associated compensation structures is being challenged.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
-      "source": "Science (AAAS)",
-      "url": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures",
-      "date": "2026-11-06",
-      "author": "Ailie McWhinnie",
-      "summary": "Researchers in China have successfully utilized a novel chemogenetic gene therapy to control seizures in three epilepsy patients. This marks the first clinical application of a strategy designed to dampen brain cell activity using drugs.",
-      "also": [],
-      "brief": {
-        "what": "A research team in China has conducted the first clinical trial of a chemogenetic gene therapy, successfully treating three patients to manage epilepsy. The approach involves using a drug to dampen the activity of specific brain cells.",
-        "who": "A team of researchers in China.",
-        "context": "Chemogenetics is a strategy that involves modifying cells to respond to specific chemical compounds, in this case to regulate neurological activity.",
-        "why": "The treatment was developed to control seizures by dampening brain cell activity.",
+        "what": "Women's football is seeing a steepening growth curve characterized by rising interest, sales, and television airtime. Despite this upward trajectory, the article notes that investment into the game and player welfare is not keeping pace with the sport's broader expansion.",
+        "who": "The article focuses on the women's football industry as a whole.",
+        "context": "The sport is currently in a phase of rapid development, with stakeholders observing a continual gradient of growth across various commercial and media metrics.",
+        "why": "The author suggests that while the sport is growing, the current investment levels and focus on player welfare are increasing at a slower rate than the sport's overall popularity.",
         "next": "The article doesn't say."
       }
     }
