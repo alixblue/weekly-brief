@@ -1120,5 +1120,17 @@
   "Fourier transform": "A mathematical operation that breaks down a signal into a summation of thousands of sine and cosine waves.",
   "Matrix": "A rectangular array of numbers that serves as a fundamental building block for modern artificial intelligence.",
   "Markov chain": "A sequence of random events where the probability of the next state depends solely on the current state.",
-  "Big math": "The collective term used by the authors to describe the mathematics behind technologies that fundamentally alter how society functions."
+  "Big math": "The collective term used by the authors to describe the mathematics behind technologies that fundamentally alter how society functions.",
+  "espionage": "The act of obtaining secret or confidential information without the permission of the holder of the information.",
+  "cyber-attack": "An attempt by hackers to damage or destroy a computer network or system.",
+  "attribution": "The process of identifying the party responsible for a cyber-attack.",
+  "De-escalation": "The process of reducing the intensity or magnitude of a military or political conflict.",
+  "Equity markets": "Financial markets where shares of public companies are issued, bought, and sold by investors.",
+  "bankruptcy": "A legal proceeding involving a person or business that is unable to repay their outstanding debts.",
+  "creditors": "Entities or individuals to whom the retailer owes money for goods, services, or loans.",
+  "assets": "The property and resources owned by the retailer that have value and can be sold to pay off debts.",
+  "Proposition": "A proposed law or policy measure submitted to a popular vote by the electorate.",
+  "net worth": "The total value of all assets owned by an individual minus their total liabilities.",
+  "Commercial plane": "An aircraft used for transporting passengers or cargo for hire rather than for military or private use.",
+  "Production": "The process of manufacturing goods, in this case, aircraft."
 }
