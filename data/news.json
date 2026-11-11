@@ -1,124 +1,749 @@
 {
-  "generated": "2026-11-10",
-  "window": "2026-11-03 to 2026-11-10",
+  "generated": "2026-11-11",
+  "window": "2026-11-04 to 2026-11-11",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-10",
-    "label": "Tue 10 Nov · change on the day",
+    "asof": "2026-11-11",
+    "label": "Wed 11 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,549.94",
-        "change": "+2.35%"
+        "value": "7,520.93",
+        "change": "-0.38%"
       },
       {
         "name": "Dow",
-        "value": "52,389.75",
-        "change": "+2.15%"
+        "value": "52,231.89",
+        "change": "-0.30%"
       },
       {
         "name": "Nasdaq",
-        "value": "25,253.139",
-        "change": "+2.74%"
+        "value": "25,065.874",
+        "change": "-0.74%"
       },
       {
         "name": "CAC 40",
-        "value": "8,328.55",
-        "change": "+1.16%"
+        "value": "8,302.27",
+        "change": "+0.29%"
       },
       {
         "name": "DAX",
-        "value": "26,577.73",
-        "change": "+1.18%"
+        "value": "26,532.48",
+        "change": "+0.70%"
       },
       {
         "name": "Brent oil",
-        "value": "$90.21",
-        "change": "-2.55%"
+        "value": "$93.20",
+        "change": "+1.87%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.901%",
-        "change": "+0.04 pt"
+        "value": "5.00%",
+        "change": "+0.14 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.1212",
-        "change": "-0.098%"
+        "value": "1.1138",
+        "change": "-0.224%"
       }
     ]
   },
   "week": [
     {
-      "text": "President Trump confirmed an FBI investigation into Nvidia CEO Jensen Huang's affair with a suspected Chinese spy, leading to a $250 billion loss in market value. The company faces a shareholder lawsuit and a potential Congressional briefing regarding national security protocols.",
+      "text": "Anthropic is preparing for a major IPO with a valuation target of up to $1.4 trillion, a move seen as a critical test for market sentiment amid a broader tech sector rebound.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+        "https://www.bloomberg.com/news/videos/2026-11-11/insight-with-haslinda-amin-11-11-2026-video",
+        "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
+        "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6"
       ]
     },
     {
-      "text": "Anthropic and some of its shareholders are seeking to raise as much as $90.4bn in its hotly anticipated IPO and private placement, in a potentially record-breaking first-time share sale that will test the market’s appetite for AI stocks after a major sell-off last week. The Claude chatbot maker is seeking as much as…",
+      "text": "Nvidia CEO Jensen Huang is under investigation by the FBI and his own company following allegations of an affair with a suspected Chinese spy, while reports indicate that a blacklisted Chinese university has successfully acquired restricted Nvidia AI chips.",
       "urls": [
-        "https://www.cityam.com/anthropic-targets-1-trillion-valuation-with-record-ipo-plans/"
+        "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "https://thedispatch.com/newsletter/morning/nvidias-chinese-spy-scandal/",
+        "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show"
       ]
     },
     {
-      "text": "France has formally accused Iran of a large-scale cyber-attack that sabotaged supermarket refrigeration systems, causing significant food loss across the country.",
+      "text": "Boeing is cutting 5% of its commercial plane workforce to align with production delays, while Qantas plans to outsource 850 corporate roles to Accenture as part of an IT modernization strategy.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+        "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+        "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+        "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+        "https://www.wsj.com/business/airlines/qantas-to-cut-850-jobs-after-tech-deal-with-accenture-2037ae2f?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "The National Highway Traffic Safety Administration is investigating certain Ford vehicles over reports of burn injuries caused by airbag deployments.",
+      "text": "Global fossil fuel CO2 emissions are expected to dip in 2026 due to oil market shocks from the Iran conflict, though total emissions will hit a record high; meanwhile, the U.S. has declined to send a delegation to the COP31 climate summit.",
       "urls": [
-        "https://www.wsj.com/business/autos/nhtsa-opens-probe-into-1-2-million-ford-vehicles-over-burn-risk-from-airbag-5610cb6c?mod=pls_whats_news_us_business_f"
+        "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+        "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html"
       ]
     },
     {
-      "text": "Brent crude and European gas prices declined as President Trump signaled a move away from further military strikes on Iran. This de-escalation boosted European stocks toward record highs, led by gains in the technology and banking sectors.",
+      "text": "The U.S. House has stalled an impeachment effort against Defense Secretary Pete Hegseth, while federal prosecutors have charged three Iran-backed operatives with plotting attacks on a U.K. air base hosting U.S. jets.",
       "urls": [
-        "https://www.bloomberg.com/news/videos/2026-11-10/the-opening-trade-11-10-2026-video"
+        "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy"
       ]
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "date": "2026-11-18",
+      "when": "",
+      "label": "Jensen Huang requested to appear for a closed-door Congressional briefing",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "date": "2026-12-01",
+      "when": "December",
+      "label": "Boeing begins issuing layoff notifications",
+      "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce"
+    },
+    {
+      "date": "2027-01-01",
+      "when": "January",
+      "label": "Democrats assume control of Congress and may revive Hegseth impeachment",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "date": "2027-06-01",
+      "when": "mid-2027",
+      "label": "First wave of Qantas layoffs begins",
+      "url": "https://www.wsj.com/business/airlines/qantas-to-cut-850-jobs-after-tech-deal-with-accenture-2037ae2f?mod=pls_whats_news_us_business_f"
+    }
+  ],
   "items": [
     {
-      "topic": "business",
+      "topic": "markets",
       "importance": 3,
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
       "date": "2026-11-10",
-      "author": null,
-      "summary": "President Trump confirmed an FBI investigation into Nvidia CEO Jensen Huang's affair with a suspected Chinese spy, leading to a $250 billion loss in market value. The company faces a shareholder lawsuit and a potential Congressional briefing regarding national security protocols.",
+      "author": "Dan Milmo Global technology editor",
+      "summary": "Anthropic is targeting a valuation of up to $1.4 trillion in its upcoming initial public offering, scaling back from previous $2 trillion expectations. The company aims to raise up to $100 billion through share sales and private placements.",
       "also": [
         {
           "source": "Wall Street Journal",
-          "author": "Brian Schwartz",
-          "date": "2026-11-09",
-          "title": "Trump Says Nvidia CEO Didn’t Know Alice Huang Was a Suspected Spy",
-          "url": "https://www.wsj.com/world/asia/trump-says-nvidia-ceo-didnt-know-alice-huang-was-a-suspected-spy-211d65d7?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal headline focuses specifically on Trump's assertion that the CEO was unaware of the woman's alleged status as a spy."
+          "author": "Berber Jin",
+          "date": "2026-11-10",
+          "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headlines focus specifically on the $1.3 trillion valuation figure rather than the $1.4 trillion range."
+        },
+        {
+          "source": "Wall Street Journal",
+          "author": "Berber Jin",
+          "date": "2026-11-10",
+          "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
+          "note": "The New York Times headline emphasizes the 'blockbuster' nature of the IPO."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Erin Griffith, Mike Isaac and Lauren Hirsch",
+          "date": "2026-11-10",
+          "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+          "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
         }
       ],
       "brief": {
-        "what": "President Donald Trump confirmed the FBI is investigating an affair between Nvidia CEO Jensen Huang and Alice Huang, an alleged Chinese intelligence asset. Following the news, Nvidia's share price fell by more than 4%, erasing approximately $250 billion in market value on Monday.",
-        "who": "The primary figures include President Trump, Nvidia co-founder Jensen Huang, and Alice Huang, the managing director of Megaspeed who is suspected of being a spy for Beijing.",
-        "context": "As the world's second most valuable company, Nvidia is central to the global AI technology race. Its advanced semiconductors are subject to strict US export controls to prevent China from enhancing its military and surveillance capabilities through high-end computing.",
-        "why": "The investigation and a subsequent shareholder lawsuit allege that the relationship may have been leveraged to help smuggle restricted products to China. Trump stated he spoke with Jensen Huang, who claims he had no knowledge of the woman's alleged ties to espionage, a claim Trump said he believes.",
-        "next": "Jensen Huang has been requested to appear for a joint closed-door Congressional briefing next week to discuss security protocols and his interactions with the suspected asset."
+        "what": "Anthropic is proceeding with an IPO targeting a $1.4 trillion valuation, seeking to raise up to $100 billion including a greenshoe offering and private placements with investors like Alphabet and Nvidia.",
+        "who": "Anthropic, led by CEO Dario Amodei, is the primary actor, supported by lead investment banks Goldman Sachs and Morgan Stanley.",
+        "context": "The company develops the Claude chatbot and faces significant capital expenditure requirements for computing power, with purchase commitments exceeding $450 billion by 2030.",
+        "why": "The valuation target was lowered from an anticipated $2 trillion due to investor concerns regarding the financial sustainability of AI infrastructure spending, exacerbated by recent US election results.",
+        "next": "Trading in Anthropic shares is expected to begin next week."
       },
       "numbers": [
         {
-          "figure": "$250bn",
-          "what": "value lost from Nvidia's market capitalization"
+          "figure": "$1.4tn",
+          "what": "target valuation for the stock market flotation"
         },
         {
-          "figure": "more than 4%",
-          "what": "decline in Nvidia's share price"
+          "figure": "$100bn",
+          "what": "total potential capital raised in the offering"
+        },
+        {
+          "figure": "825m shares",
+          "what": "number of shares being sold in the IPO"
+        },
+        {
+          "figure": "$81bn",
+          "what": "annual revenue run rate as of 31 October"
+        },
+        {
+          "figure": "$78",
+          "what": "maximum price per share in the offering"
         }
       ],
+      "earlier": [
+        {
+          "title": "Anthropic targets $1 trillion valuation with record IPO and placement plans",
+          "url": "https://www.cityam.com/anthropic-targets-1-trillion-valuation-with-record-ipo-plans/",
+          "source": "City AM",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+          "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Nvidia CEO Jensen Huang is under investigation by his company and the FBI following allegations of an affair with a suspected Chinese spy. While Nvidia maintains that national security has not been compromised, the situation has raised concerns among US lawmakers regarding the company's role in the global AI race.",
+      "also": [],
+      "brief": {
+        "what": "Nvidia CEO Jensen Huang is facing scrutiny after reports alleged he had an affair with Alice Huang, a businesswoman suspected by US intelligence of being a Chinese spy. Nvidia has launched an independent investigation led by a major law firm, and President Trump confirmed the FBI is also investigating the matter.",
+        "who": "Jensen Huang, CEO of Nvidia; Alice Huang, a former executive at Megaspeed suspected of espionage; and US government officials including President Trump.",
+        "context": "Nvidia is a critical player in the global AI industry, and its high-end chips are subject to US export controls intended to limit China's technological and military advancement. The company currently dominates the market for AI infrastructure.",
+        "why": "Lawmakers are concerned that the relationship could have exposed sensitive security protocols or intelligence, given Nvidia's central role in the US-China AI competition. Nvidia states it was not aware of any intelligence concerns and believes the US government would have notified them of a genuine threat.",
+        "next": "Jensen Huang has been asked to appear for a closed-door briefing before Congressional committees on 18 November, though it is unclear if he will comply."
+      },
+      "numbers": [
+        {
+          "figure": "$4tn",
+          "what": "estimated market value of Nvidia"
+        },
+        {
+          "figure": "$155bn",
+          "what": "estimated fortune of Jensen Huang"
+        },
+        {
+          "figure": "90%",
+          "what": "share of world's most advanced chips produced by TSMC"
+        },
+        {
+          "figure": "42",
+          "what": "number of tech executives at the White House AI summit"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 3,
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "The US House of Representatives voted to refer impeachment articles against Defence Secretary Pete Hegseth to a committee, effectively stalling the effort for the current legislative session. The resolution, introduced by Republican congressman Thomas Massie, accused Hegseth of unauthorized military action in Iran.",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-11",
+          "title": "Did Democrats save Pete Hegseth from impeachment?",
+          "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+          "note": "Al Jazeera frames the story around the potential role of Democrats in Hegseth's survival."
+        },
+        {
+          "source": "Reason",
+          "author": "Ilya Somin",
+          "date": "2026-11-11",
+          "title": "The Hegseth Impeachment is Far From Over",
+          "url": "https://reason.com/volokh/2026/11/10/the-hegseth-impeachment-is-far-from-over/",
+          "note": "Reason frames the story as an ongoing conflict rather than a concluded event."
+        },
+        {
+          "source": "Reason",
+          "author": "Ilya Somin",
+          "date": "2026-11-09",
+          "title": "Andrew McCarthy on the Hegseth Impeachment",
+          "url": "https://reason.com/volokh/2026/11/09/andy-mccarthy-on-the-hegseth-impeachment/"
+        }
+      ],
+      "brief": {
+        "what": "The House of Representatives blocked an immediate impeachment vote against Defence Secretary Pete Hegseth by a 211-204 margin, sending the resolution to the Judiciary Committee instead. This procedural move effectively kills the current effort, as the legislative term is nearing its end.",
+        "who": "Republican congressman Thomas Massie led the impeachment bid, while Defence Secretary Pete Hegseth dismissed the effort as a political farce. President Donald Trump supported Hegseth, and House leadership ensured the resolution was sidelined.",
+        "context": "The impeachment articles alleged that Hegseth waged war in Iran without congressional authorization for over 90 days and oversaw extrajudicial killings. The political landscape is set to shift in January when the Democratic Party gains control of both chambers of Congress following midterm election successes.",
+        "why": "Massie argued Hegseth violated the law, while Hegseth claimed the effort was a political stunt by a disgruntled opponent that threatened national security. Trump characterized the outcome as an exoneration of a patriot.",
+        "next": "Democrats may revive the impeachment process when they assume control of Congress in January."
+      },
+      "numbers": [
+        {
+          "figure": "211-204",
+          "what": "vote count to refer the resolution to committee"
+        },
+        {
+          "figure": "90 days",
+          "what": "duration of war in Iran without congressional approval"
+        },
+        {
+          "figure": "11",
+          "what": "number of Democrats who missed the ballot"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "author": null,
+      "summary": "Qantas plans to outsource 850 corporate roles to Accenture, with most positions relocating to India as part of a broader IT modernization and AI integration strategy.",
+      "also": [
+        {
+          "source": "AeroTime",
+          "author": "Miquel Ros",
+          "date": "2026-11-10",
+          "title": "Qantas to outsource 850 roles to India as part of major AI drive",
+          "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
+          "note": "AeroTime frames the story specifically as a strategic AI-driven initiative rather than focusing primarily on the job reduction aspect."
+        }
+      ],
+      "brief": {
+        "what": "Qantas is outsourcing 850 corporate positions to consulting firm Accenture, with the majority of these roles moving to India. The transition, which begins in 2027, affects finance, procurement, people, and marketing departments as the airline seeks to modernize its IT infrastructure.",
+        "who": "Qantas CEO Vanessa Hudson is leading the initiative, while Accenture has been contracted to manage the transition and IT systems overhaul.",
+        "context": "The airline currently manages over 1,000 legacy applications that were not designed for modern integration. Qantas spends over AU$1bn annually on technology and is facing pressure from higher fuel costs and the need for greater operational efficiency.",
+        "why": "CEO Vanessa Hudson stated the move is necessary to modernize systems, reduce duplication, and leverage the rapid evolution of AI and automation to create value for customers. The company aims to simplify corporate functions that were built over decades for a different era.",
+        "next": "Qantas is currently in talks with unions and staff regarding the transition, with plans to redeploy affected employees where possible."
+      },
+      "numbers": [
+        {
+          "figure": "850",
+          "what": "local corporate jobs to be outsourced"
+        },
+        {
+          "figure": "AU$1bn",
+          "what": "annual spending on technology"
+        },
+        {
+          "figure": "28,000",
+          "what": "total staff employed in Australia"
+        },
+        {
+          "figure": "4,000",
+          "what": "total staff employed globally"
+        },
+        {
+          "figure": "1,000",
+          "what": "legacy applications currently in use"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "author": null,
+      "summary": "Nvidia has engaged the law firm Wachtell, Lipton, Rosen & Katz to conduct an independent investigation into CEO Jensen Huang following reports of a romantic relationship with an alleged Chinese spy. The company has lost $500 billion in market value amid the controversy and heightened scrutiny from US officials.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Lauren Hirsch and Kalley Huang",
+          "date": "2026-11-10",
+          "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive",
+          "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+          "note": "The New York Times headline explicitly names the law firm and the specific nature of the relationship."
+        },
+        {
+          "source": "New York Post",
+          "author": "Taylor Herzlich",
+          "date": "2026-11-10",
+          "title": "Nvidia loses nearly $450B in two-day wipeout as CEO Jensen Huang’s affair with alleged Chinese spy sparks panic",
+          "url": "https://nypost.com/2026/11/10/business/nvidia-on-track-for-470b-two-day-wipeout-as-ceo-jensen-huangs-affair-sparks-panic/",
+          "note": "The New York Post headline frames the story as a market panic, emphasizing the specific dollar amount lost over a two-day period."
+        }
+      ],
+      "brief": {
+        "what": "Nvidia has launched an independent investigation led by attorney Joon Kim into CEO Jensen Huang's personal relationship with Alice Huang, an executive at a former customer firm who is alleged to be a Chinese spy. The company has seen its market value drop by $500 billion (£375 billion) since Friday as the situation draws political attention from the House Committee on Foreign Affairs.",
+        "who": "Jensen Huang is the CEO of Nvidia; Alice Huang is the alleged spy and former executive at Megaspeed; Wachtell, Lipton, Rosen & Katz is the law firm hired to lead the investigation.",
+        "context": "Nvidia is a critical player in the global artificial intelligence sector as the primary manufacturer of chips used for AI tools, which are considered a matter of US national security.",
+        "why": "The investigation was initiated by Nvidia's board to address concerns regarding the CEO's relationship, though the board stated it has no reason to believe company secrets were compromised. Beijing has rejected the allegations as an attempt to smear China.",
+        "next": "The House Committee on Foreign Affairs has requested Jensen Huang appear for a closed-door briefing next week, and the FBI is conducting a separate probe."
+      },
+      "numbers": [
+        {
+          "figure": "$500bn",
+          "what": "stock market value wiped from Nvidia"
+        },
+        {
+          "figure": "£375bn",
+          "what": "stock market value wiped from Nvidia"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "CEO Andersen as Vestas Shares Fall After Third-Quarter Revenue Miss",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/vestas-ceo-andersen-on-third-quarter-revenue-miss-video",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Vestas Wind Systems shares declined following a third-quarter revenue miss. CEO Henrik Andersen addressed the company's performance during a media appearance.",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Dominic Chopping",
+          "date": "2026-11-11",
+          "title": "Vestas Wind Systems Shares Drop on Earnings Miss, Narrowed Guidance",
+          "url": "https://www.wsj.com/business/earnings/vestas-wind-systems-shares-drop-on-earnings-miss-narrowed-guidance-d146caf2?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline highlights that the company also narrowed its financial guidance in addition to the earnings miss."
+        }
+      ],
+      "brief": {
+        "what": "Vestas Wind Systems reported third-quarter earnings that failed to meet revenue estimates, leading to a decline in the company's share price.",
+        "who": "Henrik Andersen is the CEO of Vestas, the Danish wind turbine manufacturer.",
+        "context": "The company operates within the wind energy sector and recently presented its financial results for the third quarter.",
+        "why": "The share price fell because the company missed revenue expectations for the period.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Why Anthropic's IPO Is Make or Break for the Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/insight-with-haslinda-amin-11-11-2026-video",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "The potential initial public offering of Anthropic is being positioned as a critical test for current market sentiment. Investors are closely watching the move to gauge broader economic confidence.",
+      "also": [
+        {
+          "source": "The Economist",
+          "author": null,
+          "date": "2026-11-04",
+          "title": "What markets make of the midterms",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+          "note": "The Economist frames the story around the impact of political elections on market performance rather than a specific corporate IPO."
+        }
+      ],
+      "kind": "analysis",
+      "brief": {
+        "what": "Anthropic is considering an initial public offering, an event that analysts view as a pivotal moment for the financial markets. The move is seen as a litmus test for investor appetite regarding high-growth technology firms.",
+        "who": "Anthropic, an artificial intelligence company, is the primary subject of the potential market debut.",
+        "context": "The broader financial landscape is currently evaluating the viability of major tech listings amid shifting economic conditions and investor expectations.",
+        "why": "The article suggests that the IPO is considered 'make or break' because it will likely serve as a bellwether for market health and the valuation of AI-focused enterprises.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "China's record-breaking trade surplus highlights a reliance on exports that experts warn is unsustainable due to weak domestic demand and rising international trade barriers. The country faces structural challenges as it attempts to transition toward a more consumption-driven economic model.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Keith Bradsher",
+          "date": "2026-11-10",
+          "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+          "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+          "note": "The New York Times headline focuses specifically on the record-breaking pace of the surplus, whereas Al Jazeera frames the surplus as a potential economic liability."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Keith Bradsher",
+          "date": "2026-11-10",
+          "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+          "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
+        }
+      ],
+      "kind": "analysis",
+      "brief": {
+        "what": "China has reached a $1.04 trillion trade surplus in the first 10 months of 2026, driven by strong export performance in technology sectors. However, this growth masks structural weaknesses, including stagnant domestic consumption and a reliance on manufacturing that is triggering trade friction with the EU and other partners.",
+        "who": "Key actors include President Xi Jinping, who aims to double the economy by 2035, and economists from institutions like Bruegel, Natixis, and the Hong Kong University of Science and Technology, who analyze the risks of the current export-led model.",
+        "context": "China's economy is struggling with a flailing real estate market, a weak social safety net, and high household savings, which suppress domestic demand. This forces the nation to rely on exports to maintain growth, a strategy that is increasingly challenged by international protectionism and overcapacity concerns.",
+        "why": "Experts argue that China's model is unsustainable because it relies on global demand that cannot absorb its excess manufacturing capacity. Furthermore, industrial policies continue to prioritize manufacturing over household income growth, exacerbating the imbalance.",
+        "next": "Beijing is targeting 60 trillion yuan in consumer goods sales by 2030, though analysts suggest further structural reforms are needed to shift the economy toward domestic consumption."
+      },
+      "numbers": [
+        {
+          "figure": "$1.04 trillion",
+          "what": "China's trade surplus in the first 10 months of the year"
+        },
+        {
+          "figure": "35.2 percent",
+          "what": "Yearly increase in Chinese exports during October"
+        },
+        {
+          "figure": "39 percent",
+          "what": "Chinese household consumption as a percentage of GDP"
+        },
+        {
+          "figure": "350,000 units",
+          "what": "Annual cap on Chinese hybrid electric vehicle imports by the EU"
+        },
+        {
+          "figure": "1.1 percent",
+          "what": "Year-on-year growth in Chinese retail sales in September"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "US Stock Index Futures Rise as CoreWeave Helps Tech Rebound",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-stock-index-futures-rise-as-coreweave-helps-tech-rebound",
+      "date": "2026-11-11",
+      "author": "Rose Henderson and Kurt Schussler",
+      "summary": "US equity futures are rising as strong performance from cloud provider CoreWeave bolsters investor sentiment in the technology sector. This rebound helps mitigate market concerns regarding the potential for higher interest rates.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-11",
+          "title": "US tech stocks set to extend rebound",
+          "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+          "note": "The Financial Times headline focuses specifically on the extension of the tech stock rebound rather than the catalyst of CoreWeave."
+        }
+      ],
+      "brief": {
+        "what": "US equity futures extended their gains following positive results from the neocloud provider CoreWeave Inc. This momentum has helped the technology sector rebound despite ongoing market anxiety surrounding interest rate expectations.",
+        "who": "CoreWeave Inc. is the neocloud provider whose performance is driving the current market sentiment.",
+        "context": "Investors are currently balancing enthusiasm for technology sector growth against broader macroeconomic concerns regarding the trajectory of interest rates.",
+        "why": "The article states that positive results from CoreWeave helped offset investor bets on higher interest rates.",
+        "next": "The article doesn't say."
+      },
+      "earlier": [
+        {
+          "title": "Democrats Win in Landslide, US Stock Futures Rebound",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video",
+          "source": "Bloomberg",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Gas price falls below $4 for first time since July",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/11/10/gas-price-falls-below-4-first-time-since-july/",
+      "date": "2026-11-10",
+      "author": "Victoria Craw",
+      "summary": "The sharp decline in prices at the pump followed U.S. election results that signaled strong voter oppostion to an extended war in Iran.",
+      "also": [
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-11-10",
+          "title": "Gas prices fall below $4 a gallon for first time since July",
+          "url": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july"
+        },
+        {
+          "source": "New York Post",
+          "author": "Taylor Herzlich",
+          "date": "2026-11-10",
+          "title": "Gas prices drop below $4 a gallon for first time since July, after Trump signal no Iran strikes anytime soon",
+          "url": "https://nypost.com/2026/11/10/business/gas-prices-drop-below-4-a-gallon-for-first-time-since-july/"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Boeing to cut about 5% of its commercial plane workforce",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+      "date": "2026-11-09",
+      "author": "Agence France-Presse",
+      "summary": "Boeing is reducing its commercial plane workforce by approximately 5% through layoffs and attrition to align staffing with moderated production schedules. The move follows the company's decision to delay output targets for its 737 Max aircraft to ensure supply chain stability.",
+      "also": [
+        {
+          "source": "AeroTime",
+          "author": "Stephen Pope",
+          "date": "2026-11-09",
+          "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
+          "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
+          "note": "AeroTime frames the story by explicitly linking the workforce reduction to the specific failure of the production ramp-up process."
+        }
+      ],
+      "brief": {
+        "what": "Boeing announced it will cut 5% of its commercial plane workforce to address overstaffing caused by a slower-than-anticipated production ramp-up. The company is adjusting its output schedules to provide factories and supply chain partners more time to achieve stability.",
+        "who": "Boeing commercial chief Stephanie Pope and CEO Kelly Ortberg are leading the workforce adjustment and production strategy shift.",
+        "context": "The company has faced significant financial losses and operational challenges following safety issues, including two deadly 737 Max crashes in 2018 and 2019. Boeing recently pushed back its target for reaching a production rate of 52 aircraft per month to the second half of 2027.",
+        "why": "Stephanie Pope stated that adjusting production schedules and reducing aircraft output resulted in an overstaffed position, necessitating the cuts to ensure long-term operational stability.",
+        "next": "Boeing will begin issuing layoff notifications to employees in December."
+      },
+      "numbers": [
+        {
+          "figure": "5%",
+          "what": "percentage of commercial plane workforce reduction"
+        },
+        {
+          "figure": "52",
+          "what": "target production rate for 737 Max aircraft"
+        },
+        {
+          "figure": "47",
+          "what": "previous production rate for 737 Max aircraft"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+          "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+          "source": "The New York Times",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "topic": "environment",
+      "importance": 2,
+      "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+      "date": "2026-11-10",
+      "author": "Carbon Brief Staff",
+      "summary": "Global fossil fuel CO2 emissions are projected to decline by 0.4% in 2026, largely driven by an oil market shock following the Iran conflict. However, rising land-use emissions will push total global CO2 emissions to a record high of 43.3GtCO2.",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Matthew Dalton",
+          "date": "2026-11-10",
+          "title": "Global CO2 Emissions to Fall as Iran War Cuts Fossil-Fuel Use",
+          "url": "https://www.wsj.com/business/energy-oil/global-co-emissions-to-fall-as-iran-war-cuts-fossil-fuel-use-04bfc01b?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline focuses specifically on the reduction in fossil-fuel use, omitting the record-high total emissions caused by land-use changes."
+        }
+      ],
+      "kind": "analysis",
+      "brief": {
+        "what": "Global fossil fuel and cement CO2 emissions are expected to fall by 0.4% in 2026 to 38.2GtCO2. Despite this, total emissions including land-use change are projected to reach a record 43.3GtCO2 due to increased deforestation and peat fires.",
+        "who": "The Global Carbon Project, which produces the annual global carbon budget report.",
+        "context": "The report tracks emissions from fossil fuels, cement, and land-use change, while assessing the remaining carbon budget to meet international climate temperature targets.",
+        "why": "The decline in fossil emissions is attributed to an energy shock and higher oil prices caused by the Iran conflict and the closure of the Strait of Hormuz. Conversely, land-use emissions are rising due to forest degradation and peat fires linked to a strong El Niño event.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "43.3GtCO2",
+          "what": "projected record high total CO2 emissions"
+        },
+        {
+          "figure": "0.4%",
+          "what": "projected decline in fossil fuel CO2 emissions"
+        },
+        {
+          "figure": "1.9%",
+          "what": "projected drop in emissions from oil"
+        },
+        {
+          "figure": "150GtCO2",
+          "what": "remaining carbon budget to limit warming to 1.5C"
+        },
+        {
+          "figure": "0.6%",
+          "what": "projected rise in coal emissions"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "The barriers to creating a European SpaceX",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/58d7ab59-688f-4d15-9c7f-96e621775777",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Europe's ambition to develop a domestic equivalent to SpaceX is currently hindered by the limitations of its capital markets. The continent struggles to match the financial scale required to support such high-stakes aerospace ventures.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Europe is facing significant challenges in establishing a space launch industry comparable to SpaceX, primarily due to insufficient capital market support.",
+        "who": "European aerospace stakeholders and capital market participants.",
+        "context": "The continent has expressed a clear ambition to develop independent space launch capabilities, but this goal remains unfulfilled.",
+        "why": "The article states that the continent’s ambition has not yet been matched by the necessary depth and scale of its capital markets.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+      "date": "2026-11-11",
+      "author": "Pranav Baskar, Hamed Aleaziz, Salman Masood and Zach Montague",
+      "summary": "An ICE deportation flight transporting Iranian immigrants was forced to turn back and land in Arizona. The group was reportedly en route to Pakistan for a subsequent transfer to Iran.",
+      "also": [],
+      "brief": {
+        "what": "An Immigration and Customs Enforcement deportation flight carrying Iranian nationals was diverted and landed in Arizona after being unable to complete its journey. The passengers were originally scheduled to be flown to Pakistan before being transferred to Iran.",
+        "who": "The Iranian immigrants on board and their legal representatives are the primary parties involved in the incident.",
+        "context": "The flight was part of an official deportation process managed by U.S. immigration authorities involving international transit.",
+        "why": "Lawyers for the group stated that the immigrants were scheduled for transfer to Iran via Pakistan, though the article does not specify the reason for the flight's diversion.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Google Agrees to Privacy in Spirit Airlines Data Sale",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-10",
+      "author": "Alexander Gladstone",
+      "summary": "Spirit Airlines has reached a revised bankruptcy agreement that protects employee data from being used for AI training. The deal includes the appointment of an independent monitor to oversee compliance.",
+      "also": [],
+      "brief": {
+        "what": "Spirit Airlines updated its bankruptcy agreement to exclude personnel files from data sales and established an independent monitor to ensure privacy. This revision follows significant pressure from labor unions and members of Congress regarding the potential use of company data for artificial intelligence training.",
+        "who": "Spirit Airlines is the primary actor, with labor unions and congressional representatives acting as the external stakeholders who prompted the change.",
+        "context": "The airline is currently navigating bankruptcy proceedings, which typically involve the sale of assets, including data, to creditors or third parties.",
+        "why": "The changes were implemented to address concerns raised by unions and lawmakers about the ethical and privacy implications of using employee information for AI development.",
+        "next": "The independent monitor will oversee the handling of data to ensure the company adheres to the new privacy protections."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Nvidia’s Chinese Spy Scandal",
+      "source": "The Dispatch",
+      "url": "https://thedispatch.com/newsletter/morning/nvidias-chinese-spy-scandal/",
+      "date": "2026-11-11",
+      "author": "Evan Spear, James P. Sutton, Ross Anderson",
+      "summary": "The Dispatch reports on a scandal involving Nvidia CEO Jensen Huang, suggesting potential implications for the ongoing international chip competition.",
+      "also": [
+        {
+          "source": "National Review",
+          "author": "The Editors",
+          "date": "2026-11-11",
+          "title": "The Nvidia Scandal Is a Warning Shot",
+          "url": "https://www.nationalreview.com/article/the-nvidia-scandal-is-a-warning-shot",
+          "note": "National Review: \"The Nvidia Scandal Is a Warning Shot\""
+        }
+      ],
+      "brief": {
+        "what": "The Dispatch has highlighted a scandal involving Nvidia CEO Jensen Huang, which is being analyzed for its potential to reshape the global chip war.",
+        "who": "Jensen Huang, the CEO of Nvidia, is the central figure in the reported scandal.",
+        "context": "This story emerges amidst heightened geopolitical tensions regarding semiconductor technology and artificial intelligence, often referred to as the 'chip war.'",
+        "why": "The article frames the situation as a significant development that could alter the competitive landscape of the semiconductor industry.",
+        "next": "The article doesn't say."
+      },
       "earlier": [
         {
           "title": "Can Nvidia’s boss survive a Chinese-spy controversy?",
@@ -129,382 +754,252 @@
       ]
     },
     {
-      "topic": "business",
-      "importance": 3,
-      "title": "Anthropic targets $1 trillion valuation with record IPO and placement plans",
-      "source": "City AM",
-      "url": "https://www.cityam.com/anthropic-targets-1-trillion-valuation-with-record-ipo-plans/",
-      "date": "2026-11-10",
-      "author": "Maisie Grice",
-      "summary": "Anthropic and some of its shareholders are seeking to raise as much as $90.4bn in its hotly anticipated IPO and private placement, in a potentially record-breaking first-time share sale that will test the market’s appetite for AI stocks after a major sell-off last week. The Claude chatbot maker is seeking as much as…",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-10",
-          "title": "Anthropic targets valuation of up to $1.4tn in IPO",
-          "url": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1"
-        },
-        {
-          "source": "The New York Times",
-          "author": "Erin Griffith, Mike Isaac and Lauren Hirsch",
-          "date": "2026-11-10",
-          "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-          "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
-        },
-        {
-          "source": "Wall Street Journal",
-          "author": "Berber Jin",
-          "date": "2026-11-10",
-          "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-          "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669?mod=pls_whats_news_us_business_f"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-          "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "date": "2026-11-06"
-        }
-      ]
-    },
-    {
       "topic": "world",
-      "importance": 3,
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "author": null,
-      "summary": "France has formally accused Iran of a large-scale cyber-attack that sabotaged supermarket refrigeration systems, causing significant food loss across the country.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Ségolène Le Stradic and Dustin Volz",
-          "date": "2026-11-10",
-          "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-          "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
-          "note": {
-            "The New York Times": "Focuses specifically on the technical target of refrigeration systems in its headline."
-          }
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-10",
-          "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-          "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
-          "note": {
-            "Al Jazeera": "Highlights the diplomatic escalation of summoning the Iranian ambassador."
-          }
-        }
-      ],
+      "importance": 1,
+      "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+      "date": "2026-11-11",
+      "author": "Willem Marx",
+      "summary": "Federal prosecutors have charged three Iran-backed operatives for orchestrating a campaign of nearly 20 attacks, including a plot against a British air base hosting U.S. military aircraft. Separately, a U.S. soldier is being held in the U.K. on suspicion of espionage related to Russia.",
+      "also": [],
       "brief": {
-        "what": "France officially blamed Iran’s Islamic Revolutionary Guard Corps (IRGC) for a cyber-attack that remotely raised temperatures in supermarket fridges, destroying tons of food. The breach targeted software from Danish firm Danfoss used by major retailers like Carrefour and Intermarché, with some units reaching 50C.",
-        "who": "French Foreign Minister Jean-Noël Barrot and the Paris prosecutor identified the IRGC-affiliated Shahid Kaveh unit as the perpetrator. The primary victims were French supermarket chains and Danfoss, the software provider.",
-        "context": "This incident is described as the first large-scale cyber-sabotage on French soil. It follows similar malfunctions at U.S. military bases in August and preceded a second wave of attacks affecting over 100 stores across seven other European nations.",
-        "why": "While Iran denies the claims, French officials view the act as a grave threat to national security. Analysts suggest the IRGC may be employing a deterrence strategy, as Iranian commentators have recently advocated for retaliatory actions beyond the Middle East.",
-        "next": "France has summoned the Iranian ambassador and plans to impose sanctions. An investigation into the head of the Shahid Kaveh unit is ongoing."
+        "what": "U.S. prosecutors unsealed an indictment against three men accused of conducting a terror campaign on behalf of the Islamic Revolutionary Guard Corps and Kata'ib Hezbollah, which included targeting a U.K. base housing American troops. Simultaneously, British police arrested a U.S. soldier on suspicion of espionage involving Russia.",
+        "who": "The accused include Mohammad Baqer Saad Dawood Al-Saadi, Mohsen Mohajeri, and Mohammed Ali Al-Hassani, who allegedly directed attacks remotely. The U.S. Army and British counter-terrorism police are managing the separate espionage investigation.",
+        "context": "The U.K. hosts a significant American military presence, including eleven RAF bases and over 12,000 personnel. These incidents occur amid heightened security concerns regarding U.S. assets in Europe.",
+        "why": "Prosecutors allege the men sought to orchestrate terror on behalf of designated foreign terrorist organizations. The espionage arrest is described by U.S. officials as a reminder of persistent insider threats.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "180",
-          "what": "Intermarché and Netto stores affected"
+          "figure": "nearly 20 attacks",
+          "what": "total number of attacks and attempted attacks"
         },
         {
-          "figure": "More than 100",
-          "what": "Coopérative U supermarkets hit"
+          "figure": "12,300",
+          "what": "American military and civilian defense personnel in the U.K."
         },
         {
-          "figure": "50C",
-          "what": "temperature refrigeration units reached overnight"
-        },
-        {
-          "figure": "More than 100",
-          "what": "stores hit across Europe in second wave"
+          "figure": "11,000",
+          "what": "uniformed U.S. personnel in the U.K."
         }
       ]
     },
     {
-      "topic": "world",
-      "importance": 2,
-      "title": "NHTSA Opens Probe Into 1.2 Million Ford Vehicles Over Burn Risk from Airbag",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/autos/nhtsa-opens-probe-into-1-2-million-ford-vehicles-over-burn-risk-from-airbag-5610cb6c?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-09",
-      "author": "Kelly Cloonan",
-      "summary": "The National Highway Traffic Safety Administration is investigating certain Ford vehicles over reports of burn injuries caused by airbag deployments.",
+      "topic": "business",
+      "importance": 1,
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Northwestern Polytechnical University, a Chinese institution on a US trade blacklist, has acquired Nvidia H200 AI chips through domestic suppliers. The procurement highlights ongoing challenges in enforcing export controls on advanced computing technology.",
       "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-09",
-          "title": "More than 1.2M Ford vehicles under federal probe after safety feature causes severe burns, 10 injured",
-          "url": "https://www.foxbusiness.com/lifestyle/more-than-1-2m-ford-vehicles-federal-probe-safety-feature-causes-severe-burns-10-injured"
-        },
         {
           "source": "New York Post",
           "author": "Reuters",
-          "date": "2026-11-09",
-          "title": "Ford facing probe of 1M vehicles after airbags caused serious burn injuries",
-          "url": "https://nypost.com/2026/11/09/business/ford-facing-probe-of-1m-vehicles-after-airbags-caused-serious-burn-injuries/"
+          "date": "2026-11-11",
+          "title": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+          "url": "https://nypost.com/2026/11/11/business/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/",
+          "note": "The New York Post headline explicitly emphasizes the university's links to the People's Liberation Army (PLA) to frame the story as a national security threat."
+        }
+      ],
+      "brief": {
+        "what": "Northwestern Polytechnical University, a Chinese institution on the US Entity List, purchased two Nvidia H200 AI chips for 874,700 yuan ($123,000) via a domestic supplier. Additionally, the university secured access to Nvidia processors through five separate contracts for rented computing capacity.",
+        "who": "Northwestern Polytechnical University, a defense-focused Chinese university, and Nvidia, the chip manufacturer currently facing scrutiny over its CEO's alleged ties to a Chinese intelligence operative.",
+        "context": "The US Department of Commerce maintains an Entity List that restricts the export of controlled technology to specific institutions, including Northwestern Polytechnical, due to their involvement in military research and missile proliferation.",
+        "why": "The university bypassed direct export restrictions by utilizing domestic intermediaries to acquire hardware or rent server access. US lawmakers argue such access facilitates China's military modernization, while Nvidia CEO Jensen Huang has previously argued that sales maintain US technological leadership.",
+        "next": "Three Republican congressional committee chairmen have requested a briefing with Nvidia's CEO on November 18 regarding his reported contacts with an alleged intelligence operative."
+      },
+      "numbers": [
+        {
+          "figure": "874,700 yuan",
+          "what": "cost for two H200 chips"
+        },
+        {
+          "figure": "$123,000",
+          "what": "approximate dollar value for two H200 chips"
+        },
+        {
+          "figure": "26",
+          "what": "number of Chinese procurement and corporate records reviewed"
+        },
+        {
+          "figure": "5",
+          "what": "contracts for rented computing capacity"
+        },
+        {
+          "figure": "2",
+          "what": "number of H200 chips purchased"
         }
       ]
     },
     {
       "topic": "markets",
-      "importance": 2,
-      "title": "Oil and Gas Fall on Iran De-escalation Hopes",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/the-opening-trade-11-10-2026-video",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "Brent crude and European gas prices declined as President Trump signaled a move away from further military strikes on Iran. This de-escalation boosted European stocks toward record highs, led by gains in the technology and banking sectors.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Rebecca F. Elliott and Lisa Friedman",
-          "date": "2026-11-09",
-          "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
-          "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-          "note": "The New York Times: The headline frames the situation around the broader concept of peace rather than the specific de-escalation of military strikes."
-        }
-      ],
+      "importance": 1,
+      "title": "Siemens Energy Shares Jump on Steeper Profit Targets Through 2030",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/siemens-energy-targets-steeper-profit-gains-through-2030-269212e1?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-11",
+      "author": "Adam Whittaker",
+      "summary": "Siemens Energy has announced new midterm financial targets, projecting increased sales growth and higher profitability through 2030.",
+      "also": [],
       "brief": {
-        "what": "Brent crude and European natural gas prices experienced a notable decline following indications of reduced geopolitical friction in the Middle East. Simultaneously, European equity markets trended toward record highs, driven by a resurgence in technology and banking shares alongside the relief provided by lower energy costs.",
-        "who": "U.S. President Donald Trump is the primary actor mentioned, as his public signals regarding military policy shifted global market expectations. European technology companies and banking institutions are also highlighted as the primary sectors benefiting from the shifting market sentiment during the opening trade.",
-        "context": "This market shift occurs against a backdrop of significant potential conflict between the United States and Iran, a situation that typically causes volatility in global energy markets and prompts a risk-off sentiment among equity investors.",
-        "why": "The decline in energy prices and the subsequent rally in European stocks occurred because President Trump signaled that new military strikes on Iran would not be necessary at this time. This communication fostered widespread hopes for de-escalation, reducing the risk premium previously priced into oil and gas.",
+        "what": "Siemens Energy has set new midterm targets that anticipate significant sales growth and improved profitability over the next four years.",
+        "who": "Siemens Energy, a German manufacturer of energy equipment.",
+        "context": "The company is adjusting its financial outlook to reflect expectations for the period leading up to 2030.",
+        "why": "The company stated it is targeting these specific growth and profitability metrics as part of its new midterm strategy.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "2030",
+          "what": "the target year for midterm financial goals"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Anthropic’s IPO is too important to fail",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Anthropic is preparing for a highly anticipated initial public offering, though analysts warn that internal share sales and complex supply-chain dependencies could impact post-listing performance.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Anthropic is heading toward a blockbuster initial public offering driven by significant market demand. However, the company faces potential volatility due to shadow insider sales and circular supply-chain backing.",
+        "who": "Anthropic is the primary company preparing for the public market debut.",
+        "context": "The company is navigating a high-profile entry into the public markets while managing internal financial structures and supply-chain relationships.",
+        "why": "The article suggests that while demand for the IPO is high, the combination of insider selling and circular supply-chain arrangements may lead to after-market indigestion for investors.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Boeing to cut about 5% of its commercial plane workforce",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
-      "date": "2026-11-09",
-      "author": "Agence France-Presse",
-      "summary": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet production Boeing will cut about 5% of its commercial plane workforce as it moderates the pace of ramping up jet production, the company said on Monday. The company will eliminate the posts through a mix of layoffs…",
-      "also": [
-        {
-          "source": "AeroTime",
-          "author": "Stephen Pope",
-          "date": "2026-11-09",
-          "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
-          "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production"
-        }
-      ]
-    },
-    {
       "topic": "markets",
-      "importance": 2,
-      "title": "SoftBank Posts Multibillion-Dollar Loss Linked to U.S. Data-Center Equipment",
+      "importance": 1,
+      "title": "Hapag-Lloyd Raises Guidance Again on Strong Freight Rates",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/softbank-group-posts-quarterly-loss-on-special-losses-linked-to-u-s-data-center-projects-23b37a41?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-10",
-      "author": "Kosaku Narioka",
-      "summary": "SoftBank Group swung to its first quarterly loss in nearly two years, dragged in part by $3.7 billion in losses related to equipment for U.S. data-center projects, a potential warning sign about the sustainability of AI spending.",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-10",
-          "title": "SoftBank slumps to $7bn loss on US data centre writedown",
-          "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
-      "title": "Children’s Place Files for Bankruptcy With Plans to Sell Assets",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/pro/bankruptcy/childrens-place-files-for-bankruptcy-with-plans-to-sell-assets-2ae70988?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-09",
-      "author": "Alicia McElhaney",
-      "summary": "Children’s Place has filed for bankruptcy protection and plans to sell its assets. The retailer sought protection from creditors after a loan from its Saudi backer was exhausted.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Reuters",
-          "date": "2026-11-09",
-          "title": "Children’s Place files for bankruptcy, seeks buyer after suffering big losses",
-          "url": "https://nypost.com/2026/11/09/business/childrens-place-files-for-bankruptcy-seeks-buyer-after-suffering-big-losses/",
-          "note": "The New York Post headline highlights the \"big losses\" the company suffered as a specific driver for seeking a buyer."
-        }
-      ],
+      "url": "https://www.wsj.com/business/logistics/hapag-lloyd-raises-guidance-again-on-strong-freight-rates-d74c8067?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-11",
+      "author": "Dominic Chopping",
+      "summary": "Hapag-Lloyd has increased its full-year earnings guidance for the second time, citing stronger-than-anticipated performance in the fourth quarter. Following the announcement, the company's share price experienced an uptick.",
+      "also": [],
       "brief": {
-        "what": "Children’s Place has officially filed for bankruptcy protection and announced plans to sell its assets. The children's apparel retailer is currently seeking protection from its creditors as it navigates this financial restructuring process.",
-        "who": "The primary entity involved is Children’s Place, a major retailer specializing in children's apparel. The story also involves the company's Saudi backer, which had previously provided a loan to support the retailer's operations.",
-        "context": "Children’s Place operates as a specialized retailer in the apparel industry, focusing on clothing for children. The company had been relying on external financing from a Saudi-based backer to maintain its business operations and manage its debt obligations.",
-        "why": "The retailer sought protection from creditors because the loan provided by its Saudi backer ran out. According to the reports, the exhaustion of these funds left the company unable to continue its standard operations without seeking legal protection.",
-        "next": "The company intends to move forward with plans to sell its assets. It is currently seeking a buyer for the business following the filing for bankruptcy protection."
+        "what": "Hapag-Lloyd raised its full-year earnings guidance, reporting that its fourth-quarter performance is exceeding previous expectations. This upward revision led to an increase in the company's share price.",
+        "who": "Hapag-Lloyd is the shipping company responsible for the earnings guidance revision.",
+        "context": "The company is adjusting its financial outlook based on current market conditions and operational performance observed during the final quarter of the year.",
+        "why": "The company raised its guidance because its fourth-quarter performance is developing better than expected, according to the firm.",
+        "next": "The article doesn't say."
       }
     },
     {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "US Air Force moves tankers from RAF Mildenhall amid reported Iran-linked threat",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/usaf-tankers-raf-mildenhall-iran-threat",
-      "date": "2026-11-10",
-      "author": "Clement Charpentreau",
-      "summary": "The US military relocated refueling tankers from RAF Mildenhall in eastern England on November 9, 2026, following an… The post US Air Force moves tankers from RAF Mildenhall amid reported Iran-linked threat appeared first on AeroTime .",
-      "also": [
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-10",
-          "title": "US moves aircraft from second UK base over ‘threat from Iran’",
-          "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss"
-        }
-      ]
-    },
-    {
       "topic": "business",
-      "importance": 2,
-      "title": "California voters reject billionaire tax",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "California voters have defeated Proposition 40, a proposed one-time 5% tax on residents with a net worth exceeding $1 billion. The measure, which aimed to raise $100 billion for social programs, faced significant opposition from high-profile tech entrepreneurs and Governor Gavin Newsom.",
-      "also": [
-        {
-          "source": "Reason",
-          "author": "Reem Ibrahim",
-          "date": "2026-11-10",
-          "title": "California Voters Reject 5% Billionaire Wealth Tax",
-          "url": "https://reason.com/2026/11/09/california-voters-reject-5-billionaire-wealth-tax/",
-          "note": {
-            "Reason": "Focuses specifically on the 5% rate and the 'wealth tax' terminology in its headline."
-          }
-        },
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-08",
-          "title": "California faces one-two punch as voters reject wealth tax and billionaires eye exits",
-          "url": "https://www.foxbusiness.com/politics/california-faces-one-two-punch-voters-reject-wealth-tax-billionaires-eye-exits",
-          "note": {
-            "Fox Business": "Uses more dramatic language, framing the rejection as part of a 'one-two punch' alongside potential billionaire exits."
-          }
-        }
-      ],
-      "brief": {
-        "what": "California voters rejected Proposition 40, a measure that would have imposed a one-time 5% tax on individuals with a net worth over $1 billion. With 60% of votes counted, the proposal is headed for defeat with 55.6% of voters opposing the levy.",
-        "who": "The tax was championed by Senator Bernie Sanders and progressive Democrats but faced opposition from outgoing Governor Gavin Newsom and billionaires such as Google co-founder Sergey Brin.",
-        "context": "The proposal emerged during the 2026 midterm elections as a response to federal funding cuts under President Trump’s 'One Big Beautiful Bill.' It followed a 'blue tsunami' where Democrats secured majorities in both chambers of the US Congress.",
-        "why": "Proponents viewed the tax as a remedy for economic inequality, while opponents argued it would trigger an exodus of high-tech entrepreneurs and job-producing enterprises. Billionaires who funded the opposition claimed the measure was a gateway to broader aggressive taxation and could threaten retirement accounts.",
-        "next": "Incoming US Senate Finance Committee Chairman Ron Wyden stated that the committee will redouble efforts to ensure billionaires pay their fair share despite the California defeat."
-      },
-      "numbers": [
-        {
-          "figure": "55.6%",
-          "what": "no votes with 60 percent counted"
-        },
-        {
-          "figure": "5%",
-          "what": "one-time tax on net worth"
-        },
-        {
-          "figure": "$1bn",
-          "what": "net worth threshold for the tax"
-        },
-        {
-          "figure": "$100bn",
-          "what": "projected revenue for social programs"
-        }
-      ]
-    },
-    {
-      "topic": "science",
-      "importance": 2,
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Laura Chung",
-          "date": "2026-11-10",
-          "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
-          "url": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
+      "importance": 1,
       "title": "Qantas to Cut 850 Jobs After Tech Deal With Accenture",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/business/airlines/qantas-to-cut-850-jobs-after-tech-deal-with-accenture-2037ae2f?mod=pls_whats_news_us_business_f",
       "date": "2026-11-10",
       "author": "Rhiannon Hoyle",
-      "summary": "The layoffs representing about 3% of its Australian workforce are expected to take place over the coming years, with the first wave anticipated by mid-2027.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "BT cools on Starlink satellite tie-up after Musk Ukraine controversy",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2bb44a56-abbe-432a-8205-5e28a0a2e839",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "Launch will not proceed until ‘noise has died down’ over battlefield service disruptions, says CEO Allison Kirkby",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-      "date": "2026-11-06",
-      "author": "Jasper Jolly",
-      "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US. The billionaire chief executive said…",
-      "also": [
+      "summary": "Qantas plans to reduce its Australian workforce by 850 positions following a new technology agreement with Accenture. The layoffs are scheduled to occur over the coming years, beginning in mid-2027.",
+      "also": [],
+      "brief": {
+        "what": "Qantas announced a workforce reduction of 850 employees, representing approximately 3% of its Australian staff. These cuts are tied to a technology deal established with Accenture.",
+        "who": "Qantas is the airline implementing the staff reductions, while Accenture is the technology partner involved in the deal.",
+        "context": "The airline is restructuring its operations through a technology-focused partnership, which will result in the phased elimination of these roles over several years.",
+        "why": "The layoffs are a consequence of a technology deal with Accenture, with the company planning to implement the changes in waves starting in mid-2027.",
+        "next": "The first wave of layoffs is anticipated to begin by mid-2027."
+      },
+      "numbers": [
         {
-          "source": "The New York Times",
-          "author": "Lauren McCarthy",
-          "date": "2026-11-06",
-          "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
-          "url": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html"
+          "figure": "850",
+          "what": "number of jobs to be cut"
         },
         {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-06",
-          "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
-          "url": "https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales",
-          "url": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-06"
+          "figure": "3%",
+          "what": "percentage of Australian workforce affected"
         }
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 1,
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
+      "title": "The Fed Has to Raise Rates. How Fast To Go Has Officials Divided.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
+      "date": "2026-11-11",
+      "author": "Colby Smith",
+      "summary": "The Federal Reserve faces internal debate regarding the appropriate pace of interest rate hikes as inflationary pressures intensify. Officials are currently weighing a gradual approach against the need to address rising prices.",
+      "also": [],
+      "brief": {
+        "what": "The Federal Reserve is currently evaluating its strategy for raising interest rates in response to mounting price pressures. Officials remain divided on whether to maintain a gradual approach or accelerate the pace of tightening.",
+        "who": "Federal Reserve officials are the primary actors responsible for determining monetary policy and interest rate adjustments.",
+        "context": "The central bank is tasked with managing economic stability, and its current policy path is being challenged by persistent inflation.",
+        "why": "The Fed is reconsidering its strategy because intensifying price pressures are testing the effectiveness of its existing gradual approach to rate hikes.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
+      "date": "2026-11-11",
       "author": null,
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "also": []
+      "summary": "US stock futures rose as investors returned to artificial intelligence assets following positive results from CoreWeave and strong demand for Anthropic's IPO. Meanwhile, the bond market experienced a significant sell-off, driving short-term yields to their largest increase in over a year and a half.",
+      "also": [],
+      "brief": {
+        "what": "US stock futures climbed as market sentiment shifted back toward artificial intelligence, bolstered by CoreWeave's performance and interest in Anthropic's initial public offering. Simultaneously, the bond market saw a sharp decline, causing short-term yields to experience their most significant jump in 19 months.",
+        "who": "CoreWeave, a neocloud firm, and Anthropic, an artificial intelligence company, are the primary drivers of the renewed investor interest.",
+        "context": "The market activity follows a period of volatility where investors have been closely monitoring artificial intelligence trade trends and shifting expectations regarding Federal Reserve interest rate policies.",
+        "why": "The surge in stock futures is attributed to strong results from CoreWeave and robust demand for Anthropic's IPO, while the bond market tumble is linked to US CPI data fueling bets on Federal Reserve interest rate hikes.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "19 months",
+          "what": "period since the last yield surge"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "‘Fear factor’ sets in as investors question AI energy start-ups",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1bf39007-d0c1-441c-8a87-906c5284bd1a?syn-25a6b1a6=1",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Investors are growing increasingly cautious toward AI-focused energy start-ups as share prices decline and capital expenditure remains high. The market is questioning the sustainability of companies aiming to power the infrastructure behind artificial intelligence.",
+      "also": [],
+      "brief": {
+        "what": "Shares in companies focused on powering data centres are sliding as investors express growing skepticism. These firms continue to spend heavily despite the cooling market sentiment.",
+        "who": "Investors are the primary actors, currently reassessing their positions in AI-related energy start-ups.",
+        "context": "The rapid expansion of artificial intelligence has created a massive demand for data centre power, leading to a surge in specialized energy start-ups.",
+        "why": "The 'fear factor' is setting in as market participants begin to question the financial viability and high spending levels of these energy-intensive businesses.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "The M&S glow-up is starting to charm investors",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5?syn-25a6b1a6=1",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Marks & Spencer shares have risen significantly this year, suggesting that the retailer's business recovery is gaining traction with investors.",
+      "also": [],
+      "brief": {
+        "what": "Shares in the retailer M&S have climbed by almost two-fifths throughout the current year.",
+        "who": "M&S is the retailer experiencing the share price growth, while investors are the primary actors responding to the company's performance.",
+        "context": "The company has been undergoing a recovery process, and the recent stock performance is being viewed as an indicator of the durability of these improvements.",
+        "why": "The rise in share price is attributed to signs that the retailer's recovery might be durable.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "aerospace",
@@ -514,13 +1009,13 @@
       "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
       "date": "2026-11-09",
       "author": "Niraj Chokshi",
-      "summary": "Boeing is cutting 5% of its commercial plane workforce as production growth fails to meet previous expectations.",
+      "summary": "Boeing plans to reduce its commercial airplane division workforce by 5% due to slower-than-anticipated production growth. The company stated that current output levels necessitate a smaller staff size.",
       "also": [],
       "brief": {
-        "what": "Boeing has officially announced that it will cut 5% of its commercial plane employees. This significant reduction in the workforce is being implemented because the company's production levels are currently increasing at a much slower pace than was previously expected by the organization.",
-        "who": "Boeing is the central actor in this story, specifically its commercial aircraft division which is responsible for the layoffs. The affected parties are the employees who work within this specific segment of the aerospace company's global operations.",
-        "context": "The aerospace manufacturer is currently in a position where it must align its total number of employees with its actual manufacturing output. This move reflects a shift in the company's internal labor requirements as it responds to the current speed of its commercial aircraft production lines.",
-        "why": "The company stated that the primary reason for the workforce reduction is that it simply needs fewer workers at this time. This need for a smaller staff is a direct result of production increasing more slowly than the company had originally forecasted in its earlier plans.",
+        "what": "Boeing is set to cut 5% of its commercial airplane division workforce. This decision follows the company's assessment that production rates are increasing at a slower pace than originally projected.",
+        "who": "Boeing is the primary actor, serving as the manufacturer implementing the workforce reduction.",
+        "context": "The company is adjusting its operational scale in response to manufacturing challenges that have hindered the expected ramp-up of its commercial aircraft production.",
+        "why": "Boeing stated that the workforce reduction is necessary because production is increasing more slowly than previously expected.",
         "next": "The article doesn't say."
       },
       "numbers": [
@@ -528,161 +1023,103 @@
           "figure": "5%",
           "what": "reduction in commercial plane employees"
         }
+      ],
+      "earlier": [
+        {
+          "title": "Boeing to cut about 5% of its commercial plane workforce",
+          "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+          "source": "The Guardian",
+          "date": "2026-11-09"
+        }
       ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03588-w",
-      "date": "2026-11-09",
-      "author": "Kaia Glickman",
-      "summary": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03588-w Engineer Matthew Montgomery, who has just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Oil Market Starting to Price In a US-Iran Deal, Says Analyst Sen",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/oil-market-starting-to-price-in-a-us-iran-deal-sen-video",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "Amrita Sen, founder and director of market intelligence at Energy Aspects, says all geopolitical risk around the Iran war has been erased, but adds that the current status of a stalemate between the two nations “can continue for longer.” She speaks on Bloomberg Television. (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Italian banks hit out at Giorgia Meloni over latest tax raid",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f0665cf7-a36f-4573-b7d6-93dda9d59d3f?syn-25a6b1a6=1",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "Rome plans to raise €7bn from financial institutions during the next three years through measures including a higher corporation tax rate",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "UBS, Europe’s Biggest Stock Bull, Sees 13% Gain By End of 2027",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/ubs-europe-s-biggest-stock-bull-sees-13-gain-by-end-of-2027",
-      "date": "2026-11-10",
-      "author": "Rose Henderson",
-      "summary": "European stocks are set for double-digit gains by the end of next year as a broadening industrial cycle fuels profit growth, according to UBS Group AG strategists whose separate 2026 target is already the most bullish among forecasters tracked by Bloomberg.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Fed’s Waller on Rates, Market Pricing and the US Economy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-on-rates-market-pricing-and-the-us-economy-video",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "Federal Reserve Governor Christopher Waller joins Bloomberg’s Francine Lacqua for a conversation on monetary policy, interest rates and the outlook for the US economy. They speak at the Bank of England and Its Watchers event in London. (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Here’s why last year’s government shutdown will haunt October’s inflation data.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
-      "date": "2026-11-10",
-      "author": "Ben Casselman",
-      "summary": "",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "The index impact of SpaceX’s record-shattering IPO",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "Revisiting the Operation Overlord of IPO stuffing",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "China investors’ £3bn London property retreat deepens as insurer weighs sale",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d190f56a-f98b-4a5f-af4b-acc95bd4dd21?syn-25a6b1a6=1",
-      "date": "2026-11-10",
-      "author": null,
-      "summary": "China Life Insurance to ditch holding in 99 Bishopsgate ahead of planned redevelopment led by Canadian investor",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Shoppers to Use Black Friday Sales to Stock Up on Essentials",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
-      "date": "2026-11-09",
-      "author": "Kim Bhasin",
-      "summary": "Shoppers strained by high costs of living are expected to put a priority on value this season, whether they’re buying gifts or everyday items for themselves.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "It’s the culture, stupid",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/in_focus/4798279/its-the-culture-stupid-2/",
-      "date": "2026-11-10",
-      "author": "Mike Gonzalez",
-      "summary": "“It’s the economy, stupid.” That 1992 catchphrase by Bill Clinton advisor James Carville is being repeated in the aftermath of the Republican debacle last week. And it’s true that the economy can never be ignored. But “it’s the culture, stupid,” is a more apt refrain. People, especially the young, voted nearly 10…",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Students need AI-free spaces to learn core skills",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03644-5",
-      "date": "2026-11-10",
-      "author": "Pablo Neira-Castro",
-      "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5 Students need AI-free spaces to learn core skills",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Why your physics project needs an anthropologist",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03623-w",
-      "date": "2026-11-10",
-      "author": "Jaco de Swart",
-      "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.",
-      "also": []
     },
     {
       "topic": "environment",
       "importance": 1,
-      "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+      "title": "Biotech innovations are an opportunity to limit climate change",
       "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03628-5",
-      "date": "2026-11-09",
-      "author": "Eoin McLaughlin",
-      "summary": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03628-5 Food shortages and disease outbreaks are to be expected and need to be addressed together.",
-      "also": []
+      "url": "https://www.nature.com/articles/d41586-026-03621-y",
+      "date": "2026-11-11",
+      "author": null,
+      "summary": "Biotechnology, including gene editing and germplasm mining, is increasingly viewed as a critical tool to mitigate climate change and biodiversity loss by increasing crop yields within existing agricultural footprints. Experts argue that these innovations can help produce food more efficiently, reducing the need for land clearance that currently drives significant greenhouse gas emissions.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Researchers are advocating for the deployment of biotechnological advancements to address the climate and biodiversity crises. By utilizing gene editing and germplasm mining, scientists aim to boost crop resilience against heat and drought, potentially curbing the need for further land expansion which currently contributes up to five billion tonnes of carbon annually.",
+        "who": "Bioengineers Shekhar Mishra, Lauren Lui, and Adam Arkin, along with agronomist Yunkai Jin, are among the researchers proposing these solutions. Policymakers at the UN COP31 conference are also central to the discourse on implementing these strategies.",
+        "context": "Historically, biotechnology faced significant public and regulatory resistance in the 1990s due to concerns over transgenic organisms and corporate dominance. Current optimism stems from more precise gene-editing techniques and a shift in public perception driven by the urgency of climate change.",
+        "why": "The article states that biotechnology offers a way to reconcile high-yield industrial agriculture with environmental sustainability. Proponents argue that these tools can increase food production efficiency, thereby protecting nature and slowing global temperature rises.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "77",
+          "what": "number of biotechnologies with applications in agriculture and aquacul"
+        },
+        {
+          "figure": "9%",
+          "what": "share of human-caused methane emissions produced by rice farming"
+        },
+        {
+          "figure": "1.5 °C",
+          "what": "global warming limit agreed in the 2015 Paris Agreement"
+        }
+      ]
     },
     {
-      "topic": "culture",
+      "topic": "science",
       "importance": 1,
-      "title": "The future of Trumponomics: compromise or failure",
-      "source": "The Economist",
-      "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-      "date": "2026-11-09",
-      "author": null,
-      "summary": "How the art of the deal may yet prevail over the art of denial",
-      "also": []
+      "title": "Author or just ‘acknowledged’? How women are not gaining full credit for research",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03448-7",
+      "date": "2026-11-11",
+      "author": "Anna Napolitano",
+      "summary": "A study of over 80,000 contributors reveals that women are more frequently relegated to acknowledgements rather than co-authorship compared to men. While gender bias persists, researchers found that high professional status can mitigate these disparities.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "An analysis of PLOS journals found that men are more likely to receive authorship credit than women, particularly in investigation and analysis roles. While 70% of men were credited as authors, only 65% of women received the same recognition, with women more often appearing in the acknowledgements section.",
+        "who": "Yukie Sano and colleagues conducted the study, utilizing CRediT data and Gender API to analyze publication trends.",
+        "context": "Authorship is a critical metric for career advancement, grant reviews, and promotions, whereas acknowledgements typically carry no weight in these evaluations.",
+        "why": "Sano states the issue is twofold, driven by both gender bias and a hierarchy bias where highly cited researchers receive more credit regardless of gender. The study suggests that status acts as a buffer, though fewer women attain high-status positions initially.",
+        "next": "The researchers point to the Contributor Role Taxonomy (CRediT) as a tool to improve data tracking and accountability across disciplines."
+      },
+      "numbers": [
+        {
+          "figure": "20,000 authors",
+          "what": "number of authors analyzed in the study"
+        },
+        {
+          "figure": "60,000 acknowledged cont",
+          "what": "number of acknowledged contributors analyzed"
+        },
+        {
+          "figure": "70%",
+          "what": "percentage of men credited as authors"
+        },
+        {
+          "figure": "65%",
+          "what": "percentage of women credited as authors"
+        }
+      ]
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "The United States Is Skipping COP31 in Turkey",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
+      "date": "2026-11-11",
+      "author": "David Gelles and Lisa Friedman",
+      "summary": "President Trump has declined to send an official United States delegation to the upcoming United Nations climate summit in Turkey.",
+      "also": [],
+      "brief": {
+        "what": "The United States will not participate in the United Nations climate summit scheduled to take place in Turkey.",
+        "who": "President Trump, who made the decision to withhold an American delegation from the international gathering.",
+        "context": "The event is a United Nations climate summit, a recurring international forum where nations discuss global environmental policy and climate change mitigation strategies.",
+        "why": "The article states that President Trump refused to send a delegation, though it does not provide specific reasoning for the decision.",
+        "next": "The article doesn't say."
+      }
     }
   ]
 }
