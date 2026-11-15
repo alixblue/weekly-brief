@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14",
-  "window": "2026-11-07 to 2026-11-14",
+  "generated": "2026-11-15",
+  "window": "2026-11-08 to 2026-11-15",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
     "asof": "2026-11-14",
@@ -51,38 +51,128 @@
   },
   "week": [
     {
-      "text": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "text": "Nvidia faces significant leadership uncertainty following the abrupt resignation of CEO Jensen Huang, which has triggered a broader sell-off in AI-related stocks and tech investment trusts.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+        "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+        "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
+        "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a",
+        "https://www.cityam.com/london-listed-tech-trusts-suffer-further-losses-after-nvidia-fallout/"
       ]
     },
     {
-      "text": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "text": "A nationwide FAA ground stop caused widespread travel disruptions for three days, impacting both commercial airlines and college football logistics.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99",
+        "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+        "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3",
+        "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays"
       ]
     },
     {
-      "text": "In an industry first, United Airlines announced on November 11, 2026, that it is restricting unauthorized third-party artificial… The post United Airlines to block third-party AI agents from accessing digital platforms appeared first on AeroTime .",
+      "text": "SpaceX achieved a milestone by catching a Starship upper stage with launch tower arms, while simultaneously announcing a $74 billion investment in new data center campuses.",
       "urls": [
-        "https://www.aerotime.aero/articles/united-airlines-to-block-third-party-ai-agents-from-accessing-digital-platforms"
+        "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+        "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html"
       ]
     },
     {
-      "text": "A cruise ship carrying approximately 130 people began sinking in New Orleans after being struck by a tanker while docked. All passengers and crew were accounted for, though 32 individuals were hospitalized with non-critical injuries.",
+      "text": "Microsoft fully restored global services following a major outage caused by a network capacity upgrade, while BAE Systems raised its cash flow outlook amid strong defense order growth.",
       "urls": [
-        "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+        "https://www.aerotime.aero/articles/bae-systems-cash-flow-outlook-gcap-missile-orders"
       ]
     },
     {
-      "text": "The FAA lifted a four-hour nationwide ground stop caused by a failure in an aging analogue air traffic control system. The disruption led to thousands of flight cancellations and highlighted a projected $50 billion need for infrastructure modernization.",
+      "text": "Extreme weather events continue to impact global stability, with climate activists marching in Turkey during the Cop31 summit and wildfire litigation emerging as a major financial issue in the U.S.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
+        "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+        "https://insideclimatenews.org/news/15112026/wildfire-litigation-booming-business/"
       ]
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "date": "2026-11-17",
+      "when": "",
+      "label": "Nvidia interim CEO Colette Kress to address investor concerns during quarterly earnings report",
+      "url": "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns"
+    },
+    {
+      "date": "2027-02-19",
+      "when": "",
+      "label": "BAE Systems to publish full-year results",
+      "url": "https://www.aerotime.aero/articles/bae-systems-cash-flow-outlook-gcap-missile-orders"
+    },
+    {
+      "date": "2027-03-01",
+      "when": "March 2027",
+      "label": "Frontier Airlines first-class bookings",
+      "url": "https://www.aerotime.aero/articles/frontier-airlines-first-class-bookings-march-2027"
+    }
+  ],
   "items": [
+    {
+      "topic": "aerospace",
+      "importance": 3,
+      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14",
+      "author": null,
+      "summary": "SpaceX successfully caught the upper stage of its Starship rocket using mechanical launch tower arms for the first time. While the mission achieved this milestone, the Super Heavy booster stage was lost after an automated abort.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Kenneth Chang",
+          "date": "2026-11-15",
+          "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+          "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+          "note": "The New York Times emphasizes the historical significance of the catch."
+        },
+        {
+          "source": "Wall Street Journal",
+          "author": "Drew FitzGerald",
+          "date": "2026-11-14",
+          "title": "SpaceX Catches Starship After Early Setback",
+          "url": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal highlights the failure to recover the booster as a setback."
+        },
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-14",
+          "title": "SpaceX catches returning Starship rocket in breakthrough for Musk",
+          "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
+          "note": "The Financial Times frames the event as a breakthrough specifically for Elon Musk."
+        }
+      ],
+      "brief": {
+        "what": "SpaceX successfully recovered the upper stage of its Starship rocket by catching it with mechanical arms at the launchpad. However, the Super Heavy booster stage failed to be recovered, triggering an automated abort and subsequent explosion in the ocean.",
+        "who": "SpaceX, led by Elon Musk, is the primary operator, while Nasa serves as a key stakeholder monitoring progress for future lunar missions.",
+        "context": "SpaceX aims to achieve full reusability of both rocket stages to drastically reduce launch costs and support ambitious lunar exploration timelines, including the Artemis III mission.",
+        "why": "Elon Musk attributed the booster failure to the vehicle being slightly low on fuel. The company requires reliable recovery of both stages to meet its operational and economic goals.",
+        "next": "SpaceX must demonstrate the ability to recover both rocket stages on a single flight reliably and repeatedly to meet its commitments to Nasa."
+      },
+      "numbers": [
+        {
+          "figure": "124m",
+          "what": "total height of the Starship rocket"
+        },
+        {
+          "figure": "26 satellites",
+          "what": "number of Starlink satellites deployed"
+        },
+        {
+          "figure": "14 orbits",
+          "what": "number of Earth orbits completed by the ship"
+        },
+        {
+          "figure": "15th test",
+          "what": "total number of Starship test flights conducted"
+        }
+      ]
+    },
     {
       "topic": "world",
       "importance": 3,
@@ -94,180 +184,197 @@
       "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
       "also": [
         {
-          "source": "Bloomberg",
-          "author": "Joe Weisenthal and Tracy Alloway",
+          "source": "Financial Times",
+          "author": null,
           "date": "2026-11-14",
-          "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era"
+          "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+          "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1"
         },
         {
-          "source": "Bloomberg",
-          "author": "Joe Weisenthal and Tracy Alloway",
-          "date": "2026-11-14",
-          "title": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
-          "url": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast"
+          "source": "The New York Times",
+          "author": "Adam Satariano and Kalley Huang",
+          "date": "2026-11-12",
+          "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html"
         },
         {
-          "source": "Wall Street Journal",
-          "author": "Emma Tucker",
-          "date": "2026-11-13",
-          "title": "Jensen Huang Called Her ‘a Deer in the Headlights.’ Now She Runs Nvidia.",
-          "url": "https://www.wsj.com/articles/jensen-huang-called-her-a-deer-in-the-headlights-now-she-runs-nvidia-d7f063dd?mod=pls_whats_news_us_business_f"
+          "source": "The New York Times",
+          "author": "Ali Watkins",
+          "date": "2026-11-12",
+          "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html"
         }
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "business",
       "importance": 3,
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "title": "Microsoft says services fully restored after day-long global outage",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-14",
       "author": null,
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Drew FitzGerald",
-          "date": "2026-11-14",
-          "title": "SpaceX’s Latest Starship Mission Hits Early Setback",
-          "url": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 3,
-      "title": "United Airlines to block third-party AI agents from accessing digital platforms",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/united-airlines-to-block-third-party-ai-agents-from-accessing-digital-platforms",
-      "date": "2026-11-12",
-      "author": "Miquel Ros",
-      "summary": "In an industry first, United Airlines announced on November 11, 2026, that it is restricting unauthorized third-party artificial… The post United Airlines to block third-party AI agents from accessing digital platforms appeared first on AeroTime .",
+      "summary": "Microsoft has fully restored its global services following a widespread outage that disrupted business and government operations across more than 70 countries. The disruption, which impacted over 430 million users, was attributed to a network capacity upgrade rather than a cyber-attack.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Ishani Desai",
-          "date": "2026-11-11",
-          "title": "United Airlines Blocks A.I. Agents From Booking Flights",
-          "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
+          "author": "Michael Levenson",
+          "date": "2026-11-14",
+          "title": "Microsoft’s Global Outage and Fixes: What We Know",
+          "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+          "note": "The New York Times frames the story as an investigation into what is known about the outage and its fixes."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Michael Levenson",
+          "date": "2026-11-14",
+          "title": "Microsoft’s Global Outage and Fixes: What We Know",
+          "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+          "note": "The Wall Street Journal focuses on the company's official confirmation that services have been restored."
         },
         {
           "source": "Wall Street Journal",
-          "author": "Alison Sider",
-          "date": "2026-11-11",
-          "title": "United Airlines Is Banning AI Bots From Booking Flights",
-          "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?mod=pls_whats_news_us_business_f"
+          "author": "Joshua Jamerson",
+          "date": "2026-11-14",
+          "title": "Microsoft Service Restored After Widespread Outage, Company Says",
+          "url": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b?mod=pls_whats_news_us_business_f"
+        }
+      ],
+      "brief": {
+        "what": "Microsoft confirmed that its suite of tools, including Outlook, Teams, and Copilot, are fully operational after a global outage caused significant operational delays. The incident affected critical infrastructure, ranging from government agencies and hospitals to private businesses, for nearly 24 hours.",
+        "who": "Microsoft is the primary actor, with its engineers managing the restoration, while global institutions, including government bodies and private enterprises, were the affected users.",
+        "context": "Modern organizations rely heavily on a small group of big tech providers for cloud-based services, making them vulnerable to centralized technical failures that are difficult to mitigate through traditional disaster planning.",
+        "why": "Microsoft stated the outage was caused by a technical issue introduced during a network capacity upgrade. The company explicitly denied that the event was the result of a cyber-attack or an artificial intelligence agent.",
+        "next": "Microsoft plans to release a full post-incident report once it has completed a formal review of the event."
+      },
+      "numbers": [
+        {
+          "figure": "430 million",
+          "what": "people who use the affected products worldwide"
+        },
+        {
+          "figure": "70",
+          "what": "countries hit by the global outage"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Microsoft Service Restored After Widespread Outage, Company Says",
+          "url": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "What we know about the global Microsoft outage",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-13"
         }
       ]
     },
     {
-      "topic": "world",
+      "topic": "business",
       "importance": 2,
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-14",
       "author": null,
-      "summary": "A cruise ship carrying approximately 130 people began sinking in New Orleans after being struck by a tanker while docked. All passengers and crew were accounted for, though 32 individuals were hospitalized with non-critical injuries.",
+      "summary": "The Port of New Orleans has filed a lawsuit seeking $1 million in damages following a collision between a cargo tanker and a docked cruise ship. The port is requesting the seizure and sale of the tanker to cover repair and clean-up costs.",
       "also": [
-        {
-          "source": "Bloomberg",
-          "author": null,
-          "date": "2026-11-14",
-          "title": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video",
-          "note": "Bloomberg's headline specifies that the ship capsized, whereas the BBC describes it as sinking."
-        },
         {
           "source": "Wall Street Journal",
           "author": "Costas Paris",
           "date": "2026-11-13",
           "title": "A Tanker Lost Control and Hit a River Cruise Ship in New Orleans",
           "url": "https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal highlights that the tanker lost control prior to the collision."
+          "note": "The Wall Street Journal focuses on the mechanical failure and the specific vessels involved."
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-11-14",
+          "title": "New Orleans port seeks tanker seizure after cruise ship crash sparks $1M lawsuit",
+          "url": "https://www.foxbusiness.com/economy/new-orleans-port-seeks-tanker-seizure-cruise-ship-crash-sparks-lawsuit",
+          "note": "Fox Business highlights the port's specific legal strategy to seize the tanker as a primary element of the story."
         }
       ],
       "brief": {
-        "what": "A tanker collided with the docked cruise ship American Heritage on the Mississippi River, causing the vessel to take on water and begin sinking. Emergency responders rescued approximately 130 people from the scene, and 32 individuals were transported to local hospitals with non-critical injuries following the impact.",
-        "who": "The incident involved the cruise ship American Heritage and an unidentified tanker vessel. New Orleans Mayor Helena Moreno acted as the primary spokesperson, confirming that all passengers and crew members were safely accounted for after the collision.",
-        "context": "The collision occurred on a Friday while the American Heritage was stationary at a dock in New Orleans, Louisiana. This section of the Mississippi River is a high-traffic maritime corridor for both commercial shipping and tourism.",
-        "why": "Authorities are currently investigating the specific cause of the accident, though initial reports suggest a possible steering fault on the tanker may have been the primary factor. Mayor Moreno described the lack of missing persons as a miracle given the severity of the footage.",
-        "next": "The investigation into the collision remains ongoing as officials work to determine the exact mechanical or human errors involved."
+        "what": "The Port of New Orleans filed a federal lawsuit against the owners and managers of the tanker M/V Atlantic Asphalt after it collided with the cruise ship American Heritage, causing over $1 million in damages. The port is seeking to seize and sell the vessel to fund repairs, inspections, and clean-up efforts.",
+        "who": "The Port of New Orleans is the plaintiff, while Nave Shipping SA and Thome Ship Management Pte Ltd are the named defendants.",
+        "context": "The collision occurred on the Mississippi River, leaving the cruise ship partially submerged and requiring the rescue of over 100 passengers. The incident is currently under investigation by the US Coast Guard, which noted a potential loss of steering on the tanker.",
+        "why": "The lawsuit alleges that the collision resulted from the negligence, gross negligence, or carelessness of the tanker's operators, who allegedly failed to use all available means to avoid the risk of impact.",
+        "next": "The vessel remains subject to the legal proceedings in the Eastern District of Louisiana, and authorities continue to investigate the full extent of the damage and the cause of the crash."
       },
       "numbers": [
         {
-          "figure": "130 people",
-          "what": "rescued from the cruise ship"
+          "figure": "$1m",
+          "what": "damages claimed by the Port of New Orleans"
         },
         {
-          "figure": "32 people",
-          "what": "hospitalized with non-critical injuries"
+          "figure": "129",
+          "what": "passengers on the American Heritage cruise ship"
+        },
+        {
+          "figure": "32",
+          "what": "people hospitalized with non-critical injuries"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 2,
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14",
-      "author": null,
-      "summary": "The FAA lifted a four-hour nationwide ground stop caused by a failure in an aging analogue air traffic control system. The disruption led to thousands of flight cancellations and highlighted a projected $50 billion need for infrastructure modernization.",
+      "title": "Frontier opens first-class bookings as low-cost airlines court premium travelers",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/frontier-airlines-first-class-bookings-march-2027",
+      "date": "2026-11-10",
+      "author": "Stephen Pope",
+      "summary": "Frontier Airlines has launched its first-ever first-class cabin offering, marking a shift for the ultra-low-cost carrier as it seeks to attract premium travelers. The airline is rolling out these eight-seat configurations across its Airbus A320 and A321 fleet.",
       "also": [
         {
-          "source": "NPR",
-          "author": "Joel Rose",
-          "date": "2026-11-13",
-          "title": "What we know about the FAA nationwide ground stop",
-          "url": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-          "note": "This headline provides a general status update similar to the BBC."
+          "source": "Simple Flying",
+          "author": "Josh Eyre",
+          "date": "2026-11-15",
+          "title": "Why Airlines Don’t Want First Class Anymore",
+          "url": "https://simpleflying.com/why-airlines-dont-want-first-class/",
+          "note": "Simple Flying frames the story by questioning the long-term viability of first class for airlines."
         },
         {
-          "source": "NPR",
-          "author": "Joel Rose",
-          "date": "2026-11-13",
-          "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
-          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-          "note": "This framing focuses specifically on the technical failure and the age of the infrastructure."
-        },
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-13",
-          "title": "Nationwide FAA ground stop lifted but cancellations, significant delays to continue: Transportation secretary",
-          "url": "https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary",
-          "note": "This headline highlights the ongoing economic and logistical impact on travelers despite the stop being lifted."
+          "source": "Simple Flying",
+          "author": "Daniel S Osipov",
+          "date": "2026-11-15",
+          "title": "How The Boeing 737 MAX 10 Is Growing First Class On US Airlines",
+          "url": "https://simpleflying.com/how-boeing-737-max-10-growing-first-class-flying-us/",
+          "note": "Simple Flying highlights the role of specific aircraft models like the Boeing 737 MAX 10 in expanding premium capacity."
         }
       ],
       "brief": {
-        "what": "The FAA implemented the longest nationwide ground stop since 2001, resulting in nearly 8,000 cancelled flights and over 8,500 delays. The stoppage lasted more than four hours before skies were reopened on Friday evening.",
-        "who": "US Transportation Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin managed the response, while major carriers including Delta, United, and American Airlines worked to resume operations.",
-        "context": "This event represents only the second such nationwide stoppage since the 2001 terrorist attacks, exceeding the impact of a similar 2023 failure in the Notam system.",
-        "why": "Secretary Duffy stated that an incredibly old analogue telecommunications system became overloaded with data following the introduction of new technology. Officials ruled out a cyber-attack, noting that the legacy routers and switches simply failed under the data load.",
-        "next": "A ripple effect of delays is expected to continue for several days as airlines attempt to clear the backlog of stranded passengers. Duffy indicated the air traffic control system requires a complete overhaul to prevent future occurrences."
+        "what": "Frontier Airlines has opened bookings for its first-class cabin, which features eight seats per aircraft and will be fully installed across its Airbus A320 and A321 fleet by March 5, 2027. The airline is offering a 'First' bundle starting at $129 and a 'Premium' bundle starting at $90 to entice travelers.",
+        "who": "Frontier Airlines is the primary actor, with JetBlue and Southwest Airlines also mentioned as competitors adopting similar premium-focused strategies.",
+        "context": "The airline industry is seeing a trend where budget carriers are increasingly introducing premium seating options and amenities to capture higher-spending passengers. This follows Frontier's previous 'UpFront Plus' offering and aligns with broader market shifts seen at JetBlue and Southwest.",
+        "why": "Frontier is moving to entice more premium travelers to fly with the budget carrier, following a broader industry trend of courting passengers willing to pay for extra space and amenities.",
+        "next": "Frontier plans to add USB-C power at every first-class seat and equip its aircraft with Starlink Wi-Fi later in 2027."
       },
       "numbers": [
         {
-          "figure": "nearly 8,000",
-          "what": "cancelled flights on Friday"
+          "figure": "8 seats",
+          "what": "capacity of the new first-class cabin"
         },
         {
-          "figure": "more than 8,500",
-          "what": "delayed flights on Friday"
+          "figure": "$129",
+          "what": "starting price for the First bundle"
         },
         {
-          "figure": "$50bn",
-          "what": "estimated price tag for a complete system overhaul"
+          "figure": "$90",
+          "what": "starting price for the Premium bundle"
         },
         {
-          "figure": "More than 3,500",
-          "what": "airplanes in the air during the ground stop"
+          "figure": "37 inches",
+          "what": "seat pitch in the first two rows"
         },
         {
-          "figure": "42",
-          "what": "Eurocontrol member states where US-bound traffic was suspended"
+          "figure": "34 inches",
+          "what": "seat pitch in rows three through eight"
         }
       ]
     },
@@ -279,16 +386,24 @@
       "url": "https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2?mod=pls_whats_news_us_business_f",
       "date": "2026-11-13",
       "author": "Meghan Bobrowsky",
-      "summary": "Employees can wager on the outcome of questions or events using ‘cred,’ not real money, on the app, which is under development.",
+      "summary": "Meta is currently developing an internal app that allows employees to participate in prediction markets using virtual currency. The platform focuses on forecasting event outcomes rather than financial gain.",
       "also": [
         {
           "source": "New York Post",
           "author": "Taylor Herzlich",
           "date": "2026-11-13",
           "title": "Meta tests secret prediction-market app where users would guess for ‘cred’ — not money",
-          "url": "https://nypost.com/2026/11/13/business/meta-tests-secret-prediction-market-app-where-users-would-guess-for-cred-not-money/"
+          "url": "https://nypost.com/2026/11/13/business/meta-tests-secret-prediction-market-app-where-users-would-guess-for-cred-not-money/",
+          "note": "The New York Post headline emphasizes the lack of real money and the use of 'cred' to frame the app as a gamified social experience."
         }
-      ]
+      ],
+      "brief": {
+        "what": "Meta is testing a new internal application that enables employees to wager on the outcomes of various events. Participants use a virtual currency called 'cred' rather than real money to make their predictions.",
+        "who": "Meta is the primary developer of the application, which is currently being tested among its employees.",
+        "context": "Prediction markets are platforms where participants trade on the likelihood of future events to aggregate information and forecast outcomes.",
+        "why": "The company is exploring this tool as a way for employees to guess the results of questions or events within a controlled, non-monetary environment.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "aerospace",
@@ -298,275 +413,375 @@
       "url": "https://www.aerotime.aero/articles/bae-systems-cash-flow-outlook-gcap-missile-orders",
       "date": "2026-11-12",
       "author": "Clement Charpentreau",
-      "summary": "BAE Systems has raised its free cash flow forecast for 2026 to about £3 billion ($4 billion), up… The post BAE Systems raises cash flow outlook as GCAP, missile orders grow appeared first on AeroTime .",
+      "summary": "BAE Systems has increased its 2026 free cash flow forecast to £3 billion, driven by strong order growth in the Global Combat Air Programme and munitions. The company maintains its existing sales and earnings growth targets while securing £33 billion in new orders year-to-date.",
       "also": [
         {
           "source": "Wall Street Journal",
           "author": "Natalie Weger",
           "date": "2026-11-12",
           "title": "Cisco Systems Raises Outlook On Soaring Revenue, Profit",
-          "url": "https://www.wsj.com/business/earnings/cisco-systems-raises-outlook-on-soaring-revenue-profit-7efeabd0?mod=pls_whats_news_us_business_f"
+          "url": "https://www.wsj.com/business/earnings/cisco-systems-raises-outlook-on-soaring-revenue-profit-7efeabd0?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline focuses on Cisco Systems, a different company, rather than BAE Systems."
+        }
+      ],
+      "brief": {
+        "what": "BAE Systems raised its 2026 free cash flow outlook to approximately £3 billion, up from a previous estimate of £2 billion. The company also reported £33 billion in new orders for the year, significantly outpacing the £27 billion recorded at the same point in 2025, while maintaining its 8% to 10% sales growth target.",
+        "who": "BAE Systems is the primary actor, managing major defense contracts including the Global Combat Air Programme and various US munitions production initiatives.",
+        "context": "The company is benefiting from increased global defense spending, specifically in next-generation fighter technology and precision munitions, supported by government framework agreements in the UK and US.",
+        "why": "The improved cash flow forecast is attributed to increased customer advances and strong performance across the Electronic Systems, Air, and Platforms & Services divisions, which helped offset weaker margins in the Maritime sector.",
+        "next": "The company expects to secure further agreements before the end of the year and will publish its full-year results on February 19, 2027."
+      },
+      "numbers": [
+        {
+          "figure": "£3 billion",
+          "what": "revised 2026 free cash flow forecast"
+        },
+        {
+          "figure": "£33 billion",
+          "what": "orders secured so far in 2026"
+        },
+        {
+          "figure": "8% to 10%",
+          "what": "expected sales growth from 2025 levels"
+        },
+        {
+          "figure": "£1.6 billion",
+          "what": "total capital to be returned to shareholders"
+        },
+        {
+          "figure": "£1.79 billion",
+          "what": "free cash flow reported for first half 2026"
         }
       ]
     },
     {
       "topic": "business",
-      "importance": 2,
-      "title": "Global oil markets swing to surplus as Gulf shipments rebound",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
-      "date": "2026-11-13",
-      "author": null,
-      "summary": "IEA analysts warn it will take months to rebuild stockpiles depleted by US-Iran war",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Farhan Rafid",
-          "date": "2026-11-13",
-          "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says",
-          "url": "https://www.wsj.com/business/energy-oil/global-oil-market-set-to-return-to-surplus-as-gulf-exports-recover-iea-says-d535096c?mod=pls_whats_news_us_business_f"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says",
-          "url": "https://www.wsj.com/business/energy-oil/global-oil-market-set-to-return-to-surplus-as-gulf-exports-recover-iea-says-d535096c?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
       "importance": 2,
       "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
       "date": "2026-11-12",
       "author": "Grace Kay",
-      "summary": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.",
+      "summary": "SpaceX has announced a $74 billion investment to construct massive data center campuses in Texas and Arizona to support its expanding artificial intelligence business. This move follows the company's recent shift toward leasing computing power to major tech firms.",
       "also": [
         {
           "source": "Wall Street Journal",
           "author": "Elias Schisgall",
           "date": "2026-11-12",
           "title": "SpaceX Plans More Than $74 Billion in Texas, Arizona Data-Center Investments",
-          "url": "https://www.wsj.com/business/spacex-plans-more-than-74-billion-in-texas-arizona-data-center-investments-b9ff4ba3?mod=pls_whats_news_us_business_f"
+          "url": "https://www.wsj.com/business/spacex-plans-more-than-74-billion-in-texas-arizona-data-center-investments-b9ff4ba3?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline is nearly identical but emphasizes the geographic split of the investments."
         }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Microsoft Service Restored After Widespread Outage, Company Says",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-14",
-      "author": "Joshua Jamerson",
-      "summary": "The tech giant said it has processed a backlog of emails after widespread disruption to Microsoft 365.",
-      "also": [
+      ],
+      "brief": {
+        "what": "SpaceX is launching a $74 billion infrastructure expansion, allocating $50 billion for a facility in Cochise County, Arizona, and $24 billion for a campus near its Starbase site in Texas. These projects are designed to bolster the company's capacity to lease computing power to AI firms like Google and Anthropic.",
+        "who": "SpaceX, led by Elon Musk and CFO Bret Johnsen, is the primary developer, with Google and Anthropic serving as key clients.",
+        "context": "The company has rapidly pivoted its business model, with its AI unit now accounting for over half of its total revenue. This expansion follows a record-breaking initial public offering and significant debt financing to acquire necessary hardware.",
+        "why": "SpaceX is investing heavily to remain competitive in the global artificial intelligence race, with CFO Bret Johnsen noting that the company intends to continue aggressive spending on its data center build-out.",
+        "next": "The Arizona project currently awaits approval from the county, while the status of regulatory requirements for the Texas site remains unclear."
+      },
+      "numbers": [
         {
-          "source": "The New York Times",
-          "author": "Michael Levenson",
-          "date": "2026-11-13",
-          "title": "Microsoft’s Global Outage and Fixes: What We Know",
-          "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+          "figure": "$74 billion",
+          "what": "total planned investment for data centers"
         },
         {
-          "source": "The New York Times",
-          "author": "Michael Levenson",
-          "date": "2026-11-13",
-          "title": "Microsoft’s Global Outage and Fixes: What We Know",
-          "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+          "figure": "$50 billion",
+          "what": "investment for the Arizona data center campus"
+        },
+        {
+          "figure": "$24 billion",
+          "what": "investment for the Texas data center campus"
+        },
+        {
+          "figure": "$120.5 billion",
+          "what": "total commitment from Anthropic through 2029"
+        },
+        {
+          "figure": "$920 million",
+          "what": "monthly payment from Google for computing power"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 2,
-      "title": "Nissan reduces petrol car production as EV sales boom in China",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
-      "date": "2026-11-11",
-      "author": "Jasper Jolly",
-      "summary": "Nissan is cutting petrol car production in China to accelerate its transition to electric vehicles after a sharp decline in regional sales. The manufacturer lowered its global sales forecast as it faces a harsh market and intense competition from local rivals.",
+      "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+      "date": "2026-11-15",
+      "author": "Li Yuan and An Rong Xu",
+      "summary": "Jensen Huang has resigned as the chief executive of Nvidia, sparking widespread disbelief and concern among his supporters in Taiwan. The departure marks a significant leadership change for the company, which relies heavily on its partnership with Taiwan's semiconductor industry.",
       "also": [
         {
           "source": "Wall Street Journal",
-          "author": "Kosaku Narioka",
-          "date": "2026-11-11",
-          "title": "Nissan, Back in Red, Cuts Sales View on China Slump",
-          "url": "https://www.wsj.com/business/autos/nissan-posts-quarterly-loss-cuts-sales-view-on-china-slump-d5cbb640?mod=pls_whats_news_us_business_f",
-          "note": {
-            "Wall Street Journal": "Highlights the company's return to a loss-making status to emphasize financial performance over the production strategy shift."
-          }
+          "author": "Alexander Ward",
+          "date": "2026-11-14",
+          "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
+          "url": "https://www.wsj.com/politics/policy/nvidia-jensen-huang-trump-relationship-529a6cd7?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the story by focusing on a political alliance between Jensen Huang and Donald Trump."
         }
       ],
       "brief": {
-        "what": "Nissan lowered its global sales forecast to between 2.97m and 3m units and announced a reduction in petrol car manufacturing in China. This move follows a 32% sales decline in the Chinese market during the first nine months of the year.",
-        "who": "Nissan and its Chief Executive Ivan Espinosa are pivoting strategy to compete with Chinese EV manufacturers who benefited from significant government subsidies.",
-        "context": "As the world's largest automotive market, China is experiencing a rapid shift toward electric and hybrid cars, contrasting with slower transitions in North America and Japan. Nissan's current Chinese lineup, centered on the petrol-heavy Sylphy family, has struggled to keep pace with local rivals.",
-        "why": "Espinosa claims the market is very harsh due to intensifying competition and a faster-than-expected shift to new energy vehicles. The company was caught out by a brutal price war and a product mix that remained too reliant on internal combustion engines.",
-        "next": "Nissan intends to export some products and ramp up its N series of electric and plug-in hybrid models. It is also seeking to ensure its Sunderland and Japanese production qualifies for proposed Made in Europe subsidies."
+        "what": "Jensen Huang has resigned as the chief executive of Nvidia, a company he co-founded in 1993. The news has caused significant distress in Taiwan, where Huang is viewed as a national icon.",
+        "who": "Jensen Huang is the former chief executive of Nvidia, while TSMC is the semiconductor manufacturer that serves as Nvidia's primary production partner.",
+        "context": "Nvidia is one of the world's most valuable companies, driven by its production of advanced artificial intelligence chips. Its operations are deeply intertwined with TSMC, which produces the vast majority of the world's most advanced semiconductors.",
+        "why": "The article does not state the reason for Mr. Huang's resignation.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "2.97m to 3m cars",
-          "what": "expected total sales for the year"
+          "figure": "90 percent",
+          "what": "share of the world's most advanced chips produced by TSMC"
         },
         {
-          "figure": "3.15m",
-          "what": "previous annual sales forecast"
-        },
-        {
-          "figure": "32%",
-          "what": "drop in sales in China during the first nine months"
-        },
-        {
-          "figure": "22%",
-          "what": "fall in sales across China in the first half of the year"
-        },
-        {
-          "figure": "56%",
-          "what": "year-on-year rise in UK used electric vehicle retail sales"
+          "figure": "12 percent",
+          "what": "projected growth rate for Taiwan's economy this year"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 2,
-      "title": "Germany suffers setback in joining fighter jet project",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa?syn-25a6b1a6=1",
-      "date": "2026-11-14",
-      "author": null,
-      "summary": "Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme as equal partner",
+      "title": "AirMozambique Warns of Flight Cancellations Due to Fuel Shortage",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/airmozambique-warns-of-flight-cancellations-due-to-fuel-shortage",
+      "date": "2026-11-15",
+      "author": "Matthew Hill",
+      "summary": "AirMozambique, the southeast African country’s national carrier, warned that fuel supply restrictions meant it may have to cancel some flights.",
       "also": []
     },
     {
       "topic": "aerospace",
-      "importance": 1,
-      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop",
+      "importance": 2,
+      "title": "Ground Stop Ripples Into Third Day of Scrapped Flights",
       "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-14",
+      "url": "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-15",
       "author": "Alison Sider",
-      "summary": "The disruption is still expected to create travel problems that persist through the weekend.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "US aviation regulator lifts order that grounded thousands of flights",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-      "date": "2026-11-14",
-      "author": null,
-      "summary": "The US aviation regulator lifted a grounding order that had halted thousands of flights across the country. The disruption was caused by a temporary telecommunications outage that forced airports to stop take-offs.",
+      "summary": "Airlines continue to struggle with flight cancellations for the third consecutive day as they attempt to restore normal operations.",
       "also": [],
       "brief": {
-        "what": "The US aviation regulator lifted a grounding order that had previously halted thousands of flights across the United States. This action followed a temporary telecommunications outage that had forced airports to stop all scheduled take-offs.",
-        "who": "The primary actor is the US aviation regulator, which manages flight safety and issued the grounding order. Airports were the secondary actors, as they were required to halt take-offs during the outage.",
-        "context": "The grounding occurred in the context of a technical failure within the aviation infrastructure. This failure necessitated a complete halt of departures to ensure safety during the period of system instability.",
-        "why": "The disruption was caused by what the regulator described as a temporary \"telecommunications outage.\" This specific technical issue prevented the normal flow of information required for flight operations.",
+        "what": "Airlines canceled hundreds of departures on Sunday as carriers worked to rebuild their flight schedules following a multi-day disruption.",
+        "who": "Airlines are the primary actors managing the recovery of their flight networks.",
+        "context": "The industry is currently experiencing a ground stop that has rippled into a third day of scrapped flights.",
+        "why": "The article does not explicitly state the cause of the disruptions, only that airlines are currently working to rebuild their schedules.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Why Some Flights Were Exempt From the Ground Stop",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+      "date": "2026-11-15",
+      "author": "Emmett Lindner",
+      "summary": "Despite a nationwide ground stop, dozens of international and Hawaii-bound flights were permitted to depart. The FAA coordinated these departures as specific air traffic control centers began to recover.",
+      "also": [],
+      "brief": {
+        "what": "A nationwide ground stop issued by the Federal Aviation Administration caused the cancellation of over 8,200 flights, representing 31 percent of the day's schedule. Despite the order, more than 60 international flights and select departures to Hawaii were allowed to proceed.",
+        "who": "The Federal Aviation Administration (FAA) issued the ground stop, while aviation data firms Cirium and Flightradar24 tracked the resulting flight disruptions.",
+        "context": "This event marked only the third nationwide ground stop issued by the FAA this century. The agency operates 21 air traffic control facilities across the United States and Alaska to manage regional airspace.",
+        "why": "The FAA stated that as certain air traffic control centers recovered, flights were permitted to depart through coordination with the Air Traffic Control System Command Center.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "8,200 flights",
+          "what": "total flights canceled nationwide on Friday"
+        },
+        {
+          "figure": "31 percent",
+          "what": "portion of scheduled flights canceled nationwide"
+        },
+        {
+          "figure": "60 flights",
+          "what": "international flights that departed during the stoppage"
+        },
+        {
+          "figure": "21",
+          "what": "number of air traffic control facilities"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Hear How the FAA’s Ground Stop Unfolded",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-15",
+      "author": "Alison Sider",
+      "summary": "A nationwide air traffic ground stop occurred on Friday, with radio communications revealing how the industry managed the operational crisis.",
+      "also": [],
+      "brief": {
+        "what": "Air traffic across the United States came to an abrupt halt on Friday. Radio broadcasts and messages exchanged between airline control rooms and pilots illustrate the industry's navigation of the sudden crisis.",
+        "who": "The Federal Aviation Administration (FAA) and airline control rooms are the primary actors managing the operational response to the ground stop.",
+        "context": "The incident involved a widespread disruption to national air travel, requiring immediate coordination between regulatory authorities and flight crews.",
+        "why": "The article does not specify the underlying cause of the ground stop, focusing instead on the communication process during the event.",
+        "next": "The article doesn't say."
+      },
+      "earlier": [
+        {
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+      "date": "2026-11-15",
+      "author": "Farah Elbahrawy",
+      "summary": "Investors and strategists suggest that the recent period of outperformance for European stocks is nearing its conclusion. This shift follows a period where European markets remained resilient despite volatility caused by artificial intelligence trends elsewhere.",
+      "also": [],
+      "brief": {
+        "what": "European stocks are expected to see their recent rally end after weeks of outperforming other global markets. Strategists from State Street and Pictet indicate that the trend of European equities pushing higher while AI-related volatility affected other benchmarks is likely to reverse.",
+        "who": "State Street and Pictet are the financial institutions signaling a change in market direction.",
+        "context": "European markets had recently experienced a rare stretch of outperformance, decoupling from the volatility seen in other regions due to AI-related market movements.",
+        "why": "The rally is expected to end because investors and strategists believe the current period of outperformance has reached its limit.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "markets",
+      "importance": 1,
+      "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+      "date": "2026-11-15",
+      "author": "Muyao Shen",
+      "summary": "Bitcoin prices are approaching their lowest levels of the year as a series of setbacks and declining demand test investor resolve. The ongoing selloff has left market participants feeling increasingly weary and hopeless.",
+      "also": [],
+      "brief": {
+        "what": "Bitcoin is experiencing a sustained selloff that has pushed prices toward their lowest levels recorded this year. This downward trend is being exacerbated by a succession of market setbacks and a weakening in major sources of demand.",
+        "who": "Committed cryptocurrency investors and traders are the primary actors affected by the current market volatility.",
+        "context": "The cryptocurrency market is currently facing a period of significant downward pressure, characterized by waning investor confidence and reduced buying interest.",
+        "why": "The selloff is occurring because a series of setbacks has negatively impacted market sentiment and diminished the primary sources of demand for digital assets.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "EU banking watchdog veers away from single deposit insurance scheme",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+      "date": "2026-11-15",
+      "author": null,
+      "summary": "The European Banking Authority is exploring alternatives to a unified deposit insurance scheme to facilitate increased cross-border lending within the EU.",
+      "also": [],
+      "brief": {
+        "what": "The European Banking Authority (EBA) is shifting its focus away from establishing a single deposit insurance scheme. Instead, the organization is investigating alternative methods to encourage and free up more cross-border lending across the European Union.",
+        "who": "The Chair of the European Banking Authority is leading the initiative to develop these new regulatory approaches.",
+        "context": "A single deposit insurance scheme has long been a debated component of the EU's banking union, intended to protect depositors across member states and stabilize the financial system.",
+        "why": "The EBA is pursuing these alternatives to address barriers to cross-border lending, aiming to improve capital mobility within the European banking sector.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+      "date": "2026-11-15",
+      "author": null,
+      "summary": "Shares in companies providing infrastructure for artificial intelligence have experienced a significant decline following a broader tech sector sell-off. This downturn has resulted in a substantial reduction in the market valuation of data centre construction-related stocks.",
+      "also": [],
+      "brief": {
+        "what": "Data centre construction stocks have seen a market value decline of $4.2tn amid a widespread sell-off in the technology sector. This trend has specifically impacted companies identified as AI 'picks and shovels' providers.",
+        "who": "Companies involved in the construction and infrastructure of data centres, often referred to as AI 'picks and shovels' firms.",
+        "context": "The technology sector has been experiencing a period of volatility, leading to a reversal in the previously high-performing AI-related trade.",
+        "why": "The decline is attributed to a broader tech sell-off that has negatively impacted companies positioned to benefit from the artificial intelligence boom.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$4.2tn",
+          "what": "market value lost by data centre construction stocks"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+      "date": "2026-11-15",
+      "author": null,
+      "summary": "Anthropic is preparing for an initial public offering, marking a significant milestone for the artificial intelligence sector's relationship with public equity markets.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Anthropic is moving toward an initial public offering, which will serve as a critical evaluation of how frontier artificial intelligence laboratories perform within the public equity market.",
+        "who": "Anthropic, a leading frontier artificial intelligence laboratory.",
+        "context": "The company is one of the most prominent players in the AI development space, and its transition to public markets is viewed as a test for the broader industry.",
+        "why": "The article suggests that even the most powerful frontier labs must eventually conform to the requirements and pressures of public equity markets.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
       "importance": 1,
       "title": "Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
       "date": "2026-11-12",
       "author": null,
-      "summary": "Colette Kress, Nvidia's longtime CFO, steps in as interim CEO after Jensen Huang's abrupt resignation, with quarterly earnings looming next week.",
+      "summary": "Nvidia has appointed CFO Colette Kress as interim CEO following the abrupt resignation of co-founder Jensen Huang amid reports of personal misconduct. Investors are now looking to Kress to provide stability for the AI chip giant during a period of significant leadership uncertainty.",
       "also": [
         {
           "source": "New York Post",
           "author": "Taylor Herzlich",
           "date": "2026-11-13",
           "title": "Nvidia’s Jensen Huang had clashed with interim CEO Colette Kress: ‘Deer in the headlights’",
-          "url": "https://nypost.com/2026/11/13/business/nvidias-jensen-huang-had-clashed-with-interim-ceo-colette-kress-deer-in-the-headlights/"
+          "url": "https://nypost.com/2026/11/13/business/nvidias-jensen-huang-had-clashed-with-interim-ceo-colette-kress-deer-in-the-headlights/",
+          "note": "The New York Post headline frames the story by highlighting an alleged interpersonal conflict between the outgoing CEO and his successor."
         }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "US Flights Grounded Over Air Traffic Communication Issue",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video",
-      "date": "2026-11-14",
-      "author": null,
-      "summary": "US authorities halted flights nationwide due to communication issues affecting air traffic control. Myles Miller reports from LaGuardia Airport. (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
-      "date": "2026-11-14",
-      "author": "Alex Longley, Anthony Di Paola, Shariq Khan and Mia Gindis",
-      "summary": "The global oil market remains well-supplied with crude despite ongoing attacks on tankers near the Strait of Hormuz. Tehran continues to target vessels more than eight months into the regional conflict.",
-      "also": [],
+      ],
       "brief": {
-        "what": "The global oil market is currently characterized as being brimming with crude oil supplies despite the persistence of physical attacks on transport vessels. This high level of supply remains a dominant market condition even as smoke continues to billow from tankers targeted in the region.",
-        "who": "Tehran is the main actor identified as pressing ahead with a campaign of repeated attacks against oil tankers. These actions are being carried out against maritime targets involved in the transport of crude oil.",
-        "context": "These incidents are taking place near the Strait of Hormuz, which is a vital maritime chokepoint for the international energy trade. The attacks are occurring more than eight months into the conflict described as the Iran war.",
-        "why": "According to the report, Tehran is continuing its repeated attacks on tankers, yet these disruptions have not prevented the oil market from remaining well-supplied. The article suggests that the market's current state of being brimming with crude persists in spite of the ongoing hostilities.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
-      "date": "2026-11-14",
-      "author": "Bloomberg News",
-      "summary": "Global capital markets are undergoing a new round of asset repricing and rebalancing in the face of geopolitical tensions and policy uncertainty, according to Wu Qing, chairman of the China Securities Regulatory Commission.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Consumer giants summon armies of influencers to win over Gen Z",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d0d18617-0a59-4435-b659-7a50f6f7aba2?syn-25a6b1a6=1",
-      "date": "2026-11-14",
-      "author": null,
-      "summary": "Global brand owners are significantly increasing their investment in influencer marketing to capture the Gen Z demographic. This strategic shift aims to reverse recent declines in market share among major consumer companies.",
-      "also": [],
-      "brief": {
-        "what": "Global brand owners are dramatically increasing their financial investment in influencer marketing. This strategic shift is designed to help these consumer giants win over the Gen Z demographic and secure their future market position.",
-        "who": "The primary actors are global brand owners, characterized as consumer giants, who are summoning large numbers of influencers. These influencers are being utilized as a strategic force to engage with the Gen Z audience.",
-        "context": "The move comes as these large companies face significant challenges in maintaining their competitive edge in the global marketplace. They are currently experiencing a period of market share losses that they are eager to reverse.",
-        "why": "The increase in spending is happening because brand owners want to stem their market share losses. They believe that deploying influencers is the most effective way to win over the Gen Z consumer base and regain lost ground.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
-      "date": "2026-11-14",
-      "author": "Joe Rennison",
-      "summary": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly.",
-      "also": [],
-      "earlier": [
+        "what": "Nvidia co-founder Jensen Huang resigned as CEO following reports of multiple extramarital affairs, leading the board to appoint CFO Colette Kress as interim CEO. The company faces immediate scrutiny as it prepares for upcoming quarterly earnings.",
+        "who": "Jensen Huang is the departing co-founder and former CEO, while Colette Kress is the longtime CFO stepping into the interim leadership role.",
+        "context": "Nvidia has become one of the world's largest companies by market capitalization under Huang's leadership, serving as a central player in the global AI chip market.",
+        "why": "Analysts suggest the resignation creates a leadership vacuum, with experts like Susannah Streeter noting that while Kress is a 'safe pair of hands,' she may lack the global status and deal-making influence of the founder.",
+        "next": "Kress will have an opportunity to address investor concerns during the company's quarterly earnings report scheduled for November 17."
+      },
+      "numbers": [
         {
-          "title": "Nvidia’s Stock Price Set to Drop After Investigation Into CEO Jensen Huang",
-          "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
-          "source": "The New York Times",
-          "date": "2026-11-09"
+          "figure": "$1.29T",
+          "what": "total credit card debt in the United States"
         }
       ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+      "date": "2026-11-14",
+      "author": "Lauren Hirsch and Cory Weinberg",
+      "summary": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Burnham says UK has ‘lost more than it gained’ from Brexit",
+      "source": "City AM",
+      "url": "https://www.cityam.com/burnham-says-uk-has-lost-more-than-it-gained-from-brexit/",
+      "date": "2026-11-15",
+      "author": "Saskia Koopman",
+      "summary": "Andy Burnham has warned Britain has “lost more than we’ve gained” since Brexit as he prepares for a Brussels summit aimed at cutting trade barriers and boosting economic growth. Speaking at the Welsh Labour conference on Saturday, Burnham accused the Conservatives of delivering a harder Brexit than voters expected,…",
+      "also": []
     },
     {
       "topic": "markets",
@@ -576,41 +791,169 @@
       "url": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=pls_whats_news_us_business_f",
       "date": "2026-11-14",
       "author": "Ian Hodgson",
-      "summary": "Grocery prices could increase again as surging energy costs and supply-chain delays are lifting costs for producers.",
+      "summary": "Grocery prices are expected to rise again due to increasing energy costs and ongoing supply-chain disruptions. These factors are driving up production expenses for food manufacturers.",
+      "also": [],
+      "brief": {
+        "what": "Grocery prices are poised to increase as producers face rising costs linked to energy prices and supply-chain delays.",
+        "who": "Food producers are the primary actors facing these increased operational costs.",
+        "context": "The global economy has been grappling with persistent supply-chain bottlenecks and volatile energy markets, which directly impact the cost of goods.",
+        "why": "According to the report, surging energy costs and supply-chain delays are lifting the overall cost of production for food items.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+      "date": "2026-11-15",
+      "author": null,
+      "summary": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
       "also": []
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
+      "title": "Milei Campaigned on Dollarizing Argentina. As President, He Stopped Talking About It.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/11/15/mileis-legacy-depends-on-dollarization/",
+      "date": "2026-11-15",
+      "author": "Nicolas Cachanosky",
+      "summary": "Argentine President Javier Milei has largely abandoned his campaign promise to dollarize the economy despite significant progress in reducing monthly inflation. Critics argue that without this structural reform, the country remains vulnerable to the recurring cycles of currency instability that have plagued it for decades.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "President Javier Milei has shifted away from his central campaign pledge to abolish the peso and adopt the U.S. dollar. While his administration has successfully reduced monthly inflation from 25.5 percent to roughly 2 percent, the country continues to rely on traditional stabilization methods that have historically failed to prevent long-term economic crises.",
+        "who": "President Javier Milei and Economy Minister Luis Caputo are the primary actors, with the latter citing a lack of sufficient dollar reserves as a reason for abandoning the plan.",
+        "context": "Argentina has a long history of alternating between fiscal discipline and populist spending, leading to repeated currency collapses. Previous attempts at stabilization, such as the 1990s currency board, failed because they were reversible by government decree, unlike formal dollarization.",
+        "why": "The article suggests the shift is political rather than technical, noting that other nations like Ecuador successfully dollarized under worse conditions. The government may lack the expertise to execute the plan or fears the political cost of such a radical transition.",
+        "next": "The article suggests that without permanent structural reform, the current stabilization may be temporary, leaving the economy vulnerable to the next presidential election cycle in 2027."
+      },
+      "numbers": [
+        {
+          "figure": "25.5 percent",
+          "what": "monthly inflation rate when Milei took office"
+        },
+        {
+          "figure": "2 percent",
+          "what": "current monthly inflation rate"
+        },
+        {
+          "figure": "80 years",
+          "what": "duration of Argentina's history of currency instability"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "London-listed tech trusts suffer further losses after Nvidia fallout",
+      "source": "City AM",
+      "url": "https://www.cityam.com/london-listed-tech-trusts-suffer-further-losses-after-nvidia-fallout/",
       "date": "2026-11-13",
-      "author": "Colby Smith",
-      "summary": "The Federal Reserve will vote on interest rates less frequently beginning next year as part of a plan by the central bank’s chairman, Kevin M. Warsh, to overhaul how it operates.",
+      "author": "Maisie Grice",
+      "summary": "London-listed technology investment trusts are experiencing significant share price declines following the resignation of Nvidia CEO Jensen Huang. The sell-off has been compounded by broader market volatility and concerns regarding the sustainability of the AI sector.",
+      "also": [],
+      "brief": {
+        "what": "London-listed technology trusts saw sharp declines as Nvidia shares fell following the resignation of CEO Jensen Huang and reports of personal misconduct. Major trusts including Manchester & London, Allianz Technology, and Polar Capital reported significant losses, with some seeing share prices drop over 13 per cent.",
+        "who": "Jensen Huang, the former CEO of Nvidia, and London-listed investment trusts including Manchester & London, Allianz Technology, and Polar Capital.",
+        "context": "These investment trusts are heavily concentrated in US-listed technology stocks, particularly semiconductor firms like Nvidia, Micron, and Broadcom, leaving them highly sensitive to US market volatility.",
+        "why": "The sell-off was triggered by Huang's departure and revelations regarding his personal life, alongside broader investor anxiety over the longevity of the AI boom and debt-fuelled data centre expansion.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "92.6 per cent",
+          "what": "Manchester & London Investment Trust equity exposure in North America"
+        },
+        {
+          "figure": "40 per cent",
+          "what": "Polar Capital portfolio exposure to semiconductor stocks"
+        },
+        {
+          "figure": "14.3 per cent",
+          "what": "Nvidia share price plunge on Thursday"
+        },
+        {
+          "figure": "13.3 per cent",
+          "what": "Polar Capital Technology Trust share price loss"
+        },
+        {
+          "figure": "13.2 per cent",
+          "what": "Allianz Technology Trust share price tumble"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
+      "date": "2026-11-14",
+      "author": "Damien Gayle, Graham Readfearn and Gabrielle Canon in Antalya, Turkey",
+      "summary": "LGBTQ+ activists in Turkey defied a government crackdown to join a climate march in Antalya, protected by a cordon of international civil society campaigners. The demonstration occurred as the Cop31 summit reached its halfway point amid concerns over limited progress on climate negotiations.",
+      "also": [],
+      "brief": {
+        "what": "LGBTQ+ protesters marched in Antalya during the Cop31 summit, shielded by international activists to avoid police interference. The event highlighted both climate justice demands and the restricted civil space for marginalized groups in Turkey.",
+        "who": "Turkish LGBTQ+ activists, international civil society campaigners, and Cop31 attendees.",
+        "context": "Turkey has intensified its crackdown on LGBTQ+ rights since September, with police targeting activists and NGO offices. The march took place in a city under heavy security, where police monitored placards and required identification from participants.",
+        "why": "Activists utilized the presence of international media and global organizations at the Cop31 summit to create a safe space for Turkish voices to protest despite ongoing state repression.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+      "date": "2026-11-14",
+      "author": "Jonathan Watts; graphics by Sara Fiorillo",
+      "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands. That is a conservative estimate and is…",
       "also": []
     },
     {
-      "topic": "markets",
+      "topic": "business",
       "importance": 1,
-      "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-      "date": "2026-11-12",
-      "author": "Colby Smith",
-      "summary": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "The Fed chief said AI would tame inflation. His colleagues disagree.",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/",
-      "date": "2026-11-13",
-      "author": "Steve Thompson",
-      "summary": "A growing number of Federal Reserve officials say the AI boom may mean higher interest rates for longer. Fed Chair Kevin Warsh has been slower to agree, arguing that AI would help tame prices.",
-      "also": []
+      "title": "How Wildfire Litigation Became Big Business in America",
+      "source": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/15112026/wildfire-litigation-booming-business/",
+      "date": "2026-11-15",
+      "author": "By Gloria Dickie",
+      "summary": "Wildfire litigation has evolved into a multibillion-dollar industry in the U.S. as victims increasingly hold utility companies liable for property damage caused by fires. This legal trend is reshaping the energy sector's financial landscape and raising questions about the sustainability of using litigation as a primary climate resilience strategy.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Wildfire litigation has expanded significantly, with over $18 billion in settlements awarded since 2017. Utilities like PG&E and PacifiCorp face mounting legal challenges as firms increasingly target them for damages, even in states outside California.",
+        "who": "Major utility companies, wildfire victims, and specialized law firms like Singleton Schreiber are the primary actors. Climate scientists and policymakers are also involved in the debate over liability.",
+        "context": "California's 'inverse condemnation' rule allows utilities to be held liable for fires regardless of negligence. As climate change increases fire intensity and insurance markets retreat, litigation has become a de facto strategy for homeowners to recover losses.",
+        "why": "Litigation has surged because landscapes are more flammable and more homes are built in high-risk areas, leading to catastrophic losses. Experts note that while the number of fires hasn't spiked, the probability of small ignitions becoming massive disasters has increased.",
+        "next": "Policymakers are expected to grapple with whether the power sector should bear the full costs of climate-driven disasters, while legal firms continue to expand their wildfire-focused practices."
+      },
+      "numbers": [
+        {
+          "figure": "$18 billion",
+          "what": "awarded or agreed to in civil settlements for wildfire victims since 2"
+        },
+        {
+          "figure": "$13.5 billion",
+          "what": "settlement paid by PG&E for Camp Fire and other wildfire claims"
+        },
+        {
+          "figure": "9 million acres",
+          "what": "area burned in U.S. wildfires as of October"
+        },
+        {
+          "figure": "$3 billion",
+          "what": "recovered by Singleton Schreiber law firm for fire victims"
+        },
+        {
+          "figure": "$10 billion",
+          "what": "sought by victims in lawsuits against Los Angeles and other entities"
+        }
+      ]
     },
     {
       "topic": "science",
@@ -620,63 +963,69 @@
       "url": "https://www.nature.com/articles/d41586-026-03668-x",
       "date": "2026-11-13",
       "author": "Dan Garisto",
-      "summary": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.",
-      "also": []
+      "summary": "The number of international students arriving in the U.S. has dropped by 28% since 2024, reaching levels not seen since the 2020 pandemic. This decline in enrollment is raising concerns about the future of U.S. scientific dominance and university financial stability.",
+      "also": [],
+      "brief": {
+        "what": "International student arrivals in the U.S. fell to 277,000 in August 2026, a 28% decrease from 2024. Additionally, applications to U.S. PhD programs dropped by 21% between 2025 and 2026.",
+        "who": "The National Travel and Tourism Office provided the data, while the Trump administration is cited for implementing visa restrictions and proposing new levies on international students.",
+        "context": "International students are a critical pipeline for U.S. science, having earned 38% of science and engineering PhDs in 2024. The decline is attributed to policy uncertainty and restrictive immigration measures.",
+        "why": "Higher-education experts argue that policy uncertainty has deterred students, while the Department of Homeland Security claims its proposals aim to combat fraud and protect U.S. workers.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "28%",
+          "what": "decline in international students arriving in the US"
+        },
+        {
+          "figure": "277,000",
+          "what": "incoming student-visa holders in August 2026"
+        },
+        {
+          "figure": "21%",
+          "what": "decline in PhD program applications from international students"
+        },
+        {
+          "figure": "38%",
+          "what": "share of science and engineering PhDs earned by international students"
+        },
+        {
+          "figure": "US$100,000",
+          "what": "proposed levy on students in Optional Practical Training"
+        }
+      ]
     },
     {
-      "topic": "science",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03679-8",
-      "date": "2026-11-13",
-      "author": "Elizabeth Gibney",
-      "summary": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03679-8 Being able to target and debug systems could improve artificial-intelligence safety and utility.",
-      "also": []
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Is the climate totally cooked? What the data say",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03716-6",
-      "date": "2026-11-13",
-      "author": "Nick Petrić Howe",
-      "summary": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03716-6 In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.",
-      "also": []
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Send us your questions about climate crisis and politics for the next Stateside guest: Bill McKibben",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/climate-environment-questions-bill-mckibben",
-      "date": "2026-11-13",
-      "author": "Guardian community team",
-      "summary": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questions Was the climate crisis one of your top political priorities during the midterm elections? We want to hear from you: what do you want political leaders to do about it in 2027?…",
-      "also": []
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Fight the climate crisis or go for growth? There is a way Burnham can do both | Jonathan Freedland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/fight-climate-crisis-growth-andy-burnham-economic-leaders",
-      "date": "2026-11-13",
-      "author": "Jonathan Freedland",
-      "summary": "The environmental and economic dilemmas he faces are formidable but, with a bold plan, he could set an example for leaders around the world For politicians of the centre-left especially, it’s the great dilemma of the age. How do you do what everyone can see is essential to save the planet from boiling – even as your…",
-      "also": []
-    },
-    {
-      "topic": "culture",
-      "importance": 1,
-      "title": "The Guardian view on M John Harrison’s Booker win: a new frontier for science fiction | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
-      "date": "2026-11-13",
-      "author": "Editorial",
-      "summary": "The End of Everything is a novel for our age of permacrisis. Genre boundaries belong to the past “Science fiction will never be Literature with a capital ‘L,’” began a New York Times review of Margaret Atwood’s novel Oryx and Crake back in 2003. Now, the seemingly impossible has happened – M John Harrison’s The End of…",
-      "also": []
+      "title": "FAA ground stop disrupts college football",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+      "date": "2026-11-14",
+      "author": "Chandelis Duster",
+      "summary": "A nationwide FAA ground stop caused by an equipment issue disrupted college football travel, forcing several games to be delayed or rescheduled. The incident highlights the cascading operational impacts of aviation network failures on logistics and event scheduling.",
+      "also": [],
+      "brief": {
+        "what": "A nationwide FAA ground stop triggered by an equipment issue during a telecoms network upgrade caused widespread flight cancellations and delays. Consequently, multiple college football teams were unable to reach their destinations on time, leading to game delays of several hours or postponements to the following day.",
+        "who": "The Federal Aviation Administration (FAA) issued the ground stop, while Transportation Secretary Sean Duffy acknowledged the resulting disruptions to the college football schedule. Various university athletic programs, including Ole Miss and Florida Atlantic, were forced to adjust their travel and game plans.",
+        "context": "The FAA ground stop occurred during a telecoms network upgrade, impacting thousands of flights nationwide. While NFL teams were largely unaffected, college teams relying on commercial or charter air travel faced significant logistical hurdles, necessitating schedule changes to ensure playoff viability.",
+        "why": "The FAA attributed the ground stop to an 'equipment issue' encountered during a telecoms network upgrade. Secretary Duffy noted that while the schedule disruptions were not the most critical consequence, the priority remained moving teams to ensure the college football playoffs could proceed.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "3-hour",
+          "what": "delay for the Utah vs. Arizona game"
+        },
+        {
+          "figure": "4 hours",
+          "what": "delay for the Auburn vs. Mississippi State game"
+        },
+        {
+          "figure": "$2",
+          "what": "price for popcorn or beer promotions"
+        }
+      ]
     }
   ]
 }
