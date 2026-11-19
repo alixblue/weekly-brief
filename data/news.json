@@ -1,272 +1,235 @@
 {
-  "generated": "2026-11-18",
-  "window": "2026-11-11 to 2026-11-18",
+  "generated": "2026-11-19",
+  "window": "2026-11-12 to 2026-11-19",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-18",
-    "label": "Wed 18 Nov · change on the day",
+    "asof": "2026-11-19",
+    "label": "Thu 19 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,340.53",
-        "change": "-1.03%"
+        "value": "7,323.63",
+        "change": "-0.23%"
       },
       {
         "name": "Dow",
-        "value": "50,759.42",
-        "change": "-1.64%"
+        "value": "50,198.17",
+        "change": "-1.11%"
       },
       {
         "name": "Nasdaq",
-        "value": "24,328.383",
-        "change": "-0.74%"
+        "value": "24,429.885",
+        "change": "+0.42%"
       },
       {
         "name": "CAC 40",
-        "value": "8,192.50",
-        "change": "-0.30%"
+        "value": "8,142.54",
+        "change": "-0.05%"
       },
       {
         "name": "DAX",
-        "value": "25,947.72",
-        "change": "-0.37%"
+        "value": "25,725.51",
+        "change": "-0.04%"
       },
       {
         "name": "Brent oil",
-        "value": "$92.63",
-        "change": "-0.55%"
+        "value": "$92.69",
+        "change": "+0.80%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "5.107%",
-        "change": "+0.00 pt"
+        "value": "5.089%",
+        "change": "+0.02 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.097",
-        "change": "-0.2455%"
+        "value": "1.0999",
+        "change": "+0.2369%"
       }
     ]
   },
   "week": [
     {
-      "text": "Nvidia reported strong earnings that helped stabilize technology stocks and ease investor concerns about the AI sector, even as the company navigates leadership changes following the resignation of Jensen Huang.",
+      "text": "Anthropic completed a record-breaking IPO, raising over $80 billion and achieving a $1.5 trillion valuation, despite some investor unease and ongoing policy debates regarding AI risks.",
       "urls": [
-        "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-        "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
-        "https://www.cityam.com/our-momentum-is-real-nvidia-smashes-wall-street-expectations-despite-huang-scandal/"
+        "https://www.cityam.com/uk-retail-investors-snap-up-300m-anthropic-shares-ahead-of-blockbuster-ipo/",
+        "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
+        "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+        "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+        "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-draws-massive-enthusiasm-from-investors-video"
       ]
     },
     {
-      "text": "A nationwide FAA ground stop caused by a router upgrade in Arkansas resulted in over 20,000 flight cancellations, prompting calls for structural reform of the U.S. air traffic control system.",
+      "text": "The FAA and other sectors experienced widespread system outages, which officials attributed to technical issues rather than cyberattacks, while the FAA continues to investigate a router upgrade that caused a nationwide ground stop.",
       "urls": [
         "https://www.aerotime.aero/articles/faa-arkansas-router-upgrade-us-ground-stop",
-        "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
-        "https://reason.com/2026/11/18/get-government-out-of-air-traffic-control/"
+        "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+        "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
+        "https://www.washingtonexaminer.com/pentagon-posture/4807226/cisa-director-outage-panic-communication-problem/"
       ]
     },
     {
-      "text": "President Donald Trump is in China for a trilateral summit with Xi Jinping and Vladimir Putin to discuss nuclear weapons and the war in Ukraine, while also holding trade talks with Canadian officials.",
+      "text": "Nvidia's board remains firm on not reinstating Jensen Huang as CEO despite criticism from investors, as the company continues its search for a permanent successor.",
       "urls": [
-        "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-        "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html"
+        "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "https://www.foxbusiness.com/business-leaders/bill-ackman-blasts-nvidias-board-over-jensen-huangs-ouster-says-panicked"
       ]
     },
     {
-      "text": "Democrat Mary Peltola has won Alaska's Senate race, shifting the partisan balance of the chamber after a two-week ballot counting process.",
+      "text": "AI-driven tools are increasingly being used to accelerate cyberattacks, prompting Germany to raise its cyber threat level while researchers work on AI-based defensive solutions.",
       "urls": [
-        "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-        "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
+        "https://www.nature.com/articles/d41586-026-03775-9",
+        "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1"
       ]
     },
     {
-      "text": "Anthropic is preparing for an initial public offering this week, drawing attention to the rapid growth and potential financial risks associated with the artificial intelligence industry.",
+      "text": "Global leaders including Trump, Xi, and Putin met in Shenzhen to discuss security, while Canada's Prime Minister Mark Carney also visited the city to discuss potential auto manufacturing investments.",
       "urls": [
-        "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
-        "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
-        "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1"
+        "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+        "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks"
       ]
     }
   ],
   "watch": [
     {
-      "date": "2026-11-19",
-      "when": "",
-      "label": "Anthropic is scheduled to price its shares for its initial public offering.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display"
+      "date": "2027-03-20",
+      "when": "Spring 2027",
+      "label": "US Navy to take formal delivery of the USS John F. Kennedy",
+      "url": "https://www.aerotime.aero/articles/f-35c-first-ford-class-carrier-trials-john-f-kennedy"
     },
     {
-      "date": "2026-11-19",
-      "when": "",
-      "label": "Trump plans to hold a trilateral meeting with Xi and Putin to discuss nuclear weapons and the war in Ukraine.",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin"
+      "date": "2028-01-01",
+      "when": "2028",
+      "label": "Release of the 26th James Bond film",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "items": [
     {
       "topic": "business",
       "importance": 3,
-      "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18",
-      "author": "Brittney Melton",
-      "summary": "Nvidia's board has confirmed it will not reinstate former CEO Jensen Huang following his resignation. Meanwhile, Mary Peltola has secured a Senate seat in Alaska, shifting the chamber's partisan balance.",
+      "author": null,
+      "summary": "Nvidia reported that sales doubled to $115.8bn despite the recent departure of co-founder Jensen Huang. The company's board has firmly ruled out his reinstatement as they search for a permanent successor.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Tripp Mickle and Kalley Huang",
-          "date": "2026-11-18",
-          "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
-          "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
-          "note": "The New York Times frames the story by highlighting Huang's personal desire to return versus the board's firm rejection."
-        },
-        {
-          "source": "The New York Times",
-          "author": "Kalley Huang",
-          "date": "2026-11-17",
-          "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
-          "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
-          "note": "The Wall Street Journal focuses on potential regulatory scrutiny by reporting that the SEC is probing Nvidia."
+          "author": "Tripp Mickle",
+          "date": "2026-11-19",
+          "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+          "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+          "note": "The New York Times focuses on the interim CEO's internal communication, whereas the Wall Street Journal highlights the faster growth alongside the leadership decision."
         },
         {
           "source": "Wall Street Journal",
-          "author": "Anissa Gardizy",
-          "date": "2026-11-17",
-          "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-          "url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f"
+          "author": "Robbie Whelan",
+          "date": "2026-11-18",
+          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+          "url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the story by emphasizing the company's growth speed alongside the firm rejection of the former CEO's return."
         }
       ],
       "brief": {
-        "what": "Nvidia's board of directors announced they do not intend to reinstate former CEO Jensen Huang, who resigned on November 12. Additionally, Democrat Mary Peltola defeated Republican Dan S. Sullivan in the Alaska Senate race, resulting in 56 Democratic senators in the upcoming Congress.",
-        "who": "Nvidia board chairman Harvey Jones, former Nvidia CEO Jensen Huang, and Democratic Senator-elect Mary Peltola.",
-        "context": "Jensen Huang resigned after disclosing personal behavior inconsistent with the company's code of conduct, with reports linking him to an individual allegedly recruited by Chinese intelligence. Peltola's victory occurred in a state that previously favored Donald Trump by 13 percentage points.",
-        "why": "The board unanimously accepted Huang's resignation due to his admitted infidelity and potential national security implications. Peltola won her seat by securing a majority of first-place votes in Alaska's ranked-choice system.",
-        "next": "The article doesn't say."
+        "what": "Nvidia announced strong financial results with sales reaching $115.8bn and profits doubling to $65bn. Simultaneously, the board confirmed that ousted co-founder Jensen Huang will not be reinstated following his resignation amid a scandal.",
+        "who": "Interim CEO Colette Kress is managing operations, while Chair Harvey Jones is leading the search for a permanent CEO.",
+        "context": "The company is navigating leadership uncertainty following Huang's exit due to alleged extramarital affairs, including one with a suspected spy for China. Nvidia is also managing complex national security dynamics regarding semiconductor exports to China.",
+        "why": "The board stated they do not intend to reinstate Huang, while Kress emphasized that the company's momentum remains strong and that partners and employees are committed to the current business trajectory.",
+        "next": "Nvidia is working with an executive search firm to identify a permanent CEO, though the board stated they will not rush the selection process."
       },
       "numbers": [
         {
-          "figure": "56",
-          "what": "number of senators for Democrats in Congress"
+          "figure": "$115.8bn",
+          "what": "sales for the three months to 25 October"
         },
         {
-          "figure": "13 percentage points",
-          "what": "margin by which President Trump won Alaska"
+          "figure": "$107bn",
+          "what": "sales from data centres"
+        },
+        {
+          "figure": "$65bn",
+          "what": "company profits"
+        },
+        {
+          "figure": "4.8%",
+          "what": "increase in after-hours share trading"
+        },
+        {
+          "figure": "13%",
+          "what": "projected revenue growth for the next quarter"
         }
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 3,
-      "title": "United Airlines says ‘widespread’ system outage resolved",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-      "date": "2026-11-17",
-      "author": "Lucy Campbell",
-      "summary": "United Airlines has resolved a widespread technology outage that caused flight departure delays across its network. The airline confirmed the issue was not related to cybersecurity.",
+      "title": "UK retail investors snap up $300m of Anthropic shares ahead of blockbuster IPO",
+      "source": "City AM",
+      "url": "https://www.cityam.com/uk-retail-investors-snap-up-300m-anthropic-shares-ahead-of-blockbuster-ipo/",
+      "date": "2026-11-19",
+      "author": "Maisie Grice",
+      "summary": "UK retail investors purchased $300 million in Anthropic shares ahead of the company's record-breaking initial public offering. The AI firm's shares were priced at $83, exceeding initial expectations due to high demand.",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Jennifer Sinco Kelleher, Niraj Chokshi and Ryley Ober",
-          "date": "2026-11-17",
-          "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
-          "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
-          "note": "The New York Times headline emphasizes the resumption of flights."
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-19",
+          "title": "More than 100,000 UK retail investors rush to buy Anthropic shares",
+          "url": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1",
+          "note": "Financial Times emphasizes the specific number of individual participants, whereas City AM focuses on the total capital value."
         },
         {
           "source": "Wall Street Journal",
-          "author": "Alison Sider",
+          "author": "Kate Clark",
           "date": "2026-11-16",
-          "title": "United Airlines Says It Resolved Tech Problem That Delayed Departures",
-          "url": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal headline focuses on the resolution of the technical problem."
-        },
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-17",
-          "title": "The 'extremely important' United Airlines system that forced 90-minute departure delay",
-          "url": "https://www.foxbusiness.com/lifestyle/extremely-important-united-airlines-system-forced-90-minute-departure-delay",
-          "note": "Fox Business highlights the specific importance of the system that caused the departure delays."
+          "title": "The Investors Set to Win Big in Anthropic’s IPO",
+          "url": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=pls_whats_news_us_business_f",
+          "note": "Wall Street Journal frames the story around the broader group of investors set to benefit from the IPO's success."
         }
       ],
       "brief": {
-        "what": "United Airlines experienced a company-wide web-based outage that disrupted pilot access to performance software and crew communications, resulting in departure delays. The airline stated that flights already in progress and United Express operations remained unaffected.",
-        "who": "United Airlines, the airline experiencing the technical failure; the pilots' union, which identified the impact on crew communications and aircraft weight calculations; and US Transportation Secretary Sean Duffy, who confirmed the issue was not an FAA-wide problem.",
-        "context": "This incident follows a recent nationwide ground stop of all US flights caused by a fiber upgrade error and occurs amid a series of high-profile technology meltdowns affecting major banks and Microsoft services.",
-        "why": "United Airlines attributed the disruption to a technology issue but explicitly stated there was no indication of a cybersecurity-related cause. The pilots' union noted the outage prevented the transmission of final aircraft weights required for safe takeoff calculations.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "world",
-      "importance": 3,
-      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-      "date": "2026-11-18",
-      "author": "The Associated Press",
-      "summary": "President Donald Trump arrived in China for a trilateral summit with leaders Xi Jinping and Vladimir Putin while managing domestic technical outages. The visit aims to address nuclear weapons and the war in Ukraine amid ongoing trade tensions.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Lily Kuo",
-          "date": "2026-11-18",
-          "title": "In a Rare Move, Xi Greets Trump as He Lands in China",
-          "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
-          "note": "The New York Times highlights the diplomatic significance of the greeting, while Bloomberg focuses on the specific location and the broader geopolitical tension regarding trade barriers."
-        },
-        {
-          "source": "Bloomberg",
-          "author": null,
-          "date": "2026-11-18",
-          "title": "Xi Welcomes Trump at Shenzhen Airport",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-begin-summit-with-warm-embrace-video"
-        },
-        {
-          "source": "Bloomberg",
-          "author": "Bloomberg News",
-          "date": "2026-11-18",
-          "title": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks"
-        }
-      ],
-      "brief": {
-        "what": "President Trump arrived in Shenzhen, China, for the Asia-Pacific Economic Cooperation summit to hold a trilateral meeting with Presidents Xi Jinping and Vladimir Putin. The trip is currently complicated by widespread domestic technical outages affecting major U.S. infrastructure and financial institutions.",
-        "who": "President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin are the primary actors, with Secretary of State Marco Rubio managing domestic communications.",
-        "context": "The summit occurs as the U.S. faces internal concerns regarding AI-related cyber vulnerabilities and infrastructure stability. Trump seeks to leverage personal diplomacy to address nuclear proliferation and the conflict in Ukraine.",
-        "why": "Trump aims to project strength and reshape global affairs through unscripted, personal diplomacy during his final two years in office. He claims the high casualty rate in the Ukraine war provides an opening for a resolution.",
-        "next": "Trump plans to hold a trilateral meeting with Xi and Putin on Thursday to discuss nuclear weapons and the war in Ukraine."
+        "what": "Anthropic successfully completed a record-setting share sale, raising $107 billion combined through an IPO and private placement. UK retail investors acquired $300 million worth of stock, representing 27.3 percent of the total European allocation.",
+        "who": "Anthropic, an artificial intelligence lab, led the offering, while UK retail investors participated via the Financial Conduct Authority’s Public Offer Platform (POP) regime.",
+        "context": "This event follows a similar retail participation model used for SpaceX in June. The POP regime is increasingly utilized by UK investors to access major US-based public floats.",
+        "why": "Strong retail and institutional demand, including bids of $10 billion or more, drove the company to upsize its global offering to 980 million shares and price them at $83, above the anticipated range.",
+        "next": "Anthropic is scheduled to make its public market debut on Thursday."
       },
       "numbers": [
         {
-          "figure": "$12.8 billion",
-          "what": "U.S. trade deficit in goods with the Philippines"
+          "figure": "$1.5 trillion",
+          "what": "valuation of Anthropic at its public market debut"
         },
         {
-          "figure": "$4.9 billion",
-          "what": "U.S. trade deficit in goods with the Philippines in 2024"
+          "figure": "$107bn",
+          "what": "total capital raised through public offering and private placement"
         },
         {
-          "figure": "$1 trillion",
-          "what": "China's annual trade surplus in goods"
+          "figure": "$300m",
+          "what": "value of Anthropic shares secured by UK retail investors"
         },
         {
-          "figure": "97-year-old",
-          "what": "Age of former Philippine first lady Imelda Marcos"
+          "figure": "$83",
+          "what": "final price per share for the Anthropic offering"
+        },
+        {
+          "figure": "3.6m shares",
+          "what": "quantity of Anthropic shares sold in the UK"
         }
       ]
     },
     {
       "topic": "aerospace",
-      "importance": 2,
+      "importance": 3,
       "title": "FAA investigates how a router upgrade in Arkansas led to US ground stop",
       "source": "AeroTime",
       "url": "https://www.aerotime.aero/articles/faa-arkansas-router-upgrade-us-ground-stop",
       "date": "2026-11-16",
       "author": "Stephen Pope",
-      "summary": "A routine router upgrade in Arkansas triggered a nationwide FAA ground stop that disrupted 17 air traffic control centers and caused over 12,000 flight cancellations. The agency is investigating why the installation caused a massive network data surge and affected a separate site in Texas.",
+      "summary": "The FAA is investigating a nationwide ground stop caused by a router upgrade in Arkansas that triggered a massive network data surge. The incident resulted in over 12,000 flight cancellations and prompted calls for a major overhaul of the agency's telecommunications infrastructure.",
       "also": [
         {
           "source": "Wall Street Journal",
@@ -274,7 +237,7 @@
           "date": "2026-11-18",
           "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
           "url": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses on the FAA's decision to pause installations, while Fox Business emphasizes the specific tech issue as the cause."
+          "note": "The Wall Street Journal focuses on the FAA's decision to halt future installations, while Fox Business emphasizes the tech issue as the primary driver of the pause."
         },
         {
           "source": "Fox Business",
@@ -285,11 +248,11 @@
         }
       ],
       "brief": {
-        "what": "A routine router replacement by contractor L3Harris at an Arkansas site caused a network data flood, forcing the FAA to halt all US departures for over four hours. The incident disrupted 17 of 22 en route air traffic control centers and resulted in 12,462 flight cancellations.",
-        "who": "The FAA is leading the investigation, while L3Harris, the contractor responsible for the telecommunications network, is assisting in analyzing the hardware. US Transportation Secretary Sean Duffy is managing the response and calling for a network overhaul.",
-        "context": "The FAA is currently transitioning its telecommunications network from copper wire to fiber. The agency relies on private contractors to maintain infrastructure, and this specific incident involved replacing older Cisco units with new Juniper Networks hardware.",
-        "why": "The FAA states the disruption was caused by a surge in network traffic following the router installation. While the FAA investigates potential installation errors or faulty equipment, Hewlett Packard Enterprise, which owns Juniper Networks, maintains that the device functioned according to its configuration.",
-        "next": "The FAA has disabled the broadcast function on newly installed routers as a precaution and is reviewing its maintenance scheduling policies."
+        "what": "A routine router replacement in Arkansas caused a network-wide data flood, forcing the FAA to halt all US departures for over four hours. The disruption affected 17 of 22 en route air traffic control centers and led to 12,462 flight cancellations.",
+        "who": "The FAA is leading the investigation alongside contractor L3Harris, which operates the telecommunications network. US Transportation Secretary Sean Duffy is managing the response and advocating for a network infrastructure overhaul.",
+        "context": "The FAA is currently transitioning its network from copper wire to fiber optics. The agency is also facing political pressure regarding its management of air traffic control systems and existing budget utilization.",
+        "why": "The FAA states the disruption occurred when a new router began flooding the network with data, an issue that unexpectedly spread to a previously installed unit in Texas. L3Harris and the FAA are investigating whether the cause was an installation error or faulty equipment.",
+        "next": "The FAA has disabled the broadcast function on newly installed routers as a precaution and is reviewing its maintenance scheduling policies while continuing the investigation at a laboratory in Florida."
       },
       "numbers": [
         {
@@ -306,90 +269,217 @@
         },
         {
           "figure": "1,000",
-          "what": "connection attempts received every few seconds"
+          "what": "connection attempts every four to five seconds"
+        },
+        {
+          "figure": "$50 billion",
+          "what": "funding requested for air traffic control overhaul"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "Democrat Mary Peltola has won Alaska's Senate race, securing a 56th seat for her party in the upper house. The victory follows a controversial campaign and a two-week ballot counting process in the state.",
+      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+      "date": "2026-11-19",
+      "author": "Charles Maynes",
+      "summary": "President Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen for a trilateral summit focused on global security and nuclear disarmament. The meeting highlighted divergent national agendas and the shifting dynamics of global influence.",
       "also": [
         {
-          "source": "The Guardian",
-          "author": "Ed Pilkington in Anchorage, Alaska",
-          "date": "2026-11-18",
-          "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
-          "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
-          "note": "The Guardian frames the story through the lens of identity and the historic nature of the win for Alaska Natives."
+          "source": "Bloomberg",
+          "author": null,
+          "date": "2026-11-19",
+          "title": "US Futures Rally on Anthropic Record IPO; Trump, Xi, Putin Meet",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video",
+          "note": "Bloomberg frames the story by linking the summit to market movements and a specific corporate IPO, whereas NPR focuses on the diplomatic and geopolitical implications."
         },
         {
-          "source": "Al Jazeera",
-          "author": null,
+          "source": "The New York Times",
+          "author": "Edward Wong, Julian E. Barnes and Jeanna Smialek",
           "date": "2026-11-18",
-          "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters",
-          "url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
-          "note": "Al Jazeera frames the story by questioning the broader political significance of the win for the Democratic party."
+          "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
+          "note": "The New York Times emphasizes intelligence reports regarding Putin's continued military intentions in Ukraine, contrasting with NPR's focus on the summit's atmosphere and trilateral dynamics."
         }
       ],
       "brief": {
-        "what": "Democrat Mary Peltola defeated incumbent Republican Dan S. Sullivan to win Alaska's Senate seat, bringing the Democratic total to 56 seats against 44 for Republicans. The result was confirmed after two weeks of counting ballots across the state's remote regions.",
-        "who": "Mary Peltola is the first Alaska Native elected to the US Senate, while Dan S. Sullivan is the incumbent Republican senator who lost the race.",
-        "context": "The election was marked by controversy, including allegations of spoiler candidate recruitment and legal battles over ballot certification. Alaska utilizes a ranked-choice voting system, which officials noted helped mitigate the impact of potential voter confusion regarding candidates with similar names.",
-        "why": "Peltola campaigned on addressing cost-of-living issues and corporate greed, while Sullivan focused on energy and military investment. The Democratic win is part of a broader midterm performance that saw the party gain control of Congress.",
+        "what": "President Trump, Xi Jinping, and Vladimir Putin held a trilateral summit in Shenzhen to discuss nuclear disarmament, the war in Ukraine, and regional stability. Despite the high-level gathering, the leaders offered few concrete solutions, with meetings lasting between 42 and 90 minutes.",
+        "who": "President Trump, President Xi Jinping of China, and President Vladimir Putin of Russia are the primary actors, representing the three nations' competing geopolitical interests.",
+        "context": "The summit occurred amid ongoing tensions regarding the war in Ukraine, nuclear proliferation, and international sanctions. It follows a period where Russia has sought to counter Western isolation efforts by strengthening ties with China and engaging with the U.S. administration.",
+        "why": "The meeting was proposed by Putin to coincide with the APEC conference. Leaders aimed to project an image of great-power cooperation, though they held conflicting goals: Trump sought nuclear arms control, Putin pushed for favorable terms in Ukraine, and Xi focused on promoting China's global economic stability.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "56",
-          "what": "total Senate seats held by Democrats"
+          "figure": "42 minutes",
+          "what": "duration of the bilateral meeting between Trump and Putin"
         },
         {
-          "figure": "44",
-          "what": "total Senate seats held by Republicans"
-        },
-        {
-          "figure": "99%",
-          "what": "percentage of ballots counted"
-        },
-        {
-          "figure": "50%",
-          "what": "percentage of votes won by Peltola"
-        },
-        {
-          "figure": "46%",
-          "what": "percentage of votes won by Sullivan"
+          "figure": "50th",
+          "what": "estimated total number of meetings between Xi and Putin"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "date": "2026-11-19",
+      "author": "Lorcan Lovett",
+      "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya during 2017 military operations. The court concluded that security forces acted with specific genocidal intent to destroy a substantial part of the group.",
       "also": [
         {
-          "source": "Wall Street Journal",
-          "author": "Jiahui Huang",
-          "date": "2026-11-18",
-          "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
-          "url": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f"
+          "source": "The New York Times",
+          "author": "Hannah Beech",
+          "date": "2026-11-19",
+          "title": "What to Know About the Myanmar Genocide Case at the World Court",
+          "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+          "note": "The New York Times frames the story as an educational guide on the case, while Al Jazeera focuses directly on the guilty verdict."
         },
         {
-          "source": "Fox Business",
+          "source": "Al Jazeera",
           "author": null,
-          "date": "2026-11-17",
-          "title": "California DMV boots Waymo robotaxis off state freeways after string of incidents",
-          "url": "https://www.foxbusiness.com/fox-news-travel/california-dmv-boots-waymo-robotaxis-off-state-freeways-after-string-incidents"
+          "date": "2026-11-19",
+          "title": "ICJ rules Myanmar committed genocide against the Rohingya",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-19",
+          "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
+          "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss"
+        }
+      ],
+      "brief": {
+        "what": "The International Court of Justice (ICJ) found Myanmar responsible for genocide against the Rohingya, citing the death of approximately 10,000 people during 2017 military operations. The court determined that the scale of the violence, which affected a population of 815,000, demonstrated a clear intent to destroy the group.",
+        "who": "The International Court of Justice, led by Judge Yuji Iwasawa, issued the ruling in a case brought by Gambia against Myanmar, with 11 intervening states.",
+        "context": "The ruling follows a 2017 military clearance campaign in Myanmar's northern Rakhine State, which the court found was preceded by systemic anti-Rohingya hate speech.",
+        "why": "The court ruled that the military's actions went beyond punitive measures and were characteristic of genocidal intent, as the community had been dehumanized as a violent threat.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "815,000",
+          "what": "Rohingya living in northern Rakhine State before operations"
+        },
+        {
+          "figure": "10,000",
+          "what": "Rohingya violently killed during the 2017 clearance campaign"
+        },
+        {
+          "figure": "11",
+          "what": "States intervening in the genocide case"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "author": null,
+      "summary": "AI company Anthropic has launched a record-breaking stock market debut, raising $81 billion and achieving a valuation of $1.5 trillion. The IPO serves as a significant test for investor confidence in the long-term profitability of the artificial intelligence sector.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-19",
+          "title": "Anthropic raises $81bn in record IPO",
+          "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+          "note": "Financial Times frames the story similarly, focusing on the record-breaking nature of the IPO."
+        }
+      ],
+      "brief": {
+        "what": "Anthropic, the developer of the Claude chatbot, completed a record-breaking IPO, raising $81 billion in public share sales and an additional $26 billion from tech partners. The company debuted with a $1.5 trillion valuation, despite reporting $104 billion in net losses for the first nine months of the year.",
+        "who": "The company was founded by seven former OpenAI employees, including CEO Dario Amodei and Daniela Amodei. Key institutional investors and tech firms like Google, Microsoft, and Nvidia are involved in the company's financing.",
+        "context": "Anthropic is the first purely AI-focused firm to go public, making it a bellwether for the sector. The listing occurs amid concerns regarding high AI-related debt, regulatory uncertainty following US elections, and the massive capital requirements for AI infrastructure.",
+        "why": "The company pursued the listing to tap into public markets for the significant capital required to fund expensive AI development and infrastructure, according to Marta Norton of Empower.",
+        "next": "The company may raise an additional $12 billion through an over-allotment provision if demand remains high, while investors continue to monitor whether the firm can maintain profitability amidst rising financial obligations."
+      },
+      "numbers": [
+        {
+          "figure": "$81bn",
+          "what": "total capital raised in the public share sale"
+        },
+        {
+          "figure": "$1.5 trillion",
+          "what": "total valuation of the company upon listing"
+        },
+        {
+          "figure": "$104bn",
+          "what": "net losses reported for the nine months ending September"
+        },
+        {
+          "figure": "$33bn",
+          "what": "revenues generated in the nine months ending September"
+        },
+        {
+          "figure": "$26bn",
+          "what": "additional capital from separate investments by tech firms"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Why Anthropic's IPO Is Make or Break for the Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-11/insight-with-haslinda-amin-11-11-2026-video",
+          "source": "Bloomberg",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+      "date": "2026-11-16",
+      "author": "Associated Press",
+      "summary": "Canadian Prime Minister Mark Carney stated that Canada may pursue partnerships with Chinese automakers if trade negotiations with the United States fail to maintain an integrated North American auto industry. Carney emphasized that Canada will prioritize domestic manufacturing and labor standards regardless of the outcome of US trade talks.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Ian Austen",
+          "date": "2026-11-19",
+          "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+          "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+          "note": "The New York Times frames the story by focusing on the interpersonal dynamics of the trade meeting between Carney and Trump."
+        },
+        {
+          "source": "The New York Times",
+          "author": "Ian Austen",
+          "date": "2026-11-18",
+          "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S.",
+          "url": "https://www.nytimes.com/2026/11/18/business/dealbook/mark-carney-canada-us-trade.html",
+          "note": "The New York Times frames the story by highlighting Canada's firm stance against US trade pressure."
+        }
+      ],
+      "brief": {
+        "what": "Prime Minister Mark Carney indicated that Canada is prepared to explore automotive partnerships with China, Japan, or Europe if current trade negotiations with the US do not secure a viable, integrated North American auto industry. This follows a January agreement that lowered tariffs on Chinese electric vehicles to 6.1% to facilitate investment and job creation.",
+        "who": "Mark Carney, the Prime Minister of Canada, is the primary actor, navigating trade tensions with US President Donald Trump while engaging with Chinese leader Xi Jinping.",
+        "context": "The North American auto industry relies on a highly integrated supply chain involving Ford, General Motors, and Stellantis across Canada, the US, and Mexico. Recent US trade actions and tariff threats have disrupted this integration, prompting Canada to seek alternative manufacturing strategies.",
+        "why": "Carney stated that Canada must ensure its auto workers are fully utilized and that the industry remains viable, noting that if the North American market remains less integrated due to US actions, Canada will pursue other opportunities to move forward.",
+        "next": "Carney is scheduled to meet with Chinese leader Xi Jinping in Shenzhen to discuss potential auto manufacturing investments."
+      },
+      "numbers": [
+        {
+          "figure": "6.1%",
+          "what": "reduced tariff rate on Chinese electric vehicles"
+        },
+        {
+          "figure": "49,000 vehicles",
+          "what": "initial annual cap for Chinese electric vehicle imports"
+        },
+        {
+          "figure": "100%",
+          "what": "previous tariff rate on Chinese electric vehicles"
         }
       ]
     },
@@ -413,11 +503,11 @@
         }
       ],
       "brief": {
-        "what": "ICEYE has initiated a €2.05 billion bid to acquire Avio, offering €41 per share to delist the company from Euronext STAR Milan. The deal seeks to merge ICEYE's satellite constellation and intelligence services with Avio's expertise in Vega-C launch vehicles and solid rocket motors.",
-        "who": "ICEYE, a Finnish satellite operator, is the bidder, while Avio, an Italian aerospace manufacturer, is the target company currently evaluating the offer.",
-        "context": "The European space sector is undergoing significant consolidation, exemplified by the ongoing Project Bromo merger between Airbus, Leonardo, and Thales. Avio currently serves as a critical supplier for European missile programs and the Vega-C light-lift launcher.",
-        "why": "ICEYE CEO Rafal Modrzewski stated that governments require control over critical space infrastructure, and the deal aims to create a vertically integrated European defense company. ICEYE also expects the acquisition to support more frequent Vega launches.",
-        "next": "Avio's board will evaluate the offer, which remains subject to various regulatory approvals, including Italy's golden power rules, European Commission reviews, and CFIUS clearance."
+        "what": "ICEYE has initiated a takeover bid for Avio, offering €41 per share to acquire the Italian rocket maker in a deal valued at approximately €2.05 billion. The offer represents a 21.3% premium over Avio's recent share price and aims to delist the company from Euronext STAR Milan.",
+        "who": "ICEYE, a Finnish satellite operator, is the bidder, while Avio, the Italian prime contractor for the Vega-C launcher, is the target company.",
+        "context": "The European space sector is undergoing significant consolidation, exemplified by the ongoing Project Bromo merger between Airbus, Leonardo, and Thales. Avio currently provides critical propulsion for European missiles and launch vehicles, while ICEYE specializes in synthetic aperture radar satellite constellations.",
+        "why": "ICEYE CEO Rafal Modrzewski stated that governments require control over critical space infrastructure. The company argues the merger will create a vertically integrated European space and defense firm, enhancing launch frequency and combining satellite manufacturing with propulsion expertise.",
+        "next": "Avio's board is evaluating the offer, which remains subject to various regulatory approvals, including Italy's golden power rules and reviews by the European Commission and CFIUS."
       },
       "numbers": [
         {
@@ -438,616 +528,577 @@
         },
         {
           "figure": "66.67%",
-          "what": "minimum stake threshold required for offer"
+          "what": "minimum stake threshold required for the offer"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "culture",
       "importance": 2,
-      "title": "Fed Governor Cook Won’t Attend White House Hearing Without Changes",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
-      "date": "2026-11-17",
-      "author": "Colby Smith and Tony Romm",
-      "summary": "Federal Reserve Governor Lisa Cook is refusing to participate in a White House hearing regarding her potential removal, with her legal team labeling the process a facade.",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18",
+      "author": null,
+      "summary": "Amazon chairman Jeff Bezos revealed his significant involvement in selecting Robert Pattinson as the seventh actor to portray James Bond. The decision marks a shift in strategy for the franchise, opting for a well-known star to ensure audience appeal.",
       "also": [
         {
-          "source": "The Washington Post",
-          "author": "Steve Thompson",
-          "date": "2026-11-17",
-          "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias",
-          "url": "https://www.washingtonpost.com/business/2026/11/17/fed-official-lisa-cook-refuses-attend-white-house-firing-hearing-citing-bias/",
-          "note": "The Washington Post frames the story by explicitly mentioning the official's refusal and citing 'bias' as the specific reason for her absence."
+          "source": "The New York Times",
+          "author": "Malia Mendez",
+          "date": "2026-11-18",
+          "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
+          "url": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
+          "note": "The New York Times headline focuses specifically on Bezos's personal role in the selection process rather than his general involvement."
         }
       ],
       "brief": {
-        "what": "Federal Reserve Governor Lisa Cook has declined to attend a White House hearing concerning President Trump's attempt to remove her from office. Her legal representatives have formally characterized the proceedings as a facade.",
-        "who": "Lisa Cook is a Federal Reserve governor, and President Trump is the official seeking her removal.",
-        "context": "The situation involves a high-stakes conflict between the executive branch and the leadership of the Federal Reserve, an institution typically insulated from direct political interference.",
-        "why": "Cook's lawyers argue that the hearing process is fundamentally flawed and biased, leading them to refuse participation in the scheduled event.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Customers report difficulty accessing online services at major US banks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-      "date": "2026-11-16",
-      "author": "Lucy Campbell and agencies",
-      "summary": "Major US banks including Chase, Bank of America, and Wells Fargo experienced online service disruptions on Monday. The issues were linked to a technical problem at JPMorgan Chase that caused delays for customers using the Zelle payment network.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-16",
-          "title": "Financial stocks slide as online banking outages reported at several large US banks",
-          "url": "https://www.foxbusiness.com/markets/financial-stocks-slide-online-banking-outages-reported-several-large-us-banks",
-          "note": "Fox Business frames the story by highlighting the negative impact on financial stocks."
-        }
-      ],
-      "brief": {
-        "what": "Customers at several major US financial institutions reported difficulty accessing online accounts and completing transactions. The disruption originated from a technical issue at JPMorgan Chase, which subsequently impacted the Zelle peer-to-peer payment network, though other banks like Bank of America and Citigroup reported their own core banking services remained functional.",
-        "who": "JPMorgan Chase, which experienced the initial technical issue; Early Warning Services, the owner of the Zelle network; and various major US banks including Bank of America, US Bank, Wells Fargo, and Truist.",
-        "context": "The banking disruption follows a recent major Microsoft outage that affected global services and a separate incident involving ageing equipment that caused a temporary grounding of commercial flights in the US.",
-        "why": "Chase stated the problems were caused by a technical issue rather than a cyber-attack or systemic failure. Early Warning Services noted that while the Zelle network itself remained operational, issues at specific financial institutions caused transaction delays for their customers.",
-        "next": "Chase is working to resolve the technical issues as quickly as possible to restore full service."
+        "what": "Amazon chairman Jeff Bezos confirmed he was heavily involved in the casting of Robert Pattinson as the seventh James Bond. The selection process involved five finalists who participated in traditional screen tests, with Pattinson ultimately chosen to star in the 26th film of the franchise.",
+        "who": "Jeff Bezos, Amazon chairman; Robert Pattinson, the newly cast James Bond; and Denis Villeneuve, the director of the upcoming film.",
+        "context": "This production is the first in the official 007 series not overseen by the Broccoli family, following Amazon's 2022 acquisition of MGM, which co-owns the franchise.",
+        "why": "Bezos stated that despite initial reservations regarding Pattinson's fame, his performance during screen tests made it obvious he was the right choice. Industry insiders suggest the studio selected a bankable star to mitigate risks amid broader Hollywood struggles to attract cinema audiences.",
+        "next": "The 26th Bond film is scheduled for release in 2028, though the official title and specific release date remain unannounced."
       },
+      "numbers": [
+        {
+          "figure": "26th",
+          "what": "the sequence number of the upcoming Bond movie"
+        }
+      ],
       "earlier": [
         {
-          "title": "Customers report service outages at major US banks",
-          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
+          "title": "Robert Pattinson as James Bond is bad for Hollywood",
+          "url": "https://www.cityam.com/robert-pattinson-as-james-bond-is-bad-for-hollywood/",
+          "source": "City AM",
           "date": "2026-11-17"
         }
       ]
     },
     {
-      "topic": "environment",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "The Climate Change Committee has warned that weakening UK electric vehicle mandates would jeopardize legally binding climate targets and increase costs for households. Industry groups continue to lobby for changes, citing the heavy financial burden of current transition requirements.",
+      "title": "United Airlines says ‘widespread’ system outage resolved",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+      "date": "2026-11-17",
+      "author": "Lucy Campbell",
+      "summary": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US…",
       "also": [
         {
-          "source": "The Guardian",
-          "author": "Jasper Jolly, Jillian Ambrose and Kiran Stacey",
-          "date": "2026-11-18",
-          "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-          "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-          "note": "The Guardian's headline emphasizes the specific consequence of missing climate targets if rules are weakened, mirroring the CCC's warning."
-        }
-      ],
-      "brief": {
-        "what": "The Climate Change Committee (CCC) warned the UK government that reducing electric vehicle (EV) targets would cause the country to miss legally binding climate goals. While the current mandate requires 80% of new car sales to be zero emission by 2030, industry groups argue the rules are too burdensome, despite data showing 26.6% of new registrations are currently electric.",
-        "who": "The Climate Change Committee acts as an independent adviser, while the Society of Motor Manufacturing and Traders represents industry interests seeking a more sustainable transition.",
-        "context": "The UK government currently mandates that all new cars must be zero emission by 2035, with an 80% target by 2030. Surface transport remains the country's highest carbon-emitting sector.",
-        "why": "The CCC claims weakening targets would create economic costs and increase exposure to volatile fossil fuel prices. Conversely, industry leaders argue they cannot subsidize the transition indefinitely and require policy adjustments.",
-        "next": "The government is conducting a consultation on the mandate and maintains it remains committed to its 2030 and 2035 phase-out goals."
-      },
-      "numbers": [
-        {
-          "figure": "£12,000",
-          "what": "potential fine per car for failing to meet ZEV mandate"
-        },
-        {
-          "figure": "80%",
-          "what": "required share of new car sales to be zero emission by 2030"
-        },
-        {
-          "figure": "26.6%",
-          "what": "share of new car registrations that have been fully electric this year"
-        },
-        {
-          "figure": "33%",
-          "what": "headline target for electric vehicle sales for 2026"
-        },
-        {
-          "figure": "£800",
-          "what": "estimated annual savings for a household switching to an electric vehi"
+          "source": "Wall Street Journal",
+          "author": "Alison Sider",
+          "date": "2026-11-16",
+          "title": "United Airlines Says It Resolved Tech Problem That Delayed Departures",
+          "url": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f"
         }
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "business",
       "importance": 2,
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Opinion | Houston, We Have an Ongoing FAA Problem",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/opinion/houston-we-have-an-ongoing-faa-problem-2bafc9ee?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-17",
-      "author": null,
-      "summary": "The safety of the American air-transportation system requires immediate attention to address lingering, unanswered questions. The current state of oversight remains a critical concern for the industry.",
-      "also": [],
-      "kind": "opinion",
-      "brief": {
-        "what": "The article asserts that the safety of the U.S. air-transportation system is currently compromised by unresolved questions regarding oversight.",
-        "who": "The Federal Aviation Administration (FAA) is the primary regulatory body implied as the subject of these ongoing safety concerns.",
-        "context": "The aviation industry relies on rigorous regulatory oversight to maintain public trust and operational safety standards across the national airspace.",
-        "why": "The author argues that the importance of air-transportation safety is too high to allow for persistent, unanswered questions regarding the system's integrity.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? |",
+      "title": "Several companies are using Trump tariff refunds for corporate bonuses",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-      "date": "2026-11-18",
-      "author": "Kim Heacox",
-      "summary": "NASA's Voyager 1 probe has reached a distance of one light-day from Earth, marking a milestone in its 49-year journey through interstellar space. The mission serves as a reflective reminder of humanity's impact on its home planet.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Voyager 1, a robotic probe launched in 1977, is now 16.1bn miles away from Earth, a distance equivalent to one light-day. It continues to travel at 37,800 miles per hour, though it is expected to lose power and go silent in the 2030s.",
-        "who": "NASA, which operates the probe; the late astronomer Carl Sagan, who designed the probe's golden record; and author Kim Heacox, who reflects on the mission's philosophical implications.",
-        "context": "Voyager 1 exited the heliopause in 2012 to enter interstellar space. It carries a gold-plated copper disk containing cultural artifacts and greetings intended for potential extraterrestrial discovery.",
-        "why": "The probe was launched to explore the outer solar system and has since become a symbol of human curiosity and environmental fragility. The author argues that the probe's perspective on Earth underscores a responsibility to preserve the planet.",
-        "next": "The probe will continue its journey toward the constellation Ophiuchus, eventually reaching a distance of one light year from Earth in approximately 17,600 years."
-      },
-      "numbers": [
-        {
-          "figure": "16.1bn miles",
-          "what": "distance of Voyager 1 from Earth"
-        },
-        {
-          "figure": "37,800 miles per hour",
-          "what": "speed of the Voyager 1 probe"
-        },
-        {
-          "figure": "186,000 miles per second",
-          "what": "speed of light used for radio signals"
-        },
-        {
-          "figure": "55 human languages",
-          "what": "number of languages included on the disk"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-      "date": "2026-11-18",
-      "author": "Ian Austen",
-      "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Economic and Political Uncertainty Will Be Focus of DealBook Summit",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-what-to-watch.html",
-      "date": "2026-11-18",
-      "author": "Bernhard Warner",
-      "summary": "The 2026 DealBook Summit will address economic and political instability, specifically focusing on the sustainability of the current A.I. market rally and the impact of recent midterm election results.",
-      "also": [],
-      "brief": {
-        "what": "The 2026 DealBook Summit is set to convene with a primary focus on navigating economic and political uncertainty. Discussions will center on the long-term viability of the A.I. rally and the shifting power dynamics in Washington following the midterm elections.",
-        "who": "The DealBook Summit serves as the primary organizer and host for these discussions.",
-        "context": "The event takes place against a backdrop of market volatility regarding artificial intelligence investments and a significant reset of the political landscape in the United States.",
-        "why": "The summit is prioritizing these topics due to widespread concerns regarding the sustainability of the A.I. rally and the implications of the midterm election results on the balance of power in Washington.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "US Stock Futures Rally as Nvidia Results Ease AI Trade Worries",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
-      "date": "2026-11-18",
-      "author": "Joel Leon",
-      "summary": "US technology stocks rose in pre-market trading following Nvidia Corp.’s latest earnings report. The results helped alleviate investor concerns regarding the long-term sustainability of the artificial intelligence sector.",
-      "also": [],
-      "brief": {
-        "what": "US technology stocks experienced a rally during pre-market trading on Wednesday. This upward movement was driven by Nvidia Corp.’s earnings, which helped restore market confidence in the artificial intelligence trade.",
-        "who": "Nvidia Corp. is the primary company whose financial performance influenced market sentiment.",
-        "context": "Investors had been expressing concerns regarding the durability of the artificial intelligence trade prior to the release of Nvidia's earnings.",
-        "why": "The rally occurred because Nvidia's earnings results assuaged market worries following the exit of former Chief Executive Officer Jensen Huang, thereby boosting confidence in the sector.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Anthropic IPO Puts Wall Street’s Speculation Factory on Display",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
-      "date": "2026-11-18",
-      "author": "Vildana Hajric, Micah Barkley and Emma Haidar",
-      "summary": "Anthropic is preparing for its initial public offering, marking the transition of the artificial intelligence company from private ownership to the public market.",
-      "also": [],
-      "brief": {
-        "what": "Anthropic is finalizing its initial public offering, with pricing scheduled for Wednesday. This process facilitates the company's shift from private control to public market participation.",
-        "who": "Anthropic, an artificial intelligence company, is the primary actor undergoing the transition.",
-        "context": "An initial public offering is a standard financial mechanism used to transition companies from private hands into the public market.",
-        "why": "The article describes the IPO as a time-tested process for moving a company into the public market.",
-        "next": "The company's shares are set to be priced on Wednesday."
-      },
-      "earlier": [
-        {
-          "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-          "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-          "source": "The New York Times",
-          "date": "2026-11-14"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Nvidia Offers Relief to AI Trade, US Hits Island in Hormuz",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/the-opening-trade-11-18-2026-video",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "Nvidia's positive outlook halted a recent technology stock selloff, easing investor concerns regarding the sustainability of the artificial intelligence sector.",
-      "also": [],
-      "brief": {
-        "what": "A multi-day decline in technology stocks ended following a strong financial outlook provided by Nvidia Corp. Simultaneously, the U.S. military conducted an airstrike against an Iranian missile launch site located on Qeshm Island.",
-        "who": "Nvidia Corp. acted as the catalyst for market stabilization, while the U.S. military carried out the strike on the Iranian facility.",
-        "context": "The market movement follows a period of investor anxiety regarding the long-term viability of the artificial intelligence trade, while the military action occurs amidst ongoing tensions in the Persian Gulf.",
-        "why": "Nvidia's outlook helped soothe investor fears regarding the durability of the AI trade, according to the report. The military action was confirmed by a U.S. military official.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/tencent-profit-flatlines-amid-surging-ai-investments-revenue-growth-slows-0c1cfc57?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-18",
-      "author": "Sherry Qin",
-      "summary": "Tencent's third-quarter profit growth stalled as the company significantly increased capital expenditure to fund artificial intelligence initiatives. Revenue growth for the technology firm also experienced a slowdown during the period.",
-      "also": [],
-      "brief": {
-        "what": "Tencent reported flat profit growth in the third quarter as capital expenditure surged more than sixfold compared to the previous year. This aggressive investment strategy, coupled with slowing revenue growth, weighed on the company's bottom line.",
-        "who": "Tencent, a Chinese technology titan.",
-        "context": "The company is currently navigating a period of heavy investment in artificial intelligence technologies.",
-        "why": "The profit stagnation was driven by the company's decision to significantly ramp up capital spending to support its AI development efforts.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-17",
-      "author": "Farhan Rafid",
-      "summary": "Passenger traffic at Dubai International Airport declined by 22.1% year-over-year, though the hub is seeing a sharp recovery in volumes as airlines resume services.",
-      "also": [],
-      "brief": {
-        "what": "Dubai International Airport experienced a 22.1% drop in passenger traffic compared to the previous year. Despite this annual decline, the airport is reporting a sharp recovery in volumes compared to the prior quarter as airlines restore their services.",
-        "who": "Dubai International, one of the world's busiest aviation hubs, is the primary entity affected by these traffic fluctuations.",
-        "context": "The aviation industry is navigating a complex environment, with the airport's performance being monitored amid the ongoing Iran war.",
-        "why": "The recovery in volumes is attributed to airlines restoring services that were previously disrupted.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "22.1%",
-          "what": "decline in passenger traffic from a year earlier"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Wall Street set to open higher after Nvidia results reassure investors",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "Wall Street is poised for a higher opening as Nvidia's updated financial forecast eases investor concerns. The company's leadership emphasized stability following recent market volatility.",
-      "also": [],
-      "brief": {
-        "what": "Wall Street is expected to open higher following Nvidia's decision to raise its financial forecast. This positive outlook comes after a period of market instability linked to revelations regarding CEO Jensen Huang.",
-        "who": "Nvidia, the chip group, and its chief executive Jensen Huang.",
-        "context": "The market experienced a sell-off triggered by reports concerning Huang's personal affairs, which created uncertainty among investors.",
-        "why": "The company raised its forecast and leadership characterized the current environment as 'business as usual' to reassure the market.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "‘Our momentum is real’ – Nvidia smashes Wall Street expectations despite Huang scandal",
-      "source": "City AM",
-      "url": "https://www.cityam.com/our-momentum-is-real-nvidia-smashes-wall-street-expectations-despite-huang-scandal/",
-      "date": "2026-11-17",
-      "author": "Saskia Koopman",
-      "summary": "Nvidia reported strong quarterly earnings that exceeded analyst expectations despite ongoing leadership uncertainty following the resignation of founder Jensen Huang. The company posted significant revenue growth and provided a positive outlook for the upcoming quarter.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+      "date": "2026-11-16",
+      "author": "Gaya Gupta",
+      "summary": "An investigation reveals that several companies receiving refunds for Trump-era tariffs are allocating the funds toward corporate bonuses rather than consumer price relief. Firms like Stanley Black & Decker and TJX have indicated that these reimbursements are being used to offset incentive compensation costs.",
       "also": [
         {
           "source": "New York Post",
-          "author": "Thomas Barrabi",
-          "date": "2026-11-17",
-          "title": "Nvidia projects $130B in Q4 earnings as chip giant exceeds expectations despite Jensen Huang scandal",
-          "url": "https://nypost.com/2026/11/17/business/nvidia-reports-strong-earnings-as-embattled-ai-giant-reels-from-jensen-huang-scandal/",
-          "note": "The New York Post headline specifically highlights the $130B revenue projection for the fourth quarter as a key focus."
+          "author": "Taylor Herzlich",
+          "date": "2026-11-18",
+          "title": "Companies are spending Trump’s tariff refunds on bonuses – not reimbursing shoppers: report",
+          "url": "https://nypost.com/2026/11/18/business/companies-are-spending-trumps-tariff-refunds-on-bonuses-not-reimbursing-shoppers-report/",
+          "note": "The New York Post headline emphasizes the failure to reimburse shoppers, framing the story as a direct critique of corporate behavior versus consumer expectations."
         }
       ],
       "brief": {
-        "what": "Nvidia reported $115.8bn in quarterly revenue, surpassing the $109.1bn estimate, while net profit rose to $65.3bn. The company also projected $130bn in fourth-quarter revenue, exceeding the $125.2bn Wall Street estimate.",
-        "who": "Interim CEO Colette Kress is leading the company following the resignation of founder Jensen Huang, while the board has confirmed it will not reinstate him.",
-        "context": "The company is navigating a leadership crisis and an SEC investigation following Huang's departure, which has contributed to a significant decline in the firm's stock value from its October peak.",
-        "why": "According to Colette Kress, the strong performance is driven by relentless innovation and the successful launch of the Vera Rubin AI platform. Analysts like Jacob Bourne suggest that while the underlying business remains strong, leadership uncertainty continues to weigh on investor confidence.",
-        "next": "Nvidia will continue to manage its product roadmap, including the Vera Rubin platform, while investors monitor the ongoing leadership transition and regulatory investigations."
-      },
-      "numbers": [
-        {
-          "figure": "$115.8bn",
-          "what": "quarterly revenue reported by Nvidia"
-        },
-        {
-          "figure": "$65.3bn",
-          "what": "net profit for the quarter"
-        },
-        {
-          "figure": "103 per cent",
-          "what": "year on year sales growth"
-        },
-        {
-          "figure": "$130bn",
-          "what": "forecasted revenue for the fourth quarter"
-        },
-        {
-          "figure": "$2.68",
-          "what": "adjusted earnings per share"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "ECB's Vujcic Says December Rate Hike Looks 'Very Likely'",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "European Central Bank Vice President Boris Vujcic indicated that a December interest rate hike is highly probable. Further increases may be necessary in 2027 as inflation continues to broaden.",
-      "also": [],
-      "brief": {
-        "what": "European Central Bank Vice President Boris Vujcic stated that a rate hike in December is highly likely. He further suggested that additional increases could occur in 2027 to address broadening inflation.",
-        "who": "Boris Vujcic, Vice President of the European Central Bank, is the primary source of these comments.",
-        "context": "The European Central Bank is currently managing monetary policy amidst concerns regarding the expansion of inflationary pressures across the region.",
-        "why": "Vujcic attributes the potential for continued rate increases to the fact that inflation is broadening.",
+        "what": "Multiple corporations are utilizing government tariff refunds to fund executive and employee bonuses instead of lowering consumer prices. ProPublica identified at least nine companies, including Stanley Black & Decker and TJX, that have directed these funds toward incentive compensation after the Supreme Court ruled the original tariffs unlawful.",
+        "who": "ProPublica conducted the investigation, while companies like Stanley Black & Decker and TJX are the primary entities identified as using refunds for bonuses. The Trump administration is the source of the refunds following a Supreme Court ruling.",
+        "context": "The Supreme Court ruled that Trump's 'liberation day' tariffs were illegal due to a lack of congressional approval, leading to a refund process for affected companies. Many of these firms had previously cited the tariffs as justification for raising prices on household goods.",
+        "why": "Companies stated that the refunds were used to offset costs related to variable incentive compensation and discretionary bonuses. ProPublica notes that firms dealing directly with other businesses are more likely to pass refunds to customers than those selling directly to consumers.",
         "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "The Mounting Toll of the Nationwide Ground Stop: 20,000 Flights and Counting",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-17",
-      "author": "Alison Sider",
-      "summary": "A nationwide ground stop has resulted in over 20,000 flight cancellations, leaving airlines to assess the significant financial impact of the disruption. Operations are currently returning to normal as carriers begin calculating the total costs incurred.",
-      "also": [],
-      "brief": {
-        "what": "A nationwide ground stop caused the cancellation of 20,000 flights, disrupting air travel across the country. While airline operations are now returning to normal, carriers are beginning to tally the financial blow caused by the event.",
-        "who": "Airlines are the primary actors managing the recovery and financial assessment following the ground stop.",
-        "context": "The aviation industry is recovering from a major operational disruption that halted flights nationwide.",
-        "why": "The article does not explicitly state the cause of the ground stop, focusing instead on the operational and financial consequences for the airlines.",
-        "next": "Airlines will continue to calculate the financial impact of the cancellations."
-      },
-      "numbers": [
-        {
-          "figure": "20,000",
-          "what": "total number of canceled flights"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Ground Stop Ripples Into Third Day of Scrapped Flights",
-          "url": "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-15"
-        },
-        {
-          "title": "Why Some Flights Were Exempt From the Ground Stop",
-          "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
-          "source": "The New York Times",
-          "date": "2026-11-15"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "Lesser-known venture capital firms are poised for a significant financial gain as AI company Anthropic prepares for its initial public offering. The firm is scheduled to price its shares this Wednesday.",
-      "also": [],
-      "brief": {
-        "what": "A group of low-profile venture capital investors is expected to realize a $100bn windfall as the artificial intelligence company Anthropic moves toward its public market debut. The company is currently in the final stages of preparing to price its shares.",
-        "who": "Anthropic, an AI company, and a group of lesser-known venture capital firms.",
-        "context": "Anthropic is an AI developer currently navigating the process of becoming a publicly traded company.",
-        "why": "The windfall is occurring because the company is preparing to price its shares on the public market.",
-        "next": "The company is scheduled to price its shares on Wednesday."
       },
       "numbers": [
         {
           "figure": "$100bn",
-          "what": "potential windfall for venture capital investors"
+          "what": "total tariff refunds issued by the Trump administration"
+        },
+        {
+          "figure": "$331m",
+          "what": "aggregate tariff refunds received by TJX"
+        },
+        {
+          "figure": "$298m",
+          "what": "minimum tariff reimbursements expected by Stanley Black & Decker"
+        },
+        {
+          "figure": "$112 million",
+          "what": "accrued expenses for incentive compensation and bonuses at TJX"
+        },
+        {
+          "figure": "26%",
+          "what": "estimated pass-through of tariff increases to consumer prices"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Venezuela signs military deal with US less than a year after Maduro's ouster",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "author": null,
+      "summary": "The United States and Venezuela have signed a new military co-operation agreement, marking a significant shift in diplomatic relations less than a year after the US seized former leader Nicolás Maduro. The deal aims to address shared security threats through the Americas Counter Cartel Coalition.",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-19",
+          "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+          "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+          "note": "Al Jazeera frames the story by questioning the specific motivations of US Secretary of Defence Pete Hegseth in strengthening these military ties."
+        }
+      ],
+      "brief": {
+        "what": "The US and Venezuela signed a military co-operation agreement to address common security threats, including the training of armed forces and the modernization of operational equipment. This follows the US seizure of former Venezuelan leader Nicolás Maduro in a military raid on January 3.",
+        "who": "US Secretary of Defence Pete Hegseth and Venezuelan interim president Delcy Rodríguez signed the agreement, signaling a major pivot from the previous administration's adversarial stance.",
+        "context": "Military ties between the two nations were severed in 2005 under Hugo Chávez, and relations remained hostile throughout Nicolás Maduro's tenure until his capture on drug-trafficking and conspiracy charges.",
+        "why": "Secretary Hegseth stated the agreement was necessary to transform Venezuela from a regional threat into a compliant security partner, while President Rodríguez emphasized the need for mutual benefit and cooperation against shared threats.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$50m",
+          "what": "reward for information leading to Maduro's capture"
+        },
+        {
+          "figure": "£38m",
+          "what": "reward for information leading to Maduro's capture"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "Get Government Out of Air Traffic Control",
-      "source": "Reason",
-      "url": "https://reason.com/2026/11/18/get-government-out-of-air-traffic-control/",
+      "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
       "date": "2026-11-18",
-      "author": "J.D. Tuccille",
-      "summary": "The U.S. air traffic control system faces renewed criticism following a nationwide ground stop caused by technical instability. Critics argue for privatizing the system, citing successful models in countries like Canada.",
-      "also": [
-        {
-          "source": "National Review",
-          "author": "The Editors",
-          "date": "2026-11-17",
-          "title": "Privatize Air Traffic Control",
-          "url": "https://www.nationalreview.com/article/privatize-air-traffic-control",
-          "note": "National Review frames the story as a direct call to action for privatization."
-        }
-      ],
-      "kind": "opinion",
+      "author": "Alison Sider",
+      "summary": "Southwest Airlines managed a significant operational disruption by halting baggage services and repositioning its fleet and crew from its Dallas operations center. The airline successfully moved assets to restore normal flight schedules following the incident.",
+      "also": [],
       "brief": {
-        "what": "The FAA issued a nationwide ground stop due to a data-related technical failure, reigniting debates over the agency's aging infrastructure. Transportation Secretary Sean Duffy requested $50 billion to accelerate modernization, while critics argue the government is incapable of managing the system effectively.",
-        "who": "The FAA, Transportation Secretary Sean Duffy, and policy experts from the Reason Foundation, Cato Institute, and Hoover Institution.",
-        "context": "The U.S. air traffic control system has been on the GAO's high-risk list since 1995 due to persistent cost and performance shortfalls. Multiple administrations have previously considered, but failed to implement, a transition to a private, user-funded model similar to Canada's Nav Canada.",
-        "why": "The FAA attributes the recent outage to legacy equipment instability during a contractor-led upgrade. Critics contend that government-run systems are inherently prone to failure and that privatization would provide the necessary independence and efficiency to modernize.",
-        "next": "The article suggests that without structural reform, the system will likely continue to suffer from repeated delays and disruptions."
+        "what": "Southwest Airlines experienced an operational crisis that forced the company to halt bag checking and park aircraft. The airline responded by reallocating its planes and crews from its Dallas operations center to normalize flight schedules.",
+        "who": "Southwest Airlines is the primary actor, managing the recovery of its flight operations.",
+        "context": "The airline industry relies on complex logistics involving the synchronization of aircraft, flight crews, and ground services to maintain flight schedules.",
+        "why": "The article does not explicitly state the cause of the operational disruption, only that the airline took specific actions to resolve a potential ground-stop meltdown.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+      "date": "2026-11-18",
+      "author": "Ali Watkins",
+      "summary": "An Irish man caused enough damage to a U.S. National Guard C-130 aircraft at Shannon Airport to force its permanent retirement from service. The individual allegedly used an ax and chemicals to sabotage the military transport plane.",
+      "also": [],
+      "brief": {
+        "what": "Daithi O’Corrain allegedly sabotaged a U.S. National Guard C-130 aircraft while it was parked at Shannon Airport in Ireland. The damage was severe enough that the military aircraft was subsequently retired from service.",
+        "who": "Daithi O’Corrain is the individual accused of the sabotage, while the U.S. National Guard is the owner of the damaged aircraft.",
+        "context": "The incident occurred at Shannon Airport, a frequent transit point for U.S. military aircraft operating internationally.",
+        "why": "Prosecutors state that O’Corrain sealed himself inside the aircraft for several hours, during which time he utilized an ax and chemicals to inflict the damage.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "1,000",
-          "what": "connection attempts every 4 to 5 seconds"
+          "figure": "1",
+          "what": "number of C-130 aircraft sabotaged"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Ninety One’s Cheveley Sees Commodities Rebound on Supply Woes",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ninety-one-s-cheveley-sees-commodities-rebound-on-supply-woes",
+      "date": "2026-11-19",
+      "author": "Rivaldo Jantjies",
+      "summary": "Ninety One portfolio manager George Cheveley is betting on a rebound in commodities over the next year as continued disruptions to global supply chains keep oil and fertilizer markets tight, while gold remains supported by central bank buying.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Oil Prices Retreat as Traders Weigh Supply Surplus Expectations, Middle East Risks",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-19",
+      "author": "Farhan Rafid",
+      "summary": "Oil prices declined on Thursday as market participants balanced concerns over Middle Eastern supply disruptions against expectations of a global surplus.",
+      "also": [],
+      "brief": {
+        "what": "Oil prices retreated during Thursday's trading session, erasing earlier gains. The movement occurred as traders evaluated the global supply outlook in the face of ongoing threats to oil shipments originating from the Middle East.",
+        "who": "Traders in the global oil market.",
+        "context": "The energy market is currently navigating a complex environment defined by geopolitical instability in the Middle East and shifting projections regarding global supply levels.",
+        "why": "The price reversal was driven by traders assessing the global supply outlook while simultaneously weighing the impact of continued threats to Middle Eastern oil shipments.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Temu Owner Reports Flat Profit, Revenue as Challenges Continue",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-19",
+      "author": "Tracy Qu",
+      "summary": "PDD Holdings reported flat profit and revenue results, marking an end to a recent period of declining profitability. The company continues to face ongoing challenges as it invests in strengthening its e-commerce ecosystem.",
+      "also": [],
+      "brief": {
+        "what": "PDD Holdings reported flat profit and revenue, ending a streak of declining profitability. The company is currently navigating a period of financial pressure.",
+        "who": "PDD Holdings, the parent company of the e-commerce platform Temu.",
+        "context": "The company has been experiencing significant pressure on its profitability over recent quarters.",
+        "why": "According to the report, the company is prioritizing the strengthening of its e-commerce ecosystem, which has impacted its financial performance.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Anthropic Banks Land $550 Million Fee Windfall on Record IPO",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
+      "date": "2026-11-19",
+      "author": "Ed Ludlow",
+      "summary": "Anthropic PBC has paid $550 million in fees to Wall Street banks for its initial public offering. This payout surpasses the previous record set by SpaceX for the largest debut fees.",
+      "also": [],
+      "brief": {
+        "what": "Anthropic PBC distributed $550 million in fees to the Wall Street banks managing its initial public offering. This figure establishes a new record for debut fees, exceeding the amount paid during the SpaceX IPO.",
+        "who": "Anthropic PBC is the company issuing the IPO, while the unnamed Wall Street banks acted as the financial underwriters for the transaction.",
+        "context": "The company's debut has surpassed the previous record holder, SpaceX, in terms of the compensation provided to the financial institutions facilitating the public offering.",
+        "why": "The article does not explicitly state the reason for the fee structure, only noting that the payout is the largest for a debut to date.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$550 million",
+          "what": "total fees paid to banks for IPO"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+      "date": "2026-11-19",
+      "author": "Theodore Schleifer and Cory Weinberg",
+      "summary": "Facebook co-founder Dustin Moskovitz has expressed unease regarding the potential initial public offering of Anthropic, despite his early investment in the company yielding positive financial results.",
+      "also": [],
+      "brief": {
+        "what": "Facebook co-founder Dustin Moskovitz has publicly expressed discomfort regarding the potential initial public offering (IPO) of the artificial intelligence company Anthropic. While his early investment in the firm has proven to be financially successful, Moskovitz indicated that the prospect of the company going public does not bring him happiness.",
+        "who": "Dustin Moskovitz, a co-founder of Facebook and an early investor in Anthropic, is the primary subject.",
+        "context": "Anthropic is an artificial intelligence company that has attracted significant venture capital interest, leading to discussions regarding a potential public market debut.",
+        "why": "The article does not specify the underlying reasons for Moskovitz's unease regarding the IPO, noting only that his investment is paying off despite his personal feelings.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+      "date": "2026-11-19",
+      "author": "Tony Romm",
+      "summary": "Policymakers in Washington are facing increasing pressure to address the economic and workforce disruptions caused by the rapid advancement of artificial intelligence technology.",
+      "also": [],
+      "brief": {
+        "what": "Policymakers in Washington are struggling to develop regulatory frameworks to manage the potential economic and labor market disruptions triggered by the rapid surge in artificial intelligence technology.",
+        "who": "Policymakers in Washington are the primary actors tasked with navigating the societal and economic implications of this technological shift.",
+        "context": "The rapid development of A.I. has created a complex landscape where the potential for significant economic growth is balanced against risks to existing business models and the broader workforce.",
+        "why": "The article states that the technology is surging ahead, creating an urgent need for government oversight to mitigate potential negative impacts on workers and the economy.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Anthropic IPO Draws 'Massive Enthusiasm' From Investors: Ludlow & Bloxham",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-draws-massive-enthusiasm-from-investors-video",
+      "date": "2026-11-19",
+      "author": null,
+      "summary": "Anthropic PBC has completed a record-breaking $107.3 billion IPO and private placement to fund the development of advanced artificial intelligence. The offering marks the first time a frontier AI laboratory has accessed public capital markets.",
+      "also": [],
+      "brief": {
+        "what": "Anthropic PBC successfully raised $107.3 billion through an upsized IPO and private placement, involving the sale of 956.4 million company shares and 23.6 million shares held by its seven co-founders.",
+        "who": "Anthropic PBC is the AI firm issuing the shares, while its seven co-founders are the primary stakeholders participating in the sale.",
+        "context": "This event represents the first instance of a frontier AI lab entering the public markets to secure funding for the creation of thinking machines.",
+        "why": "The offering was driven by what Bloomberg reports as massive enthusiasm from investors regarding the company's AI development goals.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$107.3 billion",
+          "what": "total capital raised in IPO and placement"
         },
         {
-          "figure": "$50 billion",
-          "what": "additional funding requested for modernization"
+          "figure": "956.4 million shares",
+          "what": "shares sold by Anthropic PBC"
         },
         {
-          "figure": "35,000",
-          "what": "employees in the federal ATC system"
+          "figure": "23.6 million shares",
+          "what": "shares sold by the seven co-founders"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Outage or attack? In the moment, they can look the same",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/pentagon-posture/4807226/cisa-director-outage-panic-communication-problem/",
+      "date": "2026-11-19",
+      "author": "Mike Brest",
+      "summary": "The Trump administration has attributed recent connectivity disruptions across the FAA, Microsoft, and banking sectors to technical issues rather than coordinated attacks. Officials emphasize that aging infrastructure and necessary system patches often mimic the symptoms of cyberattacks.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "The U.S. government is addressing a series of recent connectivity disruptions that impacted the FAA, Microsoft, and various banks. Officials, including Secretary of Homeland Security Markwayne Mullin, stated they are 98% confident these incidents were not the result of a coordinated foreign attack.",
+        "who": "The Trump administration, including Secretary of State Marco Rubio, Secretary of Homeland Security Markwayne Mullin, and Director of National Intelligence Jay Clayton, alongside former CISA acting director Bridget Bean.",
+        "context": "The U.S. relies on aging technological infrastructure that requires frequent patching to address vulnerabilities. These maintenance efforts, combined with technical debt, can cause system outages that are difficult to distinguish from malicious cyber activity in the immediate aftermath.",
+        "why": "According to Bridget Bean, outages can result from software upgrades, glitches, or unintended consequences of patching old systems. While nation-state actors and criminals constantly target U.S. systems, officials maintain that the recent spate of disruptions was not a coordinated attack.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "98%",
+          "what": "confidence level that outages were not foreign-led"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "F-35C completes first Ford-class carrier trials aboard John F. Kennedy",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/f-35c-first-ford-class-carrier-trials-john-f-kennedy",
+      "date": "2026-11-19",
+      "author": "Clement Charpentreau",
+      "summary": "Two F-35C Lightning II fighters have successfully completed initial launch and recovery trials aboard the USS John F. Kennedy, the US Navy's second Gerald R. Ford-class aircraft carrier. The campaign validated the integration of the stealth fighter with the ship's advanced electromagnetic launch and arresting systems.",
+      "also": [],
+      "brief": {
+        "what": "The F-35C Lightning II completed 122 catapult launches and 122 arrested landings during an 11-day trial aboard the USS John F. Kennedy. These tests verified the performance of the ship's Electromagnetic Aircraft Launch System (EMALS) and Advanced Arresting Gear (AAG) with the F-35C.",
+        "who": "Lockheed Martin, the aircraft manufacturer, and the US Navy, which operates the carrier and the F-35C fleet.",
+        "context": "The Gerald R. Ford-class carriers utilize new electromagnetic launch and recovery technologies that differ from the steam-powered systems found on older Nimitz-class ships. The USS John F. Kennedy was specifically modified during construction to accommodate the F-35C.",
+        "why": "According to Lockheed Martin, the trials were necessary to gather data for verifying software, assessing structural loads on the aircraft, and validating structural models. Sean Jackson of Lockheed Martin stated the completion of these trials clears the F-35C for operations across the entire US Navy carrier fleet.",
+        "next": "The US Navy plans to take formal delivery of the USS John F. Kennedy in spring 2027."
+      },
+      "numbers": [
+        {
+          "figure": "122",
+          "what": "catapult launches completed during the trials"
         },
         {
-          "figure": "100",
-          "what": "countries using user-funded ATC utilities"
+          "figure": "122",
+          "what": "arrested landings completed during the trials"
+        },
+        {
+          "figure": "34",
+          "what": "flights conducted during the campaign"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Bill Ackman blasts Nvidia's board over Jensen Huang's ouster, says it 'panicked'",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/business-leaders/bill-ackman-blasts-nvidias-board-over-jensen-huangs-ouster-says-panicked",
+      "date": "2026-11-18",
+      "author": null,
+      "summary": "Billionaire investor Bill Ackman has criticized Nvidia's board of directors for the sudden ouster of CEO Jensen Huang, arguing the decision was a panicked reaction to media headlines. Ackman claims the board failed its duty of care by acting without proper due diligence regarding the allegations against Huang.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Taylor Herzlich",
+          "date": "2026-11-18",
+          "title": "Bill Ackman rips Nvidia’s board over Jensen Huang’s ouster: ‘Rushed to judgment’",
+          "url": "https://nypost.com/2026/11/18/business/bill-ackman-rips-nvidias-board-over-jensen-huangs-ouster-rushed-to-judgment/",
+          "note": "The New York Post headline uses the phrase 'Rushed to judgment' to emphasize Ackman's specific critique of the board's decision-making speed."
+        }
+      ],
+      "brief": {
+        "what": "Bill Ackman, CEO of Pershing Square Capital Management, publicly condemned Nvidia's board for forcing Jensen Huang’s resignation following allegations of an affair with a spy. Ackman contends the board acted prematurely and failed to consider the long-term impact on shareholders and stakeholders, suggesting they prioritized media perception over prudent governance.",
+        "who": "Bill Ackman is the primary critic, while Nvidia's board of directors and Chairman Harvey Jones are the subjects of his scrutiny regarding the removal of former CEO Jensen Huang.",
+        "context": "Nvidia is currently navigating a leadership transition after Huang stepped down on November 12 following an internal investigation. Despite the leadership turmoil, the company recently reported a 103% surge in quarterly revenue.",
+        "why": "Ackman argues the board 'panicked' due to negative media coverage and failed to exercise their 'duty of care' by not conducting a thorough, in-person deliberation before terminating the CEO. He further criticizes the board for preemptively ruling out Huang's potential return.",
+        "next": "The board has stated it does not intend to reinstate Jensen Huang as CEO, while an internal investigation into the matter continues."
+      },
+      "numbers": [
+        {
+          "figure": "103%",
+          "what": "Nvidia's quarterly revenue surge"
+        },
+        {
+          "figure": "$20 Billion",
+          "what": "Tesla's cut capex forecast"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
+          "url": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-17"
+        },
+        {
+          "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+          "source": "Al Jazeera",
+          "date": "2026-11-12"
         }
       ]
     },
     {
       "topic": "world",
       "importance": 1,
-      "title": "The Iran War, Harder This Time",
-      "source": "National Review",
-      "url": "https://www.nationalreview.com/article/the-iran-war-harder-this-time",
+      "title": "Get Government Out of Air Traffic Control",
+      "source": "Reason",
+      "url": "https://reason.com/2026/11/18/get-government-out-of-air-traffic-control/",
       "date": "2026-11-18",
-      "author": "Michael Brendan Dougherty",
-      "summary": "The author critiques the strategic logic of ongoing military involvement in Iran, arguing that depleting U.S. arsenals undermines deterrence against China.",
+      "author": "J.D. Tuccille",
+      "summary": "The U.S. government has been trying and failing for decades to modernize air traffic control.",
       "also": [
         {
-          "source": "Reason",
-          "author": "Kourosh Ziabari",
-          "date": "2026-11-16",
-          "title": "How the War Made Journalism Harder in Iran",
-          "url": "https://reason.com/2026/11/16/how-the-war-made-journalism-harder-in-iran/",
-          "note": "Reason frames the story by focusing on the specific challenges the conflict poses to the practice of journalism within Iran."
-        }
-      ],
-      "kind": "opinion",
-      "brief": {
-        "what": "The article argues that current military efforts in Iran are failing to achieve their stated goals and that continued intervention risks weakening American defense capabilities elsewhere.",
-        "who": "Michael Brendan Dougherty, a senior writer at National Review, serves as the author of this critique.",
-        "context": "The piece references the concept of 'peace through strength,' a policy associated with Ronald Reagan, and contrasts it with current military strategies involving Iran.",
-        "why": "The author contends that hawks are demanding public sacrifice without securing consent and are pursuing unrealistic military outcomes through continued bombing and interventionist policies.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "How to make AI data centres more sustainable",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03708-6",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "The rapid expansion of AI data centres is driving significant increases in global electricity demand, raising concerns about environmental impacts and grid stability. Researchers and policymakers are exploring sustainable alternatives, such as load-shifting and renewable energy mandates, to mitigate the carbon footprint of these facilities.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Data centres are experiencing rapid growth, with electricity consumption rising by 12% annually between 2017 and 2024. Projections suggest US data centre demand could reach 94 gigawatts by 2030, while current global consumption exceeds 1.5% of total electricity supply.",
-        "who": "The International Energy Agency (IEA), the Electric Power Research Institute, and technology companies like OpenAI and Google are key actors managing the intersection of AI infrastructure and energy grids.",
-        "context": "The surge in AI computing power has created an energy paradox where the demand for electricity threatens to increase reliance on fossil fuels and strain existing power grids.",
-        "why": "The article states that environmental concerns, including air pollution and greenhouse gas emissions, are driving opposition to data centre expansion, necessitating smarter energy management and renewable energy integration.",
-        "next": "Policymakers and grid operators are beginning to mandate modernization plans, while companies are testing demand-response programs to align data centre operations with grid capacity."
-      },
-      "numbers": [
-        {
-          "figure": "94 gigawatts",
-          "what": "projected additional US data centre electricity demand by 2030"
-        },
-        {
-          "figure": "98 gigawatts",
-          "what": "US grid capacity available through load-shifting without new generatio"
-        },
-        {
-          "figure": "26 megatonnes",
-          "what": "carbon dioxide emissions from 400 US data centres between May 2024 and"
-        },
-        {
-          "figure": "1.5%",
-          "what": "current share of the world’s electricity supply consumed by data centr"
-        },
-        {
-          "figure": "12%",
-          "what": "annual growth rate of data centre electricity consumption between 2017"
+          "source": "National Review",
+          "author": "The Editors",
+          "date": "2026-11-17",
+          "title": "Privatize Air Traffic Control",
+          "url": "https://www.nationalreview.com/article/privatize-air-traffic-control"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "science",
       "importance": 1,
-      "title": "US tech outages blamed on rush to fix bugs found by AI",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "A rapid push to patch software vulnerabilities identified by artificial intelligence is being blamed for widespread system instability across major institutions. Organizations including Microsoft, JPMorgan, and the FAA experienced significant outages linked to these accelerated update processes.",
+      "title": "AI is ditching hallucinated references — and other bad habits",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03753-1",
+      "date": "2026-11-19",
+      "author": "Kaia Glickman",
+      "summary": "Researchers have found that many problematic large language model behaviors, such as hallucinated citations, tend to disappear within 16 months as models are updated. While most identified issues fade, some traits like stereotyping or specific biases persist or worsen in newer iterations.",
       "also": [],
       "brief": {
-        "what": "Major institutions including Microsoft, JPMorgan, and the FAA suffered from computer system instability. Experts attribute these outages to a rushed effort to implement software patches for flaws discovered by artificial intelligence.",
-        "who": "Microsoft, JPMorgan, and the FAA are identified as the affected organizations, while unnamed experts provided the assessment regarding the cause of the technical failures.",
-        "context": "The incident highlights the operational risks associated with integrating AI-driven vulnerability detection into software maintenance workflows. It underscores the tension between maintaining cybersecurity and ensuring system uptime in critical infrastructure and financial sectors.",
-        "why": "Experts suggest that the race to patch software flaws created the instability, as the speed of the remediation process likely outpaced the necessary testing protocols for these complex systems.",
+        "what": "An analysis of 50 large language model (LLM) behaviors found that nearly half have largely disappeared in newer models, with an average lifespan of 16 months. While common issues like hallucinated academic citations are declining, other traits such as stereotyping persist, and some behaviors like favoring their own writing have become more pronounced.",
+        "who": "Stanford University researcher Owen Queen and his colleagues conducted the analysis, while Columbia University researcher Maxim Topaz provided context on the prevalence of hallucinated citations in academic literature.",
+        "context": "Since the widespread availability of LLMs in late 2022, researchers have documented numerous model tendencies, including logical errors and hallucinations. This study tested 20 models released between mid-2024 and late 2026 against original prompts to measure how these behaviors evolve.",
+        "why": "The researchers suggest that AI companies are actively improving model capabilities, leading to the expiration of many documented flaws. However, Topaz notes that hallucinated citations remain a problem in practice because many users rely on older, outdated models.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "50",
+          "what": "widely cited large language model behaviors identified"
+        },
+        {
+          "figure": "20",
+          "what": "large language models tested for behavioral changes"
+        },
+        {
+          "figure": "16 months",
+          "what": "average lifespan of expired large language model behaviors"
+        }
+      ]
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "AI is turbocharging cyberattacks — can computer scientists catch up?",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03775-9",
+      "date": "2026-11-19",
+      "author": "David Adam",
+      "summary": "Artificial intelligence is accelerating the discovery of software vulnerabilities, enabling both attackers and security researchers to scan code at unprecedented speeds. This shift is forcing cybersecurity professionals to adapt as the window between vulnerability disclosure and potential exploitation continues to shrink.",
+      "also": [],
+      "brief": {
+        "what": "AI-assisted tools are transforming cybersecurity by automating the identification of software flaws in languages like Java and PHP. While these tools allow researchers to patch systems more efficiently, they also enable attackers to exploit vulnerabilities faster and lower the barrier to entry for less technical hackers.",
+        "who": "Computer security researchers, including Steven Murdoch of University College London and Daniel Gardham of the University of Surrey, are analyzing these trends alongside global organizations like Microsoft and JPMorgan Chase.",
+        "context": "Cybersecurity is undergoing a fundamental shift where vulnerability discovery without AI is becoming obsolete. Attackers are using agentic systems to scan millions of lines of code, while defenders struggle to keep pace with the shortened time window between public disclosure and exploitation.",
+        "why": "AI is being adopted because it can operate in parallel without needing rest, allowing for the examination of vast quantities of code at speeds humans cannot match. Researchers note that while AI makes attacks more systematic, human failures like weak passwords remain a primary security risk.",
+        "next": "Researchers are developing AI agents capable of automatically detecting and repairing vulnerabilities to help defenders keep pace with the evolving threat landscape."
+      },
+      "numbers": [
+        {
+          "figure": "20 minutes",
+          "what": "time required for an AI agent to produce dozens of vulnerability resul"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "Germany reveals AI-driven surge in cyber attacks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1",
+      "date": "2026-11-19",
+      "author": null,
+      "summary": "Germany has raised its cyber threat level to critical as the emergence of AI-driven tools significantly lowers the barrier for hackers to exploit security vulnerabilities.",
+      "also": [],
+      "brief": {
+        "what": "The German government has officially elevated its national cyber threat level to 'critical.' This escalation follows the identification of new AI-powered tools that allow malicious actors to identify and exploit security flaws with much greater ease than previously possible.",
+        "who": "The German government is the primary actor, responding to the evolving digital security landscape.",
+        "context": "Cybersecurity agencies are increasingly monitoring the integration of artificial intelligence into the toolkits of hackers, which has fundamentally changed the speed and scale at which vulnerabilities can be targeted.",
+        "why": "The threat level was raised because new AI tools have made it far easier for hackers to exploit security flaws, creating a more dangerous environment for digital infrastructure.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "markets",
+      "topic": "business",
       "importance": 1,
-      "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "The European Central Bank has warned that the rapid accumulation of AI-related debt and off-balance sheet commitments by hyperscalers mirrors the risks seen during the subprime mortgage bubble.",
+      "title": "Lenovo Maintains Revenue Momentum on AI-Fueled Hardware Demand",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-19",
+      "author": "Sherry Qin",
+      "summary": "Lenovo Group reported strong fiscal second-quarter sales, supported by high demand for artificial-intelligence infrastructure. The company remains on track to reach its $100 billion annual revenue target.",
       "also": [],
       "brief": {
-        "what": "The European Central Bank (ECB) has expressed concerns regarding a borrowing binge driven by artificial intelligence, suggesting it shares historic parallels with the subprime bubble. Hyperscalers are reportedly accumulating trillions of dollars in off-balance sheet commitments through various contracts with other technology groups.",
-        "who": "The European Central Bank is the primary actor issuing the warning, while hyperscalers are identified as the entities accumulating the debt.",
-        "context": "The assessment draws a comparison between current AI-driven investment strategies and the financial conditions that preceded the subprime mortgage crisis.",
-        "why": "The ECB suggests these concerns stem from the scale of off-balance sheet commitments being built up by major tech groups as they invest heavily in AI infrastructure.",
+        "what": "Lenovo Group announced robust sales performance for its fiscal second quarter, driven by significant demand for AI-related hardware infrastructure. This growth trajectory keeps the company positioned to meet its $100 billion annual revenue objective.",
+        "who": "Lenovo Group is the primary actor in this report.",
+        "context": "The company is currently navigating a market environment where hardware infrastructure is increasingly defined by the requirements of artificial intelligence.",
+        "why": "The company attributes its positive sales momentum to strong demand for artificial-intelligence infrastructure.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$100 billion",
+          "what": "annual revenue goal for the company"
+        }
+      ]
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "EU delays methane emission rules on fossil fuel imports",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
+      "date": "2026-11-19",
+      "author": null,
+      "summary": "The European Union has postponed the implementation of new methane emission regulations for fossil fuel imports by at least two years. This delay follows intense lobbying efforts from the United States, Qatar, and the oil and gas industry.",
+      "also": [],
+      "brief": {
+        "what": "The European Union is delaying the enforcement of new methane emission standards for imported fossil fuels for a minimum of two years.",
+        "who": "The European Union, the United States, Qatar, and the global oil and gas sector.",
+        "context": "The EU is seeking to regulate methane emissions associated with energy imports as part of broader climate policy goals.",
+        "why": "The delay was enacted following sustained lobbying efforts by the United States, Qatar, and representatives from the oil and gas industry.",
         "next": "The article doesn't say."
       }
     }
