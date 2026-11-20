@@ -1495,5 +1495,20 @@
   "phishing": "The practice of sending fraudulent communications, often personalized using AI, to trick individuals into revealing sensitive information.",
   "cyber attacks": "Malicious attempts to damage, disrupt, or gain unauthorized access to computer systems, networks, or digital infrastructure.",
   "security flaws": "Weaknesses or vulnerabilities in software or hardware that can be exploited by attackers to compromise a system.",
-  "methane emission": "The release of methane gas into the atmosphere, which is a potent greenhouse gas often associated with fossil fuel production."
+  "methane emission": "The release of methane gas into the atmosphere, which is a potent greenhouse gas often associated with fossil fuel production.",
+  "MAGA": "A political movement and slogan associated with the Republican party and Donald Trump.",
+  "G.O.P.": "A traditional abbreviation for the Grand Old Party, referring to the United States Republican Party.",
+  "market valuation": "The total value of a company's outstanding shares of stock.",
+  "publicly traded company": "A corporation whose ownership is distributed via shares of stock which are traded on a public exchange.",
+  "technology sector": "A category of stocks relating to the research, development, or distribution of technologically based goods and services.",
+  "Market capitalization": "The total dollar market value of a company's outstanding shares of stock.",
+  "Compute": "The processing and computational power provided by semiconductor chips in datacenters used to train AI models.",
+  "Frontier lab": "A leading research organization focused on developing the most advanced and capable artificial intelligence models.",
+  "golden power": "Special powers held by a government to protect companies of strategic importance from foreign takeovers.",
+  "synthetic aperture radar (SAR)": "A form of radar used to create two-dimensional images or three-dimensional reconstructions of objects, such as landscapes.",
+  "flagship carrier": "The primary or national airline of a country, often receiving state support or special privileges.",
+  "profitability": "The degree to which a business or activity yields profit or financial gain after accounting for all expenses.",
+  "mini-constellations": "Small groups of satellites working together to provide specific coverage or services rather than a massive global network.",
+  "tipping and cueing": "An operational strategy where one sensor identifies a point of interest and triggers a second, more precise sensor to gather detailed data.",
+  "payload centric": "A satellite design philosophy that prioritizes the specific instruments and mission requirements over the standardized satellite bus."
 }

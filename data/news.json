@@ -1,485 +1,373 @@
 {
-  "generated": "2026-11-19",
-  "window": "2026-11-12 to 2026-11-19",
+  "generated": "2026-11-20",
+  "window": "2026-11-13 to 2026-11-20",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-19",
-    "label": "Thu 19 Nov · change on the day",
+    "asof": "2026-11-20",
+    "label": "Fri 20 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,323.63",
-        "change": "-0.23%"
+        "value": "7,175.83",
+        "change": "-2.02%"
       },
       {
         "name": "Dow",
-        "value": "50,198.17",
-        "change": "-1.11%"
+        "value": "49,097.06",
+        "change": "-2.19%"
       },
       {
         "name": "Nasdaq",
-        "value": "24,429.885",
-        "change": "+0.42%"
+        "value": "23,879.199",
+        "change": "-2.25%"
       },
       {
         "name": "CAC 40",
-        "value": "8,142.54",
-        "change": "-0.05%"
+        "value": "7,933.93",
+        "change": "-1.82%"
       },
       {
         "name": "DAX",
-        "value": "25,725.51",
-        "change": "-0.04%"
+        "value": "24,822.76",
+        "change": "-2.52%"
       },
       {
         "name": "Brent oil",
-        "value": "$92.69",
-        "change": "+0.80%"
+        "value": "$91.35",
+        "change": "-0.68%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "5.089%",
-        "change": "+0.02 pt"
+        "value": "4.976%",
+        "change": "-0.08 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.0999",
-        "change": "+0.2369%"
+        "value": "1.0992",
+        "change": "+0.2371%"
       }
     ]
   },
   "week": [
     {
-      "text": "Anthropic completed a record-breaking IPO, raising over $80 billion and achieving a $1.5 trillion valuation, despite some investor unease and ongoing policy debates regarding AI risks.",
+      "text": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "urls": [
-        "https://www.cityam.com/uk-retail-investors-snap-up-300m-anthropic-shares-ahead-of-blockbuster-ipo/",
-        "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
-        "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
-        "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-        "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-draws-massive-enthusiasm-from-investors-video"
+        "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "The FAA and other sectors experienced widespread system outages, which officials attributed to technical issues rather than cyberattacks, while the FAA continues to investigate a router upgrade that caused a nationwide ground stop.",
+      "text": "Plus: Officials say the recent tech outages weren’t cyberattacks, Grand Theft Auto VI is on sale, and San Diego’s newest firefighters are goated.",
       "urls": [
-        "https://www.aerotime.aero/articles/faa-arkansas-router-upgrade-us-ground-stop",
-        "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-        "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
-        "https://www.washingtonexaminer.com/pentagon-posture/4807226/cisa-director-outage-panic-communication-problem/"
+        "https://thedispatch.com/newsletter/morning/anthropics-record-breaking-public-offering/"
       ]
     },
     {
-      "text": "Nvidia's board remains firm on not reinstating Jensen Huang as CEO despite criticism from investors, as the company continues its search for a permanent successor.",
+      "text": "Technology stocks in Asia fell on Friday as Anthropic’s blockbuster debut failed to reignite the faltering AI trade. Japan’s Nikkei 225 and South Korea’s Kospi led the decline in the region, sinking 5.1 per cent over the course of trading. Soft Bank suffered the largest loss in Japan, falling 14.4 per cent to 3,025…",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-        "https://www.foxbusiness.com/business-leaders/bill-ackman-blasts-nvidias-board-over-jensen-huangs-ouster-says-panicked"
+        "https://www.cityam.com/tech-stocks-fall-as-anthropic-fails-to-revive-ai-trade/"
       ]
     },
     {
-      "text": "AI-driven tools are increasingly being used to accelerate cyberattacks, prompting Germany to raise its cyber threat level while researchers work on AI-based defensive solutions.",
+      "text": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
       "urls": [
-        "https://www.nature.com/articles/d41586-026-03775-9",
-        "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1"
+        "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "Global leaders including Trump, Xi, and Putin met in Shenzhen to discuss security, while Canada's Prime Minister Mark Carney also visited the city to discuss potential auto manufacturing investments.",
+      "text": "SpaceX CEO Elon Musk is distancing himself from the MAGA movement and rebranding as a political moderate following the midterm elections.",
       "urls": [
-        "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-        "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks"
+        "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html"
       ]
     }
   ],
-  "watch": [
-    {
-      "date": "2027-03-20",
-      "when": "Spring 2027",
-      "label": "US Navy to take formal delivery of the USS John F. Kennedy",
-      "url": "https://www.aerotime.aero/articles/f-35c-first-ford-class-carrier-trials-john-f-kennedy"
-    },
-    {
-      "date": "2028-01-01",
-      "when": "2028",
-      "label": "Release of the 26th James Bond film",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
-    }
-  ],
+  "watch": [],
   "items": [
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 3,
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18",
       "author": null,
-      "summary": "Nvidia reported that sales doubled to $115.8bn despite the recent departure of co-founder Jensen Huang. The company's board has firmly ruled out his reinstatement as they search for a permanent successor.",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Tripp Mickle",
-          "date": "2026-11-19",
-          "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-          "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-          "note": "The New York Times focuses on the interim CEO's internal communication, whereas the Wall Street Journal highlights the faster growth alongside the leadership decision."
-        },
-        {
           "source": "Wall Street Journal",
-          "author": "Robbie Whelan",
+          "author": "Shivaram Rajgopal",
+          "date": "2026-11-16",
+          "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
+          "url": "https://www.wsj.com/opinion/can-nvidia-thrive-without-jensen-huang-5b0001d5?mod=pls_whats_news_us_business_f"
+        },
+        {
+          "source": "The Guardian",
+          "author": "Dara Kerr",
+          "date": "2026-11-17",
+          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
           "date": "2026-11-18",
-          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
-          "url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the story by emphasizing the company's growth speed alongside the firm rejection of the former CEO's return."
-        }
-      ],
-      "brief": {
-        "what": "Nvidia announced strong financial results with sales reaching $115.8bn and profits doubling to $65bn. Simultaneously, the board confirmed that ousted co-founder Jensen Huang will not be reinstated following his resignation amid a scandal.",
-        "who": "Interim CEO Colette Kress is managing operations, while Chair Harvey Jones is leading the search for a permanent CEO.",
-        "context": "The company is navigating leadership uncertainty following Huang's exit due to alleged extramarital affairs, including one with a suspected spy for China. Nvidia is also managing complex national security dynamics regarding semiconductor exports to China.",
-        "why": "The board stated they do not intend to reinstate Huang, while Kress emphasized that the company's momentum remains strong and that partners and employees are committed to the current business trajectory.",
-        "next": "Nvidia is working with an executive search firm to identify a permanent CEO, though the board stated they will not rush the selection process."
-      },
-      "numbers": [
-        {
-          "figure": "$115.8bn",
-          "what": "sales for the three months to 25 October"
-        },
-        {
-          "figure": "$107bn",
-          "what": "sales from data centres"
-        },
-        {
-          "figure": "$65bn",
-          "what": "company profits"
-        },
-        {
-          "figure": "4.8%",
-          "what": "increase in after-hours share trading"
-        },
-        {
-          "figure": "13%",
-          "what": "projected revenue growth for the next quarter"
+          "title": "Nvidia interim CEO says 'we’ve got this' as company looks to future without Jensen Huang",
+          "url": "https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "world",
       "importance": 3,
-      "title": "UK retail investors snap up $300m of Anthropic shares ahead of blockbuster IPO",
-      "source": "City AM",
-      "url": "https://www.cityam.com/uk-retail-investors-snap-up-300m-anthropic-shares-ahead-of-blockbuster-ipo/",
+      "title": "Anthropic’s Record-Breaking Public Offering",
+      "source": "The Dispatch",
+      "url": "https://thedispatch.com/newsletter/morning/anthropics-record-breaking-public-offering/",
       "date": "2026-11-19",
-      "author": "Maisie Grice",
-      "summary": "UK retail investors purchased $300 million in Anthropic shares ahead of the company's record-breaking initial public offering. The AI firm's shares were priced at $83, exceeding initial expectations due to high demand.",
+      "author": "Surya Gowda, Evan Spear, James P. Sutton, Ross Anderson",
+      "summary": "Plus: Officials say the recent tech outages weren’t cyberattacks, Grand Theft Auto VI is on sale, and San Diego’s newest firefighters are goated.",
       "also": [
         {
-          "source": "Financial Times",
+          "source": "Bloomberg",
+          "author": "Natasha Mascarenhas, Bailey Lipschultz, Shirin Ghaffary and Ryan Gould",
+          "date": "2026-11-20",
+          "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+          "url": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings"
+        },
+        {
+          "source": "Fox Business",
           "author": null,
           "date": "2026-11-19",
-          "title": "More than 100,000 UK retail investors rush to buy Anthropic shares",
-          "url": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1",
-          "note": "Financial Times emphasizes the specific number of individual participants, whereas City AM focuses on the total capital value."
-        },
-        {
-          "source": "Wall Street Journal",
-          "author": "Kate Clark",
-          "date": "2026-11-16",
-          "title": "The Investors Set to Win Big in Anthropic’s IPO",
-          "url": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=pls_whats_news_us_business_f",
-          "note": "Wall Street Journal frames the story around the broader group of investors set to benefit from the IPO's success."
+          "title": "Anthropic begins trading on Nasdaq in record-breaking IPO",
+          "url": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo"
         }
       ],
-      "brief": {
-        "what": "Anthropic successfully completed a record-setting share sale, raising $107 billion combined through an IPO and private placement. UK retail investors acquired $300 million worth of stock, representing 27.3 percent of the total European allocation.",
-        "who": "Anthropic, an artificial intelligence lab, led the offering, while UK retail investors participated via the Financial Conduct Authority’s Public Offer Platform (POP) regime.",
-        "context": "This event follows a similar retail participation model used for SpaceX in June. The POP regime is increasingly utilized by UK investors to access major US-based public floats.",
-        "why": "Strong retail and institutional demand, including bids of $10 billion or more, drove the company to upsize its global offering to 980 million shares and price them at $83, above the anticipated range.",
-        "next": "Anthropic is scheduled to make its public market debut on Thursday."
-      },
-      "numbers": [
+      "earlier": [
         {
-          "figure": "$1.5 trillion",
-          "what": "valuation of Anthropic at its public market debut"
+          "title": "Anthropic raises $81bn in record-breaking stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "Tech stocks fall as Anthropic fails to revive AI trade",
+      "source": "City AM",
+      "url": "https://www.cityam.com/tech-stocks-fall-as-anthropic-fails-to-revive-ai-trade/",
+      "date": "2026-11-20",
+      "author": "Maisie Grice",
+      "summary": "Technology stocks in Asia fell on Friday as Anthropic’s blockbuster debut failed to reignite the faltering AI trade. Japan’s Nikkei 225 and South Korea’s Kospi led the decline in the region, sinking 5.1 per cent over the course of trading. Soft Bank suffered the largest loss in Japan, falling 14.4 per cent to 3,025…",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi, Ian Mount and Theodore Schleifer",
+          "date": "2026-11-20",
+          "title": "Can Anthropic Revive the A.I. Trade?",
+          "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-19",
+      "author": "Alexander Saeedy",
+      "summary": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Rob Copeland",
+          "date": "2026-11-19",
+          "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
+          "url": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html"
         },
         {
-          "figure": "$107bn",
-          "what": "total capital raised through public offering and private placement"
-        },
-        {
-          "figure": "$300m",
-          "what": "value of Anthropic shares secured by UK retail investors"
-        },
-        {
-          "figure": "$83",
-          "what": "final price per share for the Anthropic offering"
-        },
-        {
-          "figure": "3.6m shares",
-          "what": "quantity of Anthropic shares sold in the UK"
+          "source": "New York Post",
+          "author": "Anthony Blair",
+          "date": "2026-11-19",
+          "title": "Visa, Mastercard and Chase bank customer data hacked — after string of major failures",
+          "url": "https://nypost.com/2026/11/19/business/jpmorgan-chase-says-vendors-hacked-emails-stolen-days-after-massive-outage/"
         }
       ]
     },
     {
       "topic": "aerospace",
-      "importance": 3,
-      "title": "FAA investigates how a router upgrade in Arkansas led to US ground stop",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/faa-arkansas-router-upgrade-us-ground-stop",
-      "date": "2026-11-16",
-      "author": "Stephen Pope",
-      "summary": "The FAA is investigating a nationwide ground stop caused by a router upgrade in Arkansas that triggered a massive network data surge. The incident resulted in over 12,000 flight cancellations and prompted calls for a major overhaul of the agency's telecommunications infrastructure.",
+      "importance": 2,
+      "title": "‘I’m Not MAGA’: Musk Plays Down G.O.P. Support After Midterm Loss",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+      "date": "2026-11-19",
+      "author": "Michael J. de la Merced and Theodore Schleifer",
+      "summary": "SpaceX CEO Elon Musk is distancing himself from the MAGA movement and rebranding as a political moderate following the midterm elections.",
       "also": [
         {
-          "source": "Wall Street Journal",
-          "author": "Andrew Tangel",
-          "date": "2026-11-18",
-          "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
-          "url": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses on the FAA's decision to halt future installations, while Fox Business emphasizes the tech issue as the primary driver of the pause."
+          "source": "Reason",
+          "author": "Robby Soave",
+          "date": "2026-11-19",
+          "title": "Elon Musk Regrets Wasting Millions on MAGA",
+          "url": "https://reason.com/video/2026/11/19/elon-musk-regrets-wasting-millions-on-maga/",
+          "note": "The Reason headline explicitly claims Musk regrets his spending, which is a stronger interpretation than the Times' framing of playing down support."
         },
         {
           "source": "Fox Business",
           "author": null,
-          "date": "2026-11-17",
-          "title": "FAA pauses router installations nationwide after tech issue caused Friday's ground stop",
-          "url": "https://www.foxbusiness.com/technology/faa-pauses-router-installations-nationwide-after-tech-issue-caused-fridays-ground-stop"
-        }
-      ],
-      "brief": {
-        "what": "A routine router replacement in Arkansas caused a network-wide data flood, forcing the FAA to halt all US departures for over four hours. The disruption affected 17 of 22 en route air traffic control centers and led to 12,462 flight cancellations.",
-        "who": "The FAA is leading the investigation alongside contractor L3Harris, which operates the telecommunications network. US Transportation Secretary Sean Duffy is managing the response and advocating for a network infrastructure overhaul.",
-        "context": "The FAA is currently transitioning its network from copper wire to fiber optics. The agency is also facing political pressure regarding its management of air traffic control systems and existing budget utilization.",
-        "why": "The FAA states the disruption occurred when a new router began flooding the network with data, an issue that unexpectedly spread to a previously installed unit in Texas. L3Harris and the FAA are investigating whether the cause was an installation error or faulty equipment.",
-        "next": "The FAA has disabled the broadcast function on newly installed routers as a precaution and is reviewing its maintenance scheduling policies while continuing the investigation at a laboratory in Florida."
-      },
-      "numbers": [
-        {
-          "figure": "12,462",
-          "what": "total flight cancellations on Friday"
-        },
-        {
-          "figure": "17",
-          "what": "en route air traffic control centers disrupted"
-        },
-        {
-          "figure": "3,500",
-          "what": "airborne aircraft guided to safe landings"
-        },
-        {
-          "figure": "1,000",
-          "what": "connection attempts every four to five seconds"
-        },
-        {
-          "figure": "$50 billion",
-          "what": "funding requested for air traffic control overhaul"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-      "date": "2026-11-19",
-      "author": "Charles Maynes",
-      "summary": "President Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen for a trilateral summit focused on global security and nuclear disarmament. The meeting highlighted divergent national agendas and the shifting dynamics of global influence.",
-      "also": [
-        {
-          "source": "Bloomberg",
-          "author": null,
           "date": "2026-11-19",
-          "title": "US Futures Rally on Anthropic Record IPO; Trump, Xi, Putin Meet",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video",
-          "note": "Bloomberg frames the story by linking the summit to market movements and a specific corporate IPO, whereas NPR focuses on the diplomatic and geopolitical implications."
-        },
-        {
-          "source": "The New York Times",
-          "author": "Edward Wong, Julian E. Barnes and Jeanna Smialek",
-          "date": "2026-11-18",
-          "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
-          "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
-          "note": "The New York Times emphasizes intelligence reports regarding Putin's continued military intentions in Ukraine, contrasting with NPR's focus on the summit's atmosphere and trilateral dynamics."
+          "title": "Elon Musk says he is 'not MAGA,' in departure from past comments",
+          "url": "https://www.foxbusiness.com/politics/elon-musk-says-he-not-maga-departure-from-past-comments",
+          "note": "The Fox Business headline highlights that this stance is a departure from past comments, emphasizing a shift in his public narrative."
         }
       ],
       "brief": {
-        "what": "President Trump, Xi Jinping, and Vladimir Putin held a trilateral summit in Shenzhen to discuss nuclear disarmament, the war in Ukraine, and regional stability. Despite the high-level gathering, the leaders offered few concrete solutions, with meetings lasting between 42 and 90 minutes.",
-        "who": "President Trump, President Xi Jinping of China, and President Vladimir Putin of Russia are the primary actors, representing the three nations' competing geopolitical interests.",
-        "context": "The summit occurred amid ongoing tensions regarding the war in Ukraine, nuclear proliferation, and international sanctions. It follows a period where Russia has sought to counter Western isolation efforts by strengthening ties with China and engaging with the U.S. administration.",
-        "why": "The meeting was proposed by Putin to coincide with the APEC conference. Leaders aimed to project an image of great-power cooperation, though they held conflicting goals: Trump sought nuclear arms control, Putin pushed for favorable terms in Ukraine, and Xi focused on promoting China's global economic stability.",
+        "what": "Elon Musk, the C.E.O. of SpaceX, is publicly distancing himself from the MAGA movement by stating that he is \"not MAGA\" following the recent midterm election losses. Despite having spent millions of dollars to back various Republican candidates during the election cycle, Musk is now seeking to portray himself as a political moderate rather than a partisan figure.",
+        "who": "The C.E.O. of SpaceX, Elon Musk, is the primary actor who spent significant funds on Republican political campaigns and is now adjusting his public stance.",
+        "context": "This change in public positioning provides context for how high-profile business leaders in the aerospace sector navigate the political fallout of election results. The shift in rhetoric comes after the midterm election losses for the Republican party, which Musk had previously supported financially.",
+        "why": "Musk sought to portray himself as a political moderate to potentially mitigate the perception of his heavy partisan involvement, as he had spent millions to back Republican candidates. By playing down his G.O.P. support, he is attempting to adjust his public image in the wake of the midterm results.",
         "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "42 minutes",
-          "what": "duration of the bilateral meeting between Trump and Putin"
-        },
-        {
-          "figure": "50th",
-          "what": "estimated total number of meetings between Xi and Putin"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-      "date": "2026-11-19",
-      "author": "Lorcan Lovett",
-      "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya during 2017 military operations. The court concluded that security forces acted with specific genocidal intent to destroy a substantial part of the group.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Hannah Beech",
-          "date": "2026-11-19",
-          "title": "What to Know About the Myanmar Genocide Case at the World Court",
-          "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-          "note": "The New York Times frames the story as an educational guide on the case, while Al Jazeera focuses directly on the guilty verdict."
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-19",
-          "title": "ICJ rules Myanmar committed genocide against the Rohingya",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-19",
-          "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
-          "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss"
-        }
-      ],
-      "brief": {
-        "what": "The International Court of Justice (ICJ) found Myanmar responsible for genocide against the Rohingya, citing the death of approximately 10,000 people during 2017 military operations. The court determined that the scale of the violence, which affected a population of 815,000, demonstrated a clear intent to destroy the group.",
-        "who": "The International Court of Justice, led by Judge Yuji Iwasawa, issued the ruling in a case brought by Gambia against Myanmar, with 11 intervening states.",
-        "context": "The ruling follows a 2017 military clearance campaign in Myanmar's northern Rakhine State, which the court found was preceded by systemic anti-Rohingya hate speech.",
-        "why": "The court ruled that the military's actions went beyond punitive measures and were characteristic of genocidal intent, as the community had been dehumanized as a violent threat.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "815,000",
-          "what": "Rohingya living in northern Rakhine State before operations"
-        },
-        {
-          "figure": "10,000",
-          "what": "Rohingya violently killed during the 2017 clearance campaign"
-        },
-        {
-          "figure": "11",
-          "what": "States intervening in the genocide case"
-        }
-      ]
+      }
     },
     {
       "topic": "markets",
       "importance": 2,
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "title": "How did Anthropic's stock market debut unfold?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "author": null,
-      "summary": "AI company Anthropic has launched a record-breaking stock market debut, raising $81 billion and achieving a valuation of $1.5 trillion. The IPO serves as a significant test for investor confidence in the long-term profitability of the artificial intelligence sector.",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-19",
-          "title": "Anthropic raises $81bn in record IPO",
-          "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-          "note": "Financial Times frames the story similarly, focusing on the record-breaking nature of the IPO."
-        }
-      ],
+      "summary": "Anthropic shares surged 17% during its first day of trading, reaching a market valuation of $1.77 trillion despite a broader decline in the technology sector.",
+      "also": [],
       "brief": {
-        "what": "Anthropic, the developer of the Claude chatbot, completed a record-breaking IPO, raising $81 billion in public share sales and an additional $26 billion from tech partners. The company debuted with a $1.5 trillion valuation, despite reporting $104 billion in net losses for the first nine months of the year.",
-        "who": "The company was founded by seven former OpenAI employees, including CEO Dario Amodei and Daniela Amodei. Key institutional investors and tech firms like Google, Microsoft, and Nvidia are involved in the company's financing.",
-        "context": "Anthropic is the first purely AI-focused firm to go public, making it a bellwether for the sector. The listing occurs amid concerns regarding high AI-related debt, regulatory uncertainty following US elections, and the massive capital requirements for AI infrastructure.",
-        "why": "The company pursued the listing to tap into public markets for the significant capital required to fund expensive AI development and infrastructure, according to Marta Norton of Empower.",
-        "next": "The company may raise an additional $12 billion through an over-allotment provision if demand remains high, while investors continue to monitor whether the firm can maintain profitability amidst rising financial obligations."
+        "what": "Anthropic, the developer of the Claude AI chatbot, saw its shares rise 17% to close at $97.17 on its first day as a publicly traded company. This initial performance resulted in a market valuation of approximately $1.77 trillion, though the company's value briefly surpassed the $2 trillion threshold during intraday trading.",
+        "who": "Anthropic is the central actor, characterized as the creator of the Claude artificial intelligence chatbot, while Samira Hussain of the BBC provided the analysis of the stock's performance.",
+        "context": "This market debut took place against a backdrop of broader market weakness, specifically within the technology sector, which fell by 2.4% during the same trading period.",
+        "why": "The significant gains for the AI firm contrasted sharply with the wider market decline, leading observers to question the current state of investor confidence and the long-term viability of the artificial intelligence boom.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "$81bn",
-          "what": "total capital raised in the public share sale"
+          "figure": "17%",
+          "what": "increase in share price"
         },
         {
-          "figure": "$1.5 trillion",
-          "what": "total valuation of the company upon listing"
+          "figure": "$97.17",
+          "what": "closing share price"
         },
         {
-          "figure": "$104bn",
-          "what": "net losses reported for the nine months ending September"
+          "figure": "$1.77 trillion",
+          "what": "market valuation at close"
         },
         {
-          "figure": "$33bn",
-          "what": "revenues generated in the nine months ending September"
+          "figure": "$2 trillion",
+          "what": "peak market valuation during trading"
         },
         {
-          "figure": "$26bn",
-          "what": "additional capital from separate investments by tech firms"
+          "figure": "2.4%",
+          "what": "decline in the wider technology sector"
         }
       ],
       "earlier": [
         {
-          "title": "Why Anthropic's IPO Is Make or Break for the Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-11/insight-with-haslinda-amin-11-11-2026-video",
-          "source": "Bloomberg",
-          "date": "2026-11-11"
+          "title": "Anthropic raises $81bn in record-breaking stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+          "source": "The Guardian",
+          "date": "2026-11-10"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 2,
-      "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "title": "Anthropic shares fall in pre-market trade as AI rout hits global markets - business live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-      "date": "2026-11-16",
-      "author": "Associated Press",
-      "summary": "Canadian Prime Minister Mark Carney stated that Canada may pursue partnerships with Chinese automakers if trade negotiations with the United States fail to maintain an integrated North American auto industry. Carney emphasized that Canada will prioritize domestic manufacturing and labor standards regardless of the outcome of US trade talks.",
+      "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
+      "date": "2026-11-20",
+      "author": "Lauren Almeida",
+      "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang . Rob Bonta , the US state’s attorney general, issued the subpoena as part of an investigation into…",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Ian Austen",
-          "date": "2026-11-19",
-          "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
-          "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-          "note": "The New York Times frames the story by focusing on the interpersonal dynamics of the trade meeting between Carney and Trump."
-        },
+          "source": "City AM",
+          "author": "Samuel Norman",
+          "date": "2026-11-20",
+          "title": "FTSE 100 Live: Stocks fall as Anthropic rattles global markets",
+          "url": "https://www.cityam.com/ftse-100-live-stocks-to-fall-as-anthropic-rattles-global-markets/"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "When will Anthropic shares start trading?",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/when-will-anthropic-shares-start-trading",
+      "date": "2026-11-19",
+      "author": "Lauren Hirsch",
+      "summary": "",
+      "also": [
         {
-          "source": "The New York Times",
-          "author": "Ian Austen",
-          "date": "2026-11-18",
-          "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S.",
-          "url": "https://www.nytimes.com/2026/11/18/business/dealbook/mark-carney-canada-us-trade.html",
-          "note": "The New York Times frames the story by highlighting Canada's firm stance against US trade pressure."
+          "source": "The Telegraph",
+          "author": "Matthew Field",
+          "date": "2026-11-19",
+          "title": "Anthropic achieves $2tn valuation as shares soar",
+          "url": "https://www.telegraph.co.uk/business/2026/11/19/anthropic-ipo-listing-nasdaq-ai-claude-ftse-100-markets/"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "date": "2026-11-19",
+      "author": "Johana Bhuiyan",
+      "summary": "AI startup Anthropic completed the largest-ever initial public offering, raising $81.3 billion and achieving a $1.3 trillion market capitalization on its first day of trading.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Thomas Barrabi",
+          "date": "2026-11-19",
+          "title": "Anthropic closes first day of trading at $97.17 share price with jaw-dropping $1.77 trillion valuation",
+          "url": "https://nypost.com/2026/11/19/business/anthropic-to-begin-trading-at-about-110-per-share-in-record-setting-ipo/",
+          "note": "The New York Post headline focuses on the higher fully diluted valuation of $1.77 trillion and the specific closing share price."
         }
       ],
       "brief": {
-        "what": "Prime Minister Mark Carney indicated that Canada is prepared to explore automotive partnerships with China, Japan, or Europe if current trade negotiations with the US do not secure a viable, integrated North American auto industry. This follows a January agreement that lowered tariffs on Chinese electric vehicles to 6.1% to facilitate investment and job creation.",
-        "who": "Mark Carney, the Prime Minister of Canada, is the primary actor, navigating trade tensions with US President Donald Trump while engaging with Chinese leader Xi Jinping.",
-        "context": "The North American auto industry relies on a highly integrated supply chain involving Ford, General Motors, and Stellantis across Canada, the US, and Mexico. Recent US trade actions and tariff threats have disrupted this integration, prompting Canada to seek alternative manufacturing strategies.",
-        "why": "Carney stated that Canada must ensure its auto workers are fully utilized and that the industry remains viable, noting that if the North American market remains less integrated due to US actions, Canada will pursue other opportunities to move forward.",
-        "next": "Carney is scheduled to meet with Chinese leader Xi Jinping in Shenzhen to discuss potential auto manufacturing investments."
+        "what": "Anthropic debuted on the US stock market, closing its first day at $97.17 per share, a 17% increase from its $83 IPO price. The offering raised $81.3 billion, surpassing SpaceX's previous record for a fundraise.",
+        "who": "The main actors are Anthropic, led by CEO Dario Amodei, and investors on the Nasdaq. Analysts from Yorkville Ives and Neostellar provided market commentary.",
+        "context": "Founded in 2021, the Claude chatbot maker is the first frontier lab to go public. It enters a volatile market following a scandal at Nvidia and broader concerns about the sustainability of the AI boom.",
+        "why": "The IPO aims to strengthen the company's financial position to fund massive compute costs, which reached $18.8 billion in early 2026. Analysts at Yorkville Ives suggest the listing serves as a bellwether to restore investor confidence in the AI growth thesis.",
+        "next": "Investors will monitor if Anthropic can sustain its revenue growth, which exceeded 1,000% annually, while managing ballooning costs for semiconductor processing power."
       },
       "numbers": [
         {
-          "figure": "6.1%",
-          "what": "reduced tariff rate on Chinese electric vehicles"
+          "figure": "$81.3 billion",
+          "what": "capital raised in the upsized offering"
         },
         {
-          "figure": "49,000 vehicles",
-          "what": "initial annual cap for Chinese electric vehicle imports"
+          "figure": "$1.3 trillion",
+          "what": "total market capitalization at close"
         },
         {
-          "figure": "100%",
-          "what": "previous tariff rate on Chinese electric vehicles"
+          "figure": "980 million",
+          "what": "shares sold to underwriters"
+        },
+        {
+          "figure": "17%",
+          "what": "trading increase above the IPO price"
+        },
+        {
+          "figure": "$104 billion",
+          "what": "losses reported for the first nine months"
         }
       ]
     },
@@ -491,7 +379,7 @@
       "url": "https://www.aerotime.aero/articles/iceye-takeover-bid-vega-c-rocket-maker-avio",
       "date": "2026-11-17",
       "author": "Clement Charpentreau",
-      "summary": "Finnish satellite operator ICEYE has launched a €2.05 billion all-cash takeover bid for Italian rocket manufacturer Avio. The acquisition aims to create a vertically integrated European space and defense entity by combining satellite operations with launch and propulsion capabilities.",
+      "summary": "Finnish satellite operator ICEYE has launched a €2.05 billion all-cash bid to acquire Italian rocket manufacturer Avio. The deal aims to create a vertically integrated European space and defense entity by combining satellite operations with launch capabilities.",
       "also": [
         {
           "source": "Wall Street Journal",
@@ -499,77 +387,38 @@
           "date": "2026-11-17",
           "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
           "url": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal headline emphasizes the specific dollar value of the bid, whereas the AeroTime headline focuses on the strategic nature of the takeover."
+          "note": {
+            "Wall Street Journal": "The headline converts the deal value to USD and explicitly labels ICEYE as a startup."
+          }
         }
       ],
       "brief": {
-        "what": "ICEYE has initiated a takeover bid for Avio, offering €41 per share to acquire the Italian rocket maker in a deal valued at approximately €2.05 billion. The offer represents a 21.3% premium over Avio's recent share price and aims to delist the company from Euronext STAR Milan.",
-        "who": "ICEYE, a Finnish satellite operator, is the bidder, while Avio, the Italian prime contractor for the Vega-C launcher, is the target company.",
-        "context": "The European space sector is undergoing significant consolidation, exemplified by the ongoing Project Bromo merger between Airbus, Leonardo, and Thales. Avio currently provides critical propulsion for European missiles and launch vehicles, while ICEYE specializes in synthetic aperture radar satellite constellations.",
-        "why": "ICEYE CEO Rafal Modrzewski stated that governments require control over critical space infrastructure. The company argues the merger will create a vertically integrated European space and defense firm, enhancing launch frequency and combining satellite manufacturing with propulsion expertise.",
-        "next": "Avio's board is evaluating the offer, which remains subject to various regulatory approvals, including Italy's golden power rules and reviews by the European Commission and CFIUS."
+        "what": "ICEYE, a Finnish satellite operator, launched an all-cash takeover bid for Italian rocket maker Avio valued at approximately €2.05 billion. The offer of €41 per share represents a 21.3% premium and seeks to delist Avio from the Euronext STAR Milan.",
+        "who": "The primary actors are ICEYE, its subsidiary Iris 2 S.p.A., and Avio, the prime contractor for the Vega-C rocket. Major Avio shareholders include Leonardo, Advent International, and Goldman Sachs.",
+        "context": "This move occurs during a period of consolidation in the European space sector, following the Project Bromo merger announcement by Airbus, Leonardo, and Thales. ICEYE recently completed a Series F funding round exceeding €1 billion, valuing the company at over €10 billion.",
+        "why": "ICEYE CEO Rafal Modrzewski stated that the acquisition would provide governments with control over critical space infrastructure. The company intends to create a vertically integrated firm that supports more frequent Vega launches by combining propulsion expertise with satellite intelligence.",
+        "next": "Avio’s board will evaluate the offer, which requires regulatory clearances from Italy’s golden power rules, the European Commission, and CFIUS. If successful, ICEYE plans to invest €1 billion in Italy and create 400 jobs."
       },
       "numbers": [
         {
           "figure": "€2.05 billion",
-          "what": "total valuation of the takeover bid"
+          "what": "total valuation of the takeover deal"
         },
         {
-          "figure": "€41",
-          "what": "offer price per share for Avio"
+          "figure": "€41 per share",
+          "what": "cash offer price for Avio stock"
         },
         {
           "figure": "21.3%",
           "what": "premium over Avio's official share price"
         },
         {
-          "figure": "18.04%",
-          "what": "shareholding stake held by Leonardo"
+          "figure": "€10 billion",
+          "what": "valuation of ICEYE after Series F"
         },
         {
           "figure": "66.67%",
-          "what": "minimum stake threshold required for the offer"
-        }
-      ]
-    },
-    {
-      "topic": "culture",
-      "importance": 2,
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "Amazon chairman Jeff Bezos revealed his significant involvement in selecting Robert Pattinson as the seventh actor to portray James Bond. The decision marks a shift in strategy for the franchise, opting for a well-known star to ensure audience appeal.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Malia Mendez",
-          "date": "2026-11-18",
-          "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
-          "url": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
-          "note": "The New York Times headline focuses specifically on Bezos's personal role in the selection process rather than his general involvement."
-        }
-      ],
-      "brief": {
-        "what": "Amazon chairman Jeff Bezos confirmed he was heavily involved in the casting of Robert Pattinson as the seventh James Bond. The selection process involved five finalists who participated in traditional screen tests, with Pattinson ultimately chosen to star in the 26th film of the franchise.",
-        "who": "Jeff Bezos, Amazon chairman; Robert Pattinson, the newly cast James Bond; and Denis Villeneuve, the director of the upcoming film.",
-        "context": "This production is the first in the official 007 series not overseen by the Broccoli family, following Amazon's 2022 acquisition of MGM, which co-owns the franchise.",
-        "why": "Bezos stated that despite initial reservations regarding Pattinson's fame, his performance during screen tests made it obvious he was the right choice. Industry insiders suggest the studio selected a bankable star to mitigate risks amid broader Hollywood struggles to attract cinema audiences.",
-        "next": "The 26th Bond film is scheduled for release in 2028, though the official title and specific release date remain unannounced."
-      },
-      "numbers": [
-        {
-          "figure": "26th",
-          "what": "the sequence number of the upcoming Bond movie"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Robert Pattinson as James Bond is bad for Hollywood",
-          "url": "https://www.cityam.com/robert-pattinson-as-james-bond-is-bad-for-hollywood/",
-          "source": "City AM",
-          "date": "2026-11-17"
+          "what": "minimum stake required for the offer"
         }
       ]
     },
@@ -595,512 +444,255 @@
     {
       "topic": "business",
       "importance": 2,
-      "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-      "date": "2026-11-16",
-      "author": "Gaya Gupta",
-      "summary": "An investigation reveals that several companies receiving refunds for Trump-era tariffs are allocating the funds toward corporate bonuses rather than consumer price relief. Firms like Stanley Black & Decker and TJX have indicated that these reimbursements are being used to offset incentive compensation costs.",
+      "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+      "date": "2026-11-20",
+      "author": "Cory Weinberg",
+      "summary": "Anthropic's initial public offering has turned early researchers into millionaires. Many employees who joined the A.I. firm years ago are now worth tens of millions of dollars.",
       "also": [
         {
-          "source": "New York Post",
-          "author": "Taylor Herzlich",
-          "date": "2026-11-18",
-          "title": "Companies are spending Trump’s tariff refunds on bonuses – not reimbursing shoppers: report",
-          "url": "https://nypost.com/2026/11/18/business/companies-are-spending-trumps-tariff-refunds-on-bonuses-not-reimbursing-shoppers-report/",
-          "note": "The New York Post headline emphasizes the failure to reimburse shoppers, framing the story as a direct critique of corporate behavior versus consumer expectations."
-        }
-      ],
-      "brief": {
-        "what": "Multiple corporations are utilizing government tariff refunds to fund executive and employee bonuses instead of lowering consumer prices. ProPublica identified at least nine companies, including Stanley Black & Decker and TJX, that have directed these funds toward incentive compensation after the Supreme Court ruled the original tariffs unlawful.",
-        "who": "ProPublica conducted the investigation, while companies like Stanley Black & Decker and TJX are the primary entities identified as using refunds for bonuses. The Trump administration is the source of the refunds following a Supreme Court ruling.",
-        "context": "The Supreme Court ruled that Trump's 'liberation day' tariffs were illegal due to a lack of congressional approval, leading to a refund process for affected companies. Many of these firms had previously cited the tariffs as justification for raising prices on household goods.",
-        "why": "Companies stated that the refunds were used to offset costs related to variable incentive compensation and discretionary bonuses. ProPublica notes that firms dealing directly with other businesses are more likely to pass refunds to customers than those selling directly to consumers.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$100bn",
-          "what": "total tariff refunds issued by the Trump administration"
-        },
-        {
-          "figure": "$331m",
-          "what": "aggregate tariff refunds received by TJX"
-        },
-        {
-          "figure": "$298m",
-          "what": "minimum tariff reimbursements expected by Stanley Black & Decker"
-        },
-        {
-          "figure": "$112 million",
-          "what": "accrued expenses for incentive compensation and bonuses at TJX"
-        },
-        {
-          "figure": "26%",
-          "what": "estimated pass-through of tariff increases to consumer prices"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Venezuela signs military deal with US less than a year after Maduro's ouster",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "author": null,
-      "summary": "The United States and Venezuela have signed a new military co-operation agreement, marking a significant shift in diplomatic relations less than a year after the US seized former leader Nicolás Maduro. The deal aims to address shared security threats through the Americas Counter Cartel Coalition.",
-      "also": [
-        {
-          "source": "Al Jazeera",
+          "source": "Fox Business",
           "author": null,
           "date": "2026-11-19",
-          "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
-          "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-          "note": "Al Jazeera frames the story by questioning the specific motivations of US Secretary of Defence Pete Hegseth in strengthening these military ties."
+          "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
+          "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say",
+          "note": "Fox Business specifies that 'thousands' of workers became millionaires, a detail not present in the provided New York Times text."
         }
       ],
       "brief": {
-        "what": "The US and Venezuela signed a military co-operation agreement to address common security threats, including the training of armed forces and the modernization of operational equipment. This follows the US seizure of former Venezuelan leader Nicolás Maduro in a military raid on January 3.",
-        "who": "US Secretary of Defence Pete Hegseth and Venezuelan interim president Delcy Rodríguez signed the agreement, signaling a major pivot from the previous administration's adversarial stance.",
-        "context": "Military ties between the two nations were severed in 2005 under Hugo Chávez, and relations remained hostile throughout Nicolás Maduro's tenure until his capture on drug-trafficking and conspiracy charges.",
-        "why": "Secretary Hegseth stated the agreement was necessary to transform Venezuela from a regional threat into a compliant security partner, while President Rodríguez emphasized the need for mutual benefit and cooperation against shared threats.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$50m",
-          "what": "reward for information leading to Maduro's capture"
-        },
-        {
-          "figure": "£38m",
-          "what": "reward for information leading to Maduro's capture"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-18",
-      "author": "Alison Sider",
-      "summary": "Southwest Airlines managed a significant operational disruption by halting baggage services and repositioning its fleet and crew from its Dallas operations center. The airline successfully moved assets to restore normal flight schedules following the incident.",
-      "also": [],
-      "brief": {
-        "what": "Southwest Airlines experienced an operational crisis that forced the company to halt bag checking and park aircraft. The airline responded by reallocating its planes and crews from its Dallas operations center to normalize flight schedules.",
-        "who": "Southwest Airlines is the primary actor, managing the recovery of its flight operations.",
-        "context": "The airline industry relies on complex logistics involving the synchronization of aircraft, flight crews, and ground services to maintain flight schedules.",
-        "why": "The article does not explicitly state the cause of the operational disruption, only that the airline took specific actions to resolve a potential ground-stop meltdown.",
+        "what": "Anthropic's initial public offering (IPO) has resulted in early tech researchers becoming overnight millionaires, with some individuals now worth tens of millions of dollars or more. The company's transition to a public entity has created significant wealth for those who were part of the firm during its formative years.",
+        "who": "The main actors are the artificial intelligence company Anthropic and the many people who joined the firm a few years ago as researchers and employees.",
+        "context": "When these researchers first joined the A.I. company, they likely had little reason to anticipate the massive scale and success that Anthropic would eventually achieve in the marketplace.",
+        "why": "This wealth creation occurred because the company grew to a size that few expected, allowing early stakeholders to see their holdings reach values of tens of millions of dollars or more following the company's growth.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "aerospace",
       "importance": 1,
-      "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-      "date": "2026-11-18",
-      "author": "Ali Watkins",
-      "summary": "An Irish man caused enough damage to a U.S. National Guard C-130 aircraft at Shannon Airport to force its permanent retirement from service. The individual allegedly used an ax and chemicals to sabotage the military transport plane.",
+      "title": "Lufthansa to Cut 1,000 Jobs at Flagship Airline as Challenges Mount",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-20",
+      "author": "Adrià Calatayud",
+      "summary": "Lufthansa is cutting 1,000 jobs at its flagship airline as surging fuel prices and strike-related expenses impact the carrier's profitability.",
       "also": [],
       "brief": {
-        "what": "Daithi O’Corrain allegedly sabotaged a U.S. National Guard C-130 aircraft while it was parked at Shannon Airport in Ireland. The damage was severe enough that the military aircraft was subsequently retired from service.",
-        "who": "Daithi O’Corrain is the individual accused of the sabotage, while the U.S. National Guard is the owner of the damaged aircraft.",
-        "context": "The incident occurred at Shannon Airport, a frequent transit point for U.S. military aircraft operating internationally.",
-        "why": "Prosecutors state that O’Corrain sealed himself inside the aircraft for several hours, during which time he utilized an ax and chemicals to inflict the damage.",
+        "what": "Lufthansa has announced plans to eliminate 1,000 jobs at its flagship airline in response to mounting financial and operational challenges. The workforce reduction is a direct measure to counter the negative impact of rising fuel prices and the high costs associated with recent strikes.",
+        "who": "Lufthansa, the primary German flagship carrier, is the central actor implementing these job cuts to protect its financial standing.",
+        "context": "The flagship airline is operating in a period of significant economic pressure where external market forces and internal labor issues are converging. The carrier must manage these mounting challenges to maintain its position within the competitive aerospace industry while navigating a volatile energy market.",
+        "why": "The job cuts are being implemented because surging fuel prices and strike-related expenses are weighing heavily on the profitability of the flagship carrier. These specific financial burdens have necessitated a reduction in headcount to stabilize the airline's fiscal performance amid rising costs.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "1",
-          "what": "number of C-130 aircraft sabotaged"
+          "figure": "1,000 jobs",
+          "what": "positions being cut at the flagship airline"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Europe’s bid to make flying green could leave passengers seeing red",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9b60a6d4-7dab-44f5-8848-d01fd3f1bb2d?syn-25a6b1a6=1",
+      "date": "2026-11-20",
+      "author": null,
+      "summary": "Airlines refuelling in the region must use an increasing share of sustainable aviation fuel, which is pricier and getting scarce",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-19",
+      "author": "Becky Peterson",
+      "summary": "Watch WSJ’s Becky Peterson explain what’s next for Musk’s projects in the Lone Star State.",
+      "also": [],
+      "earlier": [
+        {
+          "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
+          "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
+          "source": "The New York Times",
+          "date": "2026-11-16"
         }
       ]
     },
     {
       "topic": "business",
       "importance": 1,
-      "title": "Ninety One’s Cheveley Sees Commodities Rebound on Supply Woes",
+      "title": "BJ’s Wholesale Lifts Outlook, Posts Higher Quarterly Profit Despite Margin Pressure",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-20",
+      "author": "Connor Hart",
+      "summary": "BJ’s Wholesale Club raised its full-year outlook after posting higher profit and sales in the recent quarter, though its shares fell as increased promotions weighed on margins.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "European Tech Stocks Fall As AI Trade Buckles",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ninety-one-s-cheveley-sees-commodities-rebound-on-supply-woes",
-      "date": "2026-11-19",
-      "author": "Rivaldo Jantjies",
-      "summary": "Ninety One portfolio manager George Cheveley is betting on a rebound in commodities over the next year as continued disruptions to global supply chains keep oil and fertilizer markets tight, while gold remains supported by central bank buying.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-opening-trade-11-20-2026-video",
+      "date": "2026-11-20",
+      "author": null,
+      "summary": "Anthropic’s blockbuster IPO is becoming a catalyst for a selloff across AI stocks, with some of Europe's biggest tech names falling on Friday. Europe's Stoxx 600 Technology Index sank 3.7% and was poised for its biggest weekly slump in six years. The Opening Trade has everything you need to know as markets open across…",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "AI Trade Unravels; Anthropic Drops After Strong Debut",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-brief-11-20-2026-video",
+      "date": "2026-11-20",
+      "author": null,
+      "summary": "Global stocks hit their longest losing streak in more than three years. Anthropic falls in premarket trading after a blockbuster IPO as the selloff spreads across AI stocks. Katrina Dudley of Franklin Templeton joins \"Bloomberg Brief\" to discuss what's next for the AI trade. (Source: Bloomberg)",
       "also": []
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Oil Prices Retreat as Traders Weigh Supply Surplus Expectations, Middle East Risks",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-19",
-      "author": "Farhan Rafid",
-      "summary": "Oil prices declined on Thursday as market participants balanced concerns over Middle Eastern supply disruptions against expectations of a global surplus.",
-      "also": [],
-      "brief": {
-        "what": "Oil prices retreated during Thursday's trading session, erasing earlier gains. The movement occurred as traders evaluated the global supply outlook in the face of ongoing threats to oil shipments originating from the Middle East.",
-        "who": "Traders in the global oil market.",
-        "context": "The energy market is currently navigating a complex environment defined by geopolitical instability in the Middle East and shifting projections regarding global supply levels.",
-        "why": "The price reversal was driven by traders assessing the global supply outlook while simultaneously weighing the impact of continued threats to Middle Eastern oil shipments.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Temu Owner Reports Flat Profit, Revenue as Challenges Continue",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-19",
-      "author": "Tracy Qu",
-      "summary": "PDD Holdings reported flat profit and revenue results, marking an end to a recent period of declining profitability. The company continues to face ongoing challenges as it invests in strengthening its e-commerce ecosystem.",
-      "also": [],
-      "brief": {
-        "what": "PDD Holdings reported flat profit and revenue, ending a streak of declining profitability. The company is currently navigating a period of financial pressure.",
-        "who": "PDD Holdings, the parent company of the e-commerce platform Temu.",
-        "context": "The company has been experiencing significant pressure on its profitability over recent quarters.",
-        "why": "According to the report, the company is prioritizing the strengthening of its e-commerce ecosystem, which has impacted its financial performance.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Anthropic Banks Land $550 Million Fee Windfall on Record IPO",
+      "title": "S&P 500 Faces Technical Make-or-Break Moment Below 7,200 Line",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
-      "date": "2026-11-19",
-      "author": "Ed Ludlow",
-      "summary": "Anthropic PBC has paid $550 million in fees to Wall Street banks for its initial public offering. This payout surpasses the previous record set by SpaceX for the largest debut fees.",
-      "also": [],
-      "brief": {
-        "what": "Anthropic PBC distributed $550 million in fees to the Wall Street banks managing its initial public offering. This figure establishes a new record for debut fees, exceeding the amount paid during the SpaceX IPO.",
-        "who": "Anthropic PBC is the company issuing the IPO, while the unnamed Wall Street banks acted as the financial underwriters for the transaction.",
-        "context": "The company's debut has surpassed the previous record holder, SpaceX, in terms of the compensation provided to the financial institutions facilitating the public offering.",
-        "why": "The article does not explicitly state the reason for the fee structure, only noting that the payout is the largest for a debut to date.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$550 million",
-          "what": "total fees paid to banks for IPO"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
-      "date": "2026-11-19",
-      "author": "Theodore Schleifer and Cory Weinberg",
-      "summary": "Facebook co-founder Dustin Moskovitz has expressed unease regarding the potential initial public offering of Anthropic, despite his early investment in the company yielding positive financial results.",
-      "also": [],
-      "brief": {
-        "what": "Facebook co-founder Dustin Moskovitz has publicly expressed discomfort regarding the potential initial public offering (IPO) of the artificial intelligence company Anthropic. While his early investment in the firm has proven to be financially successful, Moskovitz indicated that the prospect of the company going public does not bring him happiness.",
-        "who": "Dustin Moskovitz, a co-founder of Facebook and an early investor in Anthropic, is the primary subject.",
-        "context": "Anthropic is an artificial intelligence company that has attracted significant venture capital interest, leading to discussions regarding a potential public market debut.",
-        "why": "The article does not specify the underlying reasons for Moskovitz's unease regarding the IPO, noting only that his investment is paying off despite his personal feelings.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "date": "2026-11-19",
-      "author": "Tony Romm",
-      "summary": "Policymakers in Washington are facing increasing pressure to address the economic and workforce disruptions caused by the rapid advancement of artificial intelligence technology.",
-      "also": [],
-      "brief": {
-        "what": "Policymakers in Washington are struggling to develop regulatory frameworks to manage the potential economic and labor market disruptions triggered by the rapid surge in artificial intelligence technology.",
-        "who": "Policymakers in Washington are the primary actors tasked with navigating the societal and economic implications of this technological shift.",
-        "context": "The rapid development of A.I. has created a complex landscape where the potential for significant economic growth is balanced against risks to existing business models and the broader workforce.",
-        "why": "The article states that the technology is surging ahead, creating an urgent need for government oversight to mitigate potential negative impacts on workers and the economy.",
-        "next": "The article doesn't say."
-      }
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/s-p-500-faces-technical-make-or-break-moment-below-7-200-line",
+      "date": "2026-11-20",
+      "author": "Jessica Menton",
+      "summary": "There’s an old adage among market technicians on Wall Street when looking at the S&P 500 Index: “Nothing good happens below the 200-day moving average.”",
+      "also": []
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Anthropic IPO Draws 'Massive Enthusiasm' From Investors: Ludlow & Bloxham",
+      "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+      "date": "2026-11-20",
+      "author": "Joe Rennison",
+      "summary": "The S&P 500 and Nasdaq were both on course for their worst weekly performances in over a year. Anthropic’s shares tumbled on their second day of trading, part of a broad sell-off in technology shares.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "India’s Torrent Power Plans Third Rupee Bond Sale This Year",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-draws-massive-enthusiasm-from-investors-video",
-      "date": "2026-11-19",
-      "author": null,
-      "summary": "Anthropic PBC has completed a record-breaking $107.3 billion IPO and private placement to fund the development of advanced artificial intelligence. The offering marks the first time a frontier AI laboratory has accessed public capital markets.",
-      "also": [],
-      "brief": {
-        "what": "Anthropic PBC successfully raised $107.3 billion through an upsized IPO and private placement, involving the sale of 956.4 million company shares and 23.6 million shares held by its seven co-founders.",
-        "who": "Anthropic PBC is the AI firm issuing the shares, while its seven co-founders are the primary stakeholders participating in the sale.",
-        "context": "This event represents the first instance of a frontier AI lab entering the public markets to secure funding for the creation of thinking machines.",
-        "why": "The offering was driven by what Bloomberg reports as massive enthusiasm from investors regarding the company's AI development goals.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$107.3 billion",
-          "what": "total capital raised in IPO and placement"
-        },
-        {
-          "figure": "956.4 million shares",
-          "what": "shares sold by Anthropic PBC"
-        },
-        {
-          "figure": "23.6 million shares",
-          "what": "shares sold by the seven co-founders"
-        }
-      ]
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-s-torrent-power-plans-third-rupee-bond-sale-this-year",
+      "date": "2026-11-20",
+      "author": "Divya Patil and Saikat Das",
+      "summary": "Torrent Power Ltd., one of India’s largest private electricity utilities, is preparing to raise as much as 20 billion rupees ($215 million) through the sale of rupee-denominated bonds as early as next week, in what would be its third debt offering this year, according to people familiar with the matter.",
+      "also": []
     },
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 1,
-      "title": "Outage or attack? In the moment, they can look the same",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/pentagon-posture/4807226/cisa-director-outage-panic-communication-problem/",
-      "date": "2026-11-19",
-      "author": "Mike Brest",
-      "summary": "The Trump administration has attributed recent connectivity disruptions across the FAA, Microsoft, and banking sectors to technical issues rather than coordinated attacks. Officials emphasize that aging infrastructure and necessary system patches often mimic the symptoms of cyberattacks.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "The U.S. government is addressing a series of recent connectivity disruptions that impacted the FAA, Microsoft, and various banks. Officials, including Secretary of Homeland Security Markwayne Mullin, stated they are 98% confident these incidents were not the result of a coordinated foreign attack.",
-        "who": "The Trump administration, including Secretary of State Marco Rubio, Secretary of Homeland Security Markwayne Mullin, and Director of National Intelligence Jay Clayton, alongside former CISA acting director Bridget Bean.",
-        "context": "The U.S. relies on aging technological infrastructure that requires frequent patching to address vulnerabilities. These maintenance efforts, combined with technical debt, can cause system outages that are difficult to distinguish from malicious cyber activity in the immediate aftermath.",
-        "why": "According to Bridget Bean, outages can result from software upgrades, glitches, or unintended consequences of patching old systems. While nation-state actors and criminals constantly target U.S. systems, officials maintain that the recent spate of disruptions was not a coordinated attack.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "98%",
-          "what": "confidence level that outages were not foreign-led"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "F-35C completes first Ford-class carrier trials aboard John F. Kennedy",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/f-35c-first-ford-class-carrier-trials-john-f-kennedy",
-      "date": "2026-11-19",
-      "author": "Clement Charpentreau",
-      "summary": "Two F-35C Lightning II fighters have successfully completed initial launch and recovery trials aboard the USS John F. Kennedy, the US Navy's second Gerald R. Ford-class aircraft carrier. The campaign validated the integration of the stealth fighter with the ship's advanced electromagnetic launch and arresting systems.",
-      "also": [],
-      "brief": {
-        "what": "The F-35C Lightning II completed 122 catapult launches and 122 arrested landings during an 11-day trial aboard the USS John F. Kennedy. These tests verified the performance of the ship's Electromagnetic Aircraft Launch System (EMALS) and Advanced Arresting Gear (AAG) with the F-35C.",
-        "who": "Lockheed Martin, the aircraft manufacturer, and the US Navy, which operates the carrier and the F-35C fleet.",
-        "context": "The Gerald R. Ford-class carriers utilize new electromagnetic launch and recovery technologies that differ from the steam-powered systems found on older Nimitz-class ships. The USS John F. Kennedy was specifically modified during construction to accommodate the F-35C.",
-        "why": "According to Lockheed Martin, the trials were necessary to gather data for verifying software, assessing structural loads on the aircraft, and validating structural models. Sean Jackson of Lockheed Martin stated the completion of these trials clears the F-35C for operations across the entire US Navy carrier fleet.",
-        "next": "The US Navy plans to take formal delivery of the USS John F. Kennedy in spring 2027."
-      },
-      "numbers": [
-        {
-          "figure": "122",
-          "what": "catapult launches completed during the trials"
-        },
-        {
-          "figure": "122",
-          "what": "arrested landings completed during the trials"
-        },
-        {
-          "figure": "34",
-          "what": "flights conducted during the campaign"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Bill Ackman blasts Nvidia's board over Jensen Huang's ouster, says it 'panicked'",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/business-leaders/bill-ackman-blasts-nvidias-board-over-jensen-huangs-ouster-says-panicked",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "Billionaire investor Bill Ackman has criticized Nvidia's board of directors for the sudden ouster of CEO Jensen Huang, arguing the decision was a panicked reaction to media headlines. Ackman claims the board failed its duty of care by acting without proper due diligence regarding the allegations against Huang.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Taylor Herzlich",
-          "date": "2026-11-18",
-          "title": "Bill Ackman rips Nvidia’s board over Jensen Huang’s ouster: ‘Rushed to judgment’",
-          "url": "https://nypost.com/2026/11/18/business/bill-ackman-rips-nvidias-board-over-jensen-huangs-ouster-rushed-to-judgment/",
-          "note": "The New York Post headline uses the phrase 'Rushed to judgment' to emphasize Ackman's specific critique of the board's decision-making speed."
-        }
-      ],
-      "brief": {
-        "what": "Bill Ackman, CEO of Pershing Square Capital Management, publicly condemned Nvidia's board for forcing Jensen Huang’s resignation following allegations of an affair with a spy. Ackman contends the board acted prematurely and failed to consider the long-term impact on shareholders and stakeholders, suggesting they prioritized media perception over prudent governance.",
-        "who": "Bill Ackman is the primary critic, while Nvidia's board of directors and Chairman Harvey Jones are the subjects of his scrutiny regarding the removal of former CEO Jensen Huang.",
-        "context": "Nvidia is currently navigating a leadership transition after Huang stepped down on November 12 following an internal investigation. Despite the leadership turmoil, the company recently reported a 103% surge in quarterly revenue.",
-        "why": "Ackman argues the board 'panicked' due to negative media coverage and failed to exercise their 'duty of care' by not conducting a thorough, in-person deliberation before terminating the CEO. He further criticizes the board for preemptively ruling out Huang's potential return.",
-        "next": "The board has stated it does not intend to reinstate Jensen Huang as CEO, while an internal investigation into the matter continues."
-      },
-      "numbers": [
-        {
-          "figure": "103%",
-          "what": "Nvidia's quarterly revenue surge"
-        },
-        {
-          "figure": "$20 Billion",
-          "what": "Tesla's cut capex forecast"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-          "url": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-17"
-        },
-        {
-          "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
-          "source": "Al Jazeera",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "Get Government Out of Air Traffic Control",
-      "source": "Reason",
-      "url": "https://reason.com/2026/11/18/get-government-out-of-air-traffic-control/",
-      "date": "2026-11-18",
-      "author": "J.D. Tuccille",
-      "summary": "The U.S. government has been trying and failing for decades to modernize air traffic control.",
-      "also": [
-        {
-          "source": "National Review",
-          "author": "The Editors",
-          "date": "2026-11-17",
-          "title": "Privatize Air Traffic Control",
-          "url": "https://www.nationalreview.com/article/privatize-air-traffic-control"
-        }
-      ]
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "AI is ditching hallucinated references — and other bad habits",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03753-1",
-      "date": "2026-11-19",
-      "author": "Kaia Glickman",
-      "summary": "Researchers have found that many problematic large language model behaviors, such as hallucinated citations, tend to disappear within 16 months as models are updated. While most identified issues fade, some traits like stereotyping or specific biases persist or worsen in newer iterations.",
-      "also": [],
-      "brief": {
-        "what": "An analysis of 50 large language model (LLM) behaviors found that nearly half have largely disappeared in newer models, with an average lifespan of 16 months. While common issues like hallucinated academic citations are declining, other traits such as stereotyping persist, and some behaviors like favoring their own writing have become more pronounced.",
-        "who": "Stanford University researcher Owen Queen and his colleagues conducted the analysis, while Columbia University researcher Maxim Topaz provided context on the prevalence of hallucinated citations in academic literature.",
-        "context": "Since the widespread availability of LLMs in late 2022, researchers have documented numerous model tendencies, including logical errors and hallucinations. This study tested 20 models released between mid-2024 and late 2026 against original prompts to measure how these behaviors evolve.",
-        "why": "The researchers suggest that AI companies are actively improving model capabilities, leading to the expiration of many documented flaws. However, Topaz notes that hallucinated citations remain a problem in practice because many users rely on older, outdated models.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "50",
-          "what": "widely cited large language model behaviors identified"
-        },
-        {
-          "figure": "20",
-          "what": "large language models tested for behavioral changes"
-        },
-        {
-          "figure": "16 months",
-          "what": "average lifespan of expired large language model behaviors"
-        }
-      ]
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "AI is turbocharging cyberattacks — can computer scientists catch up?",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03775-9",
-      "date": "2026-11-19",
-      "author": "David Adam",
-      "summary": "Artificial intelligence is accelerating the discovery of software vulnerabilities, enabling both attackers and security researchers to scan code at unprecedented speeds. This shift is forcing cybersecurity professionals to adapt as the window between vulnerability disclosure and potential exploitation continues to shrink.",
-      "also": [],
-      "brief": {
-        "what": "AI-assisted tools are transforming cybersecurity by automating the identification of software flaws in languages like Java and PHP. While these tools allow researchers to patch systems more efficiently, they also enable attackers to exploit vulnerabilities faster and lower the barrier to entry for less technical hackers.",
-        "who": "Computer security researchers, including Steven Murdoch of University College London and Daniel Gardham of the University of Surrey, are analyzing these trends alongside global organizations like Microsoft and JPMorgan Chase.",
-        "context": "Cybersecurity is undergoing a fundamental shift where vulnerability discovery without AI is becoming obsolete. Attackers are using agentic systems to scan millions of lines of code, while defenders struggle to keep pace with the shortened time window between public disclosure and exploitation.",
-        "why": "AI is being adopted because it can operate in parallel without needing rest, allowing for the examination of vast quantities of code at speeds humans cannot match. Researchers note that while AI makes attacks more systematic, human failures like weak passwords remain a primary security risk.",
-        "next": "Researchers are developing AI agents capable of automatically detecting and repairing vulnerabilities to help defenders keep pace with the evolving threat landscape."
-      },
-      "numbers": [
-        {
-          "figure": "20 minutes",
-          "what": "time required for an AI agent to produce dozens of vulnerability resul"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 1,
-      "title": "Germany reveals AI-driven surge in cyber attacks",
+      "title": "UK retail sales jump as consumers stock up on emergency supplies",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1",
-      "date": "2026-11-19",
+      "url": "https://www.ft.com/content/1e7855e5-fe9c-4e9c-ba8d-68c70159a1f1?syn-25a6b1a6=1",
+      "date": "2026-11-20",
       "author": null,
-      "summary": "Germany has raised its cyber threat level to critical as the emergence of AI-driven tools significantly lowers the barrier for hackers to exploit security vulnerabilities.",
+      "summary": "Government’s ‘Be Ready Campaign’ pushed up demand for tinned food and long-life milk",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "The sweet spot for constellation size",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+      "date": "2026-11-19",
+      "author": "SpaceNews Editor",
+      "summary": "SpaceNews' Mike Gruss interviews Space Inventor CCO Jan Smolders regarding the strategic advantages of mini-constellations and the acceleration of European space investment.",
       "also": [],
       "brief": {
-        "what": "The German government has officially elevated its national cyber threat level to 'critical.' This escalation follows the identification of new AI-powered tools that allow malicious actors to identify and exploit security flaws with much greater ease than previously possible.",
-        "who": "The German government is the primary actor, responding to the evolving digital security landscape.",
-        "context": "Cybersecurity agencies are increasingly monitoring the integration of artificial intelligence into the toolkits of hackers, which has fundamentally changed the speed and scale at which vulnerabilities can be targeted.",
-        "why": "The threat level was raised because new AI tools have made it far easier for hackers to exploit security flaws, creating a more dangerous environment for digital infrastructure.",
-        "next": "The article doesn't say."
+        "what": "The latest episode of the Space Minds podcast features a discussion on the operational benefits of mini-constellations and the value of tipping and cueing capabilities in the Baltic Sea. The conversation explores how payload-centric fleets allow for a balance between innovation and reliability in satellite deployment.",
+        "who": "The primary participants are Mike Gruss, a journalist for SpaceNews, and Jan Smolders, the chief commercial officer at the Danish satellite manufacturer Space Inventor.",
+        "context": "The interview was conducted during the Space Tech Expo Europe, a major industry event where leaders discuss emerging technologies and investment strategies for the European space sector.",
+        "why": "Smolders suggests that mini-constellations represent a 'sweet spot' for satellite size, and he argues that European governments must find ways to move faster when investing in space technology to keep pace with industry developments.",
+        "next": "New episodes of the Space Minds podcast will continue to be released every Thursday across various audio and video platforms."
       }
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Lenovo Maintains Revenue Momentum on AI-Fueled Hardware Demand",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09?mod=pls_whats_news_us_business_f",
+      "title": "Making the case for optical",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/making-the-case-for-optical/",
       "date": "2026-11-19",
-      "author": "Sherry Qin",
-      "summary": "Lenovo Group reported strong fiscal second-quarter sales, supported by high demand for artificial-intelligence infrastructure. The company remains on track to reach its $100 billion annual revenue target.",
-      "also": [],
-      "brief": {
-        "what": "Lenovo Group announced robust sales performance for its fiscal second quarter, driven by significant demand for AI-related hardware infrastructure. This growth trajectory keeps the company positioned to meet its $100 billion annual revenue objective.",
-        "who": "Lenovo Group is the primary actor in this report.",
-        "context": "The company is currently navigating a market environment where hardware infrastructure is increasingly defined by the requirements of artificial intelligence.",
-        "why": "The company attributes its positive sales momentum to strong demand for artificial-intelligence infrastructure.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$100 billion",
-          "what": "annual revenue goal for the company"
-        }
-      ]
+      "author": "SpaceNews Editor",
+      "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03590-2",
+      "date": "2026-11-20",
+      "author": "Meghie Rodrigues",
+      "summary": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03590-2 Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped their science.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10974-x",
+      "date": "2026-11-20",
+      "author": "Adam J. Grippin",
+      "summary": "Nature, Published online: 20 November 2026; doi:10.1038/s41586-026-10974-x Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03790-w",
+      "date": "2026-11-20",
+      "author": "Kaia Glickman",
+      "summary": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03790-w Artificial-intelligence tools are helping citizen scientists to identify previously unknown exoplanet candidates — some more credible than others.",
+      "also": []
     },
     {
       "topic": "environment",
       "importance": 1,
-      "title": "EU delays methane emission rules on fossil fuel imports",
+      "title": "Carbon removal rises up climate agenda as 1.5C ‘overshoot’ looms",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
-      "date": "2026-11-19",
+      "url": "https://www.ft.com/content/9cb11330-d7b0-43e8-a43e-8b7eb983b9bb?syn-25a6b1a6=1",
+      "date": "2026-11-20",
       "author": null,
-      "summary": "The European Union has postponed the implementation of new methane emission regulations for fossil fuel imports by at least two years. This delay follows intense lobbying efforts from the United States, Qatar, and the oil and gas industry.",
-      "also": [],
-      "brief": {
-        "what": "The European Union is delaying the enforcement of new methane emission standards for imported fossil fuels for a minimum of two years.",
-        "who": "The European Union, the United States, Qatar, and the global oil and gas sector.",
-        "context": "The EU is seeking to regulate methane emissions associated with energy imports as part of broader climate policy goals.",
-        "why": "The delay was enacted following sustained lobbying efforts by the United States, Qatar, and representatives from the oil and gas industry.",
-        "next": "The article doesn't say."
-      }
+      "summary": "Taking CO₂ from the air will be needed to reverse warming, scientists say",
+      "also": []
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+      "date": "2026-11-20",
+      "author": null,
+      "summary": "Final COP31 sessions focusing on energy security rather than climate change, critics say",
+      "also": []
+    },
+    {
+      "topic": "culture",
+      "importance": 1,
+      "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+      "date": "2026-11-20",
+      "author": null,
+      "summary": "World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.",
+      "also": []
     }
   ]
 }
