@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21",
-  "window": "2026-11-14 to 2026-11-21",
+  "generated": "2026-11-22",
+  "window": "2026-11-15 to 2026-11-22",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
     "asof": "2026-11-21",
@@ -51,58 +51,178 @@
   },
   "week": [
     {
-      "text": "Anthropic's high-profile IPO triggered a broader market correction, with the S&P 500 and Nasdaq suffering significant losses as investor enthusiasm for AI stocks cooled. The volatility has prompted increased scrutiny of AI valuations and the sustainability of massive sector capital expenditures.",
+      "text": "The COP31 climate summit in Turkey remains in deadlock over fossil fuel reduction language and funding disputes, with teams extending their stay to continue negotiations.",
       "urls": [
-        "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "text": "Global stock markets experienced significant volatility and declines, with the S&P 500 entering correction territory as investor enthusiasm for the AI sector waned following Anthropic's IPO.",
+      "urls": [
         "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
         "https://www.cityam.com/tech-stocks-fall-as-anthropic-fails-to-revive-ai-trade/",
         "https://www.telegraph.co.uk/business/2026/11/20/ai-tech-sell-off-anthropic-claude-nasdaq-ftse-100-markets/",
-        "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
         "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
       ]
     },
     {
-      "text": "COP31 climate negotiations in Turkey are deadlocked over fossil fuel reduction commitments and financial pledges, while some nations are now pushing for 'net-negative' emissions targets to address climate overshoot.",
+      "text": "Asian authorities, including those in China, Taiwan, and South Korea, are implementing emergency measures to stabilize regional stock markets following a major sell-off.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "https://www.nature.com/articles/d41586-026-03789-3"
+        "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
+        "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+        "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets"
       ]
     },
     {
-      "text": "Security tensions remain high as Russian aerial objects crashed in Poland during an attack on Ukraine, and a cargo ship bound for Kaliningrad was struck by drones in the Gulf of Finland.",
+      "text": "Heathrow Airport's proposed third runway faces significant opposition from International Airlines Group, which claims the project is unaffordable, despite support from the airport's primary investor.",
       "urls": [
-        "https://www.aerotime.aero/articles/russian-kh-101-poland-swedish-gripens-interception",
-        "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss"
+        "https://www.ft.com/content/5f83965d-e74d-4088-af9f-b59f2fa5e8f1?syn-25a6b1a6=1",
+        "https://www.cityam.com/british-airways-owner-tells-burnham-heathrows-third-runway-doomed-to-failure/"
       ]
     },
     {
-      "text": "The US Senate passed legislation to accelerate permitting for energy projects and datacenters to meet rising electricity demand, despite opposition from environmental groups.",
+      "text": "The BepiColombo spacecraft has successfully entered orbit around Mercury, while in other aerospace news, an Air Niugini flight was forced to divert following an engine fire warning.",
       "urls": [
-        "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill"
-      ]
-    },
-    {
-      "text": "Finnish satellite operator ICEYE has launched a €2.05 billion takeover bid for Italian rocket manufacturer Avio, aiming to integrate satellite and launch capabilities.",
-      "urls": [
-        "https://www.aerotime.aero/articles/iceye-takeover-bid-vega-c-rocket-maker-avio"
+        "https://www.aerotime.aero/articles/bepicolombo-reaches-mercury-orbit-after-nearly-eight-years-in-space",
+        "https://www.aerotime.aero/articles/air-niugini-b767-diverts-to-davao-after-engine-fire-warning"
       ]
     }
   ],
   "watch": [
     {
-      "date": "2026-11-21",
+      "date": "2026-11-23",
       "when": "",
-      "label": "Final agreement expected at COP31 climate summit",
+      "label": "Negotiating teams at COP31 to continue discussions",
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "date": "2026-12-21",
-      "when": "",
-      "label": "Iraqi Embassy in Tunisia begins accepting offers for stranded Boeing 747s",
-      "url": "https://www.aerotime.aero/articles/iraq-boeing-747-sale-tunisia-35-years"
+      "date": "2026-12-01",
+      "when": "December 2026",
+      "label": "BepiColombo orbiters scheduled to separate",
+      "url": "https://www.aerotime.aero/articles/bepicolombo-reaches-mercury-orbit-after-nearly-eight-years-in-space"
+    },
+    {
+      "date": "2027-04-01",
+      "when": "April 2027",
+      "label": "BepiColombo scientific operations expected to commence",
+      "url": "https://www.aerotime.aero/articles/bepicolombo-reaches-mercury-orbit-after-nearly-eight-years-in-space"
     }
   ],
   "items": [
+    {
+      "topic": "environment",
+      "importance": 3,
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "author": null,
+      "summary": "COP31 climate negotiations in Turkey have reached a deadlock over the exclusion of fossil fuel reduction language and disputes regarding climate adaptation funding for developing nations. The summit, which has already exceeded its scheduled duration, faces the risk of concluding without a formal agreement.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Chico Harlan and Lisa Friedman",
+          "date": "2026-11-22",
+          "title": "Bitter Clash Over Fossil Fuels Derails U.N. Climate Talks",
+          "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+          "note": "The New York Times frames the event as a 'bitter clash' that 'derails' the talks, emphasizing the conflict."
+        },
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-22",
+          "title": "Climate talks on the brink as EU rejects deal that ‘green washes fossil fuels’",
+          "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+          "note": "Financial Times highlights the EU's specific rejection of 'greenwashing' as the primary catalyst for the brinkmanship."
+        }
+      ],
+      "brief": {
+        "what": "COP31 climate talks are in deadlock as countries fail to agree on a final text, specifically regarding fossil fuel phase-out language and $120bn in adaptation funding. Negotiators are extending their stay as the summit risks ending without a consensus, a rare occurrence in the history of these meetings.",
+        "who": "The EU and Pacific island nations are opposing the current draft, while the Africa Group is demanding adaptation funding. Fossil fuel-producing nations, led by Saudi Arabia, have pushed to remove fossil fuel references, while the UK and Australia are attempting to mediate.",
+        "context": "The UN process requires consensus for a global deal. The summit is currently debating the 'Antalya Accords,' which may officially acknowledge that the 1.5C temperature goal has been missed, a significant shift in climate policy discourse.",
+        "why": "Disagreements persist because the EU refuses to support a deal that 'greenwashes' fossil fuels, while developing nations argue that developed countries must provide financial support for climate adaptation. Saudi Arabia and other petro-states have resisted language targeting oil, gas, and coal.",
+        "next": "Negotiating teams are delaying their departures to Monday to continue discussions, though the summit may be suspended and reconvened next year if no consensus is reached."
+      },
+      "numbers": [
+        {
+          "figure": "35%",
+          "what": "proposed share of energy consumption from electricity by 2035"
+        },
+        {
+          "figure": "$120bn",
+          "what": "removed commitment for climate adaptation funding by 2035"
+        },
+        {
+          "figure": "1.5C",
+          "what": "global temperature rise threshold that may be acknowledged as missed"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Who’s who at Cop31: key players at the climate talks",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+          "source": "The Guardian",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 3,
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22",
+      "author": null,
+      "summary": "A Russian cargo vessel, the Sparta II, remains on fire in the Gulf of Finland following a suspected Ukrainian drone attack. Finnish authorities are overseeing recovery efforts while monitoring the situation for potential environmental or maritime hazards.",
+      "also": [
+        {
+          "source": "Bloomberg",
+          "author": "Bloomberg News",
+          "date": "2026-11-21",
+          "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+          "note": "Bloomberg emphasizes the drone aspect in its headline, while Al Jazeera focuses on the ship's location and the ongoing fire."
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-22",
+          "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+          "note": "Al Jazeera's second headline highlights the ship's status as a cargo vessel, whereas the BBC headline focuses on the ship's destination."
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-22",
+          "title": "Russian cargo ship still on fire off Finland after drone attack",
+          "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss"
+        }
+      ],
+      "brief": {
+        "what": "The Sparta II, a Russian cargo ship sanctioned by the US and Ukraine, was struck by drones while en route to Kaliningrad, causing it to drift into Finnish waters. While the crew was evacuated to another Russian vessel, firefighting and recovery operations continue to prevent the ship from sinking.",
+        "who": "The Finnish Border Guard is managing the incident, while the Kaliningrad Governor and Finnish Prime Minister Petteri Orpo have provided statements regarding the attack and regional security.",
+        "context": "The Baltic Sea has become a significant flashpoint in the ongoing Russia-Ukraine war, with Ukraine increasingly utilizing long-range drone strikes against Russian assets beyond the primary front lines.",
+        "why": "Finnish officials suggest Ukraine is likely behind the attack as part of its right to fight back against Russian aggression, though Kyiv has not officially commented on the incident.",
+        "next": "The Finnish Border Guard is conducting an investigation into the attack in cooperation with other relevant authorities."
+      },
+      "numbers": [
+        {
+          "figure": "50km",
+          "what": "distance west of Suursaari island where the ship was located"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+          "source": "Al Jazeera",
+          "date": "2026-11-21"
+        }
+      ]
+    },
     {
       "topic": "markets",
       "importance": 3,
@@ -111,22 +231,22 @@
       "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "author": null,
-      "summary": "Anthropic shares surged 17% on their first day of public trading, reaching a market valuation of $1.77 trillion. The debut occurred despite a broader 2.4% decline in the technology sector.",
+      "summary": "Anthropic shares surged 17% on their first day of trading, reaching a market valuation of $1.77 trillion despite a broader downturn in the technology sector.",
       "also": [
         {
-          "source": "Bloomberg",
-          "author": null,
-          "date": "2026-11-21",
-          "title": "Anthropic Makes Its Public Market Debut",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
-          "note": "Bloomberg frames the story by focusing on the act of the debut itself rather than the specific percentage gains or valuation figures."
+          "source": "Washington Examiner",
+          "author": "Carter Schroppe",
+          "date": "2026-11-22",
+          "title": "Anthropic stock slides with rest of market after big-ticker IPO",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4811452/anthropic-stock-slide-stock-market-ipo/",
+          "note": "The Washington Examiner frames the story by highlighting the stock's decline relative to the broader market and characterizing the event as a big-ticker IPO."
         }
       ],
       "brief": {
-        "what": "Anthropic, the developer of the Claude AI chatbot, completed its initial public offering with shares closing at $97.17, a 17% increase. The company reached a market valuation of $1.77 trillion after briefly touching $2 trillion during the session.",
-        "who": "Anthropic is the AI company behind the Claude chatbot that recently transitioned to a publicly traded entity.",
-        "context": "The public debut took place against a backdrop of a 2.4% downturn in the broader technology sector, which has prompted analysts to question the sustainability of investor confidence in the current artificial intelligence boom.",
-        "why": "The article attributes the market movement to the company's first day of public trading, noting that the performance occurred despite negative pressure on the wider technology market.",
+        "what": "Anthropic completed its initial public offering, with shares closing up 17% at $97.17. The company reached a market valuation of $1.77 trillion after briefly hitting $2 trillion during the session.",
+        "who": "Anthropic, the developer of the AI chatbot Claude, is the primary actor in this market debut.",
+        "context": "The debut occurred amidst a 2.4% decline in the broader technology sector, prompting discussions regarding the sustainability of investor confidence in the artificial intelligence boom.",
+        "why": "The article reports the company's performance as part of its first day as a publicly traded entity, noting the contrast between its gains and the wider sector's fall.",
         "next": "The article doesn't say."
       },
       "numbers": [
@@ -167,28 +287,110 @@
       ]
     },
     {
-      "topic": "world",
-      "importance": 3,
-      "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
-      "date": "2026-11-20",
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "BepiColombo reaches Mercury orbit after nearly eight years in space",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/bepicolombo-reaches-mercury-orbit-after-nearly-eight-years-in-space",
+      "date": "2026-11-22",
+      "author": "Gabriele Petrauskaite",
+      "summary": "The BepiColombo spacecraft has successfully entered orbit around Mercury after an eight-year journey. The joint mission will soon separate into two orbiters to conduct simultaneous scientific observations of the planet.",
+      "also": [
+        {
+          "source": "Nature",
+          "author": "Davide Castelvecchi",
+          "date": "2026-11-21",
+          "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+          "url": "https://www.nature.com/articles/d41586-026-03803-8",
+          "note": "Nature frames the story as an 'odyssey,' emphasizing the long duration of the mission compared to the more technical focus of the AeroTime report."
+        }
+      ],
+      "brief": {
+        "what": "The BepiColombo mission, a collaboration between the European Space Agency and the Japan Aerospace Exploration Agency, has successfully achieved orbital capture around Mercury. The spacecraft stack, consisting of the Mercury Planetary Orbiter and the Mio orbiter, entered an initial elliptical polar orbit measuring 590 by 11,640 kilometres after firing four thrusters to reduce speed.",
+        "who": "The European Space Agency and the Japan Aerospace Exploration Agency are the primary mission operators.",
+        "context": "BepiColombo is the second mission to orbit Mercury, following NASA's MESSENGER spacecraft. It is designed to provide simultaneous observations from two different spacecraft to study the planet's surface, internal structure, and magnetic environment.",
+        "why": "The mission aims to help scientists better understand Mercury’s formation, evolution, and unusual magnetic environment through complementary measurements taken from different orbital altitudes.",
+        "next": "The two orbiters are scheduled to separate in December 2026, with scientific operations expected to commence in April 2027."
+      },
+      "numbers": [
+        {
+          "figure": "9.9 billion kilometres",
+          "what": "total distance travelled through the inner Solar System"
+        },
+        {
+          "figure": "590 by 11,640 kilometres",
+          "what": "dimensions of the initial elliptical polar orbit"
+        }
+      ]
+    },
+    {
+      "topic": "environment",
+      "importance": 2,
+      "title": "Will COP31 end with a new global climate deal?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
       "author": null,
-      "summary": "Consumers have already spent more on the video game than the top-grossing movie",
+      "summary": "The COP31 UN climate summit in Antalya, Turkey, faces uncertainty as negotiations continue regarding a potential global climate deal.",
+      "also": [
+        {
+          "source": "The Guardian",
+          "author": "Fiona Harvey in Antalya",
+          "date": "2026-11-22",
+          "title": "Cop31 climate talks set to end in deep division as key deal rejected",
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+          "note": "The Guardian frames the story by highlighting deep division and the rejection of a key deal."
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-22",
+          "title": "COP31 climate talks on the brink as new draft deal faces scrutiny",
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+          "note": "Al Jazeera frames the story by emphasizing that the talks are on the brink of failure due to scrutiny of a draft deal."
+        }
+      ],
+      "brief": {
+        "what": "The COP31 UN climate summit is currently underway in Antalya, Turkey, where delegates are working toward a new global climate deal.",
+        "who": "Justin Rowlatt, the BBC Climate editor, is reporting on the summit proceedings.",
+        "context": "COP31 is a United Nations climate summit focused on international environmental policy and global cooperation on climate change.",
+        "why": "The article does not specify the reasons behind the current status of the negotiations.",
+        "next": "The article doesn't say."
+      },
+      "earlier": [
+        {
+          "title": "Who’s who at Cop31: key players at the climate talks",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+          "source": "The Guardian",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
+      "date": "2026-11-20",
+      "author": "Marc Tracy",
+      "summary": "Grand Theft Auto VI achieved $3.79 billion in sales on its launch day, surpassing the lifetime box office records of any film.",
       "also": [
         {
           "source": "Wall Street Journal",
           "author": "Ben Fritz",
           "date": "2026-11-20",
           "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
-          "url": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f"
+          "url": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the story by rounding the figure to nearly $4 billion and explicitly naming the publisher, Take-Two."
         },
         {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-21",
-          "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut",
-          "url": "https://www.foxbusiness.com/entertainment/grand-theft-auto-vi-shatters-entertainment-records-staggering-3-79b-debut"
+          "source": "National Review",
+          "author": "James Lileks",
+          "date": "2026-11-22",
+          "title": "What Is the Fantasy in Grand Theft Auto Really All About?",
+          "url": "https://www.nationalreview.com/article/what-is-the-fantasy-in-grand-theft-auto-really-all-about",
+          "note": "The National Review frames the story by focusing on the cultural implications and the nature of the game's content rather than the financial performance."
         },
         {
           "source": "National Review",
@@ -197,110 +399,34 @@
           "title": "Grand Theft Auto VI and How We Spend Our Time",
           "url": "https://www.nationalreview.com/article/grand-theft-auto-vi-and-how-we-spend-our-time"
         }
-      ]
-    },
-    {
-      "topic": "science",
-      "importance": 3,
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "author": null,
-      "summary": "An Anthropic mathematician claims to have used the company's AI to prove the 170-year-old Riemann hypothesis. The massive 250,000-page proof is currently undergoing expert verification.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Ben Cohen",
-          "date": "2026-11-20",
-          "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
-          "url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses on the mathematician's specific claim regarding the problem's fame, while Al Jazeera frames the story as a question regarding the validity of the breakthrough."
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-21",
-          "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-          "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss"
-        }
       ],
       "brief": {
-        "what": "Anthropic employee Levent Alpöge claims to have utilized a non-public version of the Claude chatbot to generate a 250,000-page proof for the Riemann hypothesis. This development follows a trend of AI firms announcing solutions to long-standing mathematical challenges, including OpenAI's recent work on Navier-Stokes equations and 372 other problems.",
-        "who": "Levent Alpöge, an Anthropic mathematician, is the primary claimant, while mathematician Terrance Tao notes that the verification process for such a complex proof will be lengthy.",
-        "context": "The Riemann hypothesis, concerning the order of prime numbers, is considered the most famous problem in mathematics. AI companies are increasingly using these high-profile proofs to demonstrate the sophistication of their commercial models, sparking debate within the academic community.",
-        "why": "Alpöge states he felt compelled to announce the discovery immediately despite the proximity to Anthropic's IPO, denying that the timing was a cynical marketing strategy. Critics argue that using AI to boast about commercial product capabilities is detrimental to the integrity of mathematical science.",
-        "next": "The proof must undergo a rigorous, time-consuming verification process by the mathematical community to determine its validity."
+        "what": "The video game Grand Theft Auto VI generated $3.79 billion in revenue on its first day of release. This figure exceeds the $3 billion record held by the highest-grossing movie in history.",
+        "who": "The game franchise, which experienced a 13-year gap between releases.",
+        "context": "The gaming industry often measures success against traditional entertainment benchmarks like box office performance.",
+        "why": "High consumer anticipation followed a 13-year hiatus in the franchise.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "250,000 pages",
-          "what": "length of the textual proof in Lean"
+          "figure": "$3.79 billion",
+          "what": "sales revenue generated in a single day"
         },
         {
-          "figure": "170-year-old",
-          "what": "age of the Riemann hypothesis problem"
+          "figure": "$3 billion",
+          "what": "maximum box office earnings for any movie"
         },
         {
-          "figure": "10,000 AI agents",
-          "what": "number of bots used in OpenAI exercise"
-        },
-        {
-          "figure": "372",
-          "what": "number of additional higher maths problems"
-        },
-        {
-          "figure": "88 hours",
-          "what": "time taken to solve Navier-Stokes part"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 2,
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-21",
-      "author": null,
-      "summary": "Negotiations at the COP31 climate summit in Turkey have reached a deadlock over the exclusion of fossil fuel reduction commitments from the draft agreement. Developing nations are also protesting the removal of financial pledges for climate adaptation.",
-      "also": [
-        {
-          "source": "NPR",
-          "author": "Rachel Waldholz",
-          "date": "2026-11-20",
-          "title": "Climate talks are now in overtime",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6047615/climate-talks-are-now-in-overtime",
-          "note": "NPR frames the story by emphasizing the temporal aspect of the deadlock, describing the talks as being in 'overtime'."
-        }
-      ],
-      "brief": {
-        "what": "COP31 negotiations are stalled as a coalition led by France and Panama opposes a draft agreement that omits references to fossil fuel reduction. Simultaneously, the Africa Group is demanding increased adaptation funding after a $120bn pledge was removed from the text.",
-        "who": "Key actors include Panama and France, who are pushing for fossil fuel language, and Saudi Arabia, which is leading opposition to such references. The Africa Group, chaired by Ghana's Environment Minister, is advocating for financial commitments.",
-        "context": "The summit, known as the Antalya Accords, marks the first time a COP agreement acknowledges that the 1.5C global temperature rise goal has been missed. Tensions are exacerbated by geopolitical fuel supply disruptions and conflicting energy production strategies among major world powers.",
-        "why": "Proponents of fossil fuel language argue that an agreement failing to address the primary cause of climate change is unacceptable. Conversely, some negotiators and petro-states favor focusing on clean energy implementation or alternative electricity consumption targets.",
-        "next": "A new and potentially final agreement is expected to be published on Saturday."
-      },
-      "numbers": [
-        {
-          "figure": "35%",
-          "what": "proposed share of energy consumption from electricity by 2035"
-        },
-        {
-          "figure": "$120bn",
-          "what": "removed commitment for climate adaptation funding by 2035"
-        },
-        {
-          "figure": "1.5C",
-          "what": "global temperature rise threshold acknowledged as missed"
+          "figure": "13-year",
+          "what": "gap between franchise game releases"
         }
       ],
       "earlier": [
         {
-          "title": "Who’s who at Cop31: key players at the climate talks",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-          "source": "The Guardian",
-          "date": "2026-11-08"
+          "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
+          "url": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-11-20"
         }
       ]
     },
@@ -312,7 +438,7 @@
       "url": "https://www.aerotime.aero/articles/russian-kh-101-poland-swedish-gripens-interception",
       "date": "2026-11-20",
       "author": "Clement Charpentreau",
-      "summary": "Three Russian aerial objects, including a Kh-101 cruise missile and a jet-powered drone, crashed in Poland during an overnight attack on Ukraine. Polish and Swedish aircraft were scrambled to intercept the incursions, though no weapons were deployed due to adverse weather conditions.",
+      "summary": "Three Russian aerial objects, including a cruise missile and a drone, crashed in Poland during an overnight attack on Ukraine. Polish and Swedish forces scrambled aircraft to intercept the incursions, though no weapons were fired due to poor weather and procedural conditions.",
       "also": [
         {
           "source": "The New York Times",
@@ -320,180 +446,36 @@
           "date": "2026-11-20",
           "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
           "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-          "note": "The New York Times headline focuses on the uncertainty of the objects' nature and the official confirmation process, whereas AeroTime emphasizes the specific military response involving Swedish aircraft."
+          "note": "The New York Times headline focuses on the confirmation of the objects by officials rather than the specific Swedish military involvement."
         }
       ],
       "brief": {
-        "what": "Three Russian objects, identified as two missiles and one jet-powered drone, crashed in eastern Poland after 11 total objects threatened Polish airspace. Polish F-16s and Swedish Gripens responded to the incursions, supported by ground-based Patriot batteries and airborne early-warning assets.",
-        "who": "Polish Defense Minister Władysław Kosiniak-Kamysz, Lieutenant General Ireneusz Nowak of the Polish Armed Forces, and Swedish pilots participated in the defense response.",
-        "context": "This incident follows a recent revision of Polish air defense procedures that allows pilots to engage threats without visual identification under specific conditions. The event occurred during a broader Russian strike campaign against Ukraine involving hundreds of drones and cruise missiles.",
-        "why": "Minister Kosiniak-Kamysz characterized the incursions as a deliberate Russian provocation timed to coincide with a Coalition of the Willing military exercise at Nowa Dęba. Lieutenant General Nowak noted that poor weather prevented Swedish pilots from achieving the visual identification necessary to engage the targets.",
-        "next": "Poland intends to request additional forces and resources from NATO to reinforce Operation Eastern Sentry."
+        "what": "Three Russian objects, identified as two missiles and a jet-powered drone, crashed in eastern Poland after 11 objects threatened the country's airspace. Polish F-16s and Swedish Gripens were deployed to intercept the targets, but poor weather and strict engagement rules prevented the use of weapons.",
+        "who": "Polish Defense Minister Władysław Kosiniak-Kamysz and Lieutenant General Ireneusz Nowak led the response, coordinating with Swedish pilots and NATO allies.",
+        "context": "This incident follows revised Polish air defense procedures that allow for engagement without visual identification. It is the second time a Kh-101 missile has landed in Biłgoraj County in four months.",
+        "why": "Minister Kosiniak-Kamysz characterized the incursions as a deliberate Russian provocation timed to coincide with a military exercise at Nowa Dęba. Lieutenant General Nowak noted that not all conditions for using weapon systems were met during the interception attempts.",
+        "next": "Poland plans to request additional forces and resources from NATO to reinforce Operation Eastern Sentry."
       },
       "numbers": [
         {
-          "figure": "3",
-          "what": "Russian objects confirmed to have entered Polish airspace"
-        },
-        {
-          "figure": "11",
+          "figure": "11 objects",
           "what": "total objects posing a potential threat to Polish airspace"
         },
         {
-          "figure": "3 minutes",
-          "what": "duration the Kh-101 missile spent over Polish territory"
+          "figure": "3 objects",
+          "what": "confirmed Russian incursions into Polish airspace"
         },
         {
-          "figure": "503",
+          "figure": "3 minutes",
+          "what": "time the Kh-101 missile spent over Polish territory"
+        },
+        {
+          "figure": "503 drones",
           "what": "total drones launched by Russia according to Polish assessments"
         },
         {
-          "figure": "98",
-          "what": "total cruise missiles launched by Russia according to Polish assessmen"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
-      "date": "2026-11-21",
-      "author": "Lauren Hirsch, Matthew Goldstein and Jessica Silver-Greenberg",
-      "summary": "Nvidia is reportedly facing an investigation by the Securities and Exchange Commission regarding its accounting practices. The probe follows concerns raised about the company's chip sales in Asia.",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-20",
-          "title": "Nvidia faces US regulator’s probe into its accounting",
-          "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-          "note": "The Financial Times headline emphasizes the regulator's role, while the New York Post explicitly identifies the agency as Wall Street regulators."
-        },
-        {
-          "source": "New York Post",
-          "author": "Reuters",
-          "date": "2026-11-20",
-          "title": "Nvidia’s accounting practices are focus of probe by Wall Street regulators: report",
-          "url": "https://nypost.com/2026/11/20/business/nvidias-accounting-practices-are-focus-of-probe-by-sec-report/"
-        }
-      ],
-      "brief": {
-        "what": "The Securities and Exchange Commission has reportedly launched an investigation into Nvidia's accounting practices. This regulatory scrutiny follows public questions regarding the company's chip sales operations in Asia.",
-        "who": "Nvidia is the subject of the investigation, while the Securities and Exchange Commission (S.E.C.) is the regulatory body conducting the probe.",
-        "context": "The inquiry stems from previously surfaced questions concerning the transparency and legitimacy of the company's sales activities within Asian markets.",
-        "why": "The investigation was initiated following revelations about questionable chip sales in Asia that prompted concerns regarding the company's accounting methods.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "author": null,
-      "summary": "Nvidia faces significant uncertainty following the resignation of CEO Jensen Huang amid a scandal, raising concerns about the future of the company's AI investment strategy. The firm's unique 'circular financing' model has left analysts questioning the potential impact on the broader US economy.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Tim Higgins",
-          "date": "2026-11-21",
-          "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-          "url": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the story by focusing on the specific risks associated with Huang's management style and his 'handshake deals'."
-        }
-      ],
-      "brief": {
-        "what": "Nvidia co-founder Jensen Huang has resigned following revelations of extramarital affairs, including an alleged connection to a Chinese spy. This departure has triggered market volatility, with hundreds of billions of dollars in stock value wiped out, and sparked debate over the sustainability of Nvidia's 'circular financing' model, which involves investing in its own customers.",
-        "who": "Jensen Huang, the former CEO of Nvidia, is the central figure, while interim boss Colette Kress maintains that operations remain on track. Tech leaders like Elon Musk have advocated for Huang's reinstatement, citing the importance of his leadership to critical industry deals.",
-        "context": "Nvidia has become a cornerstone of the US stock market by dominating the AI microchip sector. The company has played a pivotal role in funding the AI infrastructure boom, which has significantly bolstered the American economy in recent years.",
-        "why": "The resignation occurred due to the scandal surrounding Huang's personal conduct. Analysts suggest the uncertainty stems from Huang's central role in driving AI investment and the potential for a strategic shift that could reduce capital flow to the wider AI supply chain.",
-        "next": "Nvidia's board has stated it is not considering bringing Huang back, despite his expressed interest in returning."
-      },
-      "numbers": [
-        {
-          "figure": "$3.8 trillion",
-          "what": "market value of Nvidia"
-        },
-        {
-          "figure": "$1 trillion",
-          "what": "expected investment in AI in 2026"
-        },
-        {
-          "figure": "200 people",
-          "what": "number of staff directly reporting to Huang"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-          "url": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-17"
-        },
-        {
-          "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
-          "source": "Al Jazeera",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "topic": "environment",
-      "importance": 2,
-      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-      "date": "2026-11-20",
-      "author": "Associated Press",
-      "summary": "The US Senate passed bipartisan legislation aimed at accelerating the permitting process for energy infrastructure and datacenters to address rising electricity demand. The bill faces criticism from environmental groups and some Democrats who argue it weakens critical protections and promotes fossil fuel expansion.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Aaron Zitner",
-          "date": "2026-11-20",
-          "title": "Senate Passes Measure Designed to Speed Up Energy Projects, Lower Consumer Costs",
-          "url": "https://www.wsj.com/politics/policy/senate-passes-measure-designed-to-speed-up-energy-projects-lower-consumer-costs-dcacc9c6?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal frames the story by highlighting the potential for lower consumer costs."
-        },
-        {
-          "source": "NPR",
-          "author": "Kate Bartlett",
-          "date": "2026-11-20",
-          "title": "Senate passes bipartisan energy bill amid environmental concerns",
-          "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-          "note": "NPR frames the story by emphasizing the tension between bipartisan support and environmental concerns."
-        }
-      ],
-      "brief": {
-        "what": "The Senate approved the Bipartisan American Affordability and Jobs Act of 2026 in a 62-33 vote. The legislation seeks to shorten the timeline for permitting energy projects, including pipelines, mines, and power plants, while requiring datacenters to cover their energy costs.",
-        "who": "The bill is championed by a bipartisan group of senators including Shelley Moore Capito, Mike Lee, Martin Heinrich, and Sheldon Whitehouse. It is opposed by various environmental organizations and several Democratic senators who fear the bill undermines established environmental safeguards.",
-        "context": "Current federal permitting processes for energy infrastructure can take five years or more, which supporters argue drives up costs and creates uncertainty. The bill proposes changes to bedrock laws such as the National Environmental Policy Act, the Clean Water Act, and the Endangered Species Act.",
-        "why": "Proponents argue the bill is necessary to increase energy supplies, lower electricity prices, and improve American energy independence. Critics contend the measure prioritizes fossil fuel development over climate goals and public health protections.",
-        "next": "The bill now moves to the House of Representatives for consideration."
-      },
-      "numbers": [
-        {
-          "figure": "62-33",
-          "what": "vote count in the Senate"
-        },
-        {
-          "figure": "15",
-          "what": "number of Democrats who voted for the bill"
-        },
-        {
-          "figure": "2",
-          "what": "number of Republicans who voted against the bill"
+          "figure": "98 missiles",
+          "what": "total Kalibr and Kh-101 cruise missiles launched by Russia"
         }
       ]
     },
@@ -505,7 +487,7 @@
       "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
       "date": "2026-11-20",
       "author": "Joe Rennison",
-      "summary": "The S&P 500 has officially entered correction territory, falling more than 10 percent from its recent peak as investor sentiment cools. This decline reflects growing market anxiety surrounding the artificial intelligence sector.",
+      "summary": "The S&P 500 has entered correction territory after falling more than 10 percent from its recent peak. This decline reflects a broader shift in investor sentiment regarding artificial intelligence.",
       "also": [
         {
           "source": "The Washington Post",
@@ -513,20 +495,20 @@
           "date": "2026-11-20",
           "title": "U.S. stocks slump into correction territory amid tech and AI worries",
           "url": "https://www.washingtonpost.com/business/2026/11/20/us-stock-market-slumps-amid-rising-tech-ai-worries/",
-          "note": "The Washington Post headline explicitly links the slump to tech and AI concerns, whereas the New York Times focuses on the symbolic nature of the correction."
+          "note": "The Washington Post headline explicitly highlights the tech sector's role in the slump, whereas the New York Times focuses on the symbolic nature of the correction."
         }
       ],
       "brief": {
-        "what": "The S&P 500 index dropped more than 10 percent from its recent high, marking a formal market correction. This downturn highlights a significant shift in investor mood regarding the broader market and the technology sector.",
-        "who": "Investors are the primary actors driving this market movement through their collective reaction to economic and sector-specific concerns.",
-        "context": "A market correction is defined by a decline of at least 10 percent from a recent peak, serving as a symbolic indicator of investor sentiment.",
-        "why": "The decline is attributed to intensifying worries surrounding artificial intelligence, which have contributed to a souring mood among market participants.",
+        "what": "The S&P 500 index officially entered a market correction, closing down more than 10 percent from its most recent high. This downturn marks a significant shift in market performance.",
+        "who": "Investors are the primary actors driving this market movement.",
+        "context": "A market correction is defined as a decline of 10 percent or more from a recent peak, serving as a symbolic indicator of changing investor confidence.",
+        "why": "The decline is attributed to intensifying worries surrounding the artificial intelligence sector, which has soured the overall mood of the market.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
           "figure": "10 percent",
-          "what": "decline of the S&P 500 from its recent high"
+          "what": "decline of the S&P 500 from recent high"
         }
       ]
     },
@@ -538,7 +520,7 @@
       "url": "https://www.cityam.com/tech-stocks-fall-as-anthropic-fails-to-revive-ai-trade/",
       "date": "2026-11-20",
       "author": "Maisie Grice",
-      "summary": "Technology stocks across Asia and the US declined as the market debut of AI firm Anthropic failed to sustain investor enthusiasm for the sector. Despite Anthropic's shares closing above their listing price, broader concerns regarding AI valuations triggered a widespread sell-off.",
+      "summary": "Technology stocks across Asia and the US declined as the highly anticipated Anthropic IPO failed to sustain investor enthusiasm for the AI sector. Despite a strong debut for the AI lab, broader market jitters led to significant sell-offs in major indices and chipmaker equities.",
       "also": [
         {
           "source": "The New York Times",
@@ -546,14 +528,14 @@
           "date": "2026-11-20",
           "title": "Can Anthropic Revive the A.I. Trade?",
           "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
-          "note": "The New York Times frames the story as a question regarding whether Anthropic can act as a catalyst to revive the broader AI trade."
+          "note": "The New York Times frames the story as a question regarding whether the company can act as a catalyst for the sector, whereas City AM focuses on the failure to revive the trade."
         }
       ],
       "brief": {
-        "what": "Global technology stocks experienced a sharp downturn, with the Nikkei 225 and Kospi falling 5.1 per cent and the Nasdaq Composite dropping 2.3 per cent. While Anthropic shares rose 17 per cent during their market debut, the performance failed to stabilize the broader AI-linked equity market.",
-        "who": "Anthropic, an AI lab whose IPO served as the market focal point, and major technology firms including Nvidia, TSMC, and Soft Bank, which saw significant share price declines.",
-        "context": "The sell-off follows a period of intense investor interest in AI-related stocks, with markets reacting to both the IPO of Anthropic and broader volatility across Wall Street and Asian exchanges.",
-        "why": "According to Swissquote analyst Ipek Ozkardeskaya, the market's initial enthusiasm for the AI sector did not last, and Anthropic's IPO was unable to alleviate existing investor worries regarding high valuations.",
+        "what": "Global technology stocks experienced a sharp downturn, with the Nikkei 225 and Kospi falling 5.1 per cent and the Nasdaq Composite dropping 2.3 per cent. While Anthropic shares rose 17 per cent during their market debut, the performance failed to alleviate broader concerns regarding the AI trade, leading to declines for major chipmakers like Nvidia, Micron, and Broadcom.",
+        "who": "Anthropic, an AI lab founded by former OpenAI employees, and major market indices including the Nasdaq, Nikkei 225, and Taiex.",
+        "context": "The market is currently sensitive to AI-related valuations, with investors closely watching the performance of new entrants like Anthropic to gauge the sustainability of the ongoing AI boom.",
+        "why": "According to Swissquote analyst Ipek Ozkardeskaya, the enthusiasm for the AI sector did not last long, and the rough debut of Anthropic was insufficient to resolve existing market worries.",
         "next": "The article doesn't say."
       },
       "numbers": [
@@ -574,8 +556,8 @@
           "what": "total size of Anthropic global share offering"
         },
         {
-          "figure": "$1.7 trillion",
-          "what": "fully diluted market valuation of Anthropic"
+          "figure": "15 per cent",
+          "what": "allocation of shares to retail investors"
         }
       ],
       "earlier": [
@@ -588,57 +570,75 @@
       ]
     },
     {
-      "topic": "markets",
+      "topic": "business",
       "importance": 2,
-      "title": "When will Anthropic shares start trading?",
+      "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/when-will-anthropic-shares-start-trading",
-      "date": "2026-11-19",
-      "author": "Lauren Hirsch",
-      "summary": "Anthropic remains a private company, meaning its shares are not currently available for public trading on stock exchanges. Investors seeking exposure to the AI firm must wait for an initial public offering or secondary market opportunities.",
+      "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+      "date": "2026-11-21",
+      "author": "Lauren Hirsch, Matthew Goldstein and Jessica Silver-Greenberg",
+      "summary": "Nvidia is reportedly facing an investigation by the Securities and Exchange Commission regarding its accounting practices. The inquiry follows concerns raised about the company's chip sales in Asia.",
       "also": [
         {
-          "source": "The Telegraph",
-          "author": "Matthew Field",
-          "date": "2026-11-19",
-          "title": "Anthropic achieves $2tn valuation as shares soar",
-          "url": "https://www.telegraph.co.uk/business/2026/11/19/anthropic-ipo-listing-nasdaq-ai-claude-ftse-100-markets/",
-          "note": "The Telegraph frames the story by reporting a specific valuation and share performance, which contradicts the premise that the company is not publicly traded."
+          "source": "New York Post",
+          "author": "Reuters",
+          "date": "2026-11-20",
+          "title": "Nvidia’s accounting practices are focus of probe by Wall Street regulators: report",
+          "url": "https://nypost.com/2026/11/20/business/nvidias-accounting-practices-are-focus-of-probe-by-sec-report/",
+          "note": "The New York Post headline explicitly identifies the regulator as Wall Street regulators, framing the probe as a direct challenge to the company's market standing."
         }
       ],
       "brief": {
-        "what": "Anthropic shares are not currently trading on public markets, as the artificial intelligence company has not launched an initial public offering. There is no established timeline for when the firm might transition to a publicly traded entity.",
-        "who": "Anthropic is the primary actor, functioning as an artificial intelligence research and development company.",
-        "context": "Private companies like Anthropic often rely on venture capital and private funding rounds rather than public equity markets to finance their operations and growth.",
-        "why": "The article does not provide a specific reason for the current private status of the company or its future plans regarding public markets.",
+        "what": "Nvidia is reportedly under investigation by the Securities and Exchange Commission concerning its accounting practices. This probe follows public questions regarding the company's chip sales within Asian markets.",
+        "who": "Nvidia is the subject of the investigation, while the Securities and Exchange Commission is the regulatory body conducting the probe.",
+        "context": "The company has recently faced scrutiny regarding the transparency and legitimacy of its sales operations in Asia, which prompted the current regulatory interest.",
+        "why": "The investigation was initiated following revelations and questions surrounding the company's accounting methods and specific chip sales activities in Asia.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Heathrow’s biggest investor confident airport will build a third runway",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5f83965d-e74d-4088-af9f-b59f2fa5e8f1?syn-25a6b1a6=1",
+      "date": "2026-11-22",
+      "author": null,
+      "summary": "Ardian, the largest investor in Heathrow Airport, has expressed confidence that the hub will proceed with the construction of a third runway. The firm emphasizes the significant economic advantages that such an expansion would provide to the United Kingdom.",
+      "also": [],
+      "brief": {
+        "what": "Ardian, a private capital firm and Heathrow's largest investor, has publicly stated its belief that the airport will move forward with plans for a third runway. The firm argues that the expansion is essential for delivering broader benefits to the UK economy.",
+        "who": "Ardian acts as the primary private capital investor in Heathrow Airport, while Heathrow serves as the hub seeking to expand its infrastructure.",
+        "context": "Heathrow Airport has long sought to increase its capacity through the addition of a third runway, a project that has faced years of regulatory, environmental, and political scrutiny.",
+        "why": "Ardian supports the project because it highlights the potential economic benefits that expanding the major transport hub would bring to the nation.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "world",
       "importance": 2,
-      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-      "date": "2026-11-21",
-      "author": null,
-      "summary": "A cargo ship traveling to the Russian exclave of Kaliningrad was struck by two drones in the Gulf of Finland. Finnish authorities have initiated a maritime rescue operation and implemented traffic restrictions in the area.",
+      "title": "Why Is Everything Breaking?",
+      "source": "The Dispatch",
+      "url": "https://thedispatch.com/newsletter/morning/why-is-everything-breaking/",
+      "date": "2026-11-20",
+      "author": "James P. Sutton, Evan Spear, Surya Gowda, Ross Anderson",
+      "summary": "A high-level diplomatic summit between the U.S., China, and Russia in Shenzhen concluded without reaching any breakthrough agreements. The event occurred amidst a broader climate of global instability and infrastructure concerns.",
       "also": [
         {
-          "source": "Bloomberg",
-          "author": "Bloomberg News",
+          "source": "Wall Street Journal",
+          "author": "Joel Stein",
           "date": "2026-11-21",
-          "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-          "note": "Bloomberg's headline focuses specifically on the cargo nature of the vessel and the location of the attack."
+          "title": "How to Survive the Coming Age of Everything Breaking",
+          "url": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the story as a survival guide for a period of systemic instability rather than focusing on the specific diplomatic outcome of the Shenzhen summit."
         }
       ],
       "brief": {
-        "what": "A cargo vessel bound for Kaliningrad was hit by two drones in international waters near the Russian maritime border. The ship caught fire, prompting the Finnish Border Guard to lead a rescue operation and impose air and sea traffic restrictions in the eastern Gulf of Finland.",
-        "who": "Alexander Drozdenko, governor of Russia’s Leningrad region, reported the incident, while the Finnish Ministry of Defence and Border Guard are managing the response and monitoring for environmental damage.",
-        "context": "The Gulf of Finland is a strategic maritime corridor between Finland and Estonia, both NATO members, connecting St. Petersburg to the Russian exclave of Kaliningrad. This incident follows a previous strike on a Russian warship in the same region earlier this month.",
-        "why": "While the article does not explicitly name the perpetrator, it notes that Ukraine and Russia have frequently targeted each other's shipping during the ongoing war. Finland has notified its allies of the incident as a precautionary measure.",
-        "next": "The vessel's damage is currently being assessed, and Finnish authorities are preparing for potential environmental damage control."
+        "what": "A diplomatic summit held in Shenzhen involving leaders from the United States, China, and Russia ended without achieving a breakthrough. The meeting took place against a backdrop of increasing reports regarding systemic infrastructure failures and tech outages.",
+        "who": "The main actors involved in the summit are the leaders of the United States, China, and Russia.",
+        "context": "The summit follows a series of recent reports concerning widespread tech outages and cybersecurity concerns, including a notable hack of the FBI, which have raised questions about the stability of critical systems.",
+        "why": "The article does not provide specific reasons for the lack of a breakthrough at the summit, focusing instead on the broader context of global instability.",
+        "next": "The article doesn't say."
       }
     },
     {
@@ -649,7 +649,7 @@
       "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
       "date": "2026-11-20",
       "author": "Cory Weinberg",
-      "summary": "Early employees at the artificial intelligence company Anthropic have seen their equity holdings surge in value, resulting in significant personal wealth.",
+      "summary": "Early employees at the artificial intelligence company Anthropic have seen their equity holdings surge in value following the firm's initial public offering. Many staff members who joined the company in its early stages are now worth tens of millions of dollars.",
       "also": [
         {
           "source": "Fox Business",
@@ -657,65 +657,113 @@
           "date": "2026-11-19",
           "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
           "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say",
-          "note": "Fox Business emphasizes the scale of the impact by noting that thousands of workers were affected."
+          "note": "Fox Business emphasizes the scale of the impact by noting that thousands of workers were affected by the IPO."
         }
       ],
       "brief": {
-        "what": "Early employees at Anthropic have seen their financial stakes grow substantially, with many now holding assets worth tens of millions of dollars or more.",
-        "who": "Anthropic, an artificial intelligence company, and its early staff members.",
-        "context": "The company has experienced rapid growth since its founding, significantly increasing the valuation of equity held by those who joined in its early stages.",
-        "why": "The article attributes this wealth creation to the company's significant expansion and success since its inception a few years ago.",
+        "what": "Anthropic's initial public offering has significantly increased the personal wealth of early employees, with many now holding assets worth tens of millions of dollars.",
+        "who": "Anthropic, an artificial intelligence company, and its early-stage employees.",
+        "context": "The company has experienced rapid growth since its founding, transforming the financial status of staff who joined when the firm was in its infancy.",
+        "why": "The article attributes this wealth creation to the company's successful transition to the public markets, which has drastically increased the valuation of employee equity.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 1,
-      "title": "ICEYE launches takeover bid for Italy’s rocket maker Avio",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/iceye-takeover-bid-vega-c-rocket-maker-avio",
-      "date": "2026-11-17",
-      "author": "Clement Charpentreau",
-      "summary": "Finnish satellite operator ICEYE has launched a €2.05 billion all-cash takeover bid for Italian rocket manufacturer Avio. The acquisition aims to create a vertically integrated European space and defense entity by combining satellite operations with launch and propulsion capabilities.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Dominic Chopping",
-          "date": "2026-11-17",
-          "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
-          "url": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal headline emphasizes the specific dollar value of the bid, whereas the AeroTime headline focuses on the strategic nature of the takeover."
-        }
-      ],
+      "title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
+      "date": "2026-11-22",
+      "author": "Miaojung Lin and Betty Hou",
+      "summary": "Taiwan is evaluating a reduction in margin requirement ratios for investors using borrowed funds to stabilize the stock market. This move follows the benchmark equity index experiencing its most significant weekly decline in 35 years.",
+      "also": [],
       "brief": {
-        "what": "ICEYE has initiated a €2.05 billion bid to acquire Avio, offering €41 per share to delist the company from Euronext STAR Milan. The deal seeks to merge ICEYE's satellite constellation and intelligence services with Avio's expertise in Vega-C launch vehicles and solid rocket motors.",
-        "who": "ICEYE, a Finnish satellite operator, is the bidder, while Avio, an Italian aerospace manufacturer, is the target company currently evaluating the offer.",
-        "context": "The European space industry is undergoing significant consolidation, exemplified by the ongoing Project Bromo merger between Airbus, Leonardo, and Thales. Avio currently serves as a critical supplier for European missile programs and the Vega-C launcher.",
-        "why": "ICEYE CEO Rafal Modrzewski stated the move is driven by the need for governments to control critical space infrastructure. The company argues the integration will enhance launch frequency and create a more robust European defense industrial base.",
-        "next": "The deal requires multiple regulatory clearances, including Italian golden power rules, European Commission reviews, and approval from the Committee on Foreign Investment in the United States."
+        "what": "Taiwanese authorities are considering lowering the margin requirement ratio for investors who utilize borrowed funds. This policy adjustment is intended to mitigate a market selloff following the benchmark equity index's worst weekly performance in 35 years.",
+        "who": "Taiwanese financial regulators are the primary actors managing the potential policy shift to support local stock investors.",
+        "context": "The benchmark equity index recently suffered its most severe weekly drop in over three decades, prompting government intervention to restore market stability.",
+        "why": "The measure is being considered as a direct response to the recent market selloff, aiming to provide support to investors using borrowed funds.",
+        "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "€2.05 billion",
-          "what": "total valuation of the takeover bid"
-        },
-        {
-          "figure": "€41",
-          "what": "offer price per share for Avio"
-        },
-        {
-          "figure": "21.3%",
-          "what": "premium over Avio's official share price"
-        },
-        {
-          "figure": "18.04%",
-          "what": "shareholding stake held by Leonardo"
-        },
-        {
-          "figure": "66.67%",
-          "what": "minimum stake threshold required for the offer"
+          "figure": "35 years",
+          "what": "period since the benchmark index's worst week"
         }
       ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "date": "2026-11-22",
+      "author": "Bloomberg News",
+      "summary": "Asian authorities are implementing intervention measures to stabilize regional stock markets following a significant decline in US equities. These efforts include easing margin requirements in China and new policy actions in Taiwan and South Korea.",
+      "also": [],
+      "brief": {
+        "what": "Authorities across Asia are launching rescue efforts to mitigate a stock-market rout triggered by a sharp decline in US equities on Friday. China has eased margin requirements, while Taiwan and South Korea have introduced specific intervention measures to stabilize their respective markets.",
+        "who": "Financial authorities in China, Taiwan, and South Korea are the primary actors implementing these market interventions.",
+        "context": "The regional market instability follows a broader sell-off that originated in the United States, prompting Asian regulators to take proactive steps to prevent further volatility.",
+        "why": "The interventions were prompted by a deepening stock-market rout that followed a significant plunge in US equities on Friday.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+      "date": "2026-11-22",
+      "author": null,
+      "summary": "Anthropic's recent share price decline has prompted scrutiny regarding the company's decision to exercise its greenshoe option to issue additional stock.",
+      "also": [],
+      "kind": "analysis",
+      "brief": {
+        "what": "Anthropic and its bankers are facing questions over the decision to exercise a greenshoe option to issue more stock following the company's IPO. The move has been followed by share price weakness, leading to concerns about whether the decision was premature.",
+        "who": "Anthropic and its associated bankers are the primary actors involved in the decision-making process regarding the stock issuance.",
+        "context": "A greenshoe option, or over-allotment option, allows underwriters to issue additional shares to meet investor demand during an initial public offering.",
+        "why": "The article suggests the share price weakness raises questions about whether the decision to issue more stock was hasty.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
+      "date": "2026-11-22",
+      "author": "Bloomberg News",
+      "summary": "Copper industry participants at a Shanghai gathering expressed significant pessimism regarding future demand, prompting some to consider short positions.",
+      "also": [],
+      "brief": {
+        "what": "Attendees at a copper industry event in Shanghai reported a bearish outlook for demand, leading some participants to consider taking short positions on the metal.",
+        "who": "Grace Li, an industry participant, and other unnamed attendees at the Shanghai copper gathering.",
+        "context": "The copper industry is currently facing a period of market volatility and negative sentiment regarding future consumption.",
+        "why": "The mood was driven by widespread pessimism over the outlook for demand, which led Li to contemplate betting against the market.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "S. Korea Rolls Out Phased Measures to Stabilize Stock Market",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
+      "date": "2026-11-22",
+      "author": "Haram Lim",
+      "summary": "South Korean financial officials have announced a phased strategy to mitigate market volatility, including the activation of a stock stabilization fund.",
+      "also": [],
+      "brief": {
+        "what": "South Korean authorities are implementing a series of phased measures to stabilize the domestic stock market following a period of increased volatility. These steps include ensuring that a stock stabilization fund is prepared for deployment as needed.",
+        "who": "Top financial officials in South Korea, who convened an emergency meeting to address current market conditions.",
+        "context": "The government is responding to rising instability within the financial markets, necessitating proactive intervention to maintain economic order.",
+        "why": "Officials initiated these measures to calm markets and provide a responsive mechanism to address ongoing volatility.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
@@ -725,7 +773,7 @@
       "url": "https://www.telegraph.co.uk/business/2026/11/20/ai-tech-sell-off-anthropic-claude-nasdaq-ftse-100-markets/",
       "date": "2026-11-20",
       "author": "Chris Price",
-      "summary": "Anthropic shares plummeted following a volatile market debut, triggering a broader sell-off across AI-linked tech stocks and major US indices. Investors are retreating from the sector amid concerns over valuations, potential data center restrictions, and corporate policy disputes.",
+      "summary": "Anthropic's volatile stock market debut triggered a broader sell-off in AI and tech stocks, compounded by threats of new data center restrictions and concerns over an AI bubble. Major indices including the Nasdaq 100 and S&P 500 suffered significant declines as investors shifted toward safer assets.",
       "also": [
         {
           "source": "Fox Business",
@@ -733,14 +781,14 @@
           "date": "2026-11-20",
           "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
           "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-          "note": "Fox Business frames the story by emphasizing the 'historic' nature of the losses and the specific impact on the Dow and S&P 500 indices."
+          "note": "Fox Business frames the story by emphasizing the 'historic' nature of the losses and the specific technical milestone of the indices entering correction territory."
         }
       ],
       "brief": {
-        "what": "Anthropic shares fell sharply on Friday, erasing gains from its recent $2 trillion valuation debut and dragging the Nasdaq 100 down 5.6pc. The broader market sell-off pushed the S&P 500 into correction territory as investors fled AI-linked stocks.",
-        "who": "Anthropic, a major AI developer; Donald Trump, who threatened penalties on foreign data center construction; and semiconductor firms like Nvidia, ARM, and CoreWeave.",
-        "context": "The market is reacting to fears of an 'AI bubble,' concerns over corporate profitability, and potential regulatory hurdles including new data center restrictions and Pentagon supply chain risks regarding AI terms of service.",
-        "why": "Analysts attribute the volatility to investor skepticism over high valuations and borrowing costs, compounded by President Trump’s threat to impose penalties on companies building data centers outside the US to prevent China from gaining an advantage.",
+        "what": "Anthropic shares slumped following a record-breaking IPO, sparking a wider sell-off in AI-linked tech stocks that pushed the Nasdaq 100 down 5.6pc and the S&P 500 down 3.7pc. The market decline was exacerbated by President Trump's threat to impose penalties on US companies building data centers abroad and ongoing concerns regarding AI valuations.",
+        "who": "Anthropic, the AI developer; President Donald Trump, who threatened data center restrictions; and major tech firms including Nvidia, ARM, and CoreWeave, which saw significant share price drops.",
+        "context": "Investors are increasingly questioning the sustainability of the AI boom, citing high valuations, potential regulatory hurdles, and corporate profitability concerns. This has led to a 'flight-to-safety' trade, with capital moving from tech stocks into Treasury securities.",
+        "why": "Market analysts attribute the volatility to a combination of investor skepticism regarding AI valuations, fears of an 'AI bubble,' and geopolitical tensions. Additionally, President Trump stated that restricting data center construction is necessary to prevent China from overtaking the US in technological infrastructure.",
         "next": "The article doesn't say."
       },
       "numbers": [
@@ -753,16 +801,16 @@
           "what": "decline in the Nasdaq 100 index"
         },
         {
-          "figure": "10.7pc",
-          "what": "drop in the Philadelphia semiconductor index"
-        },
-        {
           "figure": "3.7pc",
           "what": "decline in the S&P 500 index"
         },
         {
           "figure": "$87bn",
           "what": "capital raised in Anthropic's record-breaking float"
+        },
+        {
+          "figure": "10.7pc",
+          "what": "drop in the Philadelphia semiconductor index"
         }
       ],
       "earlier": [
@@ -781,6 +829,52 @@
       ]
     },
     {
+      "topic": "culture",
+      "importance": 1,
+      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-22",
+      "author": "Carol Ryan",
+      "summary": "The Omega watch brand was notably absent from the latest James Bond reveal, ending a three-decade partnership. This omission has sparked speculation regarding the future of the iconic character's timepiece.",
+      "also": [],
+      "brief": {
+        "what": "Omega, the watch brand associated with the James Bond franchise for three decades, was missing from the latest reveal of the character. This absence has triggered a competitive reaction within the watch industry.",
+        "who": "Omega, the watch manufacturer, and the James Bond franchise.",
+        "context": "James Bond has been linked to Omega timepieces in films for thirty years, establishing a significant marketing and product placement relationship.",
+        "why": "The article does not explicitly state why the brand was missing, only noting its absence from the week's big reveal.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "British Airways owner tells Burnham Heathrow’s third runway ‘doomed to failure’",
+      "source": "City AM",
+      "url": "https://www.cityam.com/british-airways-owner-tells-burnham-heathrows-third-runway-doomed-to-failure/",
+      "date": "2026-11-22",
+      "author": "Rosie Harris-Davison",
+      "summary": "International Airlines Group CEO Luis Gallego has labeled Heathrow Airport’s £49bn expansion plan unaffordable and doomed to failure. The airline group cites a £19bn funding gap between projected costs and acceptable passenger charges.",
+      "also": [],
+      "brief": {
+        "what": "International Airlines Group (IAG) has formally challenged Heathrow Airport's £49bn third runway project, arguing it is financially unviable. IAG reports a £19bn discrepancy between the airport's cost estimates and the level of airport charges that passengers would realistically accept.",
+        "who": "Luis Gallego, CEO of IAG, is the primary critic of the project, while Heathrow Airport acts as the developer seeking to make the expansion affordable and financeable.",
+        "context": "Heathrow has long sought to build a third runway to increase capacity, but the project has faced years of scrutiny regarding its massive capital requirements and the impact on airline operating costs.",
+        "why": "Gallego claims the current scheme is too expensive for private investment alone to cover, suggesting that government intervention or redirected air passenger duty revenues may be required to bridge the funding gap. Heathrow maintains that it is working with airlines to strip out unnecessary costs and ensure the project delivers value.",
+        "next": "Heathrow and the airlines are continuing to review the plans line by line to reduce costs and reach a financial agreement."
+      },
+      "numbers": [
+        {
+          "figure": "£49bn",
+          "what": "total cost of Heathrow's expansion plans"
+        },
+        {
+          "figure": "£19bn",
+          "what": "funding gap between costs and passenger charges"
+        }
+      ]
+    },
+    {
       "topic": "aerospace",
       "importance": 1,
       "title": "Opinion | Let Congress Keep Doing Its Job With the FAA",
@@ -792,311 +886,162 @@
       "also": [],
       "kind": "opinion",
       "brief": {
-        "what": "The article contends that the United States should not look to Canada as a template for aviation regulatory structures.",
-        "who": "The author, writing for the Wall Street Journal, and Congress, which oversees the Federal Aviation Administration.",
-        "context": "The Federal Aviation Administration is the national aviation authority of the United States, responsible for regulating civil aviation.",
-        "why": "The author asserts that the current congressional oversight of the FAA is preferable to the Canadian approach.",
+        "what": "The author contends that the United States should not use Canada as a template for aviation regulation, advocating instead for Congress to continue its oversight of the Federal Aviation Administration.",
+        "who": "The author of the opinion piece and the United States Congress.",
+        "context": "The Federal Aviation Administration is the national aviation authority of the United States, currently subject to Congressional oversight.",
+        "why": "The author asserts that the Canadian aviation regulatory model is not a suitable template for the United States.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 1,
-      "title": "Lufthansa to Cut 1,000 Jobs at Flagship Airline as Challenges Mount",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-20",
-      "author": "Adrià Calatayud",
-      "summary": "Lufthansa is reducing its workforce by 1,000 positions at its flagship airline. The decision follows financial pressures caused by rising fuel costs and expenses related to labor strikes.",
+      "title": "Belgian strike to disrupt flights at Brussels and Charleroi airports",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/belgian-strike-to-disrupt-flights-at-brussels-and-charleroi-airports",
+      "date": "2026-11-22",
+      "author": "Gabriele Petrauskaite",
+      "summary": "Major flight disruptions are expected at Brussels and Charleroi airports as air traffic controllers join a national demonstration. Most flights will be cancelled due to the inability to provide safe air traffic control services.",
       "also": [],
       "brief": {
-        "what": "Lufthansa announced a reduction of 1,000 jobs at its flagship carrier. This move is a direct response to the financial strain caused by surging fuel prices and the costs associated with recent strikes.",
-        "who": "Lufthansa is the primary actor, acting as the flagship airline implementing these workforce reductions.",
-        "context": "The airline industry is currently navigating a difficult economic environment characterized by volatile energy costs and labor unrest, which directly impact operational profitability.",
-        "why": "According to the report, the job cuts are necessary because surging fuel prices and strike expenses are weighing heavily on the profitability of the flagship carrier.",
-        "next": "The article doesn't say."
+        "what": "Brussels Airport and Brussels South Charleroi Airport face significant flight cancellations on November 23 due to a national demonstration. Air traffic control provider skeyes will suspend normal services, preventing aircraft from taking off or landing at these hubs during the action.",
+        "who": "The Belgian air navigation service provider skeyes, Brussels Airport, Brussels South Charleroi Airport, and Belgium’s main trade unions.",
+        "context": "Trade unions have organized a national demonstration to protest the federal government's economic and social policies, specifically opposing budget cuts and reforms they believe negatively impact workers and vulnerable groups.",
+        "why": "Skeyes stated that the number of available staff would be insufficient to safely handle regular air traffic during the strike, necessitating a temporary suspension of services.",
+        "next": "Passengers are advised to check their flight status directly with their airlines and monitor public transport updates before traveling to the airports."
       },
       "numbers": [
         {
-          "figure": "1,000",
-          "what": "job cuts at the flagship airline"
+          "figure": "3,400",
+          "what": "people working at Charleroi Airport"
         }
       ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Air Niugini B767 diverts to Davao after engine fire warning",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/air-niugini-b767-diverts-to-davao-after-engine-fire-warning",
+      "date": "2026-11-22",
+      "author": "Gabriele Petrauskaite",
+      "summary": "An Air Niugini Boeing 767-300ER safely diverted to Davao International Airport following an engine fire indication. All 146 people on board were evacuated safely after the aircraft landed with damage to its right-side landing gear wheels.",
+      "also": [],
+      "brief": {
+        "what": "An Air Niugini Boeing 767-300ER diverted to Davao International Airport after the crew received a fire indication for the right-hand engine. The aircraft landed safely, but an assessment revealed damage to all four right-side landing gear wheels.",
+        "who": "Air Niugini, the airline operating the flight; the Civil Aviation Authority of the Philippines (CAAP), which is investigating the incident.",
+        "context": "The flight was en route from Hong Kong to Port Moresby when the emergency occurred. The incident caused the temporary closure of Davao International Airport and the cancellation of two inbound flights.",
+        "why": "The crew initiated emergency procedures and shut down the affected Pratt & Whitney PW4060 engine after receiving a fire warning while cruising at flight level 330.",
+        "next": "The aircraft remains secured at Davao while CAAP investigators work to establish the circumstances and contributing factors of the incident."
+      },
+      "numbers": [
+        {
+          "figure": "146",
+          "what": "total number of people on board"
+        },
+        {
+          "figure": "20",
+          "what": "total aircraft in Air Niugini fleet"
+        },
+        {
+          "figure": "160 nautical miles",
+          "what": "distance from Davao when indication occurred"
+        },
+        {
+          "figure": "4",
+          "what": "number of damaged right-side landing gear wheels"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "ICE agents detain two people at Seattle airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
+      "date": "2026-11-22",
+      "author": null,
+      "summary": "Immigration and Customs Enforcement agents detained two individuals on a jet bridge at Seattle-Tacoma International Airport. Alaska Airlines reported that the agency provided no prior notification regarding the operation.",
+      "also": [],
+      "brief": {
+        "what": "Masked ICE agents detained two individuals on a jet bridge while passengers were in the process of boarding a flight. Alaska Airlines confirmed that the federal agency conducted the operation without providing any advance notice to the carrier.",
+        "who": "The main actors are ICE agents, who performed the detention, and Alaska Airlines, which operated the flight and stated they were not informed of the action.",
+        "context": "The incident occurred at a Seattle airport during the boarding phase of a flight, involving federal immigration enforcement personnel.",
+        "why": "The article does not state the specific reason for the detention or why the operation was conducted without prior notice to the airline.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-      "date": "2026-11-21",
-      "author": "Eva Brendel",
-      "summary": "High electricity costs are forcing German factories to halt steel production during certain hours. This trend serves as a warning sign for the broader European economy.",
-      "also": [],
-      "brief": {
-        "what": "German factories are facing periods where electricity prices make steel production economically unviable, leading to temporary shutdowns.",
-        "who": "German industrial manufacturers are the primary actors affected by these volatile energy costs.",
-        "context": "The European power market is currently experiencing price fluctuations that directly impact the operational viability of energy-intensive industries like steel manufacturing.",
-        "why": "The article indicates that rising electricity costs have reached a threshold where production is simply too expensive to maintain during specific hours.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "United outage delays departures as pilots lose access to aircraft weight data",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/united-airlines-outage-flight-delays-aircraft-weight-data",
-      "date": "2026-11-17",
-      "author": "Stephen Pope",
-      "summary": "A United Airlines computer outage prevented pilots from accessing critical aircraft weight data, resulting in widespread flight delays and cancellations. The airline resolved the technical issue after nearly two hours, with no evidence of a cybersecurity breach.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Alison Sider",
-          "date": "2026-11-16",
-          "title": "United Airlines Says It Resolved Tech Problem That Delayed Departures",
-          "url": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f",
-          "note": "The Wall Street Journal focuses on the resolution of the technical problem rather than the operational impact on pilots and flight data."
-        }
-      ],
-      "brief": {
-        "what": "United Airlines experienced a computer outage that prevented pilots from accessing essential weight data required for takeoff performance calculations. The disruption resulted in 645 flight delays, representing 20% of the airline's Monday schedule, and 25 cancellations.",
-        "who": "United Airlines, the Air Line Pilots Association, and United pilots.",
-        "context": "This incident follows a recent nationwide FAA telecommunications failure and a previous August 2025 disruption involving United's Unimatic system, which handles weight and balance data.",
-        "why": "The airline stated the outage was not caused by a cybersecurity incident, though it did not specify the exact technical cause of the system failure.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "645",
-          "what": "United flights delayed"
-        },
-        {
-          "figure": "20%",
-          "what": "of United's Monday schedule delayed"
-        },
-        {
-          "figure": "25",
-          "what": "flight cancellations"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "The dead hand of history weighs on Deutsche Bank",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-      "date": "2026-11-21",
-      "author": null,
-      "summary": "Bankers are reminded that their strategic decisions have long-lasting consequences that persist well beyond the immediate term. The commentary reflects on the enduring impact of historical choices on the current state of Deutsche Bank.",
-      "also": [],
-      "kind": "opinion",
-      "brief": {
-        "what": "The article highlights that the strategic decisions made by bankers have a lasting impact on an institution's future trajectory.",
-        "who": "Deutsche Bank is the primary institution referenced in the context of historical decision-making.",
-        "context": "The commentary serves as a reflection on how past actions continue to influence the operational and reputational standing of major financial institutions.",
-        "why": "The author suggests that bankers should remain mindful of the long-term weight their current choices carry for the organization.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "The Bank of Mum and Dad has a ‘Neets’ problem",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4cf7587f-a408-42af-9f8f-b3dd814db5c0?syn-25a6b1a6=1",
-      "date": "2026-11-21",
-      "author": null,
-      "summary": "Young adults' increasing financial dependence on their parents is creating significant distortions within family financial structures.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "The reliance of young adults on parental wealth, often referred to as the 'Bank of Mum and Dad,' is causing structural warping in family finances.",
-        "who": "Young adults and their parents are the primary actors involved in these financial arrangements.",
-        "context": "This phenomenon describes the trend where parents provide significant financial support to their adult children, impacting overall household economic stability.",
-        "why": "The article suggests that this reliance is fundamentally altering how family finances are managed and distributed across generations.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-21",
-      "author": "Berber Jin",
-      "summary": "Dario and Daniela Amodei navigated a major IPO followed by a market downturn for their company, Anthropic. The siblings continue to lead the firm through an unconventional growth trajectory.",
-      "also": [],
-      "brief": {
-        "what": "Anthropic, led by siblings Dario and Daniela Amodei, experienced a significant initial public offering on Thursday, followed immediately by a market rout on Friday.",
-        "who": "Dario and Daniela Amodei are the leaders of Anthropic.",
-        "context": "The company is noted for its unusual corporate development and non-traditional approach to the industry.",
-        "why": "The article attributes the recent volatility to the broader market rout occurring one day after the company's IPO.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-      "date": "2026-11-21",
-      "author": "Katie McQue",
-      "summary": "Anthropic has completed a record-breaking IPO, raising over $100 billion and achieving a valuation exceeding $1 trillion. Critics and legal experts are now questioning whether the company can maintain its commitment to AI safety over commercial shareholder interests.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Anthropic went public, raising $81.3 billion in its IPO and $26 billion in a private placement, pushing its valuation past $1 trillion. The company, which operates as a public benefit corporation, faces scrutiny over whether its mission to prioritize AI safety can survive the pressures of public market demands and shareholder expectations.",
-        "who": "CEO Dario Amodei leads Anthropic, while legal experts like Roberto Tallarita and Sarah Kreps analyze the potential conflicts between the company's safety-focused mission and its new financial obligations.",
-        "context": "Anthropic is structured as a public benefit corporation with a Long-Term Benefit Trust intended to oversee safety decisions. However, critics suggest that the significant wealth generated for founders and employees, combined with the influence of new public investors, could create pressure to prioritize stock performance over cautious AI development.",
-        "why": "The company claims its new financial strength reinforces its resolve to prioritize safety, but experts warn that commercial pressures may lead to conflicts regarding the timing of model releases and safety testing.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$81.3 billion",
-          "what": "capital raised from the IPO"
-        },
-        {
-          "figure": "$26 billion",
-          "what": "capital raised through private placement"
-        },
-        {
-          "figure": "$1 trillion",
-          "what": "valuation of the company"
-        },
-        {
-          "figure": "$232 billion",
-          "what": "combined equity held by 5,300 employees"
-        },
-        {
-          "figure": "$20 billion",
-          "what": "value of stake held by each co-founder"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Iraq selling two Boeing 747s stranded in Africa for 35 years for $1.8 million",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/iraq-boeing-747-sale-tunisia-35-years",
-      "date": "2026-11-20",
-      "author": "Stephen Pope",
-      "summary": "Iraqi Airways has listed two Boeing 747s for sale for a combined $1.8 million after the aircraft remained stranded in Tunisia for over three decades. The jets, which were moved for safekeeping during the 1991 Gulf War, are being sold in their current condition without technical warranties.",
-      "also": [],
-      "brief": {
-        "what": "Iraqi Airways is attempting to sell two Boeing 747s, a 747-200 and a 747SP, for a total of $1.8 million. The aircraft have been parked at Tozeur-Nefta International Airport in Tunisia since 1991.",
-        "who": "Iraqi Airways is the seller, while the Iraqi transport minister holds final approval authority over any potential sale.",
-        "context": "The aircraft were flown to Tunisia for safekeeping ahead of the 1991 Gulf War. Their recovery was delayed for decades by international sanctions, legal disputes, and claims regarding property seized from Kuwait during the invasion of Kuwait.",
-        "why": "The sale follows the settlement of $5.4 million in parking fees in 2020 and a failed 2023 attempt to auction the jets. The current offering requires buyers to accept the aircraft in their present condition without technical warranties.",
-        "next": "A sales committee will accept and assess offers at the Iraqi Embassy in Tunisia between December 21, 2026, and January 5, 2027."
-      },
-      "numbers": [
-        {
-          "figure": "$1.8 million",
-          "what": "combined asking price for two Boeing 747 aircraft"
-        },
-        {
-          "figure": "$5.4 million",
-          "what": "parking fees and charges settled with Tunisian authorities"
-        },
-        {
-          "figure": "$180,000",
-          "what": "required guarantee per aircraft for final stage applicants"
-        },
-        {
-          "figure": "2%",
-          "what": "service fee required from successful buyers"
-        },
-        {
-          "figure": "$900,000",
-          "what": "valuation per individual aircraft"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "A Ferrari, Rolls-Royce or Bentley for under £70,000",
+      "title": "Slumping London flat prices spark landlord return",
       "source": "City AM",
-      "url": "https://www.cityam.com/a-ferrari-rolls-royce-or-bentley-for-under-70000/",
-      "date": "2026-11-20",
-      "author": "Jodie Chay-O'Neil",
-      "summary": "Luxury vehicles from brands like Ferrari, Rolls-Royce, and Bentley are available on the used market for under £70,000, though high maintenance and operating costs remain. Buyers must account for significant annual running expenses, including specialized servicing, road tax, and insurance.",
+      "url": "https://www.cityam.com/slumping-london-flat-prices-spark-landlord-return/",
+      "date": "2026-11-22",
+      "author": "Rosie Harris-Davison",
+      "summary": "Buy-to-let investors are returning to the London flat market, driven by falling property prices and record-high rental yields. Data indicates that landlord activity has reached an 11-year high despite ongoing government tax pressures.",
       "also": [],
-      "kind": "analysis",
       "brief": {
-        "what": "High-end luxury cars, including models from Ferrari, Rolls-Royce, Bentley, Aston Martin, and McLaren, are currently available for under £70,000 on the used market. While initial purchase prices have dropped significantly due to depreciation, annual running costs—including fuel, specialized servicing, and road tax—can range from £2,500 to over £9,000 depending on the model and warranty status.",
-        "who": "The article references data from platforms including AutoUncle, Regit, and PistonHeads to evaluate the financial viability of purchasing and maintaining these luxury vehicles.",
-        "context": "Luxury vehicles often experience steep depreciation, allowing second-hand buyers to acquire cars that originally cost well over £100,000 for a fraction of their initial price. However, these vehicles retain the high maintenance requirements and operating costs associated with their original premium status.",
-        "why": "The article explains that while the initial owners absorb the largest portion of depreciation, the ongoing costs of parts, specialized labor, and fuel do not decrease alongside the vehicle's market value.",
+        "what": "Buy-to-let investors are increasingly purchasing London flats, with the share of local investors reaching 39 per cent. Gross rental yields have climbed to 7 per cent, while the proportion of landlords achieving 10 per cent yields has risen to 15 per cent.",
+        "who": "Estate agent Hamptons provided the data, while Chancellor John Healey is identified as the government official implementing tax hikes on rental income.",
+        "context": "The UK government has maintained a decade-long crackdown on buy-to-let investments, including a stamp duty surcharge on additional homes and recent increases in rental income taxes.",
+        "why": "Hamptons research director Aneisha Beveridge attributes the trend to investors being tempted by market areas where property prices have adjusted downward while rental demand remains strong.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "£70,000",
-          "what": "price threshold for luxury used vehicles"
+          "figure": "39 per cent",
+          "what": "share of London-based investors purchasing local flats"
         },
         {
-          "figure": "£170,000",
-          "what": "original sale price of the 2010 Rolls-Royce Ghost"
+          "figure": "7 per cent",
+          "what": "gross rental yields on freshly purchased London flats"
         },
         {
-          "figure": "5,000 miles",
-          "what": "annual driving distance used for cost calculations"
-        },
-        {
-          "figure": "£790",
-          "what": "annual road tax for pre-April 2017 vehicles"
-        },
-        {
-          "figure": "£18",
-          "what": "daily London Congestion Charge for non-electric vehicles"
+          "figure": "15 per cent",
+          "what": "share of landlords seeing 10 per cent yields"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "business",
       "importance": 1,
-      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-      "date": "2026-11-20",
-      "author": "The Associated Press",
-      "summary": "A sharp sell-off in artificial intelligence stocks triggered a 3.7% decline in the S&P 500, pushing the index into correction territory. The Nasdaq composite also fell 5.3%, resulting in negative performance for the year.",
+      "title": "Cheap Chinese ecommerce parcels flood the UK",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+      "date": "2026-11-22",
+      "author": null,
+      "summary": "The value of small imported packages entering the UK has increased fourfold over the last two years. This surge is driven by the rapid growth of Asian online retail platforms and consumer demand.",
       "also": [],
       "brief": {
-        "what": "The S&P 500 dropped 3.7% and the Nasdaq composite fell 5.3%, marking a significant market downturn driven by a sell-off in AI-related technology stocks. The S&P 500 has now entered a correction, defined as a decline of more than 10% from its all-time high.",
-        "who": "Major technology firms including Nvidia, Advanced Micro Devices, and the newly public Anthropic led the market decline, while market strategist Michael Antonelli of Baird provided commentary on the shift in investor sentiment.",
-        "context": "The market is reacting to concerns that heavy spending on AI infrastructure is unsustainable, compounded by midterm election results favoring a slowdown in data center construction. This follows a period where AI stocks were the primary drivers of Wall Street's gains.",
-        "why": "Investors are re-evaluating the valuation of AI companies and the viability of unlimited capital expenditure in the sector, according to Michael Antonelli. Fears of a market bubble have been exacerbated by political shifts and specific corporate scandals, such as the downfall of Nvidia's former CEO.",
+        "what": "The value of small imported packages arriving in the UK has grown fourfold over the past two years. This trend reflects a significant boom in consumer purchases from Asian online retail groups and platforms.",
+        "who": "Asian online retail groups and platforms are the primary drivers of this import surge.",
+        "context": "The UK market is experiencing a shift in retail dynamics as international e-commerce platforms gain traction with local consumers.",
+        "why": "The increase is attributed to a boom in purchases from Asian online retail groups and platforms.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+      "date": "2026-11-22",
+      "author": null,
+      "summary": "Major technology suppliers including Dell, HPE, Lenovo, and Supermicro are increasing prices for AI servers by up to 45% shortly after contracts are finalized. These rising equipment costs are directly impacting the profitability of trading firms.",
+      "also": [],
+      "brief": {
+        "what": "Technology suppliers such as Dell, HPE, Lenovo, and Supermicro are demanding higher payments for equipment, with price hikes reaching as high as 45% even after initial deals have been signed. This trend of mid-contract price adjustments is creating significant financial pressure for trading firms that rely on these high-performance systems.",
+        "who": "Dell, HPE, Lenovo, and Supermicro are the primary equipment suppliers, while trading firms are the customers facing the increased costs.",
+        "context": "The surge in demand for artificial intelligence infrastructure has shifted bargaining power toward hardware manufacturers, allowing them to adjust pricing structures for server equipment.",
+        "why": "The article indicates that suppliers are demanding more for equipment, though it does not provide a specific reason for the price increases beyond the implication of market demand.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "3.7%",
-          "what": "decline of the S&P 500 index"
-        },
-        {
-          "figure": "5.3%",
-          "what": "slump of the Nasdaq composite"
-        },
-        {
-          "figure": "10%",
-          "what": "threshold for a market correction"
-        },
-        {
-          "figure": "13.8%",
-          "what": "decline in Nvidia stock price"
-        },
-        {
-          "figure": "9.1%",
-          "what": "decline in Anthropic stock price"
+          "figure": "45%",
+          "what": "maximum price increase for AI servers"
         }
       ]
     },
@@ -1111,20 +1056,20 @@
       "summary": "The Nasdaq erased its 2026 gains as a broader AI sell-off dampened the second day of trading for Anthropic, the maker of the Claude chatbot. Investors are increasingly questioning the sustainability of massive capital expenditures in the AI sector.",
       "also": [],
       "brief": {
-        "what": "Global stock markets experienced a sharp downturn as the highly anticipated IPO of AI firm Anthropic failed to sustain investor enthusiasm. The Nasdaq lost $4tn in value this week, and Anthropic shares fell 9% to $88.30, nearing their $83 debut price.",
-        "who": "Anthropic, the developer of Claude, is the central actor, alongside major tech firms like Nvidia, Micron, and SoftBank, which saw significant share price declines.",
-        "context": "The market is grappling with concerns over the profitability and long-term returns of the massive AI buildout. This follows a period of aggressive investment and high valuations across the technology sector.",
-        "why": "Analysts suggest the sell-off is driven by liquidity concerns, as investors sell other holdings to fund AI bets, and growing skepticism regarding whether AI companies can justify their current valuations. Chris Beauchamp of IG noted that Anthropic may be draining market liquidity, while Daniela Hathorn of Capital.com highlighted shifting sentiment from 'buying the dip' to questioning the sustainability of AI spending.",
+        "what": "The Nasdaq Composite wiped out its 2026 gains, closing down 5% for the year, as a global sell-off hit AI-linked stocks. Anthropic’s shares fell 9% to $88.30 on their second day of trading, failing to sustain the momentum of its record-breaking IPO.",
+        "who": "Anthropic, the developer of the Claude chatbot, is the central firm in the market volatility, alongside major tech companies like Nvidia, SanDisk, and Micron, which also saw significant share price declines.",
+        "context": "Investors are shifting from a 'buy the dip' mentality to questioning whether the massive investments in AI infrastructure can deliver necessary returns. This sentiment is compounded by concerns over elevated valuations and potential interest rate hikes by US central bankers.",
+        "why": "Analysts suggest Anthropic may be draining market liquidity as investors sell other holdings to fund AI-related purchases. Daniela Hathorn of Capital.com notes that while demand for AI exposure remains, concerns regarding profitability and sustainability are driving the broader market correction.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
           "figure": "$4tn",
-          "what": "market value lost by the Nasdaq"
+          "what": "market value erased from the Nasdaq"
         },
         {
           "figure": "9%",
-          "what": "decline in Anthropic shares on Friday"
+          "what": "decline in Anthropic share price on Friday"
         },
         {
           "figure": "$88.30",
@@ -1132,84 +1077,29 @@
         },
         {
           "figure": "5%",
-          "what": "decline of the Nasdaq Composite from January"
+          "what": "decline of the Nasdaq Composite from January 1"
         },
         {
           "figure": "14%",
-          "what": "drop in Nvidia and SanDisk share prices"
+          "what": "decline in Nvidia share price"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "culture",
       "importance": 1,
-      "title": "How AI Is Forcing China to Reshape Industrial Policy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-      "date": "2026-11-21",
-      "author": "Joe Weisenthal and Tracy Alloway",
-      "summary": "Beijing is implementing a new industrial policy aimed at achieving technological self-reliance in response to the rise of artificial intelligence. This strategic shift reflects China's broader efforts to secure its domestic capabilities in critical emerging sectors.",
-      "also": [],
-      "kind": "analysis",
-      "brief": {
-        "what": "Beijing is reshaping its industrial policy to prioritize technological self-reliance, specifically in the context of the rapid development of artificial intelligence.",
-        "who": "Kyle Chan is the primary analyst discussing Beijing's strategic shift.",
-        "context": "The Chinese government is navigating the challenges posed by global advancements in AI, leading to a reevaluation of how it supports and directs its domestic industrial base.",
-        "why": "The policy shift is driven by the necessity to become technologically self-reliant, according to the analysis provided by Kyle Chan.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03789-3",
-      "date": "2026-11-20",
-      "author": "James Dinneen",
-      "summary": "Nations at the COP31 summit are shifting focus from net-zero emissions to 'net-negative' targets to address inevitable climate overshoot. Achieving this goal requires removing at least 330 billion tonnes of CO2 from the atmosphere this century.",
+      "title": "Nobody wanted him, now Trump wants to be him: The ‘I Play Rocky’ movie rocked",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/op-eds/4809719/i-play-rocky-stallone-underdog-story-movie-review/",
+      "date": "2026-11-22",
+      "author": "Rusty Wright",
+      "summary": "The enduring cultural influence of the Rocky film franchise is highlighted through its impact on political figures and public imagery. The article explores how Sylvester Stallone’s underdog narrative continues to resonate in modern political discourse.",
       "also": [],
       "brief": {
-        "what": "Participants at the COP31 climate summit are increasingly advocating for 'net-negative' emissions, which involves removing more carbon dioxide from the atmosphere than is added. This shift follows reports estimating 1.8 ºC of warming, necessitating the removal of at least 330 billion tonnes of CO2 to recover from climate overshoot.",
-        "who": "The Group of Negative Emitters (GONE), co-chaired by Denmark and Ethiopia, is leading the push for net-negative targets, while the United Nations Environment Programme provided the data on warming and removal requirements.",
-        "context": "The 2015 Paris Agreement set a 1.5 ºC warming target, but scientists now consider exceeding this limit, known as 'overshoot', to be inevitable. Current nature-based removal projects only account for two billion tonnes of CO2 annually, highlighting a significant gap in capacity.",
-        "why": "The transition is driven by the recognition that net-zero status only halts temperature rises, whereas net-negative status is required to return temperatures below the 1.5 ºC threshold. Some campaigners remain concerned that focusing on removal technologies could distract from essential emission-cutting efforts.",
-        "next": "The coalition of nations is working to convince others to adopt net-negative targets, with Ethiopia potentially prioritizing the issue at next year's summit."
-      },
-      "numbers": [
-        {
-          "figure": "330 billion tonnes",
-          "what": "CO2 required to be removed this century"
-        },
-        {
-          "figure": "1.8 ºC",
-          "what": "expected global warming this century"
-        },
-        {
-          "figure": "35%",
-          "what": "global energy demand target for electricity"
-        },
-        {
-          "figure": "1.5 ºC",
-          "what": "global warming temperature threshold"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "When the music stopped for the Halifax",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2006ed77-856d-441e-a877-5f8125b75e95?syn-25a6b1a6=1",
-      "date": "2026-11-21",
-      "author": null,
-      "summary": "The Halifax building society lost its status as the world's largest mortgage lender due to an inability to modernize its banking operations. The institution struggled to transition from its traditional structure to meet the requirements of the contemporary financial landscape.",
-      "also": [],
-      "brief": {
-        "what": "The Halifax building society failed to maintain its position as the world's largest mortgage lender. The organization was unable to successfully adapt its business model to the evolving demands of modern banking.",
-        "who": "The Halifax, formerly a building society and the world's largest mortgage lender.",
-        "context": "Building societies are traditional financial institutions that historically focused on providing mortgages to members, but many faced significant structural challenges when competing in the modern, globalized banking sector.",
-        "why": "The institution failed because it could not adapt to the demands of modern banking, according to the report.",
+        "what": "The Rocky film franchise remains a significant cultural touchstone, frequently utilized by politicians at rallies and in digital media. President Donald Trump recently shared a photoshopped meme depicting himself with the physique and championship attire of the Rocky character.",
+        "who": "Sylvester Stallone, the creator and star of the Rocky films, and President Donald Trump, who utilized Rocky-themed imagery in his political messaging.",
+        "context": "For decades, the Rocky series has served as a symbol of the underdog story, influencing various sectors of society including athletics and politics. The song \"Eye of the Tiger\" from Rocky III is a common fixture at political campaign events.",
+        "why": "The imagery is used because the Rocky character serves as a powerful, recognizable symbol of perseverance and success that resonates with the public and political figures alike.",
         "next": "The article doesn't say."
       }
     }
