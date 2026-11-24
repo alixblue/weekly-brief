@@ -1,59 +1,65 @@
 {
-  "generated": "2026-11-23",
-  "window": "2026-11-16 to 2026-11-23",
+  "generated": "2026-11-24",
+  "window": "2026-11-17 to 2026-11-24",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-23",
-    "label": "Mon 23 Nov · change on the day",
+    "asof": "2026-11-24",
+    "label": "Tue 24 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,222.96",
-        "change": "+4.52%"
+        "value": "7,158.60",
+        "change": "-1.09%"
       },
       {
         "name": "Dow",
-        "value": "49,250.93",
-        "change": "+2.29%"
+        "value": "49,591.77",
+        "change": "-0.01%"
       },
       {
         "name": "Nasdaq",
-        "value": "24,326.663",
-        "change": "+7.56%"
+        "value": "23,581.806",
+        "change": "-2.11%"
       },
       {
         "name": "CAC 40",
-        "value": "8,040.58",
-        "change": "+1.42%"
+        "value": "8,056.53",
+        "change": "+0.15%"
       },
       {
         "name": "DAX",
-        "value": "25,270.38",
-        "change": "+1.89%"
+        "value": "25,135.90",
+        "change": "-0.79%"
       },
       {
         "name": "Brent oil",
-        "value": "$89.47",
-        "change": "-3.35%"
+        "value": "$90.40",
+        "change": "+1.15%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.962%",
-        "change": "+0.05 pt"
+        "value": "4.90%",
+        "change": "-0.02 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.0925",
-        "change": "-0.383%"
+        "value": "1.0969",
+        "change": "+0.6238%"
       }
     ]
   },
   "week": [
     {
-      "text": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "text": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "text": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -63,59 +69,59 @@
       ]
     },
     {
-      "text": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+      "text": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "The European-Japanese BepiColombo mission has entered orbit around Mercury, completing a nearly eight-year journey to the Solar System’s… The post BepiColombo reaches Mercury orbit after nearly eight years in space appeared first on AeroTime .",
+      "text": "Grand Theft Auto is a huge gaming hit, but not for Microsoft’s Activision.",
       "urls": [
-        "https://www.aerotime.aero/articles/bepicolombo-reaches-mercury-orbit-after-nearly-eight-years-in-space"
-      ]
-    },
-    {
-      "text": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "urls": [
-        "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+        "https://www.wsj.com/opinion/grand-theft-auto-take-two-microsoft-activision-blizzard-9839cecc?mod=pls_whats_news_us_business_f"
       ]
     }
   ],
   "watch": [],
   "items": [
     {
-      "topic": "business",
+      "topic": "world",
       "importance": 3,
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24",
       "author": null,
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
       "also": [
-        {
-          "source": "The New York Times",
-          "author": "Joe Rennison",
-          "date": "2026-11-23",
-          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-          "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html"
-        },
         {
           "source": "Financial Times",
           "author": null,
-          "date": "2026-11-23",
-          "title": "Nvidia reinstates Jensen Huang as chief executive",
-          "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1"
+          "date": "2026-11-24",
+          "title": "US tech stocks slide as Jensen Huang return rally fades",
+          "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1"
         },
         {
-          "source": "Bloomberg",
-          "author": "Carmen Reinicke",
-          "date": "2026-11-23",
-          "title": "AI-Linked Stocks Take Off After Nvidia Restores Jensen Huang",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang"
+          "source": "The New York Times",
+          "author": "Katrin Bennhold",
+          "date": "2026-11-24",
+          "title": "The Return of Jensen Huang",
+          "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html"
+        },
+        {
+          "source": "The New York Times",
+          "author": "Joe Rennison",
+          "date": "2026-11-24",
+          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+          "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html"
         }
       ],
       "earlier": [
+        {
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-23"
+        },
         {
           "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
           "url": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
@@ -123,16 +129,36 @@
           "date": "2026-11-17"
         },
         {
-          "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 3,
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24",
+      "author": null,
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-24",
+          "title": "Jensen Huang’s return should not stop tighter US chip controls",
+          "url": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a"
         },
         {
-          "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
-          "source": "Al Jazeera",
-          "date": "2026-11-12"
+          "source": "The New York Times",
+          "author": "David Pierson, Sui-Lee Wee and Cecilia Kang",
+          "date": "2026-11-24",
+          "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html"
         }
       ]
     },
@@ -164,28 +190,47 @@
       ]
     },
     {
-      "topic": "markets",
-      "importance": 3,
-      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24",
       "author": null,
-      "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "also": [
         {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-23",
-          "title": "Capita shares drop 70% on cash call after civil service pension failures",
-          "url": "https://www.ft.com/content/d5e951e6-b5f6-4286-9de4-495c9a3c2472?syn-25a6b1a6=1"
+          "source": "AeroTime",
+          "author": "Stephen Pope",
+          "date": "2026-11-24",
+          "title": "Russia may launch a nuclear-armed satellite by year-end, German media report",
+          "url": "https://www.aerotime.aero/articles/russia-nuclear-armed-satellite-launch-warning"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Opinion | Lina Khan’s Grand Theft Antitrust",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/opinion/grand-theft-auto-take-two-microsoft-activision-blizzard-9839cecc?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-23",
+      "author": "The Editorial Board",
+      "summary": "Grand Theft Auto is a huge gaming hit, but not for Microsoft’s Activision.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Marc Tracy",
+          "date": "2026-11-20",
+          "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
+          "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html"
         },
         {
-          "source": "City AM",
-          "author": "Simon Hunt",
-          "date": "2026-11-23",
-          "title": "‘We have not delivered’: Capita boss quits after Civil Service Pension Scheme row",
-          "url": "https://www.cityam.com/capita-boss-adolfo-hernandez-quits-civil-service-pension-scheme/"
+          "source": "National Review",
+          "author": "James Lileks",
+          "date": "2026-11-22",
+          "title": "What Is the Fantasy in Grand Theft Auto Really All About?",
+          "url": "https://www.nationalreview.com/article/what-is-the-fantasy-in-grand-theft-auto-really-all-about"
         }
       ]
     },
@@ -211,467 +256,312 @@
     {
       "topic": "world",
       "importance": 2,
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22",
+      "title": "Pakistani astronaut set to make history on Chinese space mission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/pakistani-astronaut-set-to-make-history-on-chinese-space-mission?traffic_source=rss",
+      "date": "2026-11-24",
       "author": null,
-      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "summary": "Muhammad Zeeshan Ali is set to become the first foreign national astronaut to travel aboard a Chinese spacecraft.",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Verena Hölzl and Hasya Nindita",
-          "date": "2026-11-23",
-          "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
-          "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html"
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-23",
-          "title": "Search continues for dozens missing after Indonesia candy factory fire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss"
+          "source": "Nature",
+          "author": "Xiaoying You",
+          "date": "2026-11-24",
+          "title": "Pakistani astronaut to become first foreign visitor to China’s space station",
+          "url": "https://www.nature.com/articles/d41586-026-03829-y"
         }
       ]
     },
     {
-      "topic": "environment",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "COP31 ends with no deal after negotiators fail to reach an agreement on fossil fuels",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6050273/cop31-ends-with-no-deal-after-negotiators-fail-to-reach-an-agreement-on-fossil-fuels",
-      "date": "2026-11-23",
-      "author": "Rachel Waldholz",
-      "summary": "International climate talks in Turkey concluded without a deal after negotiators failed to reach a consensus on fossil fuels.",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-23",
-          "title": "Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines",
-          "url": "https://www.ft.com/content/32f7f678-1037-4922-860b-4b7f3c9f6de7?syn-25a6b1a6=1",
-          "note": "The Financial Times emphasizes the 'unbridgeable' nature of the disagreements and the specific 'red lines' drawn by negotiators."
-        },
-        {
-          "source": "The Conversation",
-          "author": "Jacqueline Peel, Professor of Law, The University of Melbourne",
-          "date": "2026-11-23",
-          "title": "How did the COP31 climate agreement fall apart – and what happens now?",
-          "url": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
-          "note": "The Conversation frames the event as a failure to be analyzed, focusing on the mechanics of how the agreement fell apart and the subsequent implications."
-        }
-      ],
-      "brief": {
-        "what": "The COP31 international climate summit, which took place in Turkey, has officially concluded without reaching a deal. Negotiators from around the world were unable to produce a final agreement after failing to find common ground on the issue of fossil fuels.",
-        "who": "The main actors involved were international negotiators and government representatives from various countries who participated in the climate talks in Turkey.",
-        "context": "These talks represent a global effort to address the ongoing climate crisis. The article notes that fossil fuels are considered the primary driver of climate change, which placed them at the center of the negotiations.",
-        "why": "According to the report, the summit ended in disappointment because countries could not reach an agreement regarding fossil fuels. The failure to bridge these differences prevented the adoption of a final deal.",
-        "next": "The article doesn't say."
-      }
+      "title": "Pressure Builds at American Airlines as It Lags Delta and United",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
+      "date": "2026-11-24",
+      "author": "Niraj Chokshi",
+      "summary": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
+      "also": []
     },
     {
-      "topic": "world",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-      "date": "2026-11-23",
-      "author": "Scott Horsley",
-      "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-23",
-          "title": "Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal",
-          "url": "https://www.foxbusiness.com/politics/trump-doubles-down-call-nvidia-rehire-jensen-huang-amid-alleged-chinese-spy-scandal"
-        },
-        {
-          "source": "New York Post",
-          "author": "Emily Goodin",
-          "date": "2026-11-23",
-          "title": "Trump hails Nvidia’s ‘correct and proper’ move to reinstate Jensen Huang as CEO: ‘Great Patriot and National Treasure’",
-          "url": "https://nypost.com/2026/11/23/us-news/trump-hails-jensen-huangs-reinstatement-as-nvidia-ceo/"
-        }
-      ],
+      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-24",
+      "author": "Drew FitzGerald",
+      "summary": "There is plenty of demand for a Starlink alternative, but Amazon’s satellite arm, known as Leo, is facing setbacks.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+      "date": "2026-11-24",
+      "author": "Kate Kelly, Nicholas Nehamas and Karoun Demirjian",
+      "summary": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
+      "also": [],
       "earlier": [
         {
-          "title": "Bill Ackman blasts Nvidia's board over Jensen Huang's ouster, says it 'panicked'",
-          "url": "https://www.foxbusiness.com/business-leaders/bill-ackman-blasts-nvidias-board-over-jensen-huangs-ouster-says-panicked",
-          "source": "Fox Business",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "How important are Nvidia and Jensen Huang to the US economy?",
-          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-          "url": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
+          "title": "The Mounting Toll of the Nationwide Ground Stop: 20,000 Flights and Counting",
+          "url": "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
           "source": "Wall Street Journal",
           "date": "2026-11-17"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-23",
-      "author": "Gareth Vipers",
-      "summary": "The tie-up brings together two of cybersecurity’s biggest names as rapidly evolving AI threats make digital defense a boardroom priority.",
-      "also": [
-        {
-          "source": "Bloomberg",
-          "author": null,
-          "date": "2026-11-23",
-          "title": "Stocks Rebound After AI-Driven Correction; Crowdstrike to Buy ZScaler",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-brief-11-23-2026-video"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
-      "date": "2026-11-20",
-      "author": "Marc Tracy",
-      "summary": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Ben Fritz",
-          "date": "2026-11-20",
-          "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
-          "url": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f"
         },
         {
-          "source": "National Review",
-          "author": "James Lileks",
-          "date": "2026-11-22",
-          "title": "What Is the Fantasy in Grand Theft Auto Really All About?",
-          "url": "https://www.nationalreview.com/article/what-is-the-fantasy-in-grand-theft-auto-really-all-about"
-        },
-        {
-          "source": "National Review",
-          "author": "Jeffrey Blehar",
-          "date": "2026-11-20",
-          "title": "Grand Theft Auto VI and How We Spend Our Time",
-          "url": "https://www.nationalreview.com/article/grand-theft-auto-vi-and-how-we-spend-our-time"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
-          "url": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "date": "2026-11-20"
-        }
-      ]
-    },
-    {
-      "topic": "markets",
-      "importance": 2,
-      "title": "CBI boss warns Burnham’s public control push is ‘kryptonite to investors’",
-      "source": "City AM",
-      "url": "https://www.cityam.com/burnham-public-control-code-for-renationalisation-cbi-boss-warns/",
-      "date": "2026-11-23",
-      "author": "Maurício Alencar",
-      "summary": "Andy Burnham’s pledge to expand public control “sounds like code for renationalisation”, the boss of Britain’s most influential business group has warned, as she called on the Prime Minister to clarify that private investment would boost growth. At the body’s flagship conference on Monday, Confederation of British…",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-23",
-          "title": "Burnham’s public control rhetoric is investor ‘kryptonite’, says CBI",
-          "url": "https://www.ft.com/content/d6bf4690-4bd3-4ded-bde7-b810659214d7?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Three Russian objects crash in Poland as Swedish Gripens attempt interception",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/russian-kh-101-poland-swedish-gripens-interception",
-      "date": "2026-11-20",
-      "author": "Clement Charpentreau",
-      "summary": "Poland’s Defense Minister Władysław Kosiniak-Kamysz confirmed on November 20, 2026, that a Russian Kh-101 cruise missile had crashed… The post Three Russian objects crash in Poland as Swedish Gripens attempt interception appeared first on AeroTime .",
-      "also": [
-        {
+          "title": "Why Some Flights Were Exempt From the Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
           "source": "The New York Times",
-          "author": "Anatol Magdziarz, Aurelien Breeden and James McManagan",
-          "date": "2026-11-20",
-          "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-          "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html"
+          "date": "2026-11-15"
         }
       ]
     },
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-20",
-      "author": "Isabella Simonetti",
-      "summary": "Amazon is warning New York City customers that a proposed delivery bill could result in a $5 fee per order. The company is urging shoppers to oppose the legislation, which is backed by Zohran Mamdani.",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-23",
-          "title": "Amazon warns NYC of $5 fees due to mayor’s delivery bill; Mamdani cries ‘greed’",
-          "url": "https://www.foxbusiness.com/politics/amazon-warns-nyc-5-fees-due-mayors-delivery-bill-mamdani-cries-greed",
-          "note": "Fox Business includes a direct quote from Mamdani calling the move 'greed' and explicitly attributes the bill to the mayor."
-        }
-      ],
-      "brief": {
-        "what": "Amazon has initiated a campaign urging its New York City customers to oppose a new delivery bill backed by Zohran Mamdani. The company is warning online shoppers via pop-up notifications that they could face a $5 fee per order if the proposed legislation is enacted. This direct appeal to the consumer base serves as a tactic to pressure local lawmakers by highlighting potential costs to the public.",
-        "who": "The main actors include Amazon, which is actively lobbying its customers; Zohran Mamdani, the legislator supporting the bill; and New York City's City Hall, which is currently in a legislative battle with the company.",
-        "context": "This move represents a significant escalation in the friction between the e-commerce giant and New York City officials over delivery-related regulations and municipal oversight.",
-        "why": "Amazon warns that the $5 fee is a necessary response to the proposed legislation, while Mamdani has countered by describing the company's warning as an act of greed.",
-        "next": "The article doesn't say."
-      },
-      "numbers": [
-        {
-          "figure": "$5",
-          "what": "fee per order if legislation passes"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "How Southwest, Target and AT&T Finance Chiefs Think About the Human in the Loop",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/cfo-journal/how-southwest-target-and-at-t-finance-chiefs-think-about-the-human-in-the-loop-c2f175a1?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-23",
-      "author": "Walden Siew",
-      "summary": "Plus, Delta resolves automation outage that led to over 1,000 flight delays.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-22",
-      "author": "Alison Sider",
-      "summary": "The issues have arisen a little more than week after a nationwide ground stop and ahead of Thanksgiving travel.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Carry cash and know your rights: how to fly in the US this Thanksgiving holiday",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global/2026/nov/23/thanksgiving-air-travel-us-explainer",
-      "date": "2026-11-23",
-      "author": "Heather Timmons",
-      "summary": "Amid air chaos, travelers will have to navigate an outdated system (and complex company policies if it all goes wrong) Millions of people are planning to fly in the US over the Thanksgiving holiday, just two weeks after the US Federal Aviation Administration’s 13 November ground stop halted all flights nationwide for…",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Forint Jumps After Hungary Softens Interest-Rate Guidance",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/forint-jumps-after-hungary-softens-interest-rate-guidance",
-      "date": "2026-11-23",
-      "author": "Zoltan Simon and Thomas Escritt",
-      "summary": "The Hungarian forint rose after the central bank indicated it has less room to cut interest rates. The policy shift follows a recent market selloff.",
+      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+      "date": "2026-11-24",
+      "author": "Spacemanic",
+      "summary": "Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […] The post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution…",
       "also": [],
-      "brief": {
-        "what": "The Hungarian forint jumped in value after the country's central bank softened its monetary policy guidance. This shift indicates that the central bank sees more limited room to cut interest rates following a recent market selloff.",
-        "who": "The primary actor is the Hungarian central bank, which is responsible for setting the nation's monetary policy and issuing guidance to the markets. The movement of the forint reflects the reaction of currency traders and investors to this news.",
-        "context": "The central bank's decision comes in the wake of a market selloff that has influenced the economic environment. Monetary policy guidance is a key tool used by central banks to manage market expectations regarding future interest rate adjustments.",
-        "why": "The central bank adjusted its stance because it determined that the capacity for further interest rate reductions has diminished. This assessment was made citing the impact of the recent market selloff on the available room for policy maneuvers.",
-        "next": "The article doesn't say."
-      }
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Citi Wealth CIO Moore Says ‘Going to Wait It Out’ on Market Selloff",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/citi-wealth-cio-moore-on-selloff-going-to-wait-it-out-video",
-      "date": "2026-11-23",
-      "author": null,
-      "summary": "Kate Moore, chief investment officer at Citi Wealth, says she’s not ready to call an “all clear” on markets, but doesn’t see anything to make her cut back her equity exposure. She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
-      "date": "2026-11-23",
-      "author": null,
-      "summary": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Palmer Luckey’s start-up bank hits $1bn in loans",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a561a19d-fdd6-4cab-9ae9-58d8e0efbd0e?syn-25a6b1a6=1",
-      "date": "2026-11-23",
-      "author": null,
-      "summary": "Lender set up by Anduril founder expected to draw scrutiny from Democrats over his ties to Trump administration",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Nasdaq jumps 7% as Nvidia shares soar",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-      "date": "2026-11-23",
-      "author": null,
-      "summary": "Chip giant up 33% after Huang reinstated while S&P gains 4.3%",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Hilco approached to sell off Poundland’s stock if retailer fails",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0ee5c4f7-f6c8-4dcc-b947-3770c0253faf?syn-25a6b1a6=1",
-      "date": "2026-11-23",
-      "author": null,
-      "summary": "Discount retailer set to enter administration on Wednesday night unless a buyer is found",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
-      "date": "2026-11-23",
-      "author": "Ephrat Livni",
-      "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Spain’s Plus Ultra may have operated final flight, ceased operations",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/spains-plus-ultra-may-have-operated-final-flight-ceased-operations",
-      "date": "2026-11-23",
-      "author": "Miquel Ros",
-      "summary": "Spanish long-haul airline Plus Ultra Líneas Aéreas appeared to have completely ceased operations on November 23, 2026. The… The post Spain’s Plus Ultra may have operated final flight, ceased operations appeared first on AeroTime .",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Ukrainian Mirage 2000 shoots down jet-powered drone with cannon: video",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/ukraine-mirage-2000-cannon-drone-interception-video",
-      "date": "2026-11-23",
-      "author": "Clement Charpentreau",
-      "summary": "The Ukrainian Air Force has released footage of one of its French-supplied Mirage 2000 fighters shooting down a… The post Ukrainian Mirage 2000 shoots down jet-powered drone with cannon: video appeared first on AeroTime .",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "How the U.S. Economy Is Tied to A.I.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
-      "date": "2026-11-22",
-      "author": "Ben Casselman, Alexandra Ostasiewicz, James Surdam, Edward Vega and Nikolay Nikolov",
-      "summary": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Anthropic plunges as Wall Street suffers AI sell-off",
-      "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/business/2026/11/20/ai-tech-sell-off-anthropic-claude-nasdaq-ftse-100-markets/",
-      "date": "2026-11-20",
-      "author": "Chris Price",
-      "summary": "Anthropic plunges as Wall Street suffers AI sell-off",
-      "also": [
-        {
-          "source": "Fox Business",
-          "author": null,
-          "date": "2026-11-20",
-          "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-          "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
-        }
-      ],
       "earlier": [
         {
-          "title": "Anthropic IPO Puts Wall Street’s Speculation Factory on Display",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
-          "source": "Bloomberg",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-          "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-          "source": "The New York Times",
-          "date": "2026-11-14"
+          "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+          "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
+          "source": "SpaceNews",
+          "date": "2026-11-03"
         }
       ]
     },
     {
-      "topic": "environment",
-      "importance": 1,
-      "title": "Build for the future climate — or waste trillions of dollars",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03722-8",
+      "topic": "aerospace",
+      "importance": 2,
+      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
       "date": "2026-11-23",
-      "author": "Saroj Kanta Mishra",
-      "summary": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03722-8 Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built.",
+      "author": "Grace Kay and Ryan Mac",
+      "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+      "also": [],
+      "earlier": [
+        {
+          "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
+          "url": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Dick’s Sporting Goods Raises Profit Outlook on Core Business Strength",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-24",
+      "author": "Kelly Cloonan",
+      "summary": "Dick’s Sporting Goods raised its earnings guidance for the year on strength in its core business and improving trends at Foot Locker.",
       "also": []
     },
     {
-      "topic": "environment",
+      "topic": "business",
       "importance": 1,
-      "title": "How to make climate anxiety your superpower",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03818-1",
-      "date": "2026-11-23",
-      "author": "Nick Petrić Howe",
-      "summary": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03818-1 Climate change can provoke anxiety in many. Here’s how one Nature reporter channelled his anxiety into action.",
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "date": "2026-11-24",
+      "author": "Jason Karaian",
+      "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Banks regain some ground in the private credit tug of war",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1",
+      "date": "2026-11-24",
+      "author": null,
+      "summary": "For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Analog Devices Profit, Revenue Rise but Forecast Is Mixed",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/analog-devices-profit-revenue-rise-as-industrial-data-center-demand-surges-3dfef138?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-24",
+      "author": "Adriano Marchese",
+      "summary": "Analog Devices posted higher fiscal fourth-quarter profit and revenue, buoyed by surging industrial and data-center chip demand, but gave a mixed forecast for the first quarter.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
+      "date": "2026-11-24",
+      "author": "Geoffrey Morgan and Emily Forgash",
+      "summary": "Avoiding down days in the stock market often means missing out on the biggest gains. Those who cashed out after US equities reeled last week just learned that lesson the hard way.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Dealing with an energy market both tight and loose",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
+      "date": "2026-11-24",
+      "author": null,
+      "summary": "Inflationary pressures remain in diesel and jet fuel prices despite a glut of gasoline",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "BlackRock wants to launch private market ETFs. Because of course it does",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
+      "date": "2026-11-24",
+      "author": null,
+      "summary": "A sudden ETIFany",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Yes, pay disclosure rules need a rethink. But the SEC is not helping investors",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1",
+      "date": "2026-11-24",
+      "author": null,
+      "summary": "The slimmed-down proposal will please corporate executives, but what about shareholders?",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Fund With $21 Billion Favors Africa Local Bonds, Adds to Uganda Bet",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/fund-with-21-billion-favors-africa-local-bonds-adds-to-uganda-bet",
+      "date": "2026-11-24",
+      "author": "Ray Ndlovu",
+      "summary": "A currency rout that wiped 8% off the value of Uganda’s shilling last month rattled some investors, but failed to deter a $21 billion money manager.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Before the FAA’s 70th router, prove it won’t crash the network",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/op-eds/4812224/faa-nationwide-ground-stop-modernization-no-integrated-master-schedule/",
+      "date": "2026-11-24",
+      "author": "Burak Oktenli",
+      "summary": "Sixty-eight router installations had gone well. Then came the 69th. On Nov. 13, routine work at a Federal Aviation Administration radio site in El Dorado, Arkansas, coincided with a flood of connection attempts across the agency’s aging network. Radio communications and radar feeds became unreliable. The FAA halted…",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Oil prices fall as traders weigh hopes of Iran talks against shipping risks",
+      "source": "City AM",
+      "url": "https://www.cityam.com/oil-prices-fall-as-traders-weigh-hopes-of-iran-talks-against-shipping-risks/",
+      "date": "2026-11-24",
+      "author": "Maisie Grice",
+      "summary": "Oil prices extended their decline on Tuesday as hopes of potential deal between the US and Iran offset shipping risks in the Strait of Hormuz. Brent crude slipped 0.4 per cent to $88.9 per barrel in early trading, after closing at its lowest level since 31 August on Monday. West Texas Intermediate also declined 0.2…",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "B&Q owner Kingfisher targets higher profit as Screwfix soars",
+      "source": "City AM",
+      "url": "https://www.cityam.com/bq-owner-kingfisher-targets-higher-profit-as-screwfix-soars/",
+      "date": "2026-11-24",
+      "author": "Felix Armstrong",
+      "summary": "B&Q owner Kingfisher has lifted its profit target for the second time in just two months after seeing its shift towards trade customers drive demand at Screwfix. The FTSE 100 home improvements retailer told shareholders it now expects to notch a pre-tax profit of between £610m and £640m, having lifted its target range…",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "UK firms warned on hiring workers abroad amid Russia and North Korea threat",
+      "source": "City AM",
+      "url": "https://www.cityam.com/uk-firms-warned-on-hiring-workers-abroad-amid-russia-and-north-korea-threat/",
+      "date": "2026-11-24",
+      "author": "Maurício Alencar",
+      "summary": "British firms have been warned about the security risks of hiring remote IT workers as the Treasury said paid work could lead to the funds being passed to North Korea and Russia. In a lengthy report on the financial risks facing businesses and various industries, the Treasury warned that firms risked financing hostile…",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Compass US listing move is a wake-up call for UK capital markets",
+      "source": "City AM",
+      "url": "https://www.cityam.com/compass-us-listing-wake-up-call-uk-capital-markets/",
+      "date": "2026-11-24",
+      "author": "Charles Hall",
+      "summary": "Compass’s move of its primary listing to the US should be a wake-up call for anyone who cares about UK capital markets, says Charles Hall Crisis, what crisis? Compass is expected to announce tomorrow that it intends to move its primary listing to the US. This may not seem a big event for many – [...]",
       "also": []
     },
     {
       "topic": "science",
       "importance": 1,
-      "title": "I t’s our duty to promote ourselves: even to other scientists. Am I wrong?",
+      "title": "Fight AI slop without punishing legitimate researchers",
       "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02203-2",
-      "date": "2026-11-23",
-      "author": "Rachael Pells",
-      "summary": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-02203-2 A jury weighs in on whether it’s a researcher’s responsibility to convince colleagues that their work matters — or whether others should come to them instead.",
+      "url": "https://www.nature.com/articles/d41586-026-03824-3",
+      "date": "2026-11-24",
+      "author": "Yinjie Jia",
+      "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03824-3 Fight AI slop without punishing legitimate researchers",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "The science on AI consciousness must acknowledge uncertainty",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03822-5",
+      "date": "2026-11-24",
+      "author": "Haewoon Kwak",
+      "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03822-5 The science on AI consciousness must acknowledge uncertainty",
+      "also": []
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Himalayan disasters demand biodiversity conservation across borders",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03825-2",
+      "date": "2026-11-24",
+      "author": "Guan-Long Cao",
+      "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03825-2 Himalayan disasters demand biodiversity conservation across borders",
       "also": []
     },
     {
       "topic": "culture",
       "importance": 1,
-      "title": "Women’s World Cup to be held in UK in 2035 after Fifa approves bid",
+      "title": "Senegal reinstated as Afcon champions after winning CAS appeal over walk-off",
       "source": "City AM",
-      "url": "https://www.cityam.com/womens-world-cup-2035-uk-fifa-approves-bid/",
-      "date": "2026-11-23",
+      "url": "https://www.cityam.com/senegal-reinstated-afcon-champions-cas-appeal/",
+      "date": "2026-11-24",
       "author": "Frank Dalleres",
-      "summary": "A football World Cup finals will be played in England for the first time since 1966 after Fifa confirmed that the UK will host the women’s tournament in 2035. The joint bid from England, Scotland, Wales and Northern Ireland faced no rival proposals and was rubber-stamped today at a special congress at governing body…",
-      "also": []
+      "summary": "Senegal have been reinstated as reigning champions of the Africa Cup of Nations after winning an appeal at the Court of Arbitration for Sport (CAS). The independent panel sided with the Senegalese Football Federation (FSF) over its challenge to being stripped of the title in March by the Confederation of African…",
+      "also": [
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-24",
+          "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss"
+        }
+      ]
     }
   ]
 }
