@@ -1,185 +1,351 @@
 {
-  "generated": "2026-11-24",
-  "window": "2026-11-17 to 2026-11-24",
+  "generated": "2026-11-25",
+  "window": "2026-11-18 to 2026-11-25",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-24",
-    "label": "Tue 24 Nov · change on the day",
+    "asof": "2026-11-25",
+    "label": "Wed 25 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,158.60",
-        "change": "-1.09%"
+        "value": "7,006.48",
+        "change": "-2.70%"
       },
       {
         "name": "Dow",
-        "value": "49,591.77",
-        "change": "-0.01%"
+        "value": "49,172.57",
+        "change": "-1.69%"
       },
       {
         "name": "Nasdaq",
-        "value": "23,581.806",
-        "change": "-2.11%"
+        "value": "22,801.143",
+        "change": "-3.93%"
       },
       {
         "name": "CAC 40",
-        "value": "8,056.53",
-        "change": "+0.15%"
+        "value": "8,063.66",
+        "change": "+0.29%"
       },
       {
         "name": "DAX",
-        "value": "25,135.90",
-        "change": "-0.79%"
+        "value": "24,920.00",
+        "change": "-0.39%"
       },
       {
         "name": "Brent oil",
-        "value": "$90.40",
-        "change": "+1.15%"
+        "value": "$93.44",
+        "change": "+2.23%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.90%",
-        "change": "-0.02 pt"
+        "value": "4.822%",
+        "change": "-0.08 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.0969",
-        "change": "+0.6238%"
+        "value": "1.0937",
+        "change": "-0.2463%"
       }
     ]
   },
   "week": [
     {
-      "text": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "urls": [
-        "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "text": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "text": "Nvidia has reinstated co-founder Jensen Huang as CEO following personal intervention from President Trump, reversing a board decision made after a scandal involving a suspected Chinese spy.",
       "urls": [
         "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "text": "The Pentagon is in preliminary talks with General Motors, Ford Motor Company and other manufacturers about supplying parts… The post Pentagon seeks to enlist US automakers in military drone production push appeared first on AeroTime .",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+        "https://www.aerotime.aero/articles/pentagon-us-automakers-military-drone-production"
       ]
     },
     {
-      "text": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "text": "UK energy bills will increase by 26% in January after a surge in wholesale gas prices linked to the Iran war. The government plans to issue a £100 payment to millions of households to help mitigate rising winter costs.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "text": "Grand Theft Auto is a huge gaming hit, but not for Microsoft’s Activision.",
+      "text": "The Solomon Islands has signed a security and economics treaty with Australia, reportedly ending a controversial 2022 pact with China to restore regional stability.",
       "urls": [
-        "https://www.wsj.com/opinion/grand-theft-auto-take-two-microsoft-activision-blizzard-9839cecc?mod=pls_whats_news_us_business_f"
+        "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "text": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+      "urls": [
+        "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party"
       ]
     }
   ],
   "watch": [],
   "items": [
     {
-      "topic": "world",
-      "importance": 3,
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24",
-      "author": null,
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "also": [
-        {
-          "source": "Financial Times",
-          "author": null,
-          "date": "2026-11-24",
-          "title": "US tech stocks slide as Jensen Huang return rally fades",
-          "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1"
-        },
-        {
-          "source": "The New York Times",
-          "author": "Katrin Bennhold",
-          "date": "2026-11-24",
-          "title": "The Return of Jensen Huang",
-          "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html"
-        },
-        {
-          "source": "The New York Times",
-          "author": "Joe Rennison",
-          "date": "2026-11-24",
-          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-          "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "How important are Nvidia and Jensen Huang to the US economy?",
-          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-          "url": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-17"
-        },
-        {
-          "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "topic": "world",
+      "topic": "business",
       "importance": 3,
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24",
       "author": null,
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "summary": "Nvidia has reinstated co-founder Jensen Huang as CEO following personal intervention from President Trump, reversing a board decision made after a scandal involving a suspected Chinese spy.",
       "also": [
         {
-          "source": "Financial Times",
-          "author": null,
+          "source": "Wall Street Journal",
+          "author": "Alexander Ward",
+          "date": "2026-11-25",
+          "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One",
+          "url": "https://www.wsj.com/tech/ai/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-d0d4abc3?mod=pls_whats_news_us_business_f",
+          "note": {
+            "Wall Street Journal": "Focuses on the continuity of Huang's strategic vision for the company despite the leadership turmoil."
+          }
+        },
+        {
+          "source": "The New York Times",
+          "author": "Kalley Huang, Jordyn Holman, Lauren Hirsch and Ryan Mac",
           "date": "2026-11-24",
-          "title": "Jensen Huang’s return should not stop tighter US chip controls",
-          "url": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a"
+          "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+          "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+          "note": {
+            "The New York Times": "Highlights the erosion of board independence due to presidential intervention."
+          }
         },
         {
           "source": "The New York Times",
           "author": "David Pierson, Sui-Lee Wee and Cecilia Kang",
           "date": "2026-11-24",
           "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
-          "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html"
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+          "note": {
+            "The New York Times": "Examines the geopolitical implications of the reinstatement specifically for China."
+          }
+        }
+      ],
+      "brief": {
+        "what": "Jensen Huang returned as Nvidia CEO after being forced out due to an extramarital affair with a suspected Chinese spy. His reinstatement, reportedly brokered by President Trump, led to a 31% surge in share price and added nearly $1 trillion in market value.",
+        "who": "The main actors are Jensen Huang, President Donald Trump, who pressured the board, and Harvey Jones, Nvidia’s board chairman. Lawmakers like Hakeem Jeffries and Elizabeth Warren have emerged as vocal critics of the intervention.",
+        "context": "Huang resigned on November 12 after revelations of an affair with Alice Huang, the CEO of a blacklisted Singaporean firm. Nvidia's board initially rejected his return but reversed course following White House intervention and significant stock losses.",
+        "why": "President Trump stated he 'made the deal' to bring Huang back, arguing that losing him was a greater threat than keeping him. Board chairman Harvey Jones claimed the move was in the 'best interests' of stakeholders, citing government assurances that Huang poses no national security risk.",
+        "next": "Huang is scheduled to testify before three House committees on December 1 and the Senate Banking Committee on December 3 regarding national security concerns. Lawmakers have vowed to investigate the Trump administration's role in the reinstatement."
+      },
+      "numbers": [
+        {
+          "figure": "$1 trillion",
+          "what": "increase in Nvidia's market value"
+        },
+        {
+          "figure": "31%",
+          "what": "jump in Nvidia's share price"
+        },
+        {
+          "figure": "$23m and $86m",
+          "what": "value of Trump's Nvidia share purchases"
+        },
+        {
+          "figure": "$3.5m and $10.2m",
+          "what": "gains Trump made from selling Nvidia stake"
+        },
+        {
+          "figure": "$265,000",
+          "what": "amount of Nvidia stock Trump purchased recently"
         }
       ]
     },
     {
-      "topic": "environment",
+      "topic": "aerospace",
       "importance": 3,
+      "title": "Pentagon seeks to enlist US automakers in military drone production push",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/pentagon-us-automakers-military-drone-production",
+      "date": "2026-11-24",
+      "author": "Stephen Pope",
+      "summary": "The Pentagon is in preliminary talks with General Motors, Ford Motor Company and other manufacturers about supplying parts… The post Pentagon seeks to enlist US automakers in military drone production push appeared first on AeroTime .",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Heather Somerville",
+          "date": "2026-11-24",
+          "title": "Pentagon in Talks With General Motors and Ford to Make Military Drones",
+          "url": "https://www.wsj.com/politics/national-security/ford-general-motors-military-drones-c082d202?mod=pls_whats_news_us_business_f"
+        },
+        {
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-11-24",
+          "title": "Pentagon reportedly in talks with GM, Ford to scale US military drone production",
+          "url": "https://www.foxbusiness.com/economy/pentagon-reportedly-talks-gm-ford-scale-us-military-drone-production"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 3,
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "UK energy bills will increase by 26% in January after a surge in wholesale gas prices linked to the Iran war. The government plans to issue a £100 payment to millions of households to help mitigate rising winter costs.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-25",
+          "title": "British household energy bills to soar 26% from January",
+          "url": "https://www.ft.com/content/e9dea6f2-dcf8-4ec5-96ec-0415694bf897?syn-25a6b1a6=1",
+          "note": {
+            "Financial Times": "Uses the word 'soar' to emphasize the dramatic nature of the 26% increase for British households."
+          }
+        },
+        {
+          "source": "City AM",
+          "author": "Maisie Grice",
+          "date": "2026-11-25",
+          "title": "Energy bills set to rocket 26 per cent in major blow to UK households",
+          "url": "https://www.cityam.com/energy-bills-set-to-rocket-26-per-cent-in-major-blow-to-uk-households/",
+          "note": {
+            "City AM": "Frames the price hike as a 'major blow' to UK households, highlighting the negative economic impact."
+          }
+        }
+      ],
+      "brief": {
+        "what": "Energy regulator Ofgem announced that typical annual household energy bills will rise by 26% to £2,166 starting in January. This increase translates to an average monthly rise of approximately £37, though high winter usage could push the extra cost closer to £60 per month.",
+        "who": "The main actors include the regulator Ofgem, which sets the price cap; the UK government, which is issuing support payments; and energy suppliers represented by the trade body Energy UK.",
+        "context": "The price cap is adjusted every three months based on wholesale costs and the expense of running the energy system. This latest hike is the largest since the start of the Russia-Ukraine conflict and occurs during the peak winter heating season.",
+        "why": "Ofgem attributes the rise entirely to a 33% surge in wholesale gas prices driven by the Iran war. While energy suppliers' profit margins are capped on a percentage basis, Energy UK notes that higher bills will result in increased nominal cash profits.",
+        "next": "The government will issue a £100 payment to up to 20 million households starting January 4. While international wholesale prices have recently dipped, these lower costs will not be reflected until the April price cap adjustment."
+      },
+      "numbers": [
+        {
+          "figure": "26%",
+          "what": "increase in household energy bills"
+        },
+        {
+          "figure": "£2,166",
+          "what": "annual bill for a typical household"
+        },
+        {
+          "figure": "33%",
+          "what": "rise in wholesale gas prices"
+        },
+        {
+          "figure": "£100",
+          "what": "government payment to millions of households"
+        },
+        {
+          "figure": "10.96p",
+          "what": "price per kilowatt-hour for gas"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "The Solomon Islands has signed a security and economics treaty with Australia, reportedly ending a controversial 2022 pact with China to restore regional stability.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Victoria Kim and Laura Chung",
+          "date": "2026-11-25",
+          "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+          "note": "The New York Times frames the treaty explicitly as a strategic blow to China's regional ambitions."
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-25",
+          "title": "Solomon Islands signs security deal with Australia",
+          "url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+          "note": "Al Jazeera provides a more neutral headline that focuses strictly on the act of signing the security deal."
+        }
+      ],
+      "brief": {
+        "what": "The Solomon Islands signed a historic security and economics treaty with Australia, committing to consult Canberra on critical infrastructure and prohibiting foreign military bases. This move follows reports that Honiara notified Beijing it would not renew a 2022 security pact set to expire in 2027.",
+        "who": "Australian Prime Minister Anthony Albanese and Solomon Islands Prime Minister Matthew Wale signed the agreement, which Wale described as a reset for the nation.",
+        "context": "The previous 2022 pact with China sparked international concern over potential Chinese military expansion in the Pacific. Australia has since sought to solidify its role as the security partner of choice for Pacific nations through a series of similar bilateral deals to counter Beijing's influence.",
+        "why": "Prime Minister Wale stated the treaty addresses years of uncertainty and doubt regarding the nation's regional role. Albanese argued that supporting Pacific neighbors is an investment in Australia's own security and prosperity while respecting Solomon Islands sovereignty.",
+        "next": "The Solomon Islands will receive Australian support for its education system, renewable energy expansion, and infrastructure development, alongside improved visa arrangements for its citizens."
+      },
+      "numbers": [
+        {
+          "figure": "A$980m",
+          "what": "additional funding promised in the package"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 2,
+      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+      "date": "2026-11-25",
+      "author": "The Associated Press",
+      "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "Christopher Buckley",
+          "date": "2026-11-24",
+          "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html"
+        },
+        {
+          "source": "Al Jazeera",
+          "author": null,
+          "date": "2026-11-25",
+          "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "National Security vs. the Stock Market",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+      "date": "2026-11-25",
+      "author": "Katrin Bennhold",
+      "summary": "President Trump successfully lobbied Nvidia’s board to reinstate Jensen Huang as chief executive, dismissing concerns regarding potential espionage.",
+      "also": [
+        {
+          "source": "The Washington Post",
+          "author": "David J. Lynch",
+          "date": "2026-11-24",
+          "title": "Trump’s Nvidia gambit shows the stock market is the economy",
+          "url": "https://www.washingtonpost.com/business/2026/11/24/maybe-market-is-economy-after-all/",
+          "note": "The Washington Post frames the event as a demonstration that the stock market is now synonymous with the economy, whereas the New York Times focuses on the tension between security and markets."
+        }
+      ],
+      "kind": "analysis",
+      "brief": {
+        "what": "President Trump took the direct action of lobbying the board of directors at Nvidia to ensure that Jensen Huang was reinstated as the company's chief executive. This specific intervention represents a significant and direct interaction between the highest office of the executive branch of the government and the corporate leadership of a major private technology firm.",
+        "who": "The main actors involved in this story are President Trump, who initiated the lobbying efforts, the board of directors at Nvidia who are responsible for executive appointments, and Jensen Huang, the specific individual being reinstated to the position of chief executive.",
+        "context": "This leadership change and the associated lobbying took place against a backdrop of significant national security concerns, specifically involving the possibility of espionage that had been raised in relation to the company or its leadership.",
+        "why": "The reinstatement occurred because President Trump chose to sweep aside and dismiss the stated concerns regarding possible espionage in order to advocate for Jensen Huang's return to the role of chief executive.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "environment",
+      "importance": 2,
       "title": "Five takeaways from the failed climate talks COP31",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23",
       "author": null,
       "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Lisa Friedman and Chico Harlan",
-          "date": "2026-11-23",
-          "title": "COP31 Climate Talks Broke Down. Now What?",
-          "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html"
-        }
-      ],
+      "also": [],
       "earlier": [
         {
           "title": "Who’s who at Cop31: key players at the climate talks",
@@ -190,47 +356,48 @@
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "markets",
       "importance": 2,
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24",
-      "author": null,
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "title": "Stock Sell-Off Continues as Investors Fret About A.I., Tariffs and Inflation",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+      "date": "2026-11-25",
+      "author": "Jason Karaian and Joe Rennison",
+      "summary": "Technology stocks including Nvidia and Anthropic continued to decline as investors reacted to concerns over artificial intelligence, trade tariffs, and inflation. The market sell-off reflects growing anxiety regarding global trade developments and the future direction of interest rates.",
       "also": [
         {
-          "source": "AeroTime",
-          "author": "Stephen Pope",
-          "date": "2026-11-24",
-          "title": "Russia may launch a nuclear-armed satellite by year-end, German media report",
-          "url": "https://www.aerotime.aero/articles/russia-nuclear-armed-satellite-launch-warning"
+          "source": "Fox Business",
+          "author": null,
+          "date": "2026-11-25",
+          "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
+          "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+          "note": "Fox Business attributes the deepening sell-off to a rise in the Federal Reserve's preferred inflation gauge, a specific detail not mentioned in the New York Times headline."
         }
-      ]
+      ],
+      "brief": {
+        "what": "A significant stock sell-off persisted in the financial markets as investors reduced their holdings in major technology firms. This downward movement is characterized by widespread concern regarding the future of artificial intelligence, the implementation of trade tariffs, and the impact of inflation on the economy.",
+        "who": "The main actors involved include global investors and prominent technology companies such as Nvidia and Anthropic, which saw their stock values tumble during the trading session.",
+        "context": "This market activity is taking place as the financial community evaluates recent developments in global trade and attempts to predict the future path of interest rates. The sell-off reflects a broader period of volatility for tech-heavy portfolios as market participants weigh various macroeconomic factors.",
+        "why": "The New York Times reports that the decline happened because investors are fretting about the sustainability of A.I. growth, the potential for new tariffs, and rising inflation. Additionally, market participants are weighing how these factors will influence the trajectory of interest rates according to the report.",
+        "next": "The article doesn't say."
+      }
     },
     {
-      "topic": "world",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "Opinion | Lina Khan’s Grand Theft Antitrust",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/opinion/grand-theft-auto-take-two-microsoft-activision-blizzard-9839cecc?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-23",
-      "author": "The Editorial Board",
-      "summary": "Grand Theft Auto is a huge gaming hit, but not for Microsoft’s Activision.",
+      "title": "Malaysia Aviation Group orders 10 Boeing 787s to replace its Airbus A350 fleet",
+      "source": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/malaysia-aviation-group-orders-10-boeing-787s-to-replace-its-airbus-a350-fleet",
+      "date": "2026-11-25",
+      "author": "Jean Carmela Lim",
+      "summary": "Malaysia Aviation Group (MAG) has ordered 10 Boeing 787 Dreamliners directly from Boeing, with options for six more,… The post Malaysia Aviation Group orders 10 Boeing 787s to replace its Airbus A350 fleet appeared first on AeroTime .",
       "also": [
         {
-          "source": "The New York Times",
-          "author": "Marc Tracy",
-          "date": "2026-11-20",
-          "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
-          "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html"
-        },
-        {
-          "source": "National Review",
-          "author": "James Lileks",
-          "date": "2026-11-22",
-          "title": "What Is the Fantasy in Grand Theft Auto Really All About?",
-          "url": "https://www.nationalreview.com/article/what-is-the-fantasy-in-grand-theft-auto-really-all-about"
+          "source": "Simple Flying",
+          "author": "Jake Hardiman",
+          "date": "2026-11-25",
+          "title": "Malaysia Airlines Picks Boeing Over Airbus For Its First 787 Dreamliners To Replace A350s",
+          "url": "https://simpleflying.com/malaysia-airlines-picks-boeing-over-airbus-787-10-dreamliners-replace-a350s/"
         }
       ]
     },
@@ -254,314 +421,301 @@
       ]
     },
     {
-      "topic": "world",
+      "topic": "business",
       "importance": 2,
-      "title": "Pakistani astronaut set to make history on Chinese space mission",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/pakistani-astronaut-set-to-make-history-on-chinese-space-mission?traffic_source=rss",
-      "date": "2026-11-24",
+      "title": "Trump admin to raise tariffs on China, EU, other trading partners",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/fox-news-global-economy/trump-admin-raise-tariffs-china-eu-other-trading-partners",
+      "date": "2026-11-25",
       "author": null,
-      "summary": "Muhammad Zeeshan Ali is set to become the first foreign national astronaut to travel aboard a Chinese spacecraft.",
+      "summary": "The Trump administration proposed new Section 301 tariffs targeting China, the EU, Brazil and 12 other trading partners to curb subsidized foreign manufacturing.",
       "also": [
         {
-          "source": "Nature",
-          "author": "Xiaoying You",
-          "date": "2026-11-24",
-          "title": "Pakistani astronaut to become first foreign visitor to China’s space station",
-          "url": "https://www.nature.com/articles/d41586-026-03829-y"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Pressure Builds at American Airlines as It Lags Delta and United",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
-      "date": "2026-11-24",
-      "author": "Niraj Chokshi",
-      "summary": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-24",
-      "author": "Drew FitzGerald",
-      "summary": "There is plenty of demand for a Starlink alternative, but Amazon’s satellite arm, known as Leo, is facing setbacks.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
-      "date": "2026-11-24",
-      "author": "Kate Kelly, Nicholas Nehamas and Karoun Demirjian",
-      "summary": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
-      "also": [],
-      "earlier": [
-        {
-          "title": "The Mounting Toll of the Nationwide Ground Stop: 20,000 Flights and Counting",
-          "url": "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-17"
+          "source": "New York Post",
+          "author": "Ariel Zilber",
+          "date": "2026-11-25",
+          "title": "US proposes new tariffs on 14 trading partners — including China, Japan, EU and India",
+          "url": "https://nypost.com/2026/11/25/business/us-proposes-new-tariffs-on-14-trading-partners-including-china-japan-eu-and-india/"
         },
         {
-          "title": "Why Some Flights Were Exempt From the Ground Stop",
-          "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
-          "source": "The New York Times",
-          "date": "2026-11-15"
+          "source": "New York Post",
+          "author": "James Franey",
+          "date": "2026-11-24",
+          "title": "Trump eyes tariff blitz on China, EU, Mexico and Japan",
+          "url": "https://nypost.com/2026/11/24/business/trump-eyes-tariff-blitz-on-china-eu-mexico-and-japan/"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Federal jury convicts Huawei of stealing US trade secrets, violating Iran sanctions",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "A federal jury in Brooklyn found Chinese telecom giant Huawei and three subsidiaries guilty on 10 of 12 counts, including bank fraud, trade secret theft and Iran sanctions violations.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Associated Press",
+          "date": "2026-11-24",
+          "title": "Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets",
+          "url": "https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/"
         }
       ]
     },
     {
       "topic": "aerospace",
-      "importance": 2,
-      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
-      "date": "2026-11-24",
-      "author": "Spacemanic",
-      "summary": "Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […] The post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution…",
+      "importance": 1,
+      "title": "Embraer Sinks Most Since May as US Proposes Brazil Aircraft Levy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy",
+      "date": "2026-11-25",
+      "author": "Rachel Gamarski, Beatriz Reis and Siddharth Philip",
+      "summary": "Embraer SA shares fell almost 10% in São Paulo following a US proposal to impose a 10% tariff on aircraft exported from Brazil.",
       "also": [],
+      "brief": {
+        "what": "Embraer SA shares fell almost 10% in São Paulo after the US proposed an additional 10% tariff on aircraft exported from Brazil. This market movement marks the most significant decline for the company's stock since May.",
+        "who": "Embraer SA is the Brazilian-based aircraft manufacturer whose stock is traded in São Paulo, while the US government is the party proposing the new 10% levy.",
+        "context": "The proposed trade measure specifically targets aircraft exported from Brazil, a category that directly involves Embraer's core business of manufacturing and selling planes to international customers.",
+        "why": "The share price dropped because the proposed 10% tariff would add a significant cost to aircraft exported from Brazil to the United States. Investors reacted to the news by selling off shares, fearing the levy would make Embraer's products more expensive and less competitive.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "almost 10%",
+          "what": "decline in Embraer SA shares"
+        },
+        {
+          "figure": "10%",
+          "what": "proposed additional tariff on aircraft"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "EasyJet profits tumble 96% after fuel prices soar",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8606f7ee-f98b-44f5-ae5a-120b696afca5?syn-25a6b1a6=1",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "EasyJet's annual profits fell 96% due to soaring fuel prices and weakening consumer demand in its final report before its acquisition by Apollo.",
+      "also": [],
+      "brief": {
+        "what": "EasyJet has announced that its annual profits tumbled by 96% in its final set of annual results before its scheduled acquisition. The airline's financial performance was hit hard by a combination of soaring fuel prices and a decline in consumer demand for its flights.",
+        "who": "The main actor is the airline EasyJet, which released the financial data; the other key actor is Apollo, the firm that is set to acquire the airline next year.",
+        "context": "These figures represent the final annual financial performance update for the carrier before it transitions to new ownership under Apollo. The results highlight the challenging economic environment the airline faced during its last year as an independent company.",
+        "why": "The sharp decline in profitability was driven by the dual pressures of rising operational costs for fuel and a weakening in consumer demand, according to the report.",
+        "next": "The article indicates that the takeover of EasyJet by Apollo is scheduled to take place next year."
+      },
+      "numbers": [
+        {
+          "figure": "96%",
+          "what": "tumble in annual profits"
+        }
+      ],
       "earlier": [
         {
-          "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-          "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
-          "source": "SpaceNews",
-          "date": "2026-11-03"
+          "title": "Soaring fuel costs hit profit at British Airways owner IAG",
+          "url": "https://www.cityam.com/soaring-fuel-costs-hit-profit-at-british-airways-owner-iag/",
+          "source": "City AM",
+          "date": "2026-11-06"
         }
       ]
     },
     {
       "topic": "aerospace",
-      "importance": 2,
-      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+      "importance": 1,
+      "title": "Heathrow seeks to pass on £300mn third runway planning costs to passengers",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/800abc68-933a-40f5-be6a-3e2f4a55ff88?syn-25a6b1a6=1",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "Airport wants permission from regulator to claw back money through higher traveller charges",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-      "date": "2026-11-23",
-      "author": "Grace Kay and Ryan Mac",
-      "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+      "url": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
+      "date": "2026-11-25",
+      "author": "Christine Chung and Ben Blatt",
+      "summary": "Long delays have risen to levels not seen in more than 15 years, with no enforcement in sight.",
+      "also": []
+    },
+    {
+      "topic": "aerospace",
+      "importance": 1,
+      "title": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745?syn-25a6b1a6=1",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "Andrea Rossi vows to vote against catering giant Compass’s planned US move as UK battles exodus of listed groups",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Just eight universities dominate Nobel and other top economics prizes",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03333-3",
+      "date": "2026-11-25",
+      "author": "Sarah Wild",
+      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03333-3 Economics is the outlier — top prizes in science, engineering and other social sciences go to researchers at a greater variety of institutions.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
+      "date": "2026-11-25",
+      "author": "Arvelisse Bonilla Ramos and Chloé Meley",
+      "summary": "Homebuilders are coming up on an ominous market milestone, with stocks for the group set for three straight years of declines in the longest stretch since the subprime mortgage meltdown that led to the Global Financial Crisis.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
+      "date": "2026-11-25",
+      "author": "Ryan Vlastelica and Carmen Reinicke",
+      "summary": "The Nasdaq 100 Index is set to fall into its first bear market in more than a year as investors dump stocks exposed to the artificial intelligence industry amid rapidly deteriorating sentiment.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Why do economists struggle to forecast the impact of AI?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "Frontier labs and officials present wildly different predictions for growth in the next few years",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "US Treasuries Soar as Tech-Stock Losses Dent Risk Appetite",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+      "date": "2026-11-25",
+      "author": "Michael MacKenzie and Ruth Carson",
+      "summary": "US Treasuries rallied as renewed losses in technology shares sent investors rushing back into the haven trade.",
+      "also": []
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "These Charts Show How Fed Up Americans Are With the Cost of Streaming",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/media/these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-133a63ca?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-25",
+      "author": "Ben Fritz",
+      "summary": "U.S. streaming subscription growth has plateaued as viewers increasingly pivot toward cheaper service options.",
       "also": [],
-      "earlier": [
-        {
-          "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
-          "url": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=pls_whats_news_us_business_f",
-          "source": "Wall Street Journal",
-          "date": "2026-11-19"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Dick’s Sporting Goods Raises Profit Outlook on Core Business Strength",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-24",
-      "author": "Kelly Cloonan",
-      "summary": "Dick’s Sporting Goods raised its earnings guidance for the year on strength in its core business and improving trends at Foot Locker.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "date": "2026-11-24",
-      "author": "Jason Karaian",
-      "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Banks regain some ground in the private credit tug of war",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1",
-      "date": "2026-11-24",
-      "author": null,
-      "summary": "For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Analog Devices Profit, Revenue Rise but Forecast Is Mixed",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/analog-devices-profit-revenue-rise-as-industrial-data-center-demand-surges-3dfef138?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-24",
-      "author": "Adriano Marchese",
-      "summary": "Analog Devices posted higher fiscal fourth-quarter profit and revenue, buoyed by surging industrial and data-center chip demand, but gave a mixed forecast for the first quarter.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
-      "date": "2026-11-24",
-      "author": "Geoffrey Morgan and Emily Forgash",
-      "summary": "Avoiding down days in the stock market often means missing out on the biggest gains. Those who cashed out after US equities reeled last week just learned that lesson the hard way.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Dealing with an energy market both tight and loose",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
-      "date": "2026-11-24",
-      "author": null,
-      "summary": "Inflationary pressures remain in diesel and jet fuel prices despite a glut of gasoline",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "BlackRock wants to launch private market ETFs. Because of course it does",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
-      "date": "2026-11-24",
-      "author": null,
-      "summary": "A sudden ETIFany",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Yes, pay disclosure rules need a rethink. But the SEC is not helping investors",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1",
-      "date": "2026-11-24",
-      "author": null,
-      "summary": "The slimmed-down proposal will please corporate executives, but what about shareholders?",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Fund With $21 Billion Favors Africa Local Bonds, Adds to Uganda Bet",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/fund-with-21-billion-favors-africa-local-bonds-adds-to-uganda-bet",
-      "date": "2026-11-24",
-      "author": "Ray Ndlovu",
-      "summary": "A currency rout that wiped 8% off the value of Uganda’s shilling last month rattled some investors, but failed to deter a $21 billion money manager.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Before the FAA’s 70th router, prove it won’t crash the network",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/op-eds/4812224/faa-nationwide-ground-stop-modernization-no-integrated-master-schedule/",
-      "date": "2026-11-24",
-      "author": "Burak Oktenli",
-      "summary": "Sixty-eight router installations had gone well. Then came the 69th. On Nov. 13, routine work at a Federal Aviation Administration radio site in El Dorado, Arkansas, coincided with a flood of connection attempts across the agency’s aging network. Radio communications and radar feeds became unreliable. The FAA halted…",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Oil prices fall as traders weigh hopes of Iran talks against shipping risks",
-      "source": "City AM",
-      "url": "https://www.cityam.com/oil-prices-fall-as-traders-weigh-hopes-of-iran-talks-against-shipping-risks/",
-      "date": "2026-11-24",
-      "author": "Maisie Grice",
-      "summary": "Oil prices extended their decline on Tuesday as hopes of potential deal between the US and Iran offset shipping risks in the Strait of Hormuz. Brent crude slipped 0.4 per cent to $88.9 per barrel in early trading, after closing at its lowest level since 31 August on Monday. West Texas Intermediate also declined 0.2…",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "B&Q owner Kingfisher targets higher profit as Screwfix soars",
-      "source": "City AM",
-      "url": "https://www.cityam.com/bq-owner-kingfisher-targets-higher-profit-as-screwfix-soars/",
-      "date": "2026-11-24",
-      "author": "Felix Armstrong",
-      "summary": "B&Q owner Kingfisher has lifted its profit target for the second time in just two months after seeing its shift towards trade customers drive demand at Screwfix. The FTSE 100 home improvements retailer told shareholders it now expects to notch a pre-tax profit of between £610m and £640m, having lifted its target range…",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "UK firms warned on hiring workers abroad amid Russia and North Korea threat",
-      "source": "City AM",
-      "url": "https://www.cityam.com/uk-firms-warned-on-hiring-workers-abroad-amid-russia-and-north-korea-threat/",
-      "date": "2026-11-24",
-      "author": "Maurício Alencar",
-      "summary": "British firms have been warned about the security risks of hiring remote IT workers as the Treasury said paid work could lead to the funds being passed to North Korea and Russia. In a lengthy report on the financial risks facing businesses and various industries, the Treasury warned that firms risked financing hostile…",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Compass US listing move is a wake-up call for UK capital markets",
-      "source": "City AM",
-      "url": "https://www.cityam.com/compass-us-listing-wake-up-call-uk-capital-markets/",
-      "date": "2026-11-24",
-      "author": "Charles Hall",
-      "summary": "Compass’s move of its primary listing to the US should be a wake-up call for anyone who cares about UK capital markets, says Charles Hall Crisis, what crisis? Compass is expected to announce tomorrow that it intends to move its primary listing to the US. This may not seem a big event for many – [...]",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "Fight AI slop without punishing legitimate researchers",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03824-3",
-      "date": "2026-11-24",
-      "author": "Yinjie Jia",
-      "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03824-3 Fight AI slop without punishing legitimate researchers",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "The science on AI consciousness must acknowledge uncertainty",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03822-5",
-      "date": "2026-11-24",
-      "author": "Haewoon Kwak",
-      "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03822-5 The science on AI consciousness must acknowledge uncertainty",
-      "also": []
+      "kind": "analysis",
+      "brief": {
+        "what": "Subscription growth for streaming services within the United States has officially plateaued, indicating that the rapid expansion of the digital media market has leveled off. Consequently, viewers are actively opting for cheaper options rather than maintaining premium-priced services.",
+        "who": "The primary actors involved are American viewers who consume digital content and the various streaming service providers that are now facing a stagnation in their domestic subscription growth.",
+        "context": "This trend emerges in an environment where the cumulative cost of digital entertainment has become a significant concern for the public. The market is shifting as the initial surge in streaming adoption reaches a saturation point in the U.S.",
+        "why": "The Wall Street Journal reports that Americans are increasingly fed up with the high costs associated with streaming services. This dissatisfaction is the primary driver behind the transition toward more economical viewing alternatives as consumers re-evaluate their monthly expenditures.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "environment",
       "importance": 1,
-      "title": "Himalayan disasters demand biodiversity conservation across borders",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03825-2",
+      "title": "COP31 ends with no deal after negotiators fail to reach an agreement on fossil fuels",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050273/cop31-ends-with-no-deal-after-negotiators-fail-to-reach-an-agreement-on-fossil-fuels",
+      "date": "2026-11-23",
+      "author": "Rachel Waldholz",
+      "summary": "International climate talks in Turkey ended in disappointment with countries failing to reach agreement over fossil fuels -- the primary driver of climate change.",
+      "also": [
+        {
+          "source": "The Conversation",
+          "author": "Jacqueline Peel, Professor of Law, The University of Melbourne",
+          "date": "2026-11-23",
+          "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+          "url": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Stripe’s Valuation Set to Top $200 Billion in Latest Investor Talks",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?mod=pls_whats_news_us_business_f",
       "date": "2026-11-24",
-      "author": "Guan-Long Cao",
-      "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03825-2 Himalayan disasters demand biodiversity conservation across borders",
+      "author": "Ben Glickman",
+      "summary": "A tender offer for employees’ shares would likely be completed early next year.",
+      "also": []
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Why is the Treasury ignoring Milburn’s most important recommendation?",
+      "source": "City AM",
+      "url": "https://www.cityam.com/why-is-the-treasury-ignoring-milburns-most-important-recommendation/",
+      "date": "2026-11-25",
+      "author": "James Reed",
+      "summary": "The ink was barely dry on Alan Milburn's flagship report before the Treasury let it be known it had no intention of implementing its most important policy.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "The leading cities in the world for high-quality research in 2025",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03468-3",
+      "date": "2026-11-25",
+      "author": "Bec Crew",
+      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03468-3 A decade of data on the top-performing science cities in the Nature Index.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03718-4",
+      "date": "2026-11-25",
+      "author": "Ewen Callaway",
+      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03718-4 Potent immune responses against diverse HIV strains have ignited the field, but major hurdles remain.",
+      "also": []
+    },
+    {
+      "topic": "science",
+      "importance": 1,
+      "title": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03513-1",
+      "date": "2026-11-25",
+      "author": "Ensar Aydemir",
+      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03513-1 The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital formats without handing over total control, explains Ensar Aydemir.",
       "also": []
     },
     {
       "topic": "culture",
       "importance": 1,
-      "title": "Senegal reinstated as Afcon champions after winning CAS appeal over walk-off",
-      "source": "City AM",
-      "url": "https://www.cityam.com/senegal-reinstated-afcon-champions-cas-appeal/",
+      "title": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/autos/chinese-automakers-book-strong-european-growth-ahead-of-import-cap-ccdee0da?mod=pls_whats_news_us_business_f",
       "date": "2026-11-24",
-      "author": "Frank Dalleres",
-      "summary": "Senegal have been reinstated as reigning champions of the Africa Cup of Nations after winning an appeal at the Court of Arbitration for Sport (CAS). The independent panel sided with the Senegalese Football Federation (FSF) over its challenge to being stripped of the title in March by the Confederation of African…",
-      "also": [
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-24",
-          "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
-          "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss"
-        }
-      ]
+      "author": "Joshua Kirby",
+      "summary": "European demand for Chinese cars remained robust, as EU new-car registrations for brands such as BYD and SAIC Motor surged last month.",
+      "also": []
     }
   ]
 }
