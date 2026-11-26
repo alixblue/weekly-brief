@@ -1,310 +1,521 @@
 {
-  "generated": "2026-11-25",
-  "window": "2026-11-18 to 2026-11-25",
+  "generated": "2026-11-26",
+  "window": "2026-11-19 to 2026-11-26",
   "method": "Pulled automatically from 33 whitelisted outlets; ranked by outlet trust, how many outlets covered the story, recency and your topic weights.",
   "markets": {
-    "asof": "2026-11-25",
-    "label": "Wed 25 Nov · change on the day",
+    "asof": "2026-11-26",
+    "label": "Thu 26 Nov · change on the day",
     "source": "CNBC",
     "items": [
       {
         "name": "S&P 500",
-        "value": "7,006.48",
-        "change": "-2.70%"
+        "value": "7,182.78",
+        "change": "-0.25%"
       },
       {
         "name": "Dow",
-        "value": "49,172.57",
-        "change": "-1.69%"
+        "value": "50,182.95",
+        "change": "+0.33%"
       },
       {
         "name": "Nasdaq",
-        "value": "22,801.143",
-        "change": "-3.93%"
+        "value": "23,585.802",
+        "change": "-0.62%"
       },
       {
         "name": "CAC 40",
-        "value": "8,063.66",
-        "change": "+0.29%"
+        "value": "8,112.11",
+        "change": "+1.65%"
       },
       {
         "name": "DAX",
-        "value": "24,920.00",
-        "change": "-0.39%"
+        "value": "25,196.71",
+        "change": "+2.00%"
       },
       {
         "name": "Brent oil",
-        "value": "$93.44",
-        "change": "+2.23%"
+        "value": "$96.19",
+        "change": "+1.67%"
       },
       {
         "name": "US 10-yr yield",
-        "value": "4.822%",
-        "change": "-0.08 pt"
+        "value": "4.864%",
+        "change": "-0.04 pt"
       },
       {
         "name": "EUR/USD",
-        "value": "1.0937",
-        "change": "-0.2463%"
+        "value": "1.098",
+        "change": "+0.082%"
       }
     ]
   },
   "week": [
     {
-      "text": "Nvidia has reinstated co-founder Jensen Huang as CEO following personal intervention from President Trump, reversing a board decision made after a scandal involving a suspected Chinese spy.",
+      "text": "SpaceX has received regulatory approval for its Starmind satellite project, while simultaneously facing a lawsuit regarding a land deal for a new spaceport in Louisiana.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+        "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit"
       ]
     },
     {
-      "text": "The Pentagon is in preliminary talks with General Motors, Ford Motor Company and other manufacturers about supplying parts… The post Pentagon seeks to enlist US automakers in military drone production push appeared first on AeroTime .",
+      "text": "Nvidia's stock has faced continued volatility and downward pressure as investor confidence in the AI sector wavers following the reinstatement of CEO Jensen Huang.",
       "urls": [
-        "https://www.aerotime.aero/articles/pentagon-us-automakers-military-drone-production"
+        "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+        "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=pls_whats_news_us_business_f",
+        "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+        "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+        "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last"
       ]
     },
     {
-      "text": "UK energy bills will increase by 26% in January after a surge in wholesale gas prices linked to the Iran war. The government plans to issue a £100 payment to millions of households to help mitigate rising winter costs.",
+      "text": "Norse Atlantic Airways has suspended all flights and is seeking emergency funding to avoid bankruptcy, while the broader aviation sector faces disruptions from runway incidents and potential new military drone production partnerships.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+        "https://www.aerotime.aero/articles/pentagon-us-automakers-military-drone-production",
+        "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+        "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f"
       ]
     },
     {
-      "text": "The Solomon Islands has signed a security and economics treaty with Australia, reportedly ending a controversial 2022 pact with China to restore regional stability.",
+      "text": "European Central Bank officials are signaling further monetary tightening as Pablo Hernandez de Cos is set to succeed Christine Lagarde as president.",
       "urls": [
-        "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+        "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
+        "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse"
       ]
     },
     {
-      "text": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+      "text": "International climate negotiations at COP31 concluded without a deal on fossil fuels, as environmental concerns persist following devastating wildfires in Indonesia.",
       "urls": [
-        "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party"
+        "https://www.npr.org/2026/11/23/nx-s1-6050273/cop31-ends-with-no-deal-after-negotiators-fail-to-reach-an-agreement-on-fossil-fuels",
+        "https://www.nature.com/articles/d41586-026-03828-z"
       ]
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "date": "2026-11-28",
+      "when": "This weekend",
+      "label": "OPEC+ meeting of major oil-producing nations",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-middle-east-supply-risks-opec-meeting-c234598a?mod=pls_whats_news_us_business_f"
+    },
+    {
+      "date": "2027-01-01",
+      "when": "January 2027",
+      "label": "New US tariffs on China, the EU, and 12 other jurisdictions take effect",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "date": "2027-09-14",
+      "when": "",
+      "label": "Sentencing for Huawei regarding trade secret theft and sanctions violations",
+      "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions"
+    },
+    {
+      "date": "2029-01-01",
+      "when": "2029",
+      "label": "Heathrow aims to secure planning permission for a third runway",
+      "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says"
+    }
+  ],
   "items": [
     {
-      "topic": "business",
+      "topic": "aerospace",
       "importance": 3,
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26",
       "author": null,
-      "summary": "Nvidia has reinstated co-founder Jensen Huang as CEO following personal intervention from President Trump, reversing a board decision made after a scandal involving a suspected Chinese spy.",
-      "also": [
-        {
-          "source": "Wall Street Journal",
-          "author": "Alexander Ward",
-          "date": "2026-11-25",
-          "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One",
-          "url": "https://www.wsj.com/tech/ai/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-d0d4abc3?mod=pls_whats_news_us_business_f",
-          "note": {
-            "Wall Street Journal": "Focuses on the continuity of Huang's strategic vision for the company despite the leadership turmoil."
-          }
-        },
-        {
-          "source": "The New York Times",
-          "author": "Kalley Huang, Jordyn Holman, Lauren Hirsch and Ryan Mac",
-          "date": "2026-11-24",
-          "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
-          "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
-          "note": {
-            "The New York Times": "Highlights the erosion of board independence due to presidential intervention."
-          }
-        },
-        {
-          "source": "The New York Times",
-          "author": "David Pierson, Sui-Lee Wee and Cecilia Kang",
-          "date": "2026-11-24",
-          "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
-          "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
-          "note": {
-            "The New York Times": "Examines the geopolitical implications of the reinstatement specifically for China."
-          }
-        }
-      ],
+      "summary": "US regulators have approved SpaceX's Starmind project, which aims to deploy up to one million satellites to function as orbital data centres for AI computing. The initiative seeks to bypass terrestrial power and cooling constraints, though it faces criticism regarding space congestion and light pollution.",
+      "also": [],
       "brief": {
-        "what": "Jensen Huang returned as Nvidia CEO after being forced out due to an extramarital affair with a suspected Chinese spy. His reinstatement, reportedly brokered by President Trump, led to a 31% surge in share price and added nearly $1 trillion in market value.",
-        "who": "The main actors are Jensen Huang, President Donald Trump, who pressured the board, and Harvey Jones, Nvidia’s board chairman. Lawmakers like Hakeem Jeffries and Elizabeth Warren have emerged as vocal critics of the intervention.",
-        "context": "Huang resigned on November 12 after revelations of an affair with Alice Huang, the CEO of a blacklisted Singaporean firm. Nvidia's board initially rejected his return but reversed course following White House intervention and significant stock losses.",
-        "why": "President Trump stated he 'made the deal' to bring Huang back, arguing that losing him was a greater threat than keeping him. Board chairman Harvey Jones claimed the move was in the 'best interests' of stakeholders, citing government assurances that Huang poses no national security risk.",
-        "next": "Huang is scheduled to testify before three House committees on December 1 and the Senate Banking Committee on December 3 regarding national security concerns. Lawmakers have vowed to investigate the Trump administration's role in the reinstatement."
+        "what": "The Federal Communications Commission (FCC) has granted SpaceX approval to launch a constellation of one million satellites designed to process AI data in orbit. The project, Starmind, will utilize solar power to manage computing loads that exceed current terrestrial capabilities, with deployment milestones set for 2035 and 2038.",
+        "who": "SpaceX, led by Elon Musk, is the project developer, while the FCC serves as the regulatory body. Amazon, the American Astronomical Society, and Earthjustice are primary critics of the plan.",
+        "context": "Traditional data centres face increasing opposition on Earth due to their high energy and water consumption. SpaceX proposes orbital centres as a greener, more efficient alternative to meet the surging demand for AI computing power.",
+        "why": "The FCC claims the project supports America's super intelligence economy and technological leadership. Conversely, critics like Amazon label it a lofty ambition, while astronomers warn that the large, bright satellites will significantly interfere with night sky observations and increase space debris risks.",
+        "next": "SpaceX intends to launch the first Starmind satellite next year, though technical experts note that the necessary high-capacity laser communication links have not yet been fully perfected."
       },
       "numbers": [
         {
-          "figure": "$1 trillion",
-          "what": "increase in Nvidia's market value"
+          "figure": "1 million",
+          "what": "number of satellites approved for launch"
         },
         {
-          "figure": "31%",
-          "what": "jump in Nvidia's share price"
+          "figure": "10%",
+          "what": "percentage of satellites required by 2035"
         },
         {
-          "figure": "$23m and $86m",
-          "what": "value of Trump's Nvidia share purchases"
+          "figure": "50%",
+          "what": "percentage of satellites required by 2038"
         },
         {
-          "figure": "$3.5m and $10.2m",
-          "what": "gains Trump made from selling Nvidia stake"
+          "figure": "10,000",
+          "what": "number of satellites in current Starlink network"
         },
         {
-          "figure": "$265,000",
-          "what": "amount of Nvidia stock Trump purchased recently"
+          "figure": "500-2,000km",
+          "what": "operational altitude range for satellites"
         }
       ]
     },
     {
       "topic": "aerospace",
       "importance": 3,
+      "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+      "date": "2026-11-26",
+      "author": "Gwyn Topham Transport correspondent",
+      "summary": "A UK parliamentary committee has criticized government plans for a third Heathrow runway, citing failures to meet economic and environmental targets. The report suggests the project should be grounded until ministers provide a more robust strategy.",
+      "also": [
+        {
+          "source": "Financial Times",
+          "author": null,
+          "date": "2026-11-26",
+          "title": "UK government has ‘failed’ to make case for third Heathrow runway, say MPs",
+          "url": "https://www.ft.com/content/9c271b6d-3280-4abc-9e8f-a93caf594d21?syn-25a6b1a6=1",
+          "note": "Financial Times focuses on the government's failure to make the case, mirroring the committee's language."
+        },
+        {
+          "source": "City AM",
+          "author": "Ali Lyon",
+          "date": "2026-11-26",
+          "title": "Heathrow expansion should be paused while government ‘makes the case’ – Transport Committee",
+          "url": "https://www.cityam.com/heathrow-expansion-should-be-paused-while-government-makes-the-case-transport-committee/",
+          "note": "City AM emphasizes the committee's recommendation that the expansion should be paused."
+        },
+        {
+          "source": "AeroTime",
+          "author": "Ian Molyneaux",
+          "date": "2026-11-26",
+          "title": "Heathrow expansion in jeopardy as government fails to make case for third runway",
+          "url": "https://www.aerotime.aero/articles/heathrow-expansion-uk-government-fails-third-runway",
+          "note": "AeroTime frames the story by highlighting the project's potential jeopardy."
+        }
+      ],
+      "brief": {
+        "what": "The Commons transport committee released a report stating the government failed to justify a third runway at Heathrow, noting that economic growth projections have dropped from 0.5% to 0.05% of GDP. The committee argues the project is currently incompatible with climate targets and lacks clear plans for noise mitigation and surface transport.",
+        "who": "The Commons transport committee, led by chair Ruth Cadbury, issued the report, while Heathrow CEO Thomas Woldbye defended the project as vital for economic growth.",
+        "context": "The government's Heathrow expansion national policy statement (HENPS) was designed to test if the project could generate national growth without harming climate, noise, or air quality standards.",
+        "why": "The committee claims the government failed to establish a wider aviation strategy before proposing the expansion and relied too heavily on unproven green technologies to meet climate goals.",
+        "next": "The committee recommends the government go back to the drawing board, though Heathrow hopes to secure planning permission by 2029."
+      },
+      "numbers": [
+        {
+          "figure": "£33bn",
+          "what": "estimated cost to build a third runway and expand terminals"
+        },
+        {
+          "figure": "276,000",
+          "what": "additional flights per year proposed by the expansion"
+        },
+        {
+          "figure": "0.05%",
+          "what": "projected boost to GDP from the expansion"
+        },
+        {
+          "figure": "0.5%",
+          "what": "previous estimate of GDP boost from the expansion"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 3,
+      "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+      "date": "2026-11-24",
+      "author": "Guardian staff and Agence France-Presse",
+      "summary": "Technology stocks retreated on Tuesday as investor enthusiasm regarding Jensen Huang’s return to Nvidia faded. The market decline reflects ongoing volatility and concerns surrounding the profitability of the artificial intelligence sector.",
+      "also": [
+        {
+          "source": "The New York Times",
+          "author": "David Pierson, Sui-Lee Wee and Cecilia Kang",
+          "date": "2026-11-24",
+          "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+          "note": "The New York Times frames the return as a geopolitical issue regarding China."
+        },
+        {
+          "source": "The Dispatch",
+          "author": "Jonah Goldberg",
+          "date": "2026-11-25",
+          "title": "The Many, Many Problems With Jensen Huang’s Return to Nvidia",
+          "url": "https://thedispatch.com/article/jensen-huang-donald-trump-nvidia-corruption/",
+          "note": "The Dispatch focuses on the corporate governance and ethical problems surrounding the leadership change."
+        },
+        {
+          "source": "The Conversation",
+          "author": "Anish Purkayastha, Senior lecturer, University of Sydney",
+          "date": "2026-11-25",
+          "title": "Jensen Huang’s controversial return to Nvidia poses the question – what’s the point of a board?",
+          "url": "https://theconversation.com/jensen-huangs-controversial-return-to-nvidia-poses-the-question-whats-the-point-of-a-board-297386",
+          "note": "The Conversation questions the role and necessity of the board of directors in this leadership decision."
+        }
+      ],
+      "brief": {
+        "what": "Technology shares led a market retreat on Tuesday, with the Nasdaq falling 1.48% and the S&P 500 dropping 0.5%. Nvidia shares lost nearly 6% of their value, reversing a portion of the 30% gain seen after Jensen Huang was reinstated as CEO.",
+        "who": "Jensen Huang, the reinstated CEO of Nvidia, is the central figure, while investors and market analysts at firms like Saxo Markets and XTB are reacting to his return and broader sector volatility.",
+        "context": "The AI sector has experienced significant volatility throughout November due to profitability concerns and heavy capital expenditure. Nvidia specifically remains under investigation by the FBI and Capitol Hill regarding potential unauthorized access to its chips by Chinese firms.",
+        "why": "Analysts suggest the sell-off is a correction following a massive rally, noting that Huang's return does not resolve underlying investigations or long-term uncertainty regarding the AI trade. Kathleen Brooks of XTB stated that Huang alone cannot sustain the sector's growth.",
+        "next": "The company remains under scrutiny from investigators, including the FBI and Capitol Hill, regarding its business practices."
+      },
+      "numbers": [
+        {
+          "figure": "$900bn",
+          "what": "market value added to Nvidia following Huang's reinstatement"
+        },
+        {
+          "figure": "6%",
+          "what": "decline in Nvidia stock price by Tuesday's close"
+        },
+        {
+          "figure": "6.5%",
+          "what": "decline in Anthropic stock price"
+        },
+        {
+          "figure": "1.48%",
+          "what": "loss in the Nasdaq index"
+        },
+        {
+          "figure": "0.5%",
+          "what": "loss in the S&P 500 index"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26",
+      "author": null,
+      "summary": "Low-cost carrier Norse Atlantic Airways has suspended all flights and warned of potential bankruptcy as it faces a critical financial crisis. The airline is currently seeking emergency funding or a takeover to remain operational.",
+      "also": [
+        {
+          "source": "AeroTime",
+          "author": "Miquel Ros",
+          "date": "2026-11-26",
+          "title": "Norse Atlantic suspends all operations as it runs out of cash",
+          "url": "https://www.aerotime.aero/articles/norse-atlantic-suspends-all-operations-as-it-runs-out-of-cash",
+          "note": "AeroTime frames the story by emphasizing the company's lack of cash and the critical nature of its financial situation."
+        },
+        {
+          "source": "AeroTime",
+          "author": "Miquel Ros",
+          "date": "2026-11-25",
+          "title": "Norse Atlantic warns of ‘critical’ financial situation",
+          "url": "https://www.aerotime.aero/articles/norse-atlantic-warns-of-critical-financial-situation",
+          "note": "Simple Flying frames the story by highlighting the specific operational impact, noting the cancellation of 9 long-haul routes."
+        },
+        {
+          "source": "Simple Flying",
+          "author": "Jake Hardiman",
+          "date": "2026-11-26",
+          "title": "Norse Atlantic Suspends All Flights: 9 Long-Haul Routes Canceled",
+          "url": "https://simpleflying.com/norse-atlantic-suspends-all-flights-9-long-haul-routes-canceled/"
+        }
+      ],
+      "brief": {
+        "what": "Norse Atlantic Airways has grounded its entire fleet of 12 Boeing 787 aircraft, citing a critical financial situation. The airline is currently in discussions with investors regarding a potential takeover and financing, but has stated it intends to file for bankruptcy if a solution is not reached quickly.",
+        "who": "Norse Atlantic Airways is the primary actor, with Pakistan International Airlines also affected due to leasing agreements. Consumer group Which? is providing guidance to stranded passengers.",
+        "context": "Founded in 2021 as a successor to Norwegian's long-haul operations, the carrier has struggled with profitability. The airline's financial position deteriorated significantly this year due to rising fuel costs, exacerbated by its decision not to hedge fuel prices.",
+        "why": "The airline reports that its financial difficulties worsened as fuel prices rocketed due to the war in Iran. Because Norse Atlantic does not hedge its fuel bills, it was fully exposed when costs roughly doubled.",
+        "next": "The airline is currently in discussions with investors regarding a possible takeover that would include a financing solution; otherwise, it intends to file for bankruptcy."
+      },
+      "numbers": [
+        {
+          "figure": "12",
+          "what": "Boeing 787 aircraft in the fleet"
+        },
+        {
+          "figure": "$94.6m",
+          "what": "loss made in the first half of the year"
+        },
+        {
+          "figure": "£1,000",
+          "what": "extra cost incurred by a passenger to rebook"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 2,
+      "title": "Altria explores takeover bid for Imperial Brands",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1",
+      "date": "2026-11-26",
+      "author": null,
+      "summary": "Deal would remove another of UK’s large listed companies from the London stock market",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Ian Walker",
+          "date": "2026-11-26",
+          "title": "Altria Considers $157 Billion Tobacco Tie-Up With Imperial Brands",
+          "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f"
+        },
+        {
+          "source": "Bloomberg",
+          "author": "Crystal Tse, Manuel Baigorri, Dong Cao, Vinicy Chan and Eyk Henning",
+          "date": "2026-11-26",
+          "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands"
+        }
+      ]
+    },
+    {
+      "topic": "aerospace",
+      "importance": 2,
       "title": "Pentagon seeks to enlist US automakers in military drone production push",
       "source": "AeroTime",
       "url": "https://www.aerotime.aero/articles/pentagon-us-automakers-military-drone-production",
       "date": "2026-11-24",
       "author": "Stephen Pope",
-      "summary": "The Pentagon is in preliminary talks with General Motors, Ford Motor Company and other manufacturers about supplying parts… The post Pentagon seeks to enlist US automakers in military drone production push appeared first on AeroTime .",
+      "summary": "The Pentagon is in preliminary discussions with major automakers, including General Motors and Ford, to help scale the production of military drone components. This initiative aims to address the limited manufacturing capacity of existing small-scale drone suppliers.",
       "also": [
         {
           "source": "Wall Street Journal",
           "author": "Heather Somerville",
           "date": "2026-11-24",
           "title": "Pentagon in Talks With General Motors and Ford to Make Military Drones",
-          "url": "https://www.wsj.com/politics/national-security/ford-general-motors-military-drones-c082d202?mod=pls_whats_news_us_business_f"
+          "url": "https://www.wsj.com/politics/national-security/ford-general-motors-military-drones-c082d202?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal headline emphasizes the specific companies involved in the talks."
         },
         {
           "source": "Fox Business",
           "author": null,
           "date": "2026-11-24",
           "title": "Pentagon reportedly in talks with GM, Ford to scale US military drone production",
-          "url": "https://www.foxbusiness.com/economy/pentagon-reportedly-talks-gm-ford-scale-us-military-drone-production"
+          "url": "https://www.foxbusiness.com/economy/pentagon-reportedly-talks-gm-ford-scale-us-military-drone-production",
+          "note": "Fox Business highlights the objective of scaling U.S. production in its framing."
+        }
+      ],
+      "brief": {
+        "what": "The Pentagon is exploring partnerships with automotive manufacturers like General Motors and Ford to supply components for military drones. The goal is to meet the military's surging demand for millions of drones, as current small-scale manufacturers lack the necessary factory capacity.",
+        "who": "The Pentagon is the primary actor seeking production support, while General Motors, Ford, and Magna International are the automotive entities involved in preliminary discussions.",
+        "context": "The U.S. military is attempting to reduce reliance on Chinese-sourced components and scale domestic production through its Drone Dominance program. This program seeks to procure over 200,000 aircraft to bolster national defense capabilities.",
+        "why": "The Pentagon is turning to the auto industry because existing drone makers are too small to meet the required production scale. Automakers remain cautious, however, citing concerns over thin profit margins and the long-term stability of military order volumes.",
+        "next": "The talks have yet to produce a formal agreement, and automakers are currently weighing whether the potential order volume justifies the allocation of factory space."
+      },
+      "numbers": [
+        {
+          "figure": "200,000 aircraft",
+          "what": "total drones required by the Drone Dominance program"
+        },
+        {
+          "figure": "30,000",
+          "what": "drones ordered in the first phase of the program"
         }
       ]
     },
     {
       "topic": "business",
-      "importance": 3,
-      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "importance": 2,
+      "title": "What we know about Trump's Thanksgiving tariffs",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-25",
       "author": null,
-      "summary": "UK energy bills will increase by 26% in January after a surge in wholesale gas prices linked to the Iran war. The government plans to issue a £100 payment to millions of households to help mitigate rising winter costs.",
+      "summary": "President Trump has announced a new round of tariffs targeting China, the European Union, and 12 other jurisdictions. These measures are scheduled to take effect in January 2027 following a Supreme Court ruling against previous trade policies.",
       "also": [
         {
-          "source": "Financial Times",
+          "source": "Fox Business",
           "author": null,
           "date": "2026-11-25",
-          "title": "British household energy bills to soar 26% from January",
-          "url": "https://www.ft.com/content/e9dea6f2-dcf8-4ec5-96ec-0415694bf897?syn-25a6b1a6=1",
-          "note": {
-            "Financial Times": "Uses the word 'soar' to emphasize the dramatic nature of the 26% increase for British households."
-          }
+          "title": "Trump admin to raise tariffs on China, EU, other trading partners",
+          "url": "https://www.foxbusiness.com/fox-news-global-economy/trump-admin-raise-tariffs-china-eu-other-trading-partners",
+          "note": "Fox Business focuses on the specific regions being targeted, while the New York Post emphasizes the total count of trading partners affected."
         },
         {
-          "source": "City AM",
-          "author": "Maisie Grice",
+          "source": "New York Post",
+          "author": "Ariel Zilber",
           "date": "2026-11-25",
-          "title": "Energy bills set to rocket 26 per cent in major blow to UK households",
-          "url": "https://www.cityam.com/energy-bills-set-to-rocket-26-per-cent-in-major-blow-to-uk-households/",
-          "note": {
-            "City AM": "Frames the price hike as a 'major blow' to UK households, highlighting the negative economic impact."
-          }
+          "title": "US proposes new tariffs on 14 trading partners — including China, Japan, EU and India",
+          "url": "https://nypost.com/2026/11/25/business/us-proposes-new-tariffs-on-14-trading-partners-including-china-japan-eu-and-india/"
         }
       ],
       "brief": {
-        "what": "Energy regulator Ofgem announced that typical annual household energy bills will rise by 26% to £2,166 starting in January. This increase translates to an average monthly rise of approximately £37, though high winter usage could push the extra cost closer to £60 per month.",
-        "who": "The main actors include the regulator Ofgem, which sets the price cap; the UK government, which is issuing support payments; and energy suppliers represented by the trade body Energy UK.",
-        "context": "The price cap is adjusted every three months based on wholesale costs and the expense of running the energy system. This latest hike is the largest since the start of the Russia-Ukraine conflict and occurs during the peak winter heating season.",
-        "why": "Ofgem attributes the rise entirely to a 33% surge in wholesale gas prices driven by the Iran war. While energy suppliers' profit margins are capped on a percentage basis, Energy UK notes that higher bills will result in increased nominal cash profits.",
-        "next": "The government will issue a £100 payment to up to 20 million households starting January 4. While international wholesale prices have recently dipped, these lower costs will not be reflected until the April price cap adjustment."
+        "what": "President Trump announced new tariffs affecting 14 trading partners, including China and the European Union. These measures are scheduled to take effect in January 2027.",
+        "who": "President Trump and his administration are the primary actors, with the Supreme Court serving as the legal body that invalidated the previous 'Liberation Day' tariffs.",
+        "context": "The administration is introducing this alternative trade plan after the Supreme Court ruled that the 'Liberation Day' tariffs implemented in April 2025 were illegal.",
+        "why": "The administration is implementing these new measures as an alternative plan following the legal challenge to their previous tariff strategy.",
+        "next": "The tariffs are set to come into effect in January 2027."
       },
       "numbers": [
         {
-          "figure": "26%",
-          "what": "increase in household energy bills"
-        },
-        {
-          "figure": "£2,166",
-          "what": "annual bill for a typical household"
-        },
-        {
-          "figure": "33%",
-          "what": "rise in wholesale gas prices"
-        },
-        {
-          "figure": "£100",
-          "what": "government payment to millions of households"
-        },
-        {
-          "figure": "10.96p",
-          "what": "price per kilowatt-hour for gas"
+          "figure": "14",
+          "what": "number of jurisdictions targeted by new tariffs"
         }
       ]
     },
     {
-      "topic": "world",
+      "topic": "business",
       "importance": 2,
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=pls_whats_news_us_business_f",
       "date": "2026-11-25",
       "author": null,
-      "summary": "The Solomon Islands has signed a security and economics treaty with Australia, reportedly ending a controversial 2022 pact with China to restore regional stability.",
+      "summary": "Nvidia experienced a period of significant corporate instability after the company ousted its CEO, Jensen Huang, before ultimately reinstating him. The events unfolded over an 11-day period that fundamentally altered the firm's trajectory.",
       "also": [
         {
           "source": "The New York Times",
-          "author": "Victoria Kim and Laura Chung",
-          "date": "2026-11-25",
-          "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-          "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-          "note": "The New York Times frames the treaty explicitly as a strategic blow to China's regional ambitions."
-        },
-        {
-          "source": "Al Jazeera",
-          "author": null,
-          "date": "2026-11-25",
-          "title": "Solomon Islands signs security deal with Australia",
-          "url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
-          "note": "Al Jazeera provides a more neutral headline that focuses strictly on the act of signing the security deal."
-        }
-      ],
-      "brief": {
-        "what": "The Solomon Islands signed a historic security and economics treaty with Australia, committing to consult Canberra on critical infrastructure and prohibiting foreign military bases. This move follows reports that Honiara notified Beijing it would not renew a 2022 security pact set to expire in 2027.",
-        "who": "Australian Prime Minister Anthony Albanese and Solomon Islands Prime Minister Matthew Wale signed the agreement, which Wale described as a reset for the nation.",
-        "context": "The previous 2022 pact with China sparked international concern over potential Chinese military expansion in the Pacific. Australia has since sought to solidify its role as the security partner of choice for Pacific nations through a series of similar bilateral deals to counter Beijing's influence.",
-        "why": "Prime Minister Wale stated the treaty addresses years of uncertainty and doubt regarding the nation's regional role. Albanese argued that supporting Pacific neighbors is an investment in Australia's own security and prosperity while respecting Solomon Islands sovereignty.",
-        "next": "The Solomon Islands will receive Australian support for its education system, renewable energy expansion, and infrastructure development, alongside improved visa arrangements for its citizens."
-      },
-      "numbers": [
-        {
-          "figure": "A$980m",
-          "what": "additional funding promised in the package"
-        }
-      ]
-    },
-    {
-      "topic": "world",
-      "importance": 2,
-      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-      "date": "2026-11-25",
-      "author": "The Associated Press",
-      "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-      "also": [
-        {
-          "source": "The New York Times",
-          "author": "Christopher Buckley",
+          "author": "Katrin Bennhold",
           "date": "2026-11-24",
-          "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-          "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html"
+          "title": "The Return of Jensen Huang",
+          "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+          "note": "The New York Times focuses on the personal narrative of Huang's return, while The Economist emphasizes the long-term structural changes to the company."
         },
         {
-          "source": "Al Jazeera",
+          "source": "The Economist",
           "author": null,
-          "date": "2026-11-25",
-          "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
-          "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss"
+          "date": "2026-11-23",
+          "title": "Jensen Huang returns. But Nvidia will never be the same",
+          "url": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same"
+        }
+      ],
+      "brief": {
+        "what": "Nvidia underwent a volatile 11-day period characterized by the sudden ousting of CEO Jensen Huang and his subsequent return to the role.",
+        "who": "Jensen Huang, the CEO of Nvidia, is the central figure whose removal and reinstatement defined the company's recent crisis.",
+        "context": "The company faced a leadership vacuum and internal turmoil that threatened its stability during this brief but intense window of time.",
+        "why": "The article does not specify the underlying reasons for the board's decision to remove and then rehire Huang.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "11 days",
+          "what": "duration of the period of corporate instability"
+        }
+      ],
+      "earlier": [
+        {
+          "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "date": "2026-11-23"
         }
       ]
     },
@@ -316,321 +527,581 @@
       "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
       "date": "2026-11-25",
       "author": "Katrin Bennhold",
-      "summary": "President Trump successfully lobbied Nvidia’s board to reinstate Jensen Huang as chief executive, dismissing concerns regarding potential espionage.",
+      "summary": "President Trump intervened with Nvidia's board to advocate for the reinstatement of Jensen Huang as chief executive, despite national security concerns regarding potential espionage.",
       "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "The Editorial Board",
+          "date": "2026-11-23",
+          "title": "Opinion | Nvidia and Trump’s State Capitalism",
+          "url": "https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the event through the lens of state capitalism and the specific political implications for Nvidia."
+        },
         {
           "source": "The Washington Post",
           "author": "David J. Lynch",
           "date": "2026-11-24",
           "title": "Trump’s Nvidia gambit shows the stock market is the economy",
           "url": "https://www.washingtonpost.com/business/2026/11/24/maybe-market-is-economy-after-all/",
-          "note": "The Washington Post frames the event as a demonstration that the stock market is now synonymous with the economy, whereas the New York Times focuses on the tension between security and markets."
+          "note": "The Washington Post frames the story as a broader commentary on the relationship between the stock market and the national economy."
         }
       ],
-      "kind": "analysis",
       "brief": {
-        "what": "President Trump took the direct action of lobbying the board of directors at Nvidia to ensure that Jensen Huang was reinstated as the company's chief executive. This specific intervention represents a significant and direct interaction between the highest office of the executive branch of the government and the corporate leadership of a major private technology firm.",
-        "who": "The main actors involved in this story are President Trump, who initiated the lobbying efforts, the board of directors at Nvidia who are responsible for executive appointments, and Jensen Huang, the specific individual being reinstated to the position of chief executive.",
-        "context": "This leadership change and the associated lobbying took place against a backdrop of significant national security concerns, specifically involving the possibility of espionage that had been raised in relation to the company or its leadership.",
-        "why": "The reinstatement occurred because President Trump chose to sweep aside and dismiss the stated concerns regarding possible espionage in order to advocate for Jensen Huang's return to the role of chief executive.",
+        "what": "President Trump lobbied the board of Nvidia to reinstate Jensen Huang as the company's chief executive.",
+        "who": "President Trump, who initiated the lobbying effort, and Jensen Huang, the chief executive of Nvidia.",
+        "context": "The intervention occurred amid broader concerns regarding potential espionage and the intersection of national security interests with corporate leadership decisions.",
+        "why": "The article states that President Trump took this action despite existing concerns about possible espionage.",
         "next": "The article doesn't say."
       }
     },
     {
-      "topic": "environment",
+      "topic": "aerospace",
       "importance": 2,
-      "title": "Five takeaways from the failed climate talks COP31",
+      "title": "Miami runway incident disrupts flights on Thanksgiving eve",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26",
       "author": null,
-      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "also": [],
-      "earlier": [
+      "summary": "A FedEx cargo aircraft overshot a runway at Miami International Airport, causing temporary flight groundings and hours-long delays during the busy Thanksgiving travel period. No injuries were reported, and the FAA is currently investigating the incident.",
+      "also": [
         {
-          "title": "Who’s who at Cop31: key players at the climate talks",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-          "source": "The Guardian",
-          "date": "2026-11-08"
+          "source": "The New York Times",
+          "author": "Francesca Regalado and David Ovalle",
+          "date": "2026-11-26",
+          "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
+          "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
+          "note": "The New York Times headline specifically identifies the aircraft as a FedEx jet, whereas the BBC headline focuses more broadly on the disruption to flights."
+        }
+      ],
+      "brief": {
+        "what": "A FedEx jet overran a runway at Miami International Airport on Wednesday, leading the FAA to briefly ground all incoming flights. The incident forced the closure of most airport runways, compounding existing travel disruptions caused by severe weather across the US.",
+        "who": "The Federal Aviation Administration (FAA) is investigating the incident, while FedEx is coordinating with authorities to address the landing issue.",
+        "context": "The incident occurred during one of the busiest travel weeks of the year, with the AAA predicting 81.5 million Americans would travel for the holiday. This event follows a separate fatal cargo plane crash at the same airport 11 weeks prior.",
+        "why": "While the official cause is under investigation, an anonymous airport employee suggested that heavy rain and wind conditions may have prevented the aircraft from stopping in time.",
+        "next": "The FAA is investigating the incident, and travelers continue to face potential delays due to ongoing severe weather forecasts across the East and West Coasts."
+      },
+      "numbers": [
+        {
+          "figure": "81.5 million",
+          "what": "Americans predicted to travel for the holiday"
+        },
+        {
+          "figure": "6,800",
+          "what": "delays reported on the day before the incident"
+        },
+        {
+          "figure": "160",
+          "what": "cancellations reported on the day before the incident"
         }
       ]
     },
     {
       "topic": "markets",
       "importance": 2,
-      "title": "Stock Sell-Off Continues as Investors Fret About A.I., Tariffs and Inflation",
+      "title": "Global stocks climb after volatile US trading over AI risks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "date": "2026-11-26",
+      "author": null,
+      "summary": "Global stock markets rose following a period of volatility in the United States driven by concerns regarding the sustainability of the artificial intelligence boom.",
+      "also": [
+        {
+          "source": "Bloomberg",
+          "author": null,
+          "date": "2026-11-26",
+          "title": "Global Stocks Climb as AI Trade Rebounds",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video",
+          "note": "Bloomberg's headlines frame the movement specifically as a rebound or comeback of the AI trade, whereas the Financial Times focuses on the broader context of volatility and risk."
+        },
+        {
+          "source": "Bloomberg",
+          "author": "Andre Janse van Vuuren and Rivaldo Jantjies",
+          "date": "2026-11-25",
+          "title": "Global Stocks Climb as AI Trade Mounts a Comeback: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates"
+        }
+      ],
+      "brief": {
+        "what": "Global equity markets experienced a rebound following a volatile trading session in the United States. This recovery follows a recent period where tech shares were negatively impacted by investor uncertainty regarding the long-term viability of the current artificial intelligence boom.",
+        "who": "Global stock market investors and participants in the technology sector.",
+        "context": "The technology sector has faced significant pressure this month as market participants debated whether the rapid growth and investment in artificial intelligence could be sustained over the long term.",
+        "why": "The market movement was driven by a shift in sentiment regarding AI-related risks, leading to a recovery in tech shares after recent declines.",
+        "next": "The article doesn't say."
+      },
+      "earlier": [
+        {
+          "title": "US tech stocks set to stabilise after volatile run of trading",
+          "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "topic": "markets",
+      "importance": 2,
+      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
       "date": "2026-11-25",
       "author": "Jason Karaian and Joe Rennison",
-      "summary": "Technology stocks including Nvidia and Anthropic continued to decline as investors reacted to concerns over artificial intelligence, trade tariffs, and inflation. The market sell-off reflects growing anxiety regarding global trade developments and the future direction of interest rates.",
+      "summary": "Tech stocks, led by Nvidia, declined as investors reacted to concerns regarding global trade policies, inflation, and the trajectory of interest rates.",
       "also": [
         {
-          "source": "Fox Business",
-          "author": null,
+          "source": "New York Post",
+          "author": "Taylor Herzlich",
           "date": "2026-11-25",
-          "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
-          "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-          "note": "Fox Business attributes the deepening sell-off to a rise in the Federal Reserve's preferred inflation gauge, a specific detail not mentioned in the New York Times headline."
+          "title": "Nasdaq tumbles 4% as Nvidia leads AI sell-off, inflation and tariffs weigh on investors",
+          "url": "https://nypost.com/2026/11/25/business/nasdaq-tumbles-4-as-nvidia-leads-ai-sell-off-inflation-and-tariffs-weigh-on-investors/",
+          "note": "The New York Post headline specifically highlights the 4% drop in the Nasdaq and explicitly links the sell-off to Nvidia's performance."
         }
       ],
       "brief": {
-        "what": "A significant stock sell-off persisted in the financial markets as investors reduced their holdings in major technology firms. This downward movement is characterized by widespread concern regarding the future of artificial intelligence, the implementation of trade tariffs, and the impact of inflation on the economy.",
-        "who": "The main actors involved include global investors and prominent technology companies such as Nvidia and Anthropic, which saw their stock values tumble during the trading session.",
-        "context": "This market activity is taking place as the financial community evaluates recent developments in global trade and attempts to predict the future path of interest rates. The sell-off reflects a broader period of volatility for tech-heavy portfolios as market participants weigh various macroeconomic factors.",
-        "why": "The New York Times reports that the decline happened because investors are fretting about the sustainability of A.I. growth, the potential for new tariffs, and rising inflation. Additionally, market participants are weighing how these factors will influence the trajectory of interest rates according to the report.",
+        "what": "Tech stocks, including Nvidia, experienced a decline as market participants assessed the impact of global trade developments and future interest rate paths.",
+        "who": "Nvidia and other technology companies are the primary entities affected by the market downturn.",
+        "context": "Investors are currently navigating a complex economic environment characterized by uncertainty surrounding inflation, potential tariffs, and the broader performance of the artificial intelligence sector.",
+        "why": "According to the report, the slump is driven by investor anxiety regarding the path of interest rates and developments in global trade.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+      "date": "2026-11-25",
+      "author": "Cecilia Nowell",
+      "summary": "The US Army successfully detonated the nation's entire stockpile of lead azide at an Iowa ammunition plant to eliminate the risk of spontaneous explosion. Officials reported no detection of airborne lead following the controlled blast, despite prior public health and environmental concerns.",
+      "also": [
+        {
+          "source": "Inside Climate News",
+          "author": "By Anika Jane Beamer, Jake Bolster",
+          "date": "2026-11-25",
+          "title": "After Detonating Five Tons of Lead Explosives in Iowa, Army Says Health Risks Are ‘Close to Zero’",
+          "url": "https://insideclimatenews.org/news/25112026/iowa-lead-explosives-health-risks-close-to-zero/",
+          "note": "Inside Climate News frames the story by focusing on the specific weight of explosives and highlighting conflicting perspectives on potential long-term health risks."
+        },
+        {
+          "source": "Inside Climate News",
+          "author": "By Anika Jane Beamer, Keerti Gopal",
+          "date": "2026-11-24",
+          "title": "Iowa Lead Blast Will Have Lasting Health Impacts",
+          "url": "https://insideclimatenews.org/news/24112026/iowa-lead-blast-health-impacts/"
+        }
+      ],
+      "brief": {
+        "what": "The US Army conducted a controlled detonation of 9,700lb of lead azide at the Iowa Army Ammunition Plant. While the operation risked releasing toxic plumes across a 100-mile radius, the EPA reported zero detection of airborne lead following the event.",
+        "who": "The US Army executed the blast, while the EPA monitored air quality and the Federal Emergency Management Agency managed public safety protocols. Iowa governor-elect Rob Sand and former President Donald Trump both commented on the mitigation efforts.",
+        "context": "The stockpile was deemed increasingly unstable due to crystallization caused by aging, creating a risk of uncontrolled detonation. The operation faced legal challenges and public concern regarding potential health impacts before a federal appeals court allowed it to proceed.",
+        "why": "The Army stated the disposal was necessary because the chemical had deteriorated, making it sensitive to friction, shock, and temperature changes. Officials claimed the blast was designed to cave inward to minimize environmental dispersal.",
+        "next": "Ongoing testing will be conducted to provide long-term certainty regarding lead dispersal and safety for local residents."
+      },
+      "numbers": [
+        {
+          "figure": "9,700lb",
+          "what": "total weight of lead azide chemical stockpile"
+        },
+        {
+          "figure": "100-mile",
+          "what": "radius of potential toxic chemical plume dispersal"
+        },
+        {
+          "figure": "400",
+          "what": "approximate population of Middletown, Iowa"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "SpaceX and CEO Elon Musk have pledged to donate shares of the company to every active Trump Account for children. The initiative aims to provide the next generation with a stake in the company's future as total deposits in the program exceed $9 billion.",
+      "also": [
+        {
+          "source": "New York Post",
+          "author": "Fox Business",
+          "date": "2026-11-26",
+          "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+          "url": "https://nypost.com/2026/11/26/business/elon-musk-spacex-pledge-major-stock-donations-to-active-trump-accounts/",
+          "note": "The New York Post uses an identical headline to the Fox Business article."
+        }
+      ],
+      "brief": {
+        "what": "SpaceX announced it will contribute one newly issued share of Class A common stock to every active Trump Account, with CEO Elon Musk pledging to personally match that donation. Additionally, SpaceX President Gwynne Shotwell announced a personal donation of over 2 million shares to the program.",
+        "who": "SpaceX, CEO Elon Musk, and President Gwynne Shotwell are the primary contributors, while the U.S. Treasury Department manages the Trump Accounts program.",
+        "context": "Trump Accounts are tax-advantaged investment vehicles for American children under 18, which recently reached a milestone of over $9 billion in total deposits including federal seed money and private contributions.",
+        "why": "SpaceX stated the donation is intended to give the next generation of Americans a stake in the company's future as it works to build infrastructure and make life multiplanetary.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "$9 billion",
+          "what": "total deposits in the children's investment program"
+        },
+        {
+          "figure": "$1 billion",
+          "what": "contributions from friends and family to Trump Accounts"
+        },
+        {
+          "figure": "2 million shares",
+          "what": "personal donation of SpaceX stock by Gwynne Shotwell"
+        },
+        {
+          "figure": "$127",
+          "what": "trading price of SpaceX Class A common stock"
+        },
+        {
+          "figure": "70 million",
+          "what": "number of Trump Accounts established for eligible children"
+        }
+      ]
+    },
+    {
+      "topic": "business",
+      "importance": 1,
+      "title": "UniCredit to propose Orcel as chair of Commerzbank",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d10e7600-2f98-42d6-8262-19f0a57d1112?syn-25a6b1a6=1",
+      "date": "2026-11-26",
+      "author": null,
+      "summary": "UniCredit plans to nominate its chief executive, Andrea Orcel, to lead the supervisory board of German rival Commerzbank. This move follows the Italian lender's recent acquisition of a significant stake in the German bank.",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Michael Hennessey",
+          "date": "2026-11-26",
+          "title": "UniCredit Seeks Commerzbank Chair Role for CEO Orcel After Takeover Clears Final Hurdle",
+          "url": "https://www.wsj.com/business/unicredit-clears-final-hurdle-in-commerzbank-takeover-83ae477f?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the story by explicitly highlighting the takeover aspect and the specific role of the CEO in the acquisition process."
+        }
+      ],
+      "brief": {
+        "what": "UniCredit has announced its intention to propose its own CEO, Andrea Orcel, as the chairman of the supervisory board at Commerzbank. This strategic appointment follows UniCredit's recent move to increase its stake in the German lender.",
+        "who": "UniCredit is the Italian banking group acting as the acquirer, while Commerzbank is the German rival currently being targeted for board-level influence.",
+        "context": "The proposal comes after UniCredit cleared the final regulatory hurdles to increase its shareholding in Commerzbank, marking a significant consolidation effort within the European banking sector.",
+        "why": "The move is intended to formalize UniCredit's influence over its German rival following its successful acquisition of a stake in the company.",
+        "next": "The proposal will be put forward for consideration as part of the ongoing integration and governance process between the two financial institutions."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Jensen Huang’s bail-out will not be the AI boom’s last",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
+      "date": "2026-11-25",
+      "author": null,
+      "summary": "Jensen Huang's return to the spotlight has failed to alleviate significant anxiety among investors regarding the sustainability of the current artificial intelligence boom.",
+      "also": [
+        {
+          "source": "Wall Street Journal",
+          "author": "Lila MacLellan",
+          "date": "2026-11-24",
+          "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
+          "url": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=pls_whats_news_us_business_f",
+          "note": "The Wall Street Journal frames the story by focusing on the implications for corporate governance following Huang's return."
+        }
+      ],
+      "kind": "analysis",
+      "brief": {
+        "what": "The return of Jensen Huang has not succeeded in calming the fears currently gripping Wall Street.",
+        "who": "Jensen Huang, the central figure in the AI industry, and Wall Street investors.",
+        "context": "The market is currently experiencing high levels of volatility and uncertainty surrounding the longevity of the artificial intelligence sector's growth.",
+        "why": "The article suggests that despite Huang's influence, the underlying terror among investors remains unquelled.",
+        "next": "The article doesn't say."
+      },
+      "earlier": [
+        {
+          "title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible.",
+          "url": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-departs-bef1b4bb?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "topic": "world",
+      "importance": 1,
+      "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+      "date": "2026-11-25",
+      "author": "Annie Correal",
+      "summary": "Colombia's president has attributed recent power outages to a terrorist attack amid a broader government crackdown on armed trafficking groups.",
+      "also": [
+        {
+          "source": "The Washington Post",
+          "author": "Samantha Schmidt",
+          "date": "2026-11-25",
+          "title": "‘Terrorist attack’ caused major blackout in Colombia, president says",
+          "url": "https://www.washingtonpost.com/business/2026/11/25/terrorist-attack-caused-major-blackout-colombia-president-says/",
+          "note": "The Washington Post headline explicitly attributes the claim of a terrorist attack to the president, whereas the New York Times headline presents the president's blame as the primary framing."
+        }
+      ],
+      "brief": {
+        "what": "President Gustavo Petro identified a terrorist attack as the cause of recent blackouts in Colombia. These power failures occur during a period of increased violence linked to the nation's armed traffickers.",
+        "who": "President Gustavo Petro is the primary actor, leading the government's response to the security situation.",
+        "context": "The administration is currently implementing a crackdown on armed trafficking groups, which has been followed by a series of violent episodes across the country.",
+        "why": "The president blames the power outages on a terrorist attack carried out by armed traffickers as a reaction to his administration's aggressive security policies.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+      "date": "2026-11-24",
+      "author": "Lauren McCarthy",
+      "summary": "An investigation by the New York City Council reveals that residents aged 18 to 20 are experiencing significant financial losses on prediction market platforms.",
+      "also": [
+        {
+          "source": "Reason",
+          "author": "Tosin Akintola",
+          "date": "2026-11-25",
+          "title": "Young New Yorkers Are Losing Money on Prediction Markets. That's Not a Reason To Ban Them.",
+          "url": "https://reason.com/2026/11/25/young-new-yorkers-are-losing-money-on-prediction-markets-thats-not-a-reason-to-ban-them/",
+          "note": "Reason frames the story as a defense of prediction markets, arguing that financial losses do not justify a regulatory ban."
+        }
+      ],
+      "brief": {
+        "what": "A New York City Council investigation has identified that young adults between the ages of 18 and 20 are losing money at a high rate while participating in prediction markets.",
+        "who": "The New York City Council conducted the investigation into the activities of prediction market companies.",
+        "context": "Prediction markets are platforms where users trade contracts based on the outcomes of future events, such as political elections or economic indicators.",
+        "why": "The investigation was launched to examine the impact of these financial platforms on younger demographics within the city.",
         "next": "The article doesn't say."
       }
     },
     {
       "topic": "aerospace",
-      "importance": 2,
-      "title": "Malaysia Aviation Group orders 10 Boeing 787s to replace its Airbus A350 fleet",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/malaysia-aviation-group-orders-10-boeing-787s-to-replace-its-airbus-a350-fleet",
-      "date": "2026-11-25",
-      "author": "Jean Carmela Lim",
-      "summary": "Malaysia Aviation Group (MAG) has ordered 10 Boeing 787 Dreamliners directly from Boeing, with options for six more,… The post Malaysia Aviation Group orders 10 Boeing 787s to replace its Airbus A350 fleet appeared first on AeroTime .",
-      "also": [
-        {
-          "source": "Simple Flying",
-          "author": "Jake Hardiman",
-          "date": "2026-11-25",
-          "title": "Malaysia Airlines Picks Boeing Over Airbus For Its First 787 Dreamliners To Replace A350s",
-          "url": "https://simpleflying.com/malaysia-airlines-picks-boeing-over-airbus-787-10-dreamliners-replace-a350s/"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 2,
-      "title": "BepiColombo reaches Mercury orbit after nearly eight years in space",
-      "source": "AeroTime",
-      "url": "https://www.aerotime.aero/articles/bepicolombo-reaches-mercury-orbit-after-nearly-eight-years-in-space",
-      "date": "2026-11-22",
-      "author": "Gabriele Petrauskaite",
-      "summary": "The European-Japanese BepiColombo mission has entered orbit around Mercury, completing a nearly eight-year journey to the Solar System’s… The post BepiColombo reaches Mercury orbit after nearly eight years in space appeared first on AeroTime .",
-      "also": [
-        {
-          "source": "Nature",
-          "author": "Davide Castelvecchi",
-          "date": "2026-11-21",
-          "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
-          "url": "https://www.nature.com/articles/d41586-026-03803-8"
-        }
-      ]
+      "importance": 1,
+      "title": "The Five-Year-Old Budget Airliner That Halted Operations on Thanksgiving",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-26",
+      "author": "Benjamin Katz",
+      "summary": "Norse Atlantic Airways has warned that it faces potential bankruptcy due to escalating fuel costs. The airline is currently engaged in final rescue negotiations to avoid ceasing operations.",
+      "also": [],
+      "brief": {
+        "what": "Norse Atlantic Airways, a five-year-old budget carrier, has issued a warning that it may be forced into bankruptcy. The airline is currently attempting to secure a rescue deal to address the financial strain caused by rising fuel costs.",
+        "who": "Norse Atlantic Airways is the primary actor facing potential insolvency.",
+        "context": "The airline industry is currently navigating volatile operational costs, which can significantly impact the viability of budget carriers.",
+        "why": "The company stated that rising fuel costs are the primary driver pushing the airline toward bankruptcy if current rescue talks fail.",
+        "next": "The airline is engaged in last-ditch rescue talks to determine its future."
+      }
     },
     {
       "topic": "business",
-      "importance": 2,
-      "title": "Trump admin to raise tariffs on China, EU, other trading partners",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/fox-news-global-economy/trump-admin-raise-tariffs-china-eu-other-trading-partners",
-      "date": "2026-11-25",
-      "author": null,
-      "summary": "The Trump administration proposed new Section 301 tariffs targeting China, the EU, Brazil and 12 other trading partners to curb subsidized foreign manufacturing.",
-      "also": [
-        {
-          "source": "New York Post",
-          "author": "Ariel Zilber",
-          "date": "2026-11-25",
-          "title": "US proposes new tariffs on 14 trading partners — including China, Japan, EU and India",
-          "url": "https://nypost.com/2026/11/25/business/us-proposes-new-tariffs-on-14-trading-partners-including-china-japan-eu-and-india/"
-        },
-        {
-          "source": "New York Post",
-          "author": "James Franey",
-          "date": "2026-11-24",
-          "title": "Trump eyes tariff blitz on China, EU, Mexico and Japan",
-          "url": "https://nypost.com/2026/11/24/business/trump-eyes-tariff-blitz-on-china-eu-mexico-and-japan/"
-        }
-      ]
-    },
-    {
-      "topic": "business",
-      "importance": 2,
+      "importance": 1,
       "title": "Federal jury convicts Huawei of stealing US trade secrets, violating Iran sanctions",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions",
       "date": "2026-11-25",
       "author": null,
-      "summary": "A federal jury in Brooklyn found Chinese telecom giant Huawei and three subsidiaries guilty on 10 of 12 counts, including bank fraud, trade secret theft and Iran sanctions violations.",
+      "summary": "A federal jury convicted Chinese telecom giant Huawei and three subsidiaries of conspiring to steal trade secrets, commit bank fraud, and violate U.S. sanctions on Iran. The company was found guilty on 10 of 12 counts following a three-month trial in New York.",
       "also": [
         {
           "source": "New York Post",
           "author": "Associated Press",
           "date": "2026-11-24",
           "title": "Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets",
-          "url": "https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/"
+          "url": "https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/",
+          "note": "The New York Post headline focuses specifically on the conspiracy to steal trade secrets, whereas the Fox Business headline includes the broader scope of Iran sanctions violations."
+        }
+      ],
+      "brief": {
+        "what": "A federal jury in Brooklyn convicted Huawei Technologies and three subsidiaries on 10 counts, including bank fraud, wire fraud, and conspiracy to steal trade secrets from American firms. The company was acquitted on two charges related to racketeering and obstruction of justice.",
+        "who": "The Justice Department prosecuted the case against Huawei and its affiliates, while Huawei defense attorney Brian Heberlig argued the charges lacked merit and that the company succeeded through innovation.",
+        "context": "The case stems from a 2018 investigation involving the arrest of Huawei CFO Meng Wanzhou, who later entered a deferred prosecution agreement. Prosecutors alleged Huawei misled global banks to maintain access to U.S.-dollar clearing services while operating in Iran via a subsidiary.",
+        "why": "Prosecutors stated the convictions were necessary because Huawei’s actions threatened the U.S. financial system and undermined national security. Huawei maintains the convictions are without merit and claims the trade-secret disputes were previously resolved civil matters.",
+        "next": "Sentencing is scheduled for Sept. 14, 2027, where the defendants face potential criminal fines, forfeiture, and restitution."
+      },
+      "numbers": [
+        {
+          "figure": "10 of 12 counts",
+          "what": "criminal charges for which Huawei was found guilty"
         }
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "business",
       "importance": 1,
-      "title": "Embraer Sinks Most Since May as US Proposes Brazil Aircraft Levy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy",
-      "date": "2026-11-25",
-      "author": "Rachel Gamarski, Beatriz Reis and Siddharth Philip",
-      "summary": "Embraer SA shares fell almost 10% in São Paulo following a US proposal to impose a 10% tariff on aircraft exported from Brazil.",
+      "title": "Suit alleges Louisiana land deal between SpaceX and ExxonMobil violates open meetings law",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
+      "date": "2026-11-26",
+      "author": "Sara Sneath in New Orleans",
+      "summary": "A new lawsuit alleges that Louisiana officials violated open meetings laws while facilitating a $27.5 billion tax incentive package for a SpaceX spaceport. The deal involves the use of 125,000 acres of marshland formerly held by ExxonMobil.",
       "also": [],
       "brief": {
-        "what": "Embraer SA shares fell almost 10% in São Paulo after the US proposed an additional 10% tariff on aircraft exported from Brazil. This market movement marks the most significant decline for the company's stock since May.",
-        "who": "Embraer SA is the Brazilian-based aircraft manufacturer whose stock is traded in São Paulo, while the US government is the party proposing the new 10% levy.",
-        "context": "The proposed trade measure specifically targets aircraft exported from Brazil, a category that directly involves Embraer's core business of manufacturing and selling planes to international customers.",
-        "why": "The share price dropped because the proposed 10% tariff would add a significant cost to aircraft exported from Brazil to the United States. Investors reacted to the news by selling off shares, fearing the levy would make Embraer's products more expensive and less competitive.",
+        "what": "Three Louisiana residents have filed a lawsuit alleging that state and parish officials violated open meetings laws to secure a $27.5 billion tax incentive package for SpaceX's Starbase Louisiana project. The agreement involves granting SpaceX access to 125,000 acres of former ExxonMobil marshland, a deal critics claim was facilitated through non-transparent board appointments and hidden settlement agreements.",
+        "who": "The lawsuit targets Louisiana state and Vermilion parish officials, while SpaceX and ExxonMobil are identified as the primary corporate beneficiaries of the controversial land and tax deals.",
+        "context": "The project is situated in a region facing severe wetland loss and rising sea levels, with local activists expressing concern over the environmental impact and the lack of public oversight regarding the loss of tax revenue.",
+        "why": "Plaintiffs allege officials intentionally kept the public in the dark to expedite corporate subsidies, while the parish legal counsel denies these claims, asserting that all legal requirements were met.",
         "next": "The article doesn't say."
       },
       "numbers": [
         {
-          "figure": "almost 10%",
-          "what": "decline in Embraer SA shares"
+          "figure": "$27.5bn",
+          "what": "estimated tax incentive package for SpaceX"
         },
         {
-          "figure": "10%",
-          "what": "proposed additional tariff on aircraft"
+          "figure": "125,000 acres",
+          "what": "marshland area for the SpaceX spaceport"
+        },
+        {
+          "figure": "10,000 launches",
+          "what": "projected annual rocket launches from the site"
+        },
+        {
+          "figure": "$10m",
+          "what": "SpaceX investment in university site improvements"
+        },
+        {
+          "figure": "$1",
+          "what": "annual lease cost for university property"
         }
       ]
     },
     {
-      "topic": "aerospace",
+      "topic": "business",
       "importance": 1,
-      "title": "EasyJet profits tumble 96% after fuel prices soar",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8606f7ee-f98b-44f5-ae5a-120b696afca5?syn-25a6b1a6=1",
-      "date": "2026-11-25",
-      "author": null,
-      "summary": "EasyJet's annual profits fell 96% due to soaring fuel prices and weakening consumer demand in its final report before its acquisition by Apollo.",
+      "title": "Energy Trader BGN Targets Agriculture in Latest Expansion Push",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/energy-trader-bgn-targets-agriculture-in-latest-expansion-push",
+      "date": "2026-11-26",
+      "author": "Pyotr Kozlov",
+      "summary": "Commodities trading firm BGN is expanding its operations beyond energy markets by entering the agriculture sector. This move marks a significant shift in the company's global growth strategy.",
       "also": [],
       "brief": {
-        "what": "EasyJet has announced that its annual profits tumbled by 96% in its final set of annual results before its scheduled acquisition. The airline's financial performance was hit hard by a combination of soaring fuel prices and a decline in consumer demand for its flights.",
-        "who": "The main actor is the airline EasyJet, which released the financial data; the other key actor is Apollo, the firm that is set to acquire the airline next year.",
-        "context": "These figures represent the final annual financial performance update for the carrier before it transitions to new ownership under Apollo. The results highlight the challenging economic environment the airline faced during its last year as an independent company.",
-        "why": "The sharp decline in profitability was driven by the dual pressures of rising operational costs for fuel and a weakening in consumer demand, according to the report.",
-        "next": "The article indicates that the takeover of EasyJet by Apollo is scheduled to take place next year."
-      },
-      "numbers": [
-        {
-          "figure": "96%",
-          "what": "tumble in annual profits"
-        }
-      ],
-      "earlier": [
-        {
-          "title": "Soaring fuel costs hit profit at British Airways owner IAG",
-          "url": "https://www.cityam.com/soaring-fuel-costs-hit-profit-at-british-airways-owner-iag/",
-          "source": "City AM",
-          "date": "2026-11-06"
-        }
-      ]
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Heathrow seeks to pass on £300mn third runway planning costs to passengers",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/800abc68-933a-40f5-be6a-3e2f4a55ff88?syn-25a6b1a6=1",
-      "date": "2026-11-25",
-      "author": null,
-      "summary": "Airport wants permission from regulator to claw back money through higher traveller charges",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
-      "date": "2026-11-25",
-      "author": "Christine Chung and Ben Blatt",
-      "summary": "Long delays have risen to levels not seen in more than 15 years, with no enforcement in sight.",
-      "also": []
-    },
-    {
-      "topic": "aerospace",
-      "importance": 1,
-      "title": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745?syn-25a6b1a6=1",
-      "date": "2026-11-25",
-      "author": null,
-      "summary": "Andrea Rossi vows to vote against catering giant Compass’s planned US move as UK battles exodus of listed groups",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Just eight universities dominate Nobel and other top economics prizes",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03333-3",
-      "date": "2026-11-25",
-      "author": "Sarah Wild",
-      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03333-3 Economics is the outlier — top prizes in science, engineering and other social sciences go to researchers at a greater variety of institutions.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
-      "date": "2026-11-25",
-      "author": "Arvelisse Bonilla Ramos and Chloé Meley",
-      "summary": "Homebuilders are coming up on an ominous market milestone, with stocks for the group set for three straight years of declines in the longest stretch since the subprime mortgage meltdown that led to the Global Financial Crisis.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
-      "date": "2026-11-25",
-      "author": "Ryan Vlastelica and Carmen Reinicke",
-      "summary": "The Nasdaq 100 Index is set to fall into its first bear market in more than a year as investors dump stocks exposed to the artificial intelligence industry amid rapidly deteriorating sentiment.",
-      "also": []
-    },
-    {
-      "topic": "business",
-      "importance": 1,
-      "title": "Why do economists struggle to forecast the impact of AI?",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
-      "date": "2026-11-25",
-      "author": null,
-      "summary": "Frontier labs and officials present wildly different predictions for growth in the next few years",
-      "also": []
+        "what": "BGN, a commodities trading firm, is diversifying its business model by entering the agriculture market. This expansion follows a period of rapid growth for the company outside of its traditional energy focus.",
+        "who": "BGN is the primary actor, acting as a commodities trading firm transitioning into new sectors.",
+        "context": "The company has historically focused on energy markets but is now broadening its scope to include agricultural commodities.",
+        "why": "The expansion is part of a broader push to grow the firm's global presence beyond its core energy business.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "markets",
       "importance": 1,
-      "title": "US Treasuries Soar as Tech-Stock Losses Dent Risk Appetite",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-      "date": "2026-11-25",
-      "author": "Michael MacKenzie and Ruth Carson",
-      "summary": "US Treasuries rallied as renewed losses in technology shares sent investors rushing back into the haven trade.",
-      "also": []
+      "title": "Oil Prices Rise as Traders Weigh Middle East Supply Risks, OPEC+ Meeting",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-middle-east-supply-risks-opec-meeting-c234598a?mod=pls_whats_news_us_business_f",
+      "date": "2026-11-26",
+      "author": "Farhan Rafid",
+      "summary": "Oil prices increased as market participants evaluated ongoing risks to Middle Eastern energy infrastructure and shipping lanes. Traders are closely monitoring these developments ahead of an upcoming meeting of major oil-producing nations.",
+      "also": [],
+      "brief": {
+        "what": "Oil prices rose as traders assessed persistent threats to Middle Eastern oil infrastructure and shipping ahead of a meeting of major oil producers this weekend.",
+        "who": "Traders and major oil producers are the primary actors involved in the current market movement.",
+        "context": "The market is currently reacting to geopolitical tensions impacting energy infrastructure and shipping routes in the Middle East.",
+        "why": "Prices increased because traders are weighing persistent threats to regional oil infrastructure and shipping ahead of the scheduled OPEC+ meeting.",
+        "next": "Major oil producers are set to hold a meeting this weekend."
+      },
+      "earlier": [
+        {
+          "title": "Oil Prices Retreat as Traders Weigh Supply Surplus Expectations, Middle East Risks",
+          "url": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=pls_whats_news_us_business_f",
+          "source": "Wall Street Journal",
+          "date": "2026-11-19"
+        }
+      ]
     },
     {
-      "topic": "business",
+      "topic": "markets",
       "importance": 1,
-      "title": "These Charts Show How Fed Up Americans Are With the Cost of Streaming",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/media/these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-133a63ca?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-25",
-      "author": "Ben Fritz",
-      "summary": "U.S. streaming subscription growth has plateaued as viewers increasingly pivot toward cheaper service options.",
+      "title": "Spain's De Cos Set to Succeed Lagarde as ECB President",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
+      "date": "2026-11-26",
+      "author": null,
+      "summary": "Pablo Hernandez de Cos is slated to succeed Christine Lagarde as president of the European Central Bank. He will lead the institution's efforts to manage regional inflation and potential bond market volatility.",
       "also": [],
-      "kind": "analysis",
       "brief": {
-        "what": "Subscription growth for streaming services within the United States has officially plateaued, indicating that the rapid expansion of the digital media market has leveled off. Consequently, viewers are actively opting for cheaper options rather than maintaining premium-priced services.",
-        "who": "The primary actors involved are American viewers who consume digital content and the various streaming service providers that are now facing a stagnation in their domestic subscription growth.",
-        "context": "This trend emerges in an environment where the cumulative cost of digital entertainment has become a significant concern for the public. The market is shifting as the initial surge in streaming adoption reaches a saturation point in the U.S.",
-        "why": "The Wall Street Journal reports that Americans are increasingly fed up with the high costs associated with streaming services. This dissatisfaction is the primary driver behind the transition toward more economical viewing alternatives as consumers re-evaluate their monthly expenditures.",
+        "what": "Pablo Hernandez de Cos has been selected to replace Christine Lagarde as the president of the European Central Bank. He will assume leadership of the institution to oversee the region's monetary policy and address economic challenges.",
+        "who": "Pablo Hernandez de Cos is the incoming European Central Bank president, while Christine Lagarde is the outgoing president.",
+        "context": "The European Central Bank is responsible for the monetary policy of the eurozone, focusing on price stability and managing the region's financial systems.",
+        "why": "The transition occurs as Christine Lagarde concludes her term early, necessitating a new leader to direct the bank's ongoing fight against inflation and potential bond turmoil.",
+        "next": "Pablo Hernandez de Cos will take over the presidency following the conclusion of Christine Lagarde's term."
+      }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "Nigeria Boosts Retail Supply of Dollars to Curb Naira Volatility",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/nigeria-boosts-retail-supply-of-dollars-to-curb-naira-volatility",
+      "date": "2026-11-26",
+      "author": "Emele Onu and Nduka Orjinmo",
+      "summary": "The Central Bank of Nigeria is increasing the supply of dollars available to retail customers to stabilize the naira. This move aims to improve local liquidity and mitigate recent currency volatility.",
+      "also": [],
+      "brief": {
+        "what": "The Central Bank of Nigeria has authorized a significant increase in the sale of US dollars to retail customers. This intervention is intended to address the recent depreciation of the naira and improve liquidity within the local market.",
+        "who": "The Central Bank of Nigeria is the primary actor, acting as the regulatory authority managing the nation's monetary policy and currency stability.",
+        "context": "The naira has experienced downward pressure and lost value throughout the current month, prompting the central bank to intervene in the retail foreign exchange market.",
+        "why": "The bank initiated this policy to boost local liquidity and ease the ongoing pressure on the naira, which has been volatile recently.",
         "next": "The article doesn't say."
       }
+    },
+    {
+      "topic": "markets",
+      "importance": 1,
+      "title": "ECB Officials Saw More Tightening With Inflation Outlook Worse",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse",
+      "date": "2026-11-26",
+      "author": "Alexander Weber and Mark Schroers",
+      "summary": "European Central Bank officials signaled that further monetary policy tightening is likely necessary due to a deteriorating inflation outlook.",
+      "also": [],
+      "brief": {
+        "what": "European Central Bank officials determined that additional monetary policy tightening is required following a negative shift in the inflation outlook.",
+        "who": "European Central Bank officials are the primary actors responsible for setting monetary policy.",
+        "context": "The central bank is managing economic conditions in the Eurozone, where inflation trends are currently influencing future policy decisions.",
+        "why": "Officials decided to pursue further tightening because the outlook for inflation has worsened since their previous assessments.",
+        "next": "The article doesn't say."
+      }
+    },
+    {
+      "topic": "environment",
+      "importance": 1,
+      "title": "Orangutans face bleak future after Indonesia’s devastating wildfires",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03828-z",
+      "date": "2026-11-26",
+      "author": "Dyna Rochmyaningsih",
+      "summary": "Severe wildfires in Indonesia have destroyed 60% of Bornean orangutan habitats in Kalimantan, exacerbated by a super El Niño climate event. Researchers report that toxic air quality and widespread forest loss are displacing orangutans and threatening their survival.",
+      "also": [],
+      "brief": {
+        "what": "Indonesia is facing one of its most severe fire and haze seasons in three decades, with over 2.8 million hectares burned. The fires have destroyed 60% of Bornean orangutan habitats in Kalimantan, leading to significant displacement and resource competition among the critically endangered species.",
+        "who": "Primates researcher Erin Vogel and her research team at the Tuanan Orangutan Research Station are documenting the impact of the fires on the Bornean orangutan population.",
+        "context": "The region experienced roughly 300,000 blazes between July and October, with air quality reaching toxic levels 400 times higher than World Health Organization safety standards.",
+        "why": "The disaster is attributed to a super El Niño event that dried out vegetation and generated winds that fueled the flames, creating a severe climate and health crisis.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "2.8 million hectares",
+          "what": "total area of land burnt across Indonesia"
+        },
+        {
+          "figure": "60%",
+          "what": "percentage of Bornean orangutan habitats in Kalimantan destroyed"
+        },
+        {
+          "figure": "300,000",
+          "what": "number of blazes in the region"
+        },
+        {
+          "figure": "400 times",
+          "what": "level of toxic particulate matter compared to safe levels"
+        }
+      ]
     },
     {
       "topic": "environment",
@@ -640,38 +1111,48 @@
       "url": "https://www.npr.org/2026/11/23/nx-s1-6050273/cop31-ends-with-no-deal-after-negotiators-fail-to-reach-an-agreement-on-fossil-fuels",
       "date": "2026-11-23",
       "author": "Rachel Waldholz",
-      "summary": "International climate talks in Turkey ended in disappointment with countries failing to reach agreement over fossil fuels -- the primary driver of climate change.",
+      "summary": "International climate negotiations at COP31 concluded without a formal agreement after delegates failed to reach a consensus on fossil fuel policy. The breakdown was driven by disagreements over transitioning away from coal, oil, and gas, alongside disputes regarding climate funding for developing nations.",
       "also": [
         {
           "source": "The Conversation",
           "author": "Jacqueline Peel, Professor of Law, The University of Melbourne",
           "date": "2026-11-23",
           "title": "How did the COP31 climate agreement fall apart – and what happens now?",
-          "url": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994"
+          "url": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
+          "note": "The Conversation frames the story by focusing on the mechanics of the collapse and the future implications of the failed agreement."
+        }
+      ],
+      "brief": {
+        "what": "The COP31 climate summit in Turkey ended without a deal after nearly 200 nations failed to agree on a framework for addressing climate change. Negotiations stalled primarily over the inclusion of language regarding a global transition away from fossil fuels and the provision of financial support for developing countries.",
+        "who": "Key actors included the European Union and small island states, which pushed for fossil fuel phase-outs, and oil-producing nations like Saudi Arabia, which blocked such language. Ireland’s environment minister Darragh O'Brien and Marshall Islands representative Kathy Jetnil-Kijiner criticized the lack of progress, while the U.S. was absent due to its withdrawal from negotiations.",
+        "context": "The annual climate summit has been held since 1995 to address global warming. Developing nations argue that wealthy countries, which are historically responsible for climate change, have failed to meet funding promises established under the Paris Climate Agreement.",
+        "why": "Talks collapsed because the European Union determined that no deal was preferable to one that failed to explicitly address fossil fuels. Additionally, developing nations expressed frustration over insufficient financial support for climate-related disasters.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "200 nations",
+          "what": "number of countries that typically participate in climate summits"
         }
       ]
     },
     {
-      "topic": "markets",
+      "topic": "business",
       "importance": 1,
-      "title": "Stripe’s Valuation Set to Top $200 Billion in Latest Investor Talks",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-24",
-      "author": "Ben Glickman",
-      "summary": "A tender offer for employees’ shares would likely be completed early next year.",
-      "also": []
-    },
-    {
-      "topic": "markets",
-      "importance": 1,
-      "title": "Why is the Treasury ignoring Milburn’s most important recommendation?",
-      "source": "City AM",
-      "url": "https://www.cityam.com/why-is-the-treasury-ignoring-milburns-most-important-recommendation/",
-      "date": "2026-11-25",
-      "author": "James Reed",
-      "summary": "The ink was barely dry on Alan Milburn's flagship report before the Treasury let it be known it had no intention of implementing its most important policy.",
-      "also": []
+      "title": "Nintendo and Sony ready for a two-level battle with AI",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c?syn-25a6b1a6=1",
+      "date": "2026-11-26",
+      "author": null,
+      "summary": "The gaming industry is preparing for a future where processing power shifts from local hardware to cloud-based infrastructure. Nintendo and Sony are positioning themselves to navigate this technological transition.",
+      "also": [],
+      "brief": {
+        "what": "Nintendo and Sony are preparing for a strategic shift in the gaming industry as processing power increasingly moves to the cloud. This transition requires companies to plan for a future where hardware limitations are redefined by remote computing capabilities.",
+        "who": "Nintendo and Sony are the primary gaming companies identified as preparing for this technological evolution.",
+        "context": "The gaming sector is currently evaluating how cloud-based processing will impact the traditional model of console-based gaming.",
+        "why": "The industry must plan for this shift because the processing power behind games is expected to reside in the cloud in the future.",
+        "next": "The article doesn't say."
+      }
     },
     {
       "topic": "science",
@@ -681,41 +1162,29 @@
       "url": "https://www.nature.com/articles/d41586-026-03468-3",
       "date": "2026-11-25",
       "author": "Bec Crew",
-      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03468-3 A decade of data on the top-performing science cities in the Nature Index.",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03718-4",
-      "date": "2026-11-25",
-      "author": "Ewen Callaway",
-      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03718-4 Potent immune responses against diverse HIV strains have ignited the field, but major hurdles remain.",
-      "also": []
-    },
-    {
-      "topic": "science",
-      "importance": 1,
-      "title": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03513-1",
-      "date": "2026-11-25",
-      "author": "Ensar Aydemir",
-      "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03513-1 The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital formats without handing over total control, explains Ensar Aydemir.",
-      "also": []
-    },
-    {
-      "topic": "culture",
-      "importance": 1,
-      "title": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/business/autos/chinese-automakers-book-strong-european-growth-ahead-of-import-cap-ccdee0da?mod=pls_whats_news_us_business_f",
-      "date": "2026-11-24",
-      "author": "Joshua Kirby",
-      "summary": "European demand for Chinese cars remained robust, as EU new-car registrations for brands such as BYD and SAIC Motor surged last month.",
-      "also": []
+      "summary": "Beijing maintains its top position in the Nature Index for natural sciences research, while Chinese cities increasingly dominate global rankings in chemistry and environmental sciences. Conversely, several US cities have seen their research output rankings decline over the past decade.",
+      "also": [],
+      "brief": {
+        "what": "Beijing continues to lead global research output in the natural sciences, with Chinese cities occupying all top ten spots in chemistry rankings. Between 2016 and 2025, Beijing and Shanghai achieved significant growth in chemistry, each increasing their adjusted Share by nearly 900 points.",
+        "who": "The Nature Index tracks research output, with the report supported by the Beijing Municipal Science & Technology Commission and the Administrative Commission of Zhongguancun Science Park.",
+        "context": "The Nature Index measures high-quality research output through a metric called 'Share,' which tracks contributions to research articles published in selected journals. This data highlights a shifting geographical landscape in scientific research, marked by the rise of Chinese urban centers and the decline of some previously prominent US cities.",
+        "why": "The article attributes these shifts to the evolving research output and adjusted Share metrics of cities globally, noting that Beijing contributed 25% of China’s Earth and environmental sciences Share in 2025.",
+        "next": "The article doesn't say."
+      },
+      "numbers": [
+        {
+          "figure": "545.5%",
+          "what": "percentage change in adjusted Share for Qingdao in Earth and environme"
+        },
+        {
+          "figure": "703",
+          "what": "adjusted Share points gained by Beijing in Earth and environmental sci"
+        },
+        {
+          "figure": "25%",
+          "what": "Beijing's contribution to China’s Earth and environmental sciences Sha"
+        }
+      ]
     }
   ]
 }
